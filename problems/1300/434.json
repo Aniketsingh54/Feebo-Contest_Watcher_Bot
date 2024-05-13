@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1902,
+    "index": "C",
+    "name": "Insert and Equalize",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1902,
+    "index": "C",
+    "solvedCount": 12258
+  }
+}

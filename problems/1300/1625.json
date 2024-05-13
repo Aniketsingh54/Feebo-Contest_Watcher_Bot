@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1698,
+    "index": "C",
+    "name": "3SUM Closure",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1698,
+    "index": "C",
+    "solvedCount": 17938
+  }
+}

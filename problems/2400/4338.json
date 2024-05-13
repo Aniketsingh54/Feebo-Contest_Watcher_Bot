@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1182,
+    "index": "D",
+    "name": "Complete Mirror",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "hashing",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1182,
+    "index": "D",
+    "solvedCount": 802
+  }
+}

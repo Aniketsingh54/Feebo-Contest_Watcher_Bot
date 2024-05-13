@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1367,
+    "index": "E",
+    "name": "Necklace Assembly",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1367,
+    "index": "E",
+    "solvedCount": 5130
+  }
+}

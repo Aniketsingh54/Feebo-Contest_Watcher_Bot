@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1136,
+    "index": "B",
+    "name": "Nastya Is Playing Computer Games",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1136,
+    "index": "B",
+    "solvedCount": 11530
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1245,
+    "index": "E",
+    "name": "Hyakugoku and Ladders",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "probabilities",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1245,
+    "index": "E",
+    "solvedCount": 1108
+  }
+}

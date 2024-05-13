@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1364,
+    "index": "B",
+    "name": "Most socially-distanced subsequence",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1364,
+    "index": "B",
+    "solvedCount": 18455
+  }
+}

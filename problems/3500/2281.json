@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1578,
+    "index": "G",
+    "name": "Game of Chance",
+    "type": "PROGRAMMING",
+    "rating": 3500,
+    "tags": [
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1578,
+    "index": "G",
+    "solvedCount": 33
+  }
+}

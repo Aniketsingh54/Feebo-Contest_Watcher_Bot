@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1267,
+    "index": "K",
+    "name": "Key Storage",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1267,
+    "index": "K",
+    "solvedCount": 1738
+  }
+}

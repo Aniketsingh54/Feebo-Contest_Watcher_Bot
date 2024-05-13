@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1582,
+    "index": "G",
+    "name": "Kuzya and Homework",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1582,
+    "index": "G",
+    "solvedCount": 561
+  }
+}

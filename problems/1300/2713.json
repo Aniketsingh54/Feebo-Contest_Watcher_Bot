@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1498,
+    "index": "B",
+    "name": "Box Fitting",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1498,
+    "index": "B",
+    "solvedCount": 16114
+  }
+}

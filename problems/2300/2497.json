@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1536,
+    "index": "E",
+    "name": "Omkar and Forest",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "math",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1536,
+    "index": "E",
+    "solvedCount": 2343
+  }
+}

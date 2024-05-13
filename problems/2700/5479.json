@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 938,
+    "index": "F",
+    "name": "Erasing Substrings",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 938,
+    "index": "F",
+    "solvedCount": 469
+  }
+}

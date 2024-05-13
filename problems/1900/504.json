@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1887,
+    "index": "B",
+    "name": "Time Travel",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1887,
+    "index": "B",
+    "solvedCount": 2689
+  }
+}

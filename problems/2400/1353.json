@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1743,
+    "index": "E",
+    "name": "FTL",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1743,
+    "index": "E",
+    "solvedCount": 1483
+  }
+}

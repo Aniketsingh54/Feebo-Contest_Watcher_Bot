@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1245,
+    "index": "D",
+    "name": "Shichikuji and Power Grid",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1245,
+    "index": "D",
+    "solvedCount": 6913
+  }
+}

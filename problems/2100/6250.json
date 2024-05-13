@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 767,
+    "index": "B",
+    "name": "The Queue",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 767,
+    "index": "B",
+    "solvedCount": 2109
+  }
+}

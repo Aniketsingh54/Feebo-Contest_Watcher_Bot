@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1326,
+    "index": "B",
+    "name": "Maximums",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1326,
+    "index": "B",
+    "solvedCount": 23521
+  }
+}

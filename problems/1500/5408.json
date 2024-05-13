@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 959,
+    "index": "C",
+    "name": "Mahmoud and Ehab and the wrong algorithm",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 959,
+    "index": "C",
+    "solvedCount": 5679
+  }
+}

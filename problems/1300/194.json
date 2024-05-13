@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1937,
+    "index": "B",
+    "name": "Binary Path",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1937,
+    "index": "B",
+    "solvedCount": 13096
+  }
+}

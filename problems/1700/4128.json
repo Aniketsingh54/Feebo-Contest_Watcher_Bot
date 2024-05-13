@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1216,
+    "index": "C",
+    "name": "White Sheet",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1216,
+    "index": "C",
+    "solvedCount": 8773
+  }
+}

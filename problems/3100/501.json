@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1887,
+    "index": "E",
+    "name": "Good Colorings",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3100,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "graphs",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1887,
+    "index": "E",
+    "solvedCount": 332
+  }
+}

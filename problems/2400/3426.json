@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1358,
+    "index": "E",
+    "name": "Are You Fired?",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1358,
+    "index": "E",
+    "solvedCount": 2079
+  }
+}

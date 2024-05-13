@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1907,
+    "index": "D",
+    "name": "Jumping Through Segments",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1907,
+    "index": "D",
+    "solvedCount": 11988
+  }
+}

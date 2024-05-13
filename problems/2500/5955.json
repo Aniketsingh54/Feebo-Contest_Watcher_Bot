@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 835,
+    "index": "F",
+    "name": "Roads in the Kingdom",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 835,
+    "index": "F",
+    "solvedCount": 999
+  }
+}

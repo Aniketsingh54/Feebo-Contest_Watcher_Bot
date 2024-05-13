@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1641,
+    "index": "C",
+    "name": "Anonymity Is Important",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dsu",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1641,
+    "index": "C",
+    "solvedCount": 2331
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "J",
+    "name": "Send the Fool Further! (easy)",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "J",
+    "solvedCount": 4287
+  }
+}

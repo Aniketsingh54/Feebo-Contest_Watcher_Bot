@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 735,
+    "index": "D",
+    "name": "Taxes",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1600,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 735,
+    "index": "D",
+    "solvedCount": 12680
+  }
+}

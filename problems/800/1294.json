@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1759,
+    "index": "B",
+    "name": "Lost Permutation",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1759,
+    "index": "B",
+    "solvedCount": 21629
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 915,
+    "index": "C",
+    "name": "Permute Digits",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 915,
+    "index": "C",
+    "solvedCount": 6899
+  }
+}

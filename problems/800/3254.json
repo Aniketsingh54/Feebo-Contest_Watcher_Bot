@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1391,
+    "index": "A",
+    "name": "Suborrays",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1391,
+    "index": "A",
+    "solvedCount": 24008
+  }
+}

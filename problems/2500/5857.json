@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 855,
+    "index": "D",
+    "name": "Rowena Ravenclaw's Diadem",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 855,
+    "index": "D",
+    "solvedCount": 475
+  }
+}

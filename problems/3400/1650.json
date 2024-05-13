@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1693,
+    "index": "F",
+    "name": "I Might Be Wrong",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1693,
+    "index": "F",
+    "solvedCount": 275
+  }
+}

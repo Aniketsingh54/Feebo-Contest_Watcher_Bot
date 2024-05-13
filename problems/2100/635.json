@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1863,
+    "index": "E",
+    "name": "Speedrun",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1863,
+    "index": "E",
+    "solvedCount": 2616
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1819,
+    "index": "E",
+    "name": "Roads in E City",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3200,
+    "tags": [
+      "interactive",
+      "math",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1819,
+    "index": "E",
+    "solvedCount": 244
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1149,
+    "index": "A",
+    "name": "Prefix Sum Primes",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1149,
+    "index": "A",
+    "solvedCount": 14693
+  }
+}

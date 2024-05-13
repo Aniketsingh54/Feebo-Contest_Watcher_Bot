@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1106,
+    "index": "A",
+    "name": "Lunar New Year and Cross Counting",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1106,
+    "index": "A",
+    "solvedCount": 12279
+  }
+}

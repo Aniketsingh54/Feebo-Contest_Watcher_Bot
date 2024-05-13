@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1492,
+    "index": "B",
+    "name": "Card Deck",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1492,
+    "index": "B",
+    "solvedCount": 18136
+  }
+}

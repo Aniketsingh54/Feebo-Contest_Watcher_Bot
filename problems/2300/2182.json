@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1601,
+    "index": "C",
+    "name": "Optimal Insertion",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1601,
+    "index": "C",
+    "solvedCount": 1917
+  }
+}

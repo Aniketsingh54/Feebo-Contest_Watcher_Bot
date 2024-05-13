@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "B",
+    "name": "Vittorio Plays with LEGO Bricks",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "B",
+    "solvedCount": 1244
+  }
+}

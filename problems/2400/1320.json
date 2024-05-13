@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1749,
+    "index": "E",
+    "name": "Cactus Wall",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1749,
+    "index": "E",
+    "solvedCount": 1604
+  }
+}

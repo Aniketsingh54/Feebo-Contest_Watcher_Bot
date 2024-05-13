@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1295,
+    "index": "B",
+    "name": "Infinite Prefixes",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1295,
+    "index": "B",
+    "solvedCount": 9072
+  }
+}

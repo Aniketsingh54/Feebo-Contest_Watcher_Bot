@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 770,
+    "index": "D",
+    "name": "Draw Brackets!",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 770,
+    "index": "D",
+    "solvedCount": 1567
+  }
+}

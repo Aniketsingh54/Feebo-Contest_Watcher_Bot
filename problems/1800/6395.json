@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 733,
+    "index": "C",
+    "name": "Epidemic in Monstropolis",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 733,
+    "index": "C",
+    "solvedCount": 3298
+  }
+}

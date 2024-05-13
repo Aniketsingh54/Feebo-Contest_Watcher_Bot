@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1244,
+    "index": "C",
+    "name": "The Football Season",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1244,
+    "index": "C",
+    "solvedCount": 7426
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1698,
+    "index": "E",
+    "name": "PermutationForces II",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "greedy",
+      "sortings",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1698,
+    "index": "E",
+    "solvedCount": 1574
+  }
+}

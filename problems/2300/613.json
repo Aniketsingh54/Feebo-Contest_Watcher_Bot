@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1866,
+    "index": "I",
+    "name": "Imagination Castle",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "games",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1866,
+    "index": "I",
+    "solvedCount": 670
+  }
+}

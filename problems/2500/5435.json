@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 954,
+    "index": "H",
+    "name": "Path Counting",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 954,
+    "index": "H",
+    "solvedCount": 557
+  }
+}

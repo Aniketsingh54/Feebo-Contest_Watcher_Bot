@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1702,
+    "index": "A",
+    "name": "Round Down the Price",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1702,
+    "index": "A",
+    "solvedCount": 33461
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 749,
+    "index": "C",
+    "name": "Voting",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 749,
+    "index": "C",
+    "solvedCount": 5912
+  }
+}

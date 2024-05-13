@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1927,
+    "index": "D",
+    "name": "Find the Different Ones!",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1927,
+    "index": "D",
+    "solvedCount": 18302
+  }
+}

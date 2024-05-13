@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1090,
+    "index": "G",
+    "name": "Combostone",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "games",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1090,
+    "index": "G",
+    "solvedCount": 103
+  }
+}

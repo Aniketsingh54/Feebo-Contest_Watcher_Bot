@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1004,
+    "index": "D",
+    "name": "Sonya and Matrix",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1004,
+    "index": "D",
+    "solvedCount": 1390
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1879,
+    "index": "C",
+    "name": "Make it Alternating",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1879,
+    "index": "C",
+    "solvedCount": 14954
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 811,
+    "index": "B",
+    "name": "Vladik and Complicated Book",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 811,
+    "index": "B",
+    "solvedCount": 6439
+  }
+}

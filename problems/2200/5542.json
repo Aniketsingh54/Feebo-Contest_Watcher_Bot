@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 925,
+    "index": "C",
+    "name": "Big Secret",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 925,
+    "index": "C",
+    "solvedCount": 1282
+  }
+}

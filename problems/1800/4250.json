@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1196,
+    "index": "E",
+    "name": "Connected Component on a Chessboard",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1196,
+    "index": "E",
+    "solvedCount": 3645
+  }
+}

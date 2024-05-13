@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1511,
+    "index": "C",
+    "name": "Yet Another Card Deck",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1511,
+    "index": "C",
+    "solvedCount": 22202
+  }
+}

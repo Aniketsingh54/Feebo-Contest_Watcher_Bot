@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1619,
+    "index": "D",
+    "name": "New Year's Problem",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1619,
+    "index": "D",
+    "solvedCount": 7269
+  }
+}

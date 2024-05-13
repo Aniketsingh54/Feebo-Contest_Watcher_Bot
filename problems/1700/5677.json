@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 900,
+    "index": "C",
+    "name": "Remove Extra One",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 900,
+    "index": "C",
+    "solvedCount": 4416
+  }
+}

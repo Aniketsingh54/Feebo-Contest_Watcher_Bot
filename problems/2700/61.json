@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1957,
+    "index": "F2",
+    "name": "Frequency Mismatch (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "hashing",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1957,
+    "index": "F2",
+    "solvedCount": 279
+  }
+}

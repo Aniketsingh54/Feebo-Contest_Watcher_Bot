@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1612,
+    "index": "E",
+    "name": "Messages",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "probabilities",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1612,
+    "index": "E",
+    "solvedCount": 2391
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1257,
+    "index": "F",
+    "name": "Make Them Similar",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "hashing",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1257,
+    "index": "F",
+    "solvedCount": 1939
+  }
+}

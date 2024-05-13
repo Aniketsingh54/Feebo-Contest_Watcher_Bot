@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1068,
+    "index": "B",
+    "name": "LCM",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1068,
+    "index": "B",
+    "solvedCount": 11097
+  }
+}

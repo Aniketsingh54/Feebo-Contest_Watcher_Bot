@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1076,
+    "index": "D",
+    "name": "Edge Deletion",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1076,
+    "index": "D",
+    "solvedCount": 4905
+  }
+}

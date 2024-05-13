@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 948,
+    "index": "A",
+    "name": "Protect Sheep",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 948,
+    "index": "A",
+    "solvedCount": 13389
+  }
+}

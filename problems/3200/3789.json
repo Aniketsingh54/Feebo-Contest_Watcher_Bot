@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1286,
+    "index": "E",
+    "name": "Fedya the Potter Strikes Back",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1286,
+    "index": "E",
+    "solvedCount": 489
+  }
+}

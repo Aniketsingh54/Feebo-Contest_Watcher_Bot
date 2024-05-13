@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1967,
+    "index": "B2",
+    "name": "Reverse Card (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1967,
+    "index": "B2",
+    "solvedCount": 2895
+  }
+}

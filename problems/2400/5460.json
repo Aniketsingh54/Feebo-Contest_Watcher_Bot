@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 946,
+    "index": "F",
+    "name": "Fibonacci String Subsequences",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 946,
+    "index": "F",
+    "solvedCount": 529
+  }
+}

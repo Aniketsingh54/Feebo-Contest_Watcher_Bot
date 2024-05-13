@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 808,
+    "index": "B",
+    "name": "Average Sleep Time",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 808,
+    "index": "B",
+    "solvedCount": 6652
+  }
+}

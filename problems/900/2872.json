@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "N",
+    "name": "Waste Sorting",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "N",
+    "solvedCount": 7891
+  }
+}

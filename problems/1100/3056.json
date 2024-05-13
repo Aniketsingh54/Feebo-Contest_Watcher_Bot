@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1428,
+    "index": "C",
+    "name": "ABBB",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1428,
+    "index": "C",
+    "solvedCount": 19675
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1044,
+    "index": "E",
+    "name": "Grid Sort",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1044,
+    "index": "E",
+    "solvedCount": 112
+  }
+}

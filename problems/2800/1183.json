@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1773,
+    "index": "G",
+    "name": "Game of Questions",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "fft",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1773,
+    "index": "G",
+    "solvedCount": 320
+  }
+}

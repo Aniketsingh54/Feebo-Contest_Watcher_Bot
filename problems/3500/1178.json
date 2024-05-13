@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1773,
+    "index": "L",
+    "name": "Lisa's Sequences",
+    "type": "PROGRAMMING",
+    "rating": 3500,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1773,
+    "index": "L",
+    "solvedCount": 28
+  }
+}

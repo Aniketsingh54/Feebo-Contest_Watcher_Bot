@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 898,
+    "index": "B",
+    "name": "Proper Nutrition",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 898,
+    "index": "B",
+    "solvedCount": 9280
+  }
+}

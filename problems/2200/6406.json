@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 731,
+    "index": "D",
+    "name": "80-th Level Archeology",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 731,
+    "index": "D",
+    "solvedCount": 1147
+  }
+}

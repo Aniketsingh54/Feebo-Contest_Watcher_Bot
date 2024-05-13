@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1284,
+    "index": "A",
+    "name": "New Year and Naming",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1284,
+    "index": "A",
+    "solvedCount": 17771
+  }
+}

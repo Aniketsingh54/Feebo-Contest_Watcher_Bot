@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1025,
+    "index": "A",
+    "name": "Doggo Recoloring",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1025,
+    "index": "A",
+    "solvedCount": 14562
+  }
+}

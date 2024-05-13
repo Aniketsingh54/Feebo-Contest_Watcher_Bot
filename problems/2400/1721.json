@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1680,
+    "index": "D",
+    "name": "Dog Walking",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1680,
+    "index": "D",
+    "solvedCount": 1115
+  }
+}

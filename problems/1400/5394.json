@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 961,
+    "index": "C",
+    "name": "Chessboard",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 961,
+    "index": "C",
+    "solvedCount": 5228
+  }
+}

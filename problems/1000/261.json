@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1927,
+    "index": "C",
+    "name": "Choose the Different Ones!",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1927,
+    "index": "C",
+    "solvedCount": 25586
+  }
+}

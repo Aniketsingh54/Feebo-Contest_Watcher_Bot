@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 935,
+    "index": "E",
+    "name": "Fafa and Ancient Mathematics",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 935,
+    "index": "E",
+    "solvedCount": 865
+  }
+}

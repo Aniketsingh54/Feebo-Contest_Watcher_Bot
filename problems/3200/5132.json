@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1017,
+    "index": "G",
+    "name": "The Tree",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3200,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1017,
+    "index": "G",
+    "solvedCount": 815
+  }
+}

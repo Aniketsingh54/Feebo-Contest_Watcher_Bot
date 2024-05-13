@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1622,
+    "index": "C",
+    "name": "Set or Decrease",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1622,
+    "index": "C",
+    "solvedCount": 12391
+  }
+}

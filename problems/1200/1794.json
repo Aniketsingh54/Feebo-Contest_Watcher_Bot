@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1669,
+    "index": "E",
+    "name": "2-Letter Strings",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1669,
+    "index": "E",
+    "solvedCount": 16923
+  }
+}

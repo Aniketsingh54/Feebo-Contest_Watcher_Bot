@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 713,
+    "index": "C",
+    "name": "Sonya and Problem Wihtout a Legend",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 713,
+    "index": "C",
+    "solvedCount": 4789
+  }
+}

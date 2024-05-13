@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "D",
+    "name": "Conference Problem",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "D",
+    "solvedCount": 165
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "H",
+    "name": "Interactive Mex Tree",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3300,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "H",
+    "solvedCount": 123
+  }
+}

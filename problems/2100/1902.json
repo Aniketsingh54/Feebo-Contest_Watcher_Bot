@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1650,
+    "index": "G",
+    "name": "Counting Shortcuts",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1650,
+    "index": "G",
+    "solvedCount": 2338
+  }
+}

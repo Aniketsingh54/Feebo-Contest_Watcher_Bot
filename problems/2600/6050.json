@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 811,
+    "index": "E",
+    "name": "Vladik and Entertaining Flags",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 811,
+    "index": "E",
+    "solvedCount": 841
+  }
+}

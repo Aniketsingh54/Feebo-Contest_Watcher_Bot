@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1463,
+    "index": "B",
+    "name": "Find The Array",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1463,
+    "index": "B",
+    "solvedCount": 18775
+  }
+}

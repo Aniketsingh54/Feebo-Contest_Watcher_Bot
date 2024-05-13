@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1352,
+    "index": "A",
+    "name": "Sum of Round Numbers",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1352,
+    "index": "A",
+    "solvedCount": 72186
+  }
+}

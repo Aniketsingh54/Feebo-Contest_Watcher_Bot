@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1661,
+    "index": "A",
+    "name": "Array Balancing",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1661,
+    "index": "A",
+    "solvedCount": 18198
+  }
+}

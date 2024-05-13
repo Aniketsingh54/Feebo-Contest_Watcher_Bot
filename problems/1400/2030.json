@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1624,
+    "index": "D",
+    "name": "Palindromes Coloring",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1624,
+    "index": "D",
+    "solvedCount": 16272
+  }
+}

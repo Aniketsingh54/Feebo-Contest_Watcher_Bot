@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1521,
+    "index": "A",
+    "name": "Nastia and Nearly Good Numbers",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1521,
+    "index": "A",
+    "solvedCount": 35351
+  }
+}

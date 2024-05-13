@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1647,
+    "index": "E",
+    "name": "Madoka and the Sixth-graders",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1647,
+    "index": "E",
+    "solvedCount": 956
+  }
+}

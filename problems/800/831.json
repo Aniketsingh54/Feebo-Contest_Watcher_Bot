@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1832,
+    "index": "A",
+    "name": "New Palindrome",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1832,
+    "index": "A",
+    "solvedCount": 24890
+  }
+}

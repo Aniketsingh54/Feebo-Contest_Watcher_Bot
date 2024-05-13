@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1188,
+    "index": "E",
+    "name": "Problem from Red Panda",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "combinatorics"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1188,
+    "index": "E",
+    "solvedCount": 224
+  }
+}

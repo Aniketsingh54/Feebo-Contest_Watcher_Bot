@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 830,
+    "index": "B",
+    "name": "Cards Sorting",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 830,
+    "index": "B",
+    "solvedCount": 2795
+  }
+}

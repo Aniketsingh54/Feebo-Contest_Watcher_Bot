@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1826,
+    "index": "B",
+    "name": "Lunatic Never Content",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1826,
+    "index": "B",
+    "solvedCount": 15767
+  }
+}

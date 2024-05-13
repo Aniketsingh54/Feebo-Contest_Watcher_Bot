@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1276,
+    "index": "D",
+    "name": "Tree Elimination",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1276,
+    "index": "D",
+    "solvedCount": 486
+  }
+}

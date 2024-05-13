@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1156,
+    "index": "E",
+    "name": "Special Segments of Permutation",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1156,
+    "index": "E",
+    "solvedCount": 2753
+  }
+}

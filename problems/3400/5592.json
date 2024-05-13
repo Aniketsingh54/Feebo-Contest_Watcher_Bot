@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 917,
+    "index": "E",
+    "name": "Upside Down",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "string suffix structures",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 917,
+    "index": "E",
+    "solvedCount": 122
+  }
+}

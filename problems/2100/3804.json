@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1284,
+    "index": "D",
+    "name": "New Year and Conference",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "hashing",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1284,
+    "index": "D",
+    "solvedCount": 2914
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1447,
+    "index": "A",
+    "name": "Add Candies",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1447,
+    "index": "A",
+    "solvedCount": 13652
+  }
+}

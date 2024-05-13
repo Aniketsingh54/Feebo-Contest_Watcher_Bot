@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1920,
+    "index": "F2",
+    "name": "Smooth Sailing (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dsu",
+      "geometry",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1920,
+    "index": "F2",
+    "solvedCount": 404
+  }
+}

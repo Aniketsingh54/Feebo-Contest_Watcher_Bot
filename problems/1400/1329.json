@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1748,
+    "index": "B",
+    "name": "Diverse Substrings",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1748,
+    "index": "B",
+    "solvedCount": 14235
+  }
+}

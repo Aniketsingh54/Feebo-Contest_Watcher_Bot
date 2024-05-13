@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1196,
+    "index": "B",
+    "name": "Odd Sum Segments",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1196,
+    "index": "B",
+    "solvedCount": 16264
+  }
+}

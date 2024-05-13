@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1969,
+    "index": "A",
+    "name": "Two Friends",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1969,
+    "index": "A",
+    "solvedCount": 15314
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 963,
+    "index": "C",
+    "name": "Cutting Rectangle",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 963,
+    "index": "C",
+    "solvedCount": 560
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1678,
+    "index": "A",
+    "name": "Tokitsukaze and All Zero Sequence",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1678,
+    "index": "A",
+    "solvedCount": 17919
+  }
+}

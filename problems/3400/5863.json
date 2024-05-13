@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 853,
+    "index": "E",
+    "name": "Lada Malina",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 853,
+    "index": "E",
+    "solvedCount": 64
+  }
+}

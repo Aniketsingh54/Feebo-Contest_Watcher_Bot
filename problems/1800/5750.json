@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "K",
+    "name": "Road Widening",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "K",
+    "solvedCount": 1074
+  }
+}

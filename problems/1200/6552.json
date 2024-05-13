@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 701,
+    "index": "B",
+    "name": "Cells Not Under Attack",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 701,
+    "index": "B",
+    "solvedCount": 11578
+  }
+}

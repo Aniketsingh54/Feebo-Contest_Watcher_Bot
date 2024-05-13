@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 733,
+    "index": "D",
+    "name": "Kostya the Sculptor",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1600,
+    "tags": [
+      "data structures",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 733,
+    "index": "D",
+    "solvedCount": 4136
+  }
+}

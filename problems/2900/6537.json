@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 704,
+    "index": "C",
+    "name": "Black Widow",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 704,
+    "index": "C",
+    "solvedCount": 457
+  }
+}

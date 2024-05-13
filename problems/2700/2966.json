@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1450,
+    "index": "E",
+    "name": "Capitalism",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1450,
+    "index": "E",
+    "solvedCount": 1018
+  }
+}

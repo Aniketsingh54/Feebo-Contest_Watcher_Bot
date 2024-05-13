@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1907,
+    "index": "A",
+    "name": "Rook",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1907,
+    "index": "A",
+    "solvedCount": 34139
+  }
+}

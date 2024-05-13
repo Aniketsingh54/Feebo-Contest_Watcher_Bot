@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1101,
+    "index": "A",
+    "name": "Minimum Integer",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1101,
+    "index": "A",
+    "solvedCount": 16713
+  }
+}

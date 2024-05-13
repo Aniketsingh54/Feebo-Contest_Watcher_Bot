@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1459,
+    "index": "B",
+    "name": "Move and Turn",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1459,
+    "index": "B",
+    "solvedCount": 13921
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1909,
+    "index": "F1",
+    "name": "Small Permutation Problem (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1909,
+    "index": "F1",
+    "solvedCount": 1637
+  }
+}

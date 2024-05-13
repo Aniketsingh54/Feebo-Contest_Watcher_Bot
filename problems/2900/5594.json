@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 917,
+    "index": "C",
+    "name": "Pollywog",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 917,
+    "index": "C",
+    "solvedCount": 371
+  }
+}

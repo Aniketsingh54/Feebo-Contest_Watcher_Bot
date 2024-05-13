@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1949,
+    "index": "F",
+    "name": "Dating",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1949,
+    "index": "F",
+    "solvedCount": 756
+  }
+}

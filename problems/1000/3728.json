@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1300,
+    "index": "B",
+    "name": "Assigning to Classes",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1300,
+    "index": "B",
+    "solvedCount": 22263
+  }
+}

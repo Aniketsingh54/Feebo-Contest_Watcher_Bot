@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1598,
+    "index": "C",
+    "name": "Delete Two Elements",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1598,
+    "index": "C",
+    "solvedCount": 20065
+  }
+}

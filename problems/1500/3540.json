@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1340,
+    "index": "A",
+    "name": "Nastya and Strange Generator",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1340,
+    "index": "A",
+    "solvedCount": 13143
+  }
+}

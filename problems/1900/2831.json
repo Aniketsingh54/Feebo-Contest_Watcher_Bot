@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1475,
+    "index": "G",
+    "name": "Strange Beauty",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1475,
+    "index": "G",
+    "solvedCount": 6411
+  }
+}

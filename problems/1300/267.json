@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1926,
+    "index": "D",
+    "name": "Vlad and Division",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1926,
+    "index": "D",
+    "solvedCount": 13618
+  }
+}

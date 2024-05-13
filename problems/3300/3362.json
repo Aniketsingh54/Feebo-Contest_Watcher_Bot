@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1368,
+    "index": "H1",
+    "name": "Breadboard Capacity (easy version)",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3300,
+    "tags": [
+      "dp",
+      "flows",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1368,
+    "index": "H1",
+    "solvedCount": 330
+  }
+}

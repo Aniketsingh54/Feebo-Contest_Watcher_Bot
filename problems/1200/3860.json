@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1272,
+    "index": "C",
+    "name": "Yet Another Broken Keyboard",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1272,
+    "index": "C",
+    "solvedCount": 25143
+  }
+}

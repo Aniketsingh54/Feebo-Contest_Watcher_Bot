@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1857,
+    "index": "C",
+    "name": "Assembly via Minimums",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1857,
+    "index": "C",
+    "solvedCount": 23007
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 979,
+    "index": "C",
+    "name": "Kuro and Walking Route",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 979,
+    "index": "C",
+    "solvedCount": 6083
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1147,
+    "index": "B",
+    "name": "Chladni Figure",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1147,
+    "index": "B",
+    "solvedCount": 2808
+  }
+}

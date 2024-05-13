@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1632,
+    "index": "E1",
+    "name": "Distance Tree (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1632,
+    "index": "E1",
+    "solvedCount": 1110
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 746,
+    "index": "A",
+    "name": "Compote",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 746,
+    "index": "A",
+    "solvedCount": 20632
+  }
+}

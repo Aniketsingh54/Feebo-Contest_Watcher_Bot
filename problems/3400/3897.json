@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1266,
+    "index": "H",
+    "name": "Red-Blue Graph",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3400,
+    "tags": [
+      "dp",
+      "graphs",
+      "math",
+      "matrices",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1266,
+    "index": "H",
+    "solvedCount": 99
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1129,
+    "index": "D",
+    "name": "Isolation",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1129,
+    "index": "D",
+    "solvedCount": 949
+  }
+}

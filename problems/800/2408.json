@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1553,
+    "index": "A",
+    "name": "Digits Sum",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1553,
+    "index": "A",
+    "solvedCount": 30167
+  }
+}

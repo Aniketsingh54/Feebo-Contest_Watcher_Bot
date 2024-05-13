@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1676,
+    "index": "C",
+    "name": "Most Similar Words",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "implementation",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1676,
+    "index": "C",
+    "solvedCount": 28853
+  }
+}

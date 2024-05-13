@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1325,
+    "index": "E",
+    "name": "Ehab's REAL Number Theory Problem",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "number theory",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1325,
+    "index": "E",
+    "solvedCount": 1851
+  }
+}

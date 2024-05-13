@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1037,
+    "index": "D",
+    "name": "Valid BFS?",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1037,
+    "index": "D",
+    "solvedCount": 13860
+  }
+}

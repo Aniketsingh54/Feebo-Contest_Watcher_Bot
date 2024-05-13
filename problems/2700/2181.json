@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1601,
+    "index": "D",
+    "name": "Difficult Mountain",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1601,
+    "index": "D",
+    "solvedCount": 1382
+  }
+}

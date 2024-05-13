@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1477,
+    "index": "D",
+    "name": "Nezzar and Hidden Permutations",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1477,
+    "index": "D",
+    "solvedCount": 532
+  }
+}

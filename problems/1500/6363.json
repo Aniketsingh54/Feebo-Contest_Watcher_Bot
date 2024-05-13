@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 742,
+    "index": "B",
+    "name": "Arpa’s obvious problem and Mehrdad’s terrible solution",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 742,
+    "index": "B",
+    "solvedCount": 9038
+  }
+}

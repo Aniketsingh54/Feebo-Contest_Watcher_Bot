@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1936,
+    "index": "F",
+    "name": "Grand Finale: Circles",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1936,
+    "index": "F",
+    "solvedCount": 66
+  }
+}

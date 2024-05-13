@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 960,
+    "index": "G",
+    "name": "Bandit Blues",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 960,
+    "index": "G",
+    "solvedCount": 1032
+  }
+}

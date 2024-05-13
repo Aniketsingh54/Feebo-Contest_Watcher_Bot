@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1902,
+    "index": "F",
+    "name": "Trees and XOR Queries Again",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "graphs",
+      "implementation",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1902,
+    "index": "F",
+    "solvedCount": 896
+  }
+}

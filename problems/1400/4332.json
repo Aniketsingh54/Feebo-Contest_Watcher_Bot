@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1183,
+    "index": "D",
+    "name": "Candy Box (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1183,
+    "index": "D",
+    "solvedCount": 13325
+  }
+}

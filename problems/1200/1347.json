@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1744,
+    "index": "D",
+    "name": "Divisibility by 2^n",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1744,
+    "index": "D",
+    "solvedCount": 20316
+  }
+}

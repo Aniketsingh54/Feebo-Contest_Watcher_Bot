@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1618,
+    "index": "G",
+    "name": "Trader Problem",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1618,
+    "index": "G",
+    "solvedCount": 1481
+  }
+}

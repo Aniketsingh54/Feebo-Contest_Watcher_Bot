@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1096,
+    "index": "C",
+    "name": "Polygon for the Angle",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1096,
+    "index": "C",
+    "solvedCount": 6670
+  }
+}

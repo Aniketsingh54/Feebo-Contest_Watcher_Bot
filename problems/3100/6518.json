@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 708,
+    "index": "E",
+    "name": "Student's Camp",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 708,
+    "index": "E",
+    "solvedCount": 931
+  }
+}

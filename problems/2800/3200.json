@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1400,
+    "index": "F",
+    "name": "x-prime Substrings",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1400,
+    "index": "F",
+    "solvedCount": 783
+  }
+}

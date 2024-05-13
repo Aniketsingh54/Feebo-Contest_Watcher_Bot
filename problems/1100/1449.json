@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1729,
+    "index": "C",
+    "name": "Jumping on Tiles",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1729,
+    "index": "C",
+    "solvedCount": 19441
+  }
+}

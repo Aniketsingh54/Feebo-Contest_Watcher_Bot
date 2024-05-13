@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1829,
+    "index": "C",
+    "name": "Mr. Perfectly Fine",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1829,
+    "index": "C",
+    "solvedCount": 27163
+  }
+}

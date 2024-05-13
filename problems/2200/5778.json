@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 875,
+    "index": "D",
+    "name": "High Cry",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "combinatorics",
+      "data structures",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 875,
+    "index": "D",
+    "solvedCount": 1983
+  }
+}

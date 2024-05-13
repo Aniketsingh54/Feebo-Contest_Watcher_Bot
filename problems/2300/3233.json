@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1394,
+    "index": "B",
+    "name": "Boboniu Walks on Graph",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1394,
+    "index": "B",
+    "solvedCount": 1791
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 988,
+    "index": "A",
+    "name": "Diverse Team",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 988,
+    "index": "A",
+    "solvedCount": 23852
+  }
+}

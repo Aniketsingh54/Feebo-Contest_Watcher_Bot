@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1143,
+    "index": "B",
+    "name": "Nirvana",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1143,
+    "index": "B",
+    "solvedCount": 10072
+  }
+}

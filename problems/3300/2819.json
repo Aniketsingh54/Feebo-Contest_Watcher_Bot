@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1477,
+    "index": "E",
+    "name": "Nezzar and Tournaments",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1477,
+    "index": "E",
+    "solvedCount": 117
+  }
+}

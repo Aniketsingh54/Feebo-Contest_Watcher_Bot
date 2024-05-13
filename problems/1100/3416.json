@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1360,
+    "index": "C",
+    "name": "Similar Pairs",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1360,
+    "index": "C",
+    "solvedCount": 31715
+  }
+}

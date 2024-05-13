@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "D",
+    "name": "Teamwork",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "D",
+    "solvedCount": 339
+  }
+}

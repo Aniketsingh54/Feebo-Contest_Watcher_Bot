@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 729,
+    "index": "A",
+    "name": "Interview with Oleg",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 729,
+    "index": "A",
+    "solvedCount": 7269
+  }
+}

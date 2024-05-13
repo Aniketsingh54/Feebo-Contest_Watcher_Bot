@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1490,
+    "index": "B",
+    "name": "Balanced Remainders",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1490,
+    "index": "B",
+    "solvedCount": 25605
+  }
+}

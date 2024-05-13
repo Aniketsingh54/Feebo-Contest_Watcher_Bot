@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1373,
+    "index": "F",
+    "name": "Network Coverage",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1373,
+    "index": "F",
+    "solvedCount": 1619
+  }
+}

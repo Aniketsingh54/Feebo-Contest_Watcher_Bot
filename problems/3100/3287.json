@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1383,
+    "index": "C",
+    "name": "String Transformation 2",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3100,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1383,
+    "index": "C",
+    "solvedCount": 561
+  }
+}

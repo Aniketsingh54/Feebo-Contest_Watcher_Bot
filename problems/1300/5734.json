@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 887,
+    "index": "B",
+    "name": "Cubes for Masha",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 887,
+    "index": "B",
+    "solvedCount": 5529
+  }
+}

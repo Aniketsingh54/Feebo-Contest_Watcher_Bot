@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1155,
+    "index": "A",
+    "name": "Reverse a Substring",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1155,
+    "index": "A",
+    "solvedCount": 13545
+  }
+}

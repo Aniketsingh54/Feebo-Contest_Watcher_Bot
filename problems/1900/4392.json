@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1172,
+    "index": "B",
+    "name": "Nauuo and Circle",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1172,
+    "index": "B",
+    "solvedCount": 3740
+  }
+}

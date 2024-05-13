@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1834,
+    "index": "C",
+    "name": "Game with Reversing",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1834,
+    "index": "C",
+    "solvedCount": 12649
+  }
+}

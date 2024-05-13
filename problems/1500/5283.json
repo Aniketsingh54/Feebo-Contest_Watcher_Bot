@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 990,
+    "index": "C",
+    "name": "Bracket Sequences Concatenation Problem",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 990,
+    "index": "C",
+    "solvedCount": 5797
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 774,
+    "index": "A",
+    "name": "Amusement Park",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "*special",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 774,
+    "index": "A",
+    "solvedCount": 294
+  }
+}

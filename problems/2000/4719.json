@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1103,
+    "index": "B",
+    "name": "Game with modulo",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1103,
+    "index": "B",
+    "solvedCount": 3170
+  }
+}

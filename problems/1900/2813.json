@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1479,
+    "index": "B1",
+    "name": "Painting the Array I",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1479,
+    "index": "B1",
+    "solvedCount": 6752
+  }
+}

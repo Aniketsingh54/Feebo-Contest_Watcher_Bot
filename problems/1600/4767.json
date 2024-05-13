@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1095,
+    "index": "D",
+    "name": "Circular Dance",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1095,
+    "index": "D",
+    "solvedCount": 7340
+  }
+}

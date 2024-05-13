@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 736,
+    "index": "E",
+    "name": "Chess Championship",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 736,
+    "index": "E",
+    "solvedCount": 182
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1280,
+    "index": "B",
+    "name": "Beingawesomeism",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1280,
+    "index": "B",
+    "solvedCount": 3757
+  }
+}

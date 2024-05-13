@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1808,
+    "index": "C",
+    "name": "Unlucky Numbers",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1808,
+    "index": "C",
+    "solvedCount": 3582
+  }
+}

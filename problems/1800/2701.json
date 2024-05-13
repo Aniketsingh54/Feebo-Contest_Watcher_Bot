@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1500,
+    "index": "A",
+    "name": "Going Home",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "hashing",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1500,
+    "index": "A",
+    "solvedCount": 8549
+  }
+}

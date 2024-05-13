@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1254,
+    "index": "C",
+    "name": "Point Ordering",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1254,
+    "index": "C",
+    "solvedCount": 1262
+  }
+}

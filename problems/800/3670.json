@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1312,
+    "index": "A",
+    "name": "Two Regular Polygons",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1312,
+    "index": "A",
+    "solvedCount": 25332
+  }
+}

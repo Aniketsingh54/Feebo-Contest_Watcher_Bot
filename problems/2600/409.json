@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "B",
+    "name": "Button Pressing",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "B",
+    "solvedCount": 454
+  }
+}

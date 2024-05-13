@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1690,
+    "index": "G",
+    "name": "Count the Trains",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1690,
+    "index": "G",
+    "solvedCount": 3249
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 715,
+    "index": "A",
+    "name": "Plus and Square Root",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 715,
+    "index": "A",
+    "solvedCount": 5546
+  }
+}

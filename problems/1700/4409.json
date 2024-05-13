@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1168,
+    "index": "A",
+    "name": "Increasing by Modulo",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1168,
+    "index": "A",
+    "solvedCount": 6504
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1684,
+    "index": "C",
+    "name": "Column Swapping",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1684,
+    "index": "C",
+    "solvedCount": 12027
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1779,
+    "index": "D",
+    "name": "Boris and His Amazing Haircut",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1779,
+    "index": "D",
+    "solvedCount": 7510
+  }
+}

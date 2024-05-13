@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1585,
+    "index": "E",
+    "name": "Frequency Queries",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1585,
+    "index": "E",
+    "solvedCount": 1018
+  }
+}

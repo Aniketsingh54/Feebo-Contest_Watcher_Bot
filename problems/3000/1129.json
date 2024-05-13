@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1779,
+    "index": "G",
+    "name": "The Game of the Century",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1779,
+    "index": "G",
+    "solvedCount": 301
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1801,
+    "index": "C",
+    "name": "Music Festival",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1801,
+    "index": "C",
+    "solvedCount": 3226
+  }
+}

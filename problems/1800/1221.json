@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1768,
+    "index": "D",
+    "name": "Lucky Permutation",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1768,
+    "index": "D",
+    "solvedCount": 6706
+  }
+}

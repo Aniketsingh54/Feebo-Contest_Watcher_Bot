@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 846,
+    "index": "C",
+    "name": "Four Segments",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 846,
+    "index": "C",
+    "solvedCount": 2612
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1620,
+    "index": "G",
+    "name": "Subsequences Galore",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1620,
+    "index": "G",
+    "solvedCount": 857
+  }
+}

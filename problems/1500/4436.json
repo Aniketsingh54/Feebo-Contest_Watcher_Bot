@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1163,
+    "index": "B1",
+    "name": "Cat Party (Easy Edition)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1163,
+    "index": "B1",
+    "solvedCount": 6883
+  }
+}

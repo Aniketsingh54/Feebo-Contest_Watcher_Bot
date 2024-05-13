@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 901,
+    "index": "E",
+    "name": "Cyclic Cipher",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 901,
+    "index": "E",
+    "solvedCount": 84
+  }
+}

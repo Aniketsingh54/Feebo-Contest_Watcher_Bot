@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1796,
+    "index": "A",
+    "name": "Typical Interview Problem",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1796,
+    "index": "A",
+    "solvedCount": 18566
+  }
+}

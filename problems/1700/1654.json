@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1693,
+    "index": "B",
+    "name": "Fake Plastic Trees",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1693,
+    "index": "B",
+    "solvedCount": 8069
+  }
+}

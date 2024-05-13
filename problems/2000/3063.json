@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1427,
+    "index": "D",
+    "name": "Unshuffling a Deck",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1427,
+    "index": "D",
+    "solvedCount": 3370
+  }
+}

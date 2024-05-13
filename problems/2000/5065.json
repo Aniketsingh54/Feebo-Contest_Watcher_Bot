@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1033,
+    "index": "D",
+    "name": "Divisors",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "interactive",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1033,
+    "index": "D",
+    "solvedCount": 2304
+  }
+}

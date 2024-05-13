@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1107,
+    "index": "F",
+    "name": "Vasya and Endless Credits",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "dp",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1107,
+    "index": "F",
+    "solvedCount": 725
+  }
+}

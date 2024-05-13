@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1423,
+    "index": "L",
+    "name": "Light switches",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1423,
+    "index": "L",
+    "solvedCount": 433
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 862,
+    "index": "A",
+    "name": "Mahmoud and Ehab and the MEX",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 862,
+    "index": "A",
+    "solvedCount": 9358
+  }
+}

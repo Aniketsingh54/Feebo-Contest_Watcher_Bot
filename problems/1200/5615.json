@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 914,
+    "index": "B",
+    "name": "Conan and Agasa play a Card Game",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "games",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 914,
+    "index": "B",
+    "solvedCount": 8505
+  }
+}

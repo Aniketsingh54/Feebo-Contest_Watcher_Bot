@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1196,
+    "index": "D1",
+    "name": "RGB Substring (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1196,
+    "index": "D1",
+    "solvedCount": 10329
+  }
+}

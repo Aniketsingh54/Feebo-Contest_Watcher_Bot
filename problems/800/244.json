@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "A",
+    "name": "Maximise The Score",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "A",
+    "solvedCount": 17155
+  }
+}

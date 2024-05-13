@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1279,
+    "index": "F",
+    "name": "New Year and Handle Change",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1279,
+    "index": "F",
+    "solvedCount": 833
+  }
+}

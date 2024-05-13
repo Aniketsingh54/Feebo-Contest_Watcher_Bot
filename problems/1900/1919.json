@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1647,
+    "index": "D",
+    "name": "Madoka and the Best School in Russia",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1647,
+    "index": "D",
+    "solvedCount": 5117
+  }
+}

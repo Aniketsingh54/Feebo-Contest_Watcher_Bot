@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1304,
+    "index": "B",
+    "name": "Longest Palindrome",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1304,
+    "index": "B",
+    "solvedCount": 17438
+  }
+}

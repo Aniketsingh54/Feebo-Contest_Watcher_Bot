@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1582,
+    "index": "F1",
+    "name": "Korney Korneevich and XOR (easy version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1582,
+    "index": "F1",
+    "solvedCount": 5257
+  }
+}

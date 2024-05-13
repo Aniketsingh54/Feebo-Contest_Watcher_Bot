@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 768,
+    "index": "F",
+    "name": "Barrels and boxes",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 768,
+    "index": "F",
+    "solvedCount": 998
+  }
+}

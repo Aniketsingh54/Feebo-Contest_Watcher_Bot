@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1372,
+    "index": "F",
+    "name": "Omkar and Modes",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "divide and conquer",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1372,
+    "index": "F",
+    "solvedCount": 424
+  }
+}

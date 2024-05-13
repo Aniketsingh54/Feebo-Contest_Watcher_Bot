@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1163,
+    "index": "A",
+    "name": "Eating Soup",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1163,
+    "index": "A",
+    "solvedCount": 12751
+  }
+}

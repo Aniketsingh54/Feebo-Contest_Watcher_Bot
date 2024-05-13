@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 855,
+    "index": "C",
+    "name": "Helga Hufflepuff's Cup",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 855,
+    "index": "C",
+    "solvedCount": 1982
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1764,
+    "index": "H",
+    "name": "Doremy's Paint 2",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3400,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1764,
+    "index": "H",
+    "solvedCount": 166
+  }
+}

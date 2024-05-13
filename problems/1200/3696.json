@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1305,
+    "index": "B",
+    "name": "Kuroni and Simple Strings",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1305,
+    "index": "B",
+    "solvedCount": 11381
+  }
+}

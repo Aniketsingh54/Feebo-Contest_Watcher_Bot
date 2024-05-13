@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1045,
+    "index": "A",
+    "name": "Last chance",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1045,
+    "index": "A",
+    "solvedCount": 320
+  }
+}

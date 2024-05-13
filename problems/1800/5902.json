@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "C",
+    "name": "Sum of Nestings",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "C",
+    "solvedCount": 2330
+  }
+}

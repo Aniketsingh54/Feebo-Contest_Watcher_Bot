@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 722,
+    "index": "D",
+    "name": "Generating Sets",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 722,
+    "index": "D",
+    "solvedCount": 3086
+  }
+}

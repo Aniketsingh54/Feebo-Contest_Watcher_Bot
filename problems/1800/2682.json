@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1505,
+    "index": "D",
+    "name": "Xenolith? Hippodrome?",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1505,
+    "index": "D",
+    "solvedCount": 739
+  }
+}

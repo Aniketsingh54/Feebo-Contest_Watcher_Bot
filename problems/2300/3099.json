@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1422,
+    "index": "D",
+    "name": "Returning Home",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1422,
+    "index": "D",
+    "solvedCount": 2589
+  }
+}

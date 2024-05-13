@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1286,
+    "index": "D",
+    "name": "LCC",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3100,
+    "tags": [
+      "data structures",
+      "math",
+      "matrices",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1286,
+    "index": "D",
+    "solvedCount": 557
+  }
+}

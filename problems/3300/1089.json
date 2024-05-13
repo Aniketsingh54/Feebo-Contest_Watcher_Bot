@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1787,
+    "index": "H",
+    "name": "Codeforces Scoreboard",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1787,
+    "index": "H",
+    "solvedCount": 201
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1380,
+    "index": "D",
+    "name": "Berserk And Fireball",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1380,
+    "index": "D",
+    "solvedCount": 4622
+  }
+}

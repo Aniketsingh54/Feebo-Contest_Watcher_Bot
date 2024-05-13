@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 725,
+    "index": "C",
+    "name": "Hidden Word",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 725,
+    "index": "C",
+    "solvedCount": 2603
+  }
+}

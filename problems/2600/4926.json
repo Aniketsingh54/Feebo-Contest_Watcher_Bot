@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1063,
+    "index": "D",
+    "name": "Candies for Children",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1063,
+    "index": "D",
+    "solvedCount": 420
+  }
+}

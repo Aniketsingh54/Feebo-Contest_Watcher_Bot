@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 746,
+    "index": "F",
+    "name": "Music in Car",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 746,
+    "index": "F",
+    "solvedCount": 723
+  }
+}

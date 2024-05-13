@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1768,
+    "index": "F",
+    "name": "Wonderful Jump",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1768,
+    "index": "F",
+    "solvedCount": 786
+  }
+}

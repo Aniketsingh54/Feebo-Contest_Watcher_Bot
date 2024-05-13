@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1335,
+    "index": "F",
+    "name": "Robots on a Grid",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1335,
+    "index": "F",
+    "solvedCount": 1988
+  }
+}

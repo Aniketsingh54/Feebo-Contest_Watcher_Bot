@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1689,
+    "index": "A",
+    "name": "Lex String",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1689,
+    "index": "A",
+    "solvedCount": 16381
+  }
+}

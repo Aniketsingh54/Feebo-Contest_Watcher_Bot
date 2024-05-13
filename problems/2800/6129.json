@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 794,
+    "index": "E",
+    "name": "Choosing Carrot",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 794,
+    "index": "E",
+    "solvedCount": 659
+  }
+}

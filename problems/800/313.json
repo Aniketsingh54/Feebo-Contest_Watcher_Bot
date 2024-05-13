@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1919,
+    "index": "B",
+    "name": "Plus-Minus Split",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1919,
+    "index": "B",
+    "solvedCount": 28811
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1209,
+    "index": "G2",
+    "name": "Into Blocks (hard version)",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1209,
+    "index": "G2",
+    "solvedCount": 377
+  }
+}

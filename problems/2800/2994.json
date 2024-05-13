@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1442,
+    "index": "D",
+    "name": "Sum",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1442,
+    "index": "D",
+    "solvedCount": 1927
+  }
+}

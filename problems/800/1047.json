@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1794,
+    "index": "A",
+    "name": "Prefix and Suffix Array",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1794,
+    "index": "A",
+    "solvedCount": 16557
+  }
+}

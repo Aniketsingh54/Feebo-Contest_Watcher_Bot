@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1296,
+    "index": "F",
+    "name": "Berland Beauty",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1296,
+    "index": "F",
+    "solvedCount": 2672
+  }
+}

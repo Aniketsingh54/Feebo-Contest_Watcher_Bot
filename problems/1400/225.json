@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1932,
+    "index": "C",
+    "name": "LR-remainders",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1932,
+    "index": "C",
+    "solvedCount": 13697
+  }
+}

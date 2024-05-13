@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1168,
+    "index": "E",
+    "name": "Xor Permutations",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1168,
+    "index": "E",
+    "solvedCount": 355
+  }
+}

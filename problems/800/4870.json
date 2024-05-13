@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1077,
+    "index": "A",
+    "name": "Frog Jumping",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1077,
+    "index": "A",
+    "solvedCount": 29075
+  }
+}

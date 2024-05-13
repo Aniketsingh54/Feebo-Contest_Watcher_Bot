@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1530,
+    "index": "H",
+    "name": "Turing's Award",
+    "type": "PROGRAMMING",
+    "points": 4750,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1530,
+    "index": "H",
+    "solvedCount": 140
+  }
+}

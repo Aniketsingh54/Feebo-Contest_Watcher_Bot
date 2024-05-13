@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 940,
+    "index": "E",
+    "name": "Cashback",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 940,
+    "index": "E",
+    "solvedCount": 3419
+  }
+}

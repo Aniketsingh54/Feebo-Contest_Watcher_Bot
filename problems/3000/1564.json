@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1707,
+    "index": "D",
+    "name": "Partial Virtual Trees",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3000,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1707,
+    "index": "D",
+    "solvedCount": 583
+  }
+}

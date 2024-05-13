@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 893,
+    "index": "D",
+    "name": "Credit Card",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 893,
+    "index": "D",
+    "solvedCount": 2920
+  }
+}

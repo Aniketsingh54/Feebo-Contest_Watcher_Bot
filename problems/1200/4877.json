@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1076,
+    "index": "A",
+    "name": "Minimizing the String",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1076,
+    "index": "A",
+    "solvedCount": 12842
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1327,
+    "index": "G",
+    "name": "Letters and Question Marks",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1327,
+    "index": "G",
+    "solvedCount": 407
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1679,
+    "index": "A",
+    "name": "AvtoBus",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1679,
+    "index": "A",
+    "solvedCount": 21916
+  }
+}

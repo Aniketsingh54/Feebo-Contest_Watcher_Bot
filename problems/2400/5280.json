@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 990,
+    "index": "F",
+    "name": "Flow Control",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 990,
+    "index": "F",
+    "solvedCount": 871
+  }
+}

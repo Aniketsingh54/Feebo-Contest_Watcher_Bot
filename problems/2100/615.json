@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1866,
+    "index": "G",
+    "name": "Grouped Carriages",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "flows",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1866,
+    "index": "G",
+    "solvedCount": 1515
+  }
+}

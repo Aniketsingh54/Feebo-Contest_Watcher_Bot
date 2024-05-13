@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 960,
+    "index": "D",
+    "name": "Full Binary Tree Queries",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 960,
+    "index": "D",
+    "solvedCount": 1680
+  }
+}

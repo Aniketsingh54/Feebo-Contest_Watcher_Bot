@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1628,
+    "index": "D2",
+    "name": "Game on Sum (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "games",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1628,
+    "index": "D2",
+    "solvedCount": 1982
+  }
+}

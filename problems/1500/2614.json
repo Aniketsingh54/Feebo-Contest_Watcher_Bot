@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1516,
+    "index": "B",
+    "name": "AGAGA XOOORRR",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1516,
+    "index": "B",
+    "solvedCount": 18120
+  }
+}

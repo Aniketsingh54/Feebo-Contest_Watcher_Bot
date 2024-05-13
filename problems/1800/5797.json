@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 869,
+    "index": "C",
+    "name": "The Intriguing Obsession",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 869,
+    "index": "C",
+    "solvedCount": 4361
+  }
+}

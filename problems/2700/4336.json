@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1182,
+    "index": "F",
+    "name": "Maximum Sine",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1182,
+    "index": "F",
+    "solvedCount": 329
+  }
+}

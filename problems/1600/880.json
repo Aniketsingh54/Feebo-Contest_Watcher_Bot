@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1822,
+    "index": "E",
+    "name": "Making Anti-Palindromes",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1822,
+    "index": "E",
+    "solvedCount": 9714
+  }
+}

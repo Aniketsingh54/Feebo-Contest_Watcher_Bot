@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1747,
+    "index": "D",
+    "name": "Yet Another Problem",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1747,
+    "index": "D",
+    "solvedCount": 4489
+  }
+}

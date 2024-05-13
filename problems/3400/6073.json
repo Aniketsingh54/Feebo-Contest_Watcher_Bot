@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 804,
+    "index": "F",
+    "name": "Fake bullions",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3400,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 804,
+    "index": "F",
+    "solvedCount": 137
+  }
+}

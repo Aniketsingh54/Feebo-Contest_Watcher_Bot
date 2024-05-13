@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1210,
+    "index": "A",
+    "name": "Anadi and Domino",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1210,
+    "index": "A",
+    "solvedCount": 5120
+  }
+}

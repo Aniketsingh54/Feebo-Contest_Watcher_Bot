@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1874,
+    "index": "A",
+    "name": "Jellyfish and Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "games",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1874,
+    "index": "A",
+    "solvedCount": 15801
+  }
+}

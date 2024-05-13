@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 989,
+    "index": "E",
+    "name": "A Trance of Nightfall",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "geometry",
+      "matrices",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 989,
+    "index": "E",
+    "solvedCount": 228
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1758,
+    "index": "B",
+    "name": "XOR = Average",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1758,
+    "index": "B",
+    "solvedCount": 20126
+  }
+}

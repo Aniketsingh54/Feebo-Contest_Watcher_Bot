@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "A3",
+    "name": "Heidi Learns Hashing (Hard)",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "fft",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "A3",
+    "solvedCount": 137
+  }
+}

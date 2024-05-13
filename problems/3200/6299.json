@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 756,
+    "index": "E",
+    "name": "Byteland coins",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 756,
+    "index": "E",
+    "solvedCount": 152
+  }
+}

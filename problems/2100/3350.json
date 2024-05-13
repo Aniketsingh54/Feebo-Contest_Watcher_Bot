@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1370,
+    "index": "E",
+    "name": "Binary Subsequence Rotation",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1370,
+    "index": "E",
+    "solvedCount": 4613
+  }
+}

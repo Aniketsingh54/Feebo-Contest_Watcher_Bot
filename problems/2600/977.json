@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1805,
+    "index": "F1",
+    "name": "Survival of the Weakest (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1805,
+    "index": "F1",
+    "solvedCount": 820
+  }
+}

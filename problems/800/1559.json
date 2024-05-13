@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1709,
+    "index": "A",
+    "name": "Three Doors",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1709,
+    "index": "A",
+    "solvedCount": 29039
+  }
+}

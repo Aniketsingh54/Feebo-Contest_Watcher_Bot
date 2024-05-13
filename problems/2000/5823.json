@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 863,
+    "index": "E",
+    "name": "Turn Off The TV",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 863,
+    "index": "E",
+    "solvedCount": 2954
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1931,
+    "index": "D",
+    "name": "Divisible Pairs",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1931,
+    "index": "D",
+    "solvedCount": 15860
+  }
+}

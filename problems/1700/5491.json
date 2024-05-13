@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 936,
+    "index": "A",
+    "name": "Save Energy!",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 936,
+    "index": "A",
+    "solvedCount": 4320
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1600,
+    "index": "F",
+    "name": "Party Organization",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1600,
+    "index": "F",
+    "solvedCount": 433
+  }
+}

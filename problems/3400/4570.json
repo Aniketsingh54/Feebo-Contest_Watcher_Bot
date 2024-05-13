@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1137,
+    "index": "F",
+    "name": "Matches Are Not a Child's Play ",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1137,
+    "index": "F",
+    "solvedCount": 459
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1767,
+    "index": "D",
+    "name": "Playoff",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1767,
+    "index": "D",
+    "solvedCount": 9428
+  }
+}

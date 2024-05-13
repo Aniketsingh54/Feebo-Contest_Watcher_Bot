@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1523,
+    "index": "E",
+    "name": "Crypto Lights",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1523,
+    "index": "E",
+    "solvedCount": 1533
+  }
+}

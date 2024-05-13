@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1264,
+    "index": "E",
+    "name": "Beautiful League",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1264,
+    "index": "E",
+    "solvedCount": 748
+  }
+}

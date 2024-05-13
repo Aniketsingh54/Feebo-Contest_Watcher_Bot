@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1889,
+    "index": "D",
+    "name": "Game of Stacks",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3000,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1889,
+    "index": "D",
+    "solvedCount": 521
+  }
+}

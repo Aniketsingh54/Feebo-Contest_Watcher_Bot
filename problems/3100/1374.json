@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1740,
+    "index": "G",
+    "name": "Dangerous Laser Power",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1740,
+    "index": "G",
+    "solvedCount": 178
+  }
+}

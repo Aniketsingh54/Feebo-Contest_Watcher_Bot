@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1118,
+    "index": "D2",
+    "name": "Coffee and Coursework (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1118,
+    "index": "D2",
+    "solvedCount": 6046
+  }
+}

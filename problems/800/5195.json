@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1005,
+    "index": "A",
+    "name": "Tanya and Stairways",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1005,
+    "index": "A",
+    "solvedCount": 23065
+  }
+}

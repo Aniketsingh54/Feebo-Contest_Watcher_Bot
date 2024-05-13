@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1208,
+    "index": "H",
+    "name": "Red Blue Tree",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1208,
+    "index": "H",
+    "solvedCount": 141
+  }
+}

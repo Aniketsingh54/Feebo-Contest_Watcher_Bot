@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1704,
+    "index": "G",
+    "name": "Mio and Lucky Array",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "fft",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1704,
+    "index": "G",
+    "solvedCount": 97
+  }
+}

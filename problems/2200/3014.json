@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1437,
+    "index": "E",
+    "name": "Make It Increasing",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1437,
+    "index": "E",
+    "solvedCount": 3328
+  }
+}

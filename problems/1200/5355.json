@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 977,
+    "index": "C",
+    "name": "Less or Equal",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 977,
+    "index": "C",
+    "solvedCount": 32361
+  }
+}

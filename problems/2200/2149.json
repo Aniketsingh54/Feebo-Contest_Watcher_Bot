@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1607,
+    "index": "H",
+    "name": "Banquet Preparations 2",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1607,
+    "index": "H",
+    "solvedCount": 1195
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 955,
+    "index": "A",
+    "name": "Feed the cat",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 955,
+    "index": "A",
+    "solvedCount": 6551
+  }
+}

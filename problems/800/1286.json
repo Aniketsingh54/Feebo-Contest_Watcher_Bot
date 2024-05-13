@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1760,
+    "index": "C",
+    "name": "Advantage",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1760,
+    "index": "C",
+    "solvedCount": 35102
+  }
+}

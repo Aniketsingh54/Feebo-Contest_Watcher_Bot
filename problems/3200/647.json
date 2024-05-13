@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1861,
+    "index": "F",
+    "name": "Four Suits",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "flows",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1861,
+    "index": "F",
+    "solvedCount": 146
+  }
+}

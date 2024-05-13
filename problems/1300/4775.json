@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1093,
+    "index": "C",
+    "name": "Mishka and the Last Exam",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1093,
+    "index": "C",
+    "solvedCount": 9278
+  }
+}

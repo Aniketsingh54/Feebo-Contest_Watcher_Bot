@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1567,
+    "index": "E",
+    "name": "Non-Decreasing Dilemma",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1567,
+    "index": "E",
+    "solvedCount": 3506
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1550,
+    "index": "E",
+    "name": "Stringforces",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "dp",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1550,
+    "index": "E",
+    "solvedCount": 1441
+  }
+}

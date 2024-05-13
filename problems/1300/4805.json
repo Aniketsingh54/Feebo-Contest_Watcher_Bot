@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1090,
+    "index": "A",
+    "name": "Company Merging",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1090,
+    "index": "A",
+    "solvedCount": 4040
+  }
+}

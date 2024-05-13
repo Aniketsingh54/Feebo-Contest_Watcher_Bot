@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "C",
+    "name": "Library game",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "games",
+      "greedy",
+      "interactive",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "C",
+    "solvedCount": 757
+  }
+}

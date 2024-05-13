@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 958,
+    "index": "C3",
+    "name": "Encryption (hard)",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 958,
+    "index": "C3",
+    "solvedCount": 486
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1932,
+    "index": "A",
+    "name": "Thorns and Coins",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1932,
+    "index": "A",
+    "solvedCount": 26750
+  }
+}

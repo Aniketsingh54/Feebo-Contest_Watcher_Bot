@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1010,
+    "index": "D",
+    "name": "Mars rover",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1010,
+    "index": "D",
+    "solvedCount": 2354
+  }
+}

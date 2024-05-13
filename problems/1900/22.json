@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "C3",
+    "name": "Game on Tree (Hard)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "C3",
+    "solvedCount": 635
+  }
+}

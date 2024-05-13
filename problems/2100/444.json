@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1900,
+    "index": "E",
+    "name": "Transitive Graph",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1900,
+    "index": "E",
+    "solvedCount": 1830
+  }
+}

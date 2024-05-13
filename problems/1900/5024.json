@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1041,
+    "index": "E",
+    "name": "Tree Reconstruction",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1041,
+    "index": "E",
+    "solvedCount": 3504
+  }
+}

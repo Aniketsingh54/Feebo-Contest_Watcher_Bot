@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 709,
+    "index": "A",
+    "name": "Juicer",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 709,
+    "index": "A",
+    "solvedCount": 30085
+  }
+}

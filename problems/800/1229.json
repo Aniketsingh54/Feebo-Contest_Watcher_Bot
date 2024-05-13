@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1767,
+    "index": "B",
+    "name": "Block Towers",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1767,
+    "index": "B",
+    "solvedCount": 19576
+  }
+}

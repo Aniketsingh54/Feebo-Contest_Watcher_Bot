@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1815,
+    "index": "B",
+    "name": "Sum Graph",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "interactive",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1815,
+    "index": "B",
+    "solvedCount": 2849
+  }
+}

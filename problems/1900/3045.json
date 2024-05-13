@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1430,
+    "index": "E",
+    "name": "String Reversal",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1430,
+    "index": "E",
+    "solvedCount": 6168
+  }
+}

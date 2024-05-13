@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1700,
+    "index": "E",
+    "name": "Serega the Pirate",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1700,
+    "index": "E",
+    "solvedCount": 825
+  }
+}

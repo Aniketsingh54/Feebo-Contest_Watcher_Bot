@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 867,
+    "index": "A",
+    "name": "Between the Offices",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 867,
+    "index": "A",
+    "solvedCount": 18768
+  }
+}

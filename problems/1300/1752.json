@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1675,
+    "index": "D",
+    "name": "Vertical Paths",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "graphs",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1675,
+    "index": "D",
+    "solvedCount": 12577
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1499,
+    "index": "D",
+    "name": "The Number of Pairs",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1499,
+    "index": "D",
+    "solvedCount": 5469
+  }
+}

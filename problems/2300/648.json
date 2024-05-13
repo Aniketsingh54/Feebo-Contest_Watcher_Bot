@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1861,
+    "index": "E",
+    "name": "Non-Intersecting Subpermutations",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1861,
+    "index": "E",
+    "solvedCount": 1619
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 952,
+    "index": "D",
+    "name": "I'm Feeling Lucky!",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 952,
+    "index": "D",
+    "solvedCount": 2391
+  }
+}

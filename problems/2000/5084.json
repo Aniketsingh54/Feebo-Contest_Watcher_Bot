@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1030,
+    "index": "E",
+    "name": "Vasya and Good Sequences",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1030,
+    "index": "E",
+    "solvedCount": 2969
+  }
+}

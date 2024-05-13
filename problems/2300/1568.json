@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1706,
+    "index": "E",
+    "name": "Qpwoeirut and Vertices",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1706,
+    "index": "E",
+    "solvedCount": 2367
+  }
+}

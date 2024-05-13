@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1252,
+    "index": "C",
+    "name": "Even Path",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1252,
+    "index": "C",
+    "solvedCount": 3626
+  }
+}

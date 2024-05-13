@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1257,
+    "index": "C",
+    "name": "Dominated Subarray",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1257,
+    "index": "C",
+    "solvedCount": 15598
+  }
+}

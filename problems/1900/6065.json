@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 808,
+    "index": "D",
+    "name": "Array Division",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 808,
+    "index": "D",
+    "solvedCount": 6738
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1486,
+    "index": "E",
+    "name": "Paired Payment",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "flows",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1486,
+    "index": "E",
+    "solvedCount": 2795
+  }
+}

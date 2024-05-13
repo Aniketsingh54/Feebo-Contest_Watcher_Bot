@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1466,
+    "index": "I",
+    "name": "The Riddle of the Sphinx",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "data structures",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1466,
+    "index": "I",
+    "solvedCount": 180
+  }
+}

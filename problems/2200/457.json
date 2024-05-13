@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1898,
+    "index": "E",
+    "name": "Sofia and Strings",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1898,
+    "index": "E",
+    "solvedCount": 2050
+  }
+}

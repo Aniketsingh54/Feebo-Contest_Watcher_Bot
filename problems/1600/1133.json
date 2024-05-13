@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1779,
+    "index": "C",
+    "name": "Least Prefix Sum",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1779,
+    "index": "C",
+    "solvedCount": 11829
+  }
+}

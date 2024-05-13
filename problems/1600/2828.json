@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1476,
+    "index": "C",
+    "name": "Longest Simple Cycle",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1476,
+    "index": "C",
+    "solvedCount": 11056
+  }
+}

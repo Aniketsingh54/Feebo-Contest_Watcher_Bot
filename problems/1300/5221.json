@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "A2",
+    "name": "Generate superposition of zero state and a basis state",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "A2",
+    "solvedCount": 550
+  }
+}

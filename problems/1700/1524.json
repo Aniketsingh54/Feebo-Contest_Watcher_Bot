@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1715,
+    "index": "C",
+    "name": "Monoblock",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1715,
+    "index": "C",
+    "solvedCount": 8340
+  }
+}

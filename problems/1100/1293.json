@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1759,
+    "index": "C",
+    "name": "Thermostat",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1759,
+    "index": "C",
+    "solvedCount": 17001
+  }
+}

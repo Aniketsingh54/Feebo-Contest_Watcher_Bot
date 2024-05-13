@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 988,
+    "index": "D",
+    "name": "Points and Powers of Two",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 988,
+    "index": "D",
+    "solvedCount": 6798
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1839,
+    "index": "D",
+    "name": "Ball Sorting",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1839,
+    "index": "D",
+    "solvedCount": 2178
+  }
+}

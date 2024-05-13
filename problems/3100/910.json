@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1815,
+    "index": "E",
+    "name": "Bosco and Particle",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3100,
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1815,
+    "index": "E",
+    "solvedCount": 326
+  }
+}

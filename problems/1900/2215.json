@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1593,
+    "index": "D2",
+    "name": "Half of Same",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1593,
+    "index": "D2",
+    "solvedCount": 4796
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 842,
+    "index": "D",
+    "name": "Vitya and Strange Lesson",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 842,
+    "index": "D",
+    "solvedCount": 3224
+  }
+}

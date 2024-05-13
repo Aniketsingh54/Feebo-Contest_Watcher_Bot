@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 786,
+    "index": "C",
+    "name": "Till I Collapse",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 786,
+    "index": "C",
+    "solvedCount": 2523
+  }
+}

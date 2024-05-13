@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 827,
+    "index": "C",
+    "name": "DNA Evolution",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 827,
+    "index": "C",
+    "solvedCount": 1615
+  }
+}

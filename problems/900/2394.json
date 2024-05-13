@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1555,
+    "index": "A",
+    "name": "PizzaForces",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1555,
+    "index": "A",
+    "solvedCount": 27293
+  }
+}

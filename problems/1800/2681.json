@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1505,
+    "index": "E",
+    "name": "Cakewalk",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "greedy",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1505,
+    "index": "E",
+    "solvedCount": 1720
+  }
+}

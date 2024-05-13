@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1408,
+    "index": "D",
+    "name": "Searchlights",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1408,
+    "index": "D",
+    "solvedCount": 4163
+  }
+}

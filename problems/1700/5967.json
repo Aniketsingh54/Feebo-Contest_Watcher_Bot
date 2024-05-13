@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 833,
+    "index": "A",
+    "name": "The Meaningless Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 833,
+    "index": "A",
+    "solvedCount": 6026
+  }
+}

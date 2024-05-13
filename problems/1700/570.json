@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1873,
+    "index": "H",
+    "name": "Mad City",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "games",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1873,
+    "index": "H",
+    "solvedCount": 6607
+  }
+}

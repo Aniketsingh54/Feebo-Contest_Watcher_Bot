@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1623,
+    "index": "B",
+    "name": "Game on Ranges",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1623,
+    "index": "B",
+    "solvedCount": 13908
+  }
+}

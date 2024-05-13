@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "B",
+    "name": "Minimum and Maximum",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "B",
+    "solvedCount": 2376
+  }
+}

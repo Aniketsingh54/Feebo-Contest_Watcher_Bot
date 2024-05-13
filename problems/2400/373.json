@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1910,
+    "index": "H",
+    "name": "Sum of Digits of Sums",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "*special",
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1910,
+    "index": "H",
+    "solvedCount": 79
+  }
+}

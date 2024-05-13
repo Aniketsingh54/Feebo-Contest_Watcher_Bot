@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1555,
+    "index": "D",
+    "name": "Say No to Palindromes",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1555,
+    "index": "D",
+    "solvedCount": 11758
+  }
+}

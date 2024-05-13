@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1340,
+    "index": "D",
+    "name": "Nastya and Time Machine",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1340,
+    "index": "D",
+    "solvedCount": 803
+  }
+}

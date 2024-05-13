@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1632,
+    "index": "B",
+    "name": "Roof Construction",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1632,
+    "index": "B",
+    "solvedCount": 20870
+  }
+}

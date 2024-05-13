@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1558,
+    "index": "B",
+    "name": "Up the Strip",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1558,
+    "index": "B",
+    "solvedCount": 4613
+  }
+}

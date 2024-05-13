@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1213,
+    "index": "F",
+    "name": "Unstable String Sort",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1213,
+    "index": "F",
+    "solvedCount": 2335
+  }
+}

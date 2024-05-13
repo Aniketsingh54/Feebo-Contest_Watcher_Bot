@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1499,
+    "index": "C",
+    "name": "Minimum Grid Path",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1499,
+    "index": "C",
+    "solvedCount": 12338
+  }
+}

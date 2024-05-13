@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1333,
+    "index": "C",
+    "name": "Eugene and an array",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1333,
+    "index": "C",
+    "solvedCount": 12178
+  }
+}

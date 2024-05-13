@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1769,
+    "index": "D2",
+    "name": "Игра в Девятку II",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "*special",
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1769,
+    "index": "D2",
+    "solvedCount": 186
+  }
+}

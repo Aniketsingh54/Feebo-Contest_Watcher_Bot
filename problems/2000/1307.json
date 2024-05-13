@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1753,
+    "index": "C",
+    "name": "Wish I Knew How to Sort",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1753,
+    "index": "C",
+    "solvedCount": 4174
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1842,
+    "index": "G",
+    "name": "Tenzing and Random Operations",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1842,
+    "index": "G",
+    "solvedCount": 928
+  }
+}

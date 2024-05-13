@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 816,
+    "index": "B",
+    "name": "Karen and Coffee",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 816,
+    "index": "B",
+    "solvedCount": 16462
+  }
+}

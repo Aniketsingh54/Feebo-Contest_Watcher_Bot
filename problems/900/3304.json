@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1380,
+    "index": "A",
+    "name": "Three Indices",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1380,
+    "index": "A",
+    "solvedCount": 23321
+  }
+}

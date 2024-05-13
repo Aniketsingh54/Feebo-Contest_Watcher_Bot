@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1151,
+    "index": "E",
+    "name": "Number of Components",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1151,
+    "index": "E",
+    "solvedCount": 3039
+  }
+}

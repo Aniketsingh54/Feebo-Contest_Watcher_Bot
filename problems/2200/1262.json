@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1763,
+    "index": "E",
+    "name": "Node Pairs",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "graphs",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1763,
+    "index": "E",
+    "solvedCount": 1701
+  }
+}

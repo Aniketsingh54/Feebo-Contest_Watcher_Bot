@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1539,
+    "index": "D",
+    "name": "PriceFixed",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1539,
+    "index": "D",
+    "solvedCount": 11285
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1690,
+    "index": "A",
+    "name": "Print a Pedestal (Codeforces logo?)",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1690,
+    "index": "A",
+    "solvedCount": 32581
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1932,
+    "index": "G",
+    "name": "Moving Platforms",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "graphs",
+      "math",
+      "number theory",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1932,
+    "index": "G",
+    "solvedCount": 881
+  }
+}

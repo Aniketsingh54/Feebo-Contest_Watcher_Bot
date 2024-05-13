@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 884,
+    "index": "B",
+    "name": "Japanese Crosswords Strike Back",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 884,
+    "index": "B",
+    "solvedCount": 6802
+  }
+}

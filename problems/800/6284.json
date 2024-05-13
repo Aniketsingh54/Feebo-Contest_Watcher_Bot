@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 760,
+    "index": "A",
+    "name": "Petr and a calendar",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 760,
+    "index": "A",
+    "solvedCount": 7740
+  }
+}

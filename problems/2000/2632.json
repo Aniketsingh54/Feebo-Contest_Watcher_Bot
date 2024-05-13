@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1513,
+    "index": "D",
+    "name": "GCD and MST",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1513,
+    "index": "D",
+    "solvedCount": 5052
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1898,
+    "index": "F",
+    "name": "Vova Escapes the Matrix",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "divide and conquer",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1898,
+    "index": "F",
+    "solvedCount": 736
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1668,
+    "index": "A",
+    "name": "Direction Change",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1668,
+    "index": "A",
+    "solvedCount": 16157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1136,
+    "index": "D",
+    "name": "Nastya Is Buying Lunch",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1136,
+    "index": "D",
+    "solvedCount": 3747
+  }
+}

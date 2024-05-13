@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1146,
+    "index": "A",
+    "name": "Love \"A\"",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1146,
+    "index": "A",
+    "solvedCount": 21442
+  }
+}

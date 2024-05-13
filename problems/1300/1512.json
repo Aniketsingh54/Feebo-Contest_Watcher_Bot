@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1717,
+    "index": "C",
+    "name": "Madoka and Formal Statement",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1717,
+    "index": "C",
+    "solvedCount": 14278
+  }
+}

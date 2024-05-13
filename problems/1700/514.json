@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1884,
+    "index": "C",
+    "name": "Medium Design",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1884,
+    "index": "C",
+    "solvedCount": 5457
+  }
+}

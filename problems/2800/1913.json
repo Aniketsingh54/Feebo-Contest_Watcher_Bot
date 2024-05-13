@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1648,
+    "index": "D",
+    "name": "Serious Business",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1648,
+    "index": "D",
+    "solvedCount": 793
+  }
+}

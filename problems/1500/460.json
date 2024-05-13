@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1898,
+    "index": "B",
+    "name": "Milena and Admirer",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1898,
+    "index": "B",
+    "solvedCount": 10484
+  }
+}

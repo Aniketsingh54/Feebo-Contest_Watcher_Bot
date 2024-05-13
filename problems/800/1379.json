@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1740,
+    "index": "B",
+    "name": "Jumbo Extra Cheese 2",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1740,
+    "index": "B",
+    "solvedCount": 13547
+  }
+}

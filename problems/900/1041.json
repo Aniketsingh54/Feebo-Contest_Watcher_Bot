@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1795,
+    "index": "B",
+    "name": "Ideal Point",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1795,
+    "index": "B",
+    "solvedCount": 21173
+  }
+}

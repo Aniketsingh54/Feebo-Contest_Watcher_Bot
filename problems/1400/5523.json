@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 929,
+    "index": "A",
+    "name": "Прокат велосипедов",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "*special",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 929,
+    "index": "A",
+    "solvedCount": 2491
+  }
+}

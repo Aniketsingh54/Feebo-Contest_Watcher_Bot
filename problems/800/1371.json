@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1741,
+    "index": "A",
+    "name": "Compare T-Shirt Sizes",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1741,
+    "index": "A",
+    "solvedCount": 29851
+  }
+}

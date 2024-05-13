@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1462,
+    "index": "B",
+    "name": "Last Year's Substring",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1462,
+    "index": "B",
+    "solvedCount": 26571
+  }
+}

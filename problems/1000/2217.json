@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1593,
+    "index": "C",
+    "name": "Save More Mice",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1593,
+    "index": "C",
+    "solvedCount": 24026
+  }
+}

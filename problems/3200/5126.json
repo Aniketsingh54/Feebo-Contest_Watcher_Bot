@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1019,
+    "index": "E",
+    "name": "Raining season",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1019,
+    "index": "E",
+    "solvedCount": 327
+  }
+}

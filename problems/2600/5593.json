@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 917,
+    "index": "D",
+    "name": "Stranger Trees",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "dp",
+      "math",
+      "matrices",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 917,
+    "index": "D",
+    "solvedCount": 1009
+  }
+}

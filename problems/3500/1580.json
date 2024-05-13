@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1704,
+    "index": "H2",
+    "name": "Game of AI (hard version)",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3500,
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1704,
+    "index": "H2",
+    "solvedCount": 76
+  }
+}

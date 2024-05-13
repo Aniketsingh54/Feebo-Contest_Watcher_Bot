@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1344,
+    "index": "C",
+    "name": "Quantifier Question",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1344,
+    "index": "C",
+    "solvedCount": 1639
+  }
+}

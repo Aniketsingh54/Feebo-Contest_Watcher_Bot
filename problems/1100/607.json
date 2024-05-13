@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1867,
+    "index": "B",
+    "name": "XOR Palindromes",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1867,
+    "index": "B",
+    "solvedCount": 15839
+  }
+}

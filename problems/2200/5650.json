@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 908,
+    "index": "D",
+    "name": "New Year and Arbitrary Arrangement",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 908,
+    "index": "D",
+    "solvedCount": 2247
+  }
+}

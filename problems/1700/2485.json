@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1538,
+    "index": "D",
+    "name": "Another Problem About Dividing Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1538,
+    "index": "D",
+    "solvedCount": 13067
+  }
+}

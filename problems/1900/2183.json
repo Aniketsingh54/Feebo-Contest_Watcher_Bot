@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1601,
+    "index": "B",
+    "name": "Frog Traveler",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1601,
+    "index": "B",
+    "solvedCount": 4777
+  }
+}

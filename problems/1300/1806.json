@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1667,
+    "index": "A",
+    "name": "Make it Increasing",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1667,
+    "index": "A",
+    "solvedCount": 14361
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1808,
+    "index": "A",
+    "name": "Lucky Numbers",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1808,
+    "index": "A",
+    "solvedCount": 17338
+  }
+}

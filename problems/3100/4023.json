@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1240,
+    "index": "F",
+    "name": "Football",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3100,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1240,
+    "index": "F",
+    "solvedCount": 241
+  }
+}

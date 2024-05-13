@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1200,
+    "index": "E",
+    "name": "Compress Words",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "hashing",
+      "implementation",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1200,
+    "index": "E",
+    "solvedCount": 6981
+  }
+}

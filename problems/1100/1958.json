@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1638,
+    "index": "B",
+    "name": "Odd Swap Sort",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1638,
+    "index": "B",
+    "solvedCount": 20416
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1401,
+    "index": "D",
+    "name": "Maximum Distributed Tree",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1401,
+    "index": "D",
+    "solvedCount": 8865
+  }
+}

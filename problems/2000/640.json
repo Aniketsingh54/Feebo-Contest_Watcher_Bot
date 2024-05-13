@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1862,
+    "index": "G",
+    "name": "The Great Equalizer",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1862,
+    "index": "G",
+    "solvedCount": 2653
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1132,
+    "index": "F",
+    "name": "Clear the String",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1132,
+    "index": "F",
+    "solvedCount": 7306
+  }
+}

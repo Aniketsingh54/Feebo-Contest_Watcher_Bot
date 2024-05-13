@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1475,
+    "index": "B",
+    "name": "New Year's Number",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1475,
+    "index": "B",
+    "solvedCount": 46480
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1856,
+    "index": "C",
+    "name": "To Become Max",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1856,
+    "index": "C",
+    "solvedCount": 11071
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1796,
+    "index": "F",
+    "name": "Strange Triples",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1796,
+    "index": "F",
+    "solvedCount": 169
+  }
+}

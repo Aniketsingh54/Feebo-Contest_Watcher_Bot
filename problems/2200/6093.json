@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "H",
+    "name": "Fake News (medium)",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "H",
+    "solvedCount": 426
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1778,
+    "index": "E",
+    "name": "The Tree Has Fallen!",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1778,
+    "index": "E",
+    "solvedCount": 822
+  }
+}

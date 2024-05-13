@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1025,
+    "index": "G",
+    "name": "Company Acquisitions",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3200,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1025,
+    "index": "G",
+    "solvedCount": 619
+  }
+}

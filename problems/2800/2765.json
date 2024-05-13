@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1488,
+    "index": "H",
+    "name": "Build From Suffixes",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "*special",
+      "combinatorics",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1488,
+    "index": "H",
+    "solvedCount": 53
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1452,
+    "index": "D",
+    "name": "Radio Towers",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1452,
+    "index": "D",
+    "solvedCount": 7767
+  }
+}

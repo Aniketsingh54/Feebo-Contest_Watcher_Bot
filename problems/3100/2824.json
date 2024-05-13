@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1476,
+    "index": "G",
+    "name": "Minimum Difference",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "data structures",
+      "hashing",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1476,
+    "index": "G",
+    "solvedCount": 528
+  }
+}

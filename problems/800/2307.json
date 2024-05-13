@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1574,
+    "index": "A",
+    "name": "Regular Bracket Sequences",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1574,
+    "index": "A",
+    "solvedCount": 21311
+  }
+}

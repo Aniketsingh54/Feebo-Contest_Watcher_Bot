@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1006,
+    "index": "C",
+    "name": "Three Parts of the Array",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1006,
+    "index": "C",
+    "solvedCount": 20302
+  }
+}

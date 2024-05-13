@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1729,
+    "index": "D",
+    "name": "Friends and the Restaurant",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1729,
+    "index": "D",
+    "solvedCount": 18865
+  }
+}

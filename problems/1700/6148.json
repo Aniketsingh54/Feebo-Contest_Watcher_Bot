@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 789,
+    "index": "B",
+    "name": "Masha and geometric depression",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 789,
+    "index": "B",
+    "solvedCount": 4342
+  }
+}

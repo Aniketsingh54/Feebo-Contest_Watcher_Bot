@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1093,
+    "index": "E",
+    "name": "Intersection of Permutations",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1093,
+    "index": "E",
+    "solvedCount": 1485
+  }
+}

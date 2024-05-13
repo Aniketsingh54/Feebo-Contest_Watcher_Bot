@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1256,
+    "index": "D",
+    "name": "Binary String Minimizing",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1256,
+    "index": "D",
+    "solvedCount": 11720
+  }
+}

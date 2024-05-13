@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 962,
+    "index": "C",
+    "name": "Make a Square",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 962,
+    "index": "C",
+    "solvedCount": 7747
+  }
+}

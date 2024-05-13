@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1578,
+    "index": "A",
+    "name": "Anti-Tetris",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1578,
+    "index": "A",
+    "solvedCount": 328
+  }
+}

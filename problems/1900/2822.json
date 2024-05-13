@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1477,
+    "index": "B",
+    "name": "Nezzar and Binary String",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1477,
+    "index": "B",
+    "solvedCount": 3076
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1804,
+    "index": "F",
+    "name": "Approximate Diameter",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "divide and conquer",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1804,
+    "index": "F",
+    "solvedCount": 853
+  }
+}

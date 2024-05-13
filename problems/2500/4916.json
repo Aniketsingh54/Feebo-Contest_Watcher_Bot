@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1065,
+    "index": "F",
+    "name": "Up and Down the Tree",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1065,
+    "index": "F",
+    "solvedCount": 1139
+  }
+}

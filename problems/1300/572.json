@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1873,
+    "index": "F",
+    "name": "Money Trees",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1873,
+    "index": "F",
+    "solvedCount": 13867
+  }
+}

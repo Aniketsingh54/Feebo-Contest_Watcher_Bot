@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1638,
+    "index": "D",
+    "name": "Big Brush",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1638,
+    "index": "D",
+    "solvedCount": 4046
+  }
+}

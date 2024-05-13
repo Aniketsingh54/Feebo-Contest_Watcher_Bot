@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 821,
+    "index": "B",
+    "name": "Okabe and Banana Trees",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 821,
+    "index": "B",
+    "solvedCount": 5640
+  }
+}

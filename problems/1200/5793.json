@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 870,
+    "index": "B",
+    "name": "Maximum of Maximums of Minimums",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 870,
+    "index": "B",
+    "solvedCount": 9125
+  }
+}

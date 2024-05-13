@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1419,
+    "index": "F",
+    "name": "Rain of Fire",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1419,
+    "index": "F",
+    "solvedCount": 474
+  }
+}

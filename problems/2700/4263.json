@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1194,
+    "index": "G",
+    "name": "Another Meme Problem",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1194,
+    "index": "G",
+    "solvedCount": 217
+  }
+}

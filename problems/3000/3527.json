@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1342,
+    "index": "F",
+    "name": "Make It Ascending",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1342,
+    "index": "F",
+    "solvedCount": 686
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 848,
+    "index": "E",
+    "name": "Days of Floral Colours",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 848,
+    "index": "E",
+    "solvedCount": 201
+  }
+}

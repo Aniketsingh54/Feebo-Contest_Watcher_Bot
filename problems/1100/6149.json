@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 789,
+    "index": "A",
+    "name": "Anastasia and pebbles",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 789,
+    "index": "A",
+    "solvedCount": 9216
+  }
+}

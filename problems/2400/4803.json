@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1090,
+    "index": "C",
+    "name": "New Year Presents",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1090,
+    "index": "C",
+    "solvedCount": 478
+  }
+}

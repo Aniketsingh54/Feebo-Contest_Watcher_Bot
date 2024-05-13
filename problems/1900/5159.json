@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1012,
+    "index": "B",
+    "name": "Chemical table",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1012,
+    "index": "B",
+    "solvedCount": 3653
+  }
+}

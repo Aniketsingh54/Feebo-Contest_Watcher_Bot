@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1355,
+    "index": "C",
+    "name": "Count Triangles",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1355,
+    "index": "C",
+    "solvedCount": 10206
+  }
+}

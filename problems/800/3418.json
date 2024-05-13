@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1360,
+    "index": "A",
+    "name": "Minimal Square",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1360,
+    "index": "A",
+    "solvedCount": 48078
+  }
+}

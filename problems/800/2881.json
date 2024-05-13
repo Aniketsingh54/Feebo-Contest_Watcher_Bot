@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "E",
+    "name": "Four Segments",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "E",
+    "solvedCount": 8623
+  }
+}

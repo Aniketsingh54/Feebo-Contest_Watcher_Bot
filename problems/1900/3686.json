@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1307,
+    "index": "D",
+    "name": "Cow and Fields",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1307,
+    "index": "D",
+    "solvedCount": 6030
+  }
+}

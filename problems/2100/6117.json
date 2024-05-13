@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 797,
+    "index": "D",
+    "name": "Broken BST",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 797,
+    "index": "D",
+    "solvedCount": 1752
+  }
+}

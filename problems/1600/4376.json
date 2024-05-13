@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1175,
+    "index": "C",
+    "name": "Electrification",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1175,
+    "index": "C",
+    "solvedCount": 6672
+  }
+}

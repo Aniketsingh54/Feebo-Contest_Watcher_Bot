@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1361,
+    "index": "B",
+    "name": "Johnny and Grandmaster",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1361,
+    "index": "B",
+    "solvedCount": 3389
+  }
+}

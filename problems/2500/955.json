@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1808,
+    "index": "E2",
+    "name": "Minibuses on Venus (medium version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1808,
+    "index": "E2",
+    "solvedCount": 648
+  }
+}

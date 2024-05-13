@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1399,
+    "index": "B",
+    "name": "Gifts Fixing",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1399,
+    "index": "B",
+    "solvedCount": 42403
+  }
+}

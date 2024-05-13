@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "J",
+    "name": "Bottles",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "J",
+    "solvedCount": 3157
+  }
+}

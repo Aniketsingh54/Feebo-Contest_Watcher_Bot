@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1334,
+    "index": "F",
+    "name": "Strange Function",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1334,
+    "index": "F",
+    "solvedCount": 1122
+  }
+}

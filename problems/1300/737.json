@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1846,
+    "index": "E1",
+    "name": "Rudolf and Snowflakes (simple version)",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1846,
+    "index": "E1",
+    "solvedCount": 15389
+  }
+}

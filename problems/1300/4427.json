@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1165,
+    "index": "C",
+    "name": "Good String",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1165,
+    "index": "C",
+    "solvedCount": 12660
+  }
+}

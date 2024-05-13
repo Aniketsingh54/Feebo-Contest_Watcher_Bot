@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1616,
+    "index": "D",
+    "name": "Keep the Average High",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1616,
+    "index": "D",
+    "solvedCount": 4702
+  }
+}

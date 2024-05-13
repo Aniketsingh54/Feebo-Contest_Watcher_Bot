@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1439,
+    "index": "B",
+    "name": "Graph Subset Problem",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1439,
+    "index": "B",
+    "solvedCount": 1356
+  }
+}

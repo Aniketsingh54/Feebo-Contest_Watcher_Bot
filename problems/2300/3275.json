@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1385,
+    "index": "F",
+    "name": "Removing Leaves",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1385,
+    "index": "F",
+    "solvedCount": 2250
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1772,
+    "index": "F",
+    "name": "Copy of a Copy of a Copy",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1772,
+    "index": "F",
+    "solvedCount": 2232
+  }
+}

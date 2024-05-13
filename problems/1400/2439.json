@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1548,
+    "index": "A",
+    "name": "Web of Lies",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1548,
+    "index": "A",
+    "solvedCount": 16032
+  }
+}

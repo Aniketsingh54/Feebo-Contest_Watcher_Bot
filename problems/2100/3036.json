@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1431,
+    "index": "G",
+    "name": "Number Deletion Game",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "*special",
+      "dp",
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1431,
+    "index": "G",
+    "solvedCount": 138
+  }
+}

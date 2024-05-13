@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1915,
+    "index": "E",
+    "name": "Romantic Glasses",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1915,
+    "index": "E",
+    "solvedCount": 18526
+  }
+}

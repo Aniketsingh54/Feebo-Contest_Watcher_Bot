@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1679,
+    "index": "B",
+    "name": "Stone Age Problem",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1679,
+    "index": "B",
+    "solvedCount": 16991
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1404,
+    "index": "D",
+    "name": "Game of Pairs",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "interactive",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1404,
+    "index": "D",
+    "solvedCount": 983
+  }
+}

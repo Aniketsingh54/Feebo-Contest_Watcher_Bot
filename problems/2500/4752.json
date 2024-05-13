@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1097,
+    "index": "F",
+    "name": "Alex and a TV Show",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1097,
+    "index": "F",
+    "solvedCount": 1213
+  }
+}

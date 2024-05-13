@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1680,
+    "index": "F",
+    "name": "Lenient Vertex Cover",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1680,
+    "index": "F",
+    "solvedCount": 630
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1912,
+    "index": "H",
+    "name": "Hypercatapult Commute",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1912,
+    "index": "H",
+    "solvedCount": 373
+  }
+}

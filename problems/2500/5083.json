@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1030,
+    "index": "F",
+    "name": "Putting Boxes Together",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1030,
+    "index": "F",
+    "solvedCount": 790
+  }
+}

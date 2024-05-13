@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 773,
+    "index": "E",
+    "name": "Blog Post Rating",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3000,
+    "tags": [
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 773,
+    "index": "E",
+    "solvedCount": 316
+  }
+}

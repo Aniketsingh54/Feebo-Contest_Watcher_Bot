@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1762,
+    "index": "C",
+    "name": "Binary Strings are Fun",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1400,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1762,
+    "index": "C",
+    "solvedCount": 8862
+  }
+}

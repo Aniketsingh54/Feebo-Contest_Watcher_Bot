@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1867,
+    "index": "F",
+    "name": "Most Different Tree",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1867,
+    "index": "F",
+    "solvedCount": 400
+  }
+}

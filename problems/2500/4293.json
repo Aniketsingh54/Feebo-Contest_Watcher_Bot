@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1187,
+    "index": "G",
+    "name": "Gang Up",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1187,
+    "index": "G",
+    "solvedCount": 499
+  }
+}

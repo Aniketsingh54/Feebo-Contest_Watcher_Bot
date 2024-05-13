@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1089,
+    "index": "M",
+    "name": "Minegraphed",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1089,
+    "index": "M",
+    "solvedCount": 585
+  }
+}

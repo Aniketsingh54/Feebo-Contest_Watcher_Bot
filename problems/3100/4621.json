@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1119,
+    "index": "G",
+    "name": "Get Ready for the Battle",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1119,
+    "index": "G",
+    "solvedCount": 414
+  }
+}

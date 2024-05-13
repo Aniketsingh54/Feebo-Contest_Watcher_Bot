@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1705,
+    "index": "B",
+    "name": "Mark the Dust Sweeper",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1705,
+    "index": "B",
+    "solvedCount": 22216
+  }
+}

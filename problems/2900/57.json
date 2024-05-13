@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1965,
+    "index": "D",
+    "name": "Missing Subarray Sum",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1965,
+    "index": "D",
+    "solvedCount": 255
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1144,
+    "index": "D",
+    "name": "Equalize Them All",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1144,
+    "index": "D",
+    "solvedCount": 10053
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 748,
+    "index": "C",
+    "name": "Santa Claus and Robot",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 748,
+    "index": "C",
+    "solvedCount": 4540
+  }
+}

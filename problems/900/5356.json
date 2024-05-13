@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 977,
+    "index": "B",
+    "name": "Two-gram",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 977,
+    "index": "B",
+    "solvedCount": 36837
+  }
+}

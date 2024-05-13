@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "E",
+    "name": "Field of Wonders",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "E",
+    "solvedCount": 1876
+  }
+}

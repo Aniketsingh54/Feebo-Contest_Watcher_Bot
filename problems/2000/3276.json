@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1385,
+    "index": "E",
+    "name": "Directing Edges",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1385,
+    "index": "E",
+    "solvedCount": 6824
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1732,
+    "index": "D2",
+    "name": "Balance (Hard version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1732,
+    "index": "D2",
+    "solvedCount": 1365
+  }
+}

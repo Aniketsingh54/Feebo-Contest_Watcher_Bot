@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 765,
+    "index": "D",
+    "name": "Artsem and Saunders",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 765,
+    "index": "D",
+    "solvedCount": 2443
+  }
+}

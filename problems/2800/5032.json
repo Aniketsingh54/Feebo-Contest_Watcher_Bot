@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1039,
+    "index": "D",
+    "name": "You Are Given a Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1039,
+    "index": "D",
+    "solvedCount": 1646
+  }
+}

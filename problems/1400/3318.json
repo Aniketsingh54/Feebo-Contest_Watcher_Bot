@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1375,
+    "index": "C",
+    "name": "Element Extermination",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1375,
+    "index": "C",
+    "solvedCount": 20450
+  }
+}

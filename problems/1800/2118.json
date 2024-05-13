@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1611,
+    "index": "F",
+    "name": "ATM and Students",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1611,
+    "index": "F",
+    "solvedCount": 6199
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "G2",
+    "name": "Min-Fund Prison (Medium)",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "G2",
+    "solvedCount": 286
+  }
+}

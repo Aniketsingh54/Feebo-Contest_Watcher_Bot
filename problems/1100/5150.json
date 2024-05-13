@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1015,
+    "index": "C",
+    "name": "Songs Compression",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1015,
+    "index": "C",
+    "solvedCount": 17331
+  }
+}

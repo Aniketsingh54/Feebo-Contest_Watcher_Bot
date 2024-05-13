@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 776,
+    "index": "D",
+    "name": "The Door Problem",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 776,
+    "index": "D",
+    "solvedCount": 4830
+  }
+}

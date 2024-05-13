@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 754,
+    "index": "D",
+    "name": "Fedor and coupons",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 754,
+    "index": "D",
+    "solvedCount": 2135
+  }
+}

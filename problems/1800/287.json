@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1922,
+    "index": "E",
+    "name": "Increasing Subsequences",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "divide and conquer",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1922,
+    "index": "E",
+    "solvedCount": 7049
+  }
+}

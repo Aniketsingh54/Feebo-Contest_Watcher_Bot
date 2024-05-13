@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 715,
+    "index": "E",
+    "name": "Complete the Permutations",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3400,
+    "tags": [
+      "combinatorics",
+      "fft",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 715,
+    "index": "E",
+    "solvedCount": 343
+  }
+}

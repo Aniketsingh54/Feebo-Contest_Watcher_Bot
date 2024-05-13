@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 830,
+    "index": "E",
+    "name": "Perpetual Motion Machine",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "implementation",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 830,
+    "index": "E",
+    "solvedCount": 272
+  }
+}

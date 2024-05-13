@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1804,
+    "index": "E",
+    "name": "Routing",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1804,
+    "index": "E",
+    "solvedCount": 1364
+  }
+}

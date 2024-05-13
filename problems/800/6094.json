@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "G",
+    "name": "Fake News (easy)",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "G",
+    "solvedCount": 6723
+  }
+}

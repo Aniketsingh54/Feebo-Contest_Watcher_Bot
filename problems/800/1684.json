@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1688,
+    "index": "A",
+    "name": "Cirno's Perfect Bitmasks Classroom",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1688,
+    "index": "A",
+    "solvedCount": 20823
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1714,
+    "index": "F",
+    "name": "Build a Tree and That Is It",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1714,
+    "index": "F",
+    "solvedCount": 3076
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1210,
+    "index": "D",
+    "name": "Konrad and Company Evaluation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1210,
+    "index": "D",
+    "solvedCount": 1431
+  }
+}

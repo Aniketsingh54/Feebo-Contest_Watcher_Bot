@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1389,
+    "index": "D",
+    "name": "Segment Intersections",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1389,
+    "index": "D",
+    "solvedCount": 4028
+  }
+}

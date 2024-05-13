@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1427,
+    "index": "G",
+    "name": "One Billion Shades of Grey",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3300,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1427,
+    "index": "G",
+    "solvedCount": 257
+  }
+}

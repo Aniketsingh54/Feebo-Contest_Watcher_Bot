@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1153,
+    "index": "D",
+    "name": "Serval and Rooted Tree",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1153,
+    "index": "D",
+    "solvedCount": 4835
+  }
+}

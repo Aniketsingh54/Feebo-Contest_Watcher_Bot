@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1614,
+    "index": "E",
+    "name": "Divan and a Cottage",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1614,
+    "index": "E",
+    "solvedCount": 809
+  }
+}

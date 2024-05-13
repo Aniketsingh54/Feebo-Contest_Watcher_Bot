@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1163,
+    "index": "F",
+    "name": "Indecisive Taxi Fee",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3000,
+    "tags": [
+      "data structures",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1163,
+    "index": "F",
+    "solvedCount": 823
+  }
+}

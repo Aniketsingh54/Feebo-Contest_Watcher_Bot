@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1282,
+    "index": "B1",
+    "name": "K for the Price of One (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1282,
+    "index": "B1",
+    "solvedCount": 11174
+  }
+}

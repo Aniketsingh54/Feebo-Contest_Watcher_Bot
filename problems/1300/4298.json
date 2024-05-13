@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1187,
+    "index": "B",
+    "name": "Letters Shop",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1187,
+    "index": "B",
+    "solvedCount": 11974
+  }
+}

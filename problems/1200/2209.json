@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1594,
+    "index": "C",
+    "name": "Make Them Equal",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1594,
+    "index": "C",
+    "solvedCount": 17944
+  }
+}

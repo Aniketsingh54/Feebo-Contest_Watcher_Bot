@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1339,
+    "index": "A",
+    "name": "Filling Diamonds",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1339,
+    "index": "A",
+    "solvedCount": 31119
+  }
+}

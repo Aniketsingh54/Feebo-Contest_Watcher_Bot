@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "E1",
+    "name": "Trails (Easy)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "E1",
+    "solvedCount": 764
+  }
+}

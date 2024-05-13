@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1129,
+    "index": "C",
+    "name": "Morse Code",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "hashing",
+      "sortings",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1129,
+    "index": "C",
+    "solvedCount": 896
+  }
+}

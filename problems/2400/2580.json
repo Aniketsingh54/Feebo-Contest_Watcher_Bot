@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1523,
+    "index": "D",
+    "name": "Love-Hate",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1523,
+    "index": "D",
+    "solvedCount": 2084
+  }
+}

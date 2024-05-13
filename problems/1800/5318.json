@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 983,
+    "index": "B",
+    "name": "XOR-pyramid",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 983,
+    "index": "B",
+    "solvedCount": 5252
+  }
+}

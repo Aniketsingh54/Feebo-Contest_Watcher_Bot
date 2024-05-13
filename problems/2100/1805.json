@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1667,
+    "index": "B",
+    "name": "Optimal Partition",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1667,
+    "index": "B",
+    "solvedCount": 3472
+  }
+}

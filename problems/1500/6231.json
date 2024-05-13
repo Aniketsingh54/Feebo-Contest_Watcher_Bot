@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 771,
+    "index": "A",
+    "name": "Bear and Friendship Condition",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 1500,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 771,
+    "index": "A",
+    "solvedCount": 14642
+  }
+}

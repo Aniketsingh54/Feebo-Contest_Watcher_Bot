@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1616,
+    "index": "A",
+    "name": "Integer Diversity",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1616,
+    "index": "A",
+    "solvedCount": 22435
+  }
+}

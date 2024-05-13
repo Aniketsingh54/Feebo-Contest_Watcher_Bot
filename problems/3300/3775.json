@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1290,
+    "index": "E",
+    "name": "Cartesian Tree ",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3300,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1290,
+    "index": "E",
+    "solvedCount": 511
+  }
+}

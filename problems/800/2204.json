@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1598,
+    "index": "A",
+    "name": "Computer Game",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1598,
+    "index": "A",
+    "solvedCount": 22789
+  }
+}

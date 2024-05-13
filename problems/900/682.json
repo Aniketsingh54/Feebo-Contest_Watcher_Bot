@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1856,
+    "index": "B",
+    "name": "Good Arrays",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1856,
+    "index": "B",
+    "solvedCount": 23145
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 859,
+    "index": "D",
+    "name": "Third Month Insanity",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 859,
+    "index": "D",
+    "solvedCount": 861
+  }
+}

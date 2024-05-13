@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1714,
+    "index": "G",
+    "name": "Path Prefixes",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1714,
+    "index": "G",
+    "solvedCount": 7136
+  }
+}

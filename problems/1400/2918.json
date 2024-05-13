@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1461,
+    "index": "B",
+    "name": "Find the Spruce",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1461,
+    "index": "B",
+    "solvedCount": 12355
+  }
+}

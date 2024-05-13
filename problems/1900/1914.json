@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1648,
+    "index": "C",
+    "name": "Tyler and Strings",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1648,
+    "index": "C",
+    "solvedCount": 2864
+  }
+}

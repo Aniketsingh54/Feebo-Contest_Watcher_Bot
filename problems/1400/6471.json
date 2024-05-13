@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 719,
+    "index": "B",
+    "name": "Anatoly and Cockroaches",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 719,
+    "index": "B",
+    "solvedCount": 8340
+  }
+}

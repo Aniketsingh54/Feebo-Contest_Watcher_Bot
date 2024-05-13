@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 805,
+    "index": "A",
+    "name": "Fake NP",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 805,
+    "index": "A",
+    "solvedCount": 17590
+  }
+}

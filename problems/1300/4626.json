@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1119,
+    "index": "B",
+    "name": "Alyona and a Narrow Fridge",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "flows",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1119,
+    "index": "B",
+    "solvedCount": 9841
+  }
+}

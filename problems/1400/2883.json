@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "C",
+    "name": "Berpizza",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "C",
+    "solvedCount": 7432
+  }
+}

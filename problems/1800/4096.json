@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1221,
+    "index": "D",
+    "name": "Make The Fence Great Again",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1221,
+    "index": "D",
+    "solvedCount": 8643
+  }
+}

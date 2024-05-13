@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1701,
+    "index": "D",
+    "name": "Permutation Restoration",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1701,
+    "index": "D",
+    "solvedCount": 5485
+  }
+}

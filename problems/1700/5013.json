@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1043,
+    "index": "D",
+    "name": "Mysterious Crime",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math",
+      "meet-in-the-middle",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1043,
+    "index": "D",
+    "solvedCount": 4374
+  }
+}

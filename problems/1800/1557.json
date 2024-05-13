@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1709,
+    "index": "C",
+    "name": "Recover an RBS",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1709,
+    "index": "C",
+    "solvedCount": 8515
+  }
+}

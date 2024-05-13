@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1696,
+    "index": "D",
+    "name": "Permutation Graph",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1696,
+    "index": "D",
+    "solvedCount": 5188
+  }
+}

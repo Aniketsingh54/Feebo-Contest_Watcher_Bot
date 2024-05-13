@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 727,
+    "index": "A",
+    "name": "Transformation: from A to B",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 727,
+    "index": "A",
+    "solvedCount": 13210
+  }
+}

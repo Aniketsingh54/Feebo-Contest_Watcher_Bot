@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1119,
+    "index": "A",
+    "name": "Ilya and a Colorful Walk",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1119,
+    "index": "A",
+    "solvedCount": 10422
+  }
+}

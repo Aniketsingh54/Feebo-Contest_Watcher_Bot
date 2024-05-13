@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1615,
+    "index": "B",
+    "name": "And It's Non-Zero",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1615,
+    "index": "B",
+    "solvedCount": 15234
+  }
+}

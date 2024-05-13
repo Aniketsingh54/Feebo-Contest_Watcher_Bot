@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 922,
+    "index": "B",
+    "name": "Magic Forest",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 922,
+    "index": "B",
+    "solvedCount": 8301
+  }
+}

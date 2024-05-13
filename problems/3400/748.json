@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1844,
+    "index": "H",
+    "name": "Multiple of Three Cycles",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3400,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "dsu",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1844,
+    "index": "H",
+    "solvedCount": 131
+  }
+}

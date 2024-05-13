@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1187,
+    "index": "E",
+    "name": "Tree Painting",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1187,
+    "index": "E",
+    "solvedCount": 7470
+  }
+}

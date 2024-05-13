@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1061,
+    "index": "C",
+    "name": "Multiplicity",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1061,
+    "index": "C",
+    "solvedCount": 8370
+  }
+}

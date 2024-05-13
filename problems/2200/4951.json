@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1059,
+    "index": "D",
+    "name": "Nature Reserve",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "geometry",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1059,
+    "index": "D",
+    "solvedCount": 2543
+  }
+}

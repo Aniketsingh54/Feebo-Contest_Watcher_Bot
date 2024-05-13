@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1520,
+    "index": "D",
+    "name": "Same Differences",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "hashing",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1520,
+    "index": "D",
+    "solvedCount": 42743
+  }
+}

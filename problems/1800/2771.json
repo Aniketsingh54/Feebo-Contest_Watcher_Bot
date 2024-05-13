@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1488,
+    "index": "B",
+    "name": "RBS Deletion",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1488,
+    "index": "B",
+    "solvedCount": 539
+  }
+}

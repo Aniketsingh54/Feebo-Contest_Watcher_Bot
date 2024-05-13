@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1248,
+    "index": "D1",
+    "name": "The World Is Just a Programming Task (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1248,
+    "index": "D1",
+    "solvedCount": 2287
+  }
+}

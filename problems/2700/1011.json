@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1799,
+    "index": "F",
+    "name": "Halve or Subtract",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1799,
+    "index": "F",
+    "solvedCount": 767
+  }
+}

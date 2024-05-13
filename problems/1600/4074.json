@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1227,
+    "index": "D1",
+    "name": "Optimal Subsequences (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1227,
+    "index": "D1",
+    "solvedCount": 6125
+  }
+}

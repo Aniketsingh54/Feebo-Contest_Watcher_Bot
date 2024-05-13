@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 935,
+    "index": "A",
+    "name": "Fafa and his Company",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 935,
+    "index": "A",
+    "solvedCount": 41564
+  }
+}

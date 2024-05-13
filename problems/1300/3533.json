@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1341,
+    "index": "B",
+    "name": "Nastya and Door",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1341,
+    "index": "B",
+    "solvedCount": 19031
+  }
+}

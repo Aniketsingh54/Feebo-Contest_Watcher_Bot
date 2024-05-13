@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1031,
+    "index": "E",
+    "name": "Triple Flips",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1031,
+    "index": "E",
+    "solvedCount": 431
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 920,
+    "index": "B",
+    "name": "Tea Queue",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 920,
+    "index": "B",
+    "solvedCount": 7100
+  }
+}

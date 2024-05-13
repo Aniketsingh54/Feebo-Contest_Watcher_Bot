@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1646,
+    "index": "E",
+    "name": "Power Board",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1646,
+    "index": "E",
+    "solvedCount": 2301
+  }
+}

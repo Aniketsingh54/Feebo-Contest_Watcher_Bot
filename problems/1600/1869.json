@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1658,
+    "index": "D1",
+    "name": "388535 (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "bitmasks",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1658,
+    "index": "D1",
+    "solvedCount": 8767
+  }
+}

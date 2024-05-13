@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 754,
+    "index": "B",
+    "name": "Ilya and tic-tac-toe game",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 754,
+    "index": "B",
+    "solvedCount": 7169
+  }
+}

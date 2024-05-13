@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1285,
+    "index": "B",
+    "name": "Just Eat It!",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1285,
+    "index": "B",
+    "solvedCount": 21042
+  }
+}

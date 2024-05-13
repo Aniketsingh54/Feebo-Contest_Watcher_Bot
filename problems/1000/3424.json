@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1359,
+    "index": "A",
+    "name": "Berland Poker",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1359,
+    "index": "A",
+    "solvedCount": 28766
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 982,
+    "index": "E",
+    "name": "Billiard",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "geometry",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 982,
+    "index": "E",
+    "solvedCount": 689
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1937,
+    "index": "A",
+    "name": "Shuffle Party",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1937,
+    "index": "A",
+    "solvedCount": 21452
+  }
+}

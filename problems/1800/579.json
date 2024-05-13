@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1872,
+    "index": "F",
+    "name": "Selling a Menagerie",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1872,
+    "index": "F",
+    "solvedCount": 5812
+  }
+}

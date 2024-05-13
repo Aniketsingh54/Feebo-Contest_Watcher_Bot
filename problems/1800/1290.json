@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1759,
+    "index": "F",
+    "name": "All Possible Digits",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1759,
+    "index": "F",
+    "solvedCount": 3700
+  }
+}

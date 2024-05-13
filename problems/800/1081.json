@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1789,
+    "index": "A",
+    "name": "Serval and Mocha's Array",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1789,
+    "index": "A",
+    "solvedCount": 17052
+  }
+}

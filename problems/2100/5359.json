@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 976,
+    "index": "E",
+    "name": "Well played!",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 976,
+    "index": "E",
+    "solvedCount": 2188
+  }
+}

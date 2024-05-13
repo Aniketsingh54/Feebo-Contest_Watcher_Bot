@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1617,
+    "index": "B",
+    "name": "GCD Problem",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1617,
+    "index": "B",
+    "solvedCount": 22428
+  }
+}

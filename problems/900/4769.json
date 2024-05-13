@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1095,
+    "index": "B",
+    "name": "Array Stabilization",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1095,
+    "index": "B",
+    "solvedCount": 21206
+  }
+}

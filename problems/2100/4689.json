@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1108,
+    "index": "F",
+    "name": "MST Unification",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "dsu",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1108,
+    "index": "F",
+    "solvedCount": 2563
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 748,
+    "index": "B",
+    "name": "Santa Claus and Keyboard Check",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 748,
+    "index": "B",
+    "solvedCount": 5274
+  }
+}

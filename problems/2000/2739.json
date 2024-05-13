@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1493,
+    "index": "C",
+    "name": "K-beautiful Strings",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1493,
+    "index": "C",
+    "solvedCount": 4459
+  }
+}

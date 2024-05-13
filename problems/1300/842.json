@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1829,
+    "index": "F",
+    "name": "Forever Winter",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1829,
+    "index": "F",
+    "solvedCount": 16205
+  }
+}

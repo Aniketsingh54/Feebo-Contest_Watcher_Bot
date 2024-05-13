@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1158,
+    "index": "A",
+    "name": "The Party and Sweets",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1158,
+    "index": "A",
+    "solvedCount": 6866
+  }
+}

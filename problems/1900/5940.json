@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 839,
+    "index": "B",
+    "name": "Game of the Rows",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 839,
+    "index": "B",
+    "solvedCount": 3262
+  }
+}

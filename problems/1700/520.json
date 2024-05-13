@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1883,
+    "index": "E",
+    "name": "Look Back",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1883,
+    "index": "E",
+    "solvedCount": 7063
+  }
+}

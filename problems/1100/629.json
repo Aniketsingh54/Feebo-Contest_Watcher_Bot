@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "B",
+    "name": "Swap and Reverse",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "B",
+    "solvedCount": 14759
+  }
+}

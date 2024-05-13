@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1651,
+    "index": "D",
+    "name": "Nearest Excluded Points",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1651,
+    "index": "D",
+    "solvedCount": 4827
+  }
+}

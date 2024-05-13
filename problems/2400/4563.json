@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1139,
+    "index": "E",
+    "name": "Maximize Mex",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1139,
+    "index": "E",
+    "solvedCount": 1659
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1032,
+    "index": "D",
+    "name": "Barcelonian Distance",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "geometry",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1032,
+    "index": "D",
+    "solvedCount": 2630
+  }
+}

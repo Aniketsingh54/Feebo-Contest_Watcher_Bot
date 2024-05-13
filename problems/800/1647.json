@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1695,
+    "index": "A",
+    "name": "Subrectangle Guess",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1695,
+    "index": "A",
+    "solvedCount": 16111
+  }
+}

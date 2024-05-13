@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 870,
+    "index": "C",
+    "name": "Maximum splitting",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 870,
+    "index": "C",
+    "solvedCount": 8956
+  }
+}

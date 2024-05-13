@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1704,
+    "index": "B",
+    "name": "Luke is a Foodie",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1704,
+    "index": "B",
+    "solvedCount": 16374
+  }
+}

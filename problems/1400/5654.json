@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 907,
+    "index": "B",
+    "name": "Tic-Tac-Toe",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 907,
+    "index": "B",
+    "solvedCount": 4009
+  }
+}

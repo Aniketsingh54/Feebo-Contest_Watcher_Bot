@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1728,
+    "index": "A",
+    "name": "Colored Balls: Revisited",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1728,
+    "index": "A",
+    "solvedCount": 24368
+  }
+}

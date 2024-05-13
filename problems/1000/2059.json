@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1620,
+    "index": "B",
+    "name": "Triangles on a Rectangle",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1620,
+    "index": "B",
+    "solvedCount": 19598
+  }
+}

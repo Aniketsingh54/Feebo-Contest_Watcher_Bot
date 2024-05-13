@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1034,
+    "index": "C",
+    "name": "Region Separation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1034,
+    "index": "C",
+    "solvedCount": 852
+  }
+}

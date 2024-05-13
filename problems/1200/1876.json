@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1657,
+    "index": "C",
+    "name": "Bracket Sequence Deletion",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1657,
+    "index": "C",
+    "solvedCount": 16518
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1770,
+    "index": "A",
+    "name": "Koxia and Whiteboards",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1770,
+    "index": "A",
+    "solvedCount": 22903
+  }
+}

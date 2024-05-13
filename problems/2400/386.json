@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1909,
+    "index": "E",
+    "name": "Multiple Lamps",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1909,
+    "index": "E",
+    "solvedCount": 1248
+  }
+}

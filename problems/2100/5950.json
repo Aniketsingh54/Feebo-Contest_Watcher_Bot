@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 837,
+    "index": "E",
+    "name": "Vasya's Function",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 837,
+    "index": "E",
+    "solvedCount": 1509
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1299,
+    "index": "D",
+    "name": "Around the World",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3000,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "graphs",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1299,
+    "index": "D",
+    "solvedCount": 418
+  }
+}

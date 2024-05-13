@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1037,
+    "index": "G",
+    "name": "A Game on Strings",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3200,
+    "tags": [
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1037,
+    "index": "G",
+    "solvedCount": 296
+  }
+}

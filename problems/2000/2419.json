@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1551,
+    "index": "E",
+    "name": "Fixed Points",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1551,
+    "index": "E",
+    "solvedCount": 3689
+  }
+}

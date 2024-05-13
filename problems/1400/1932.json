@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1644,
+    "index": "C",
+    "name": "Increase Subarray Sums",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1644,
+    "index": "C",
+    "solvedCount": 13365
+  }
+}

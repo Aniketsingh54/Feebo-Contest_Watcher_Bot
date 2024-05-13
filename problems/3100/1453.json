@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1728,
+    "index": "F",
+    "name": "Fishermen",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "flows",
+      "graph matchings",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1728,
+    "index": "F",
+    "solvedCount": 407
+  }
+}

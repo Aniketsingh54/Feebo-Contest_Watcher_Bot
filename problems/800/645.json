@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1862,
+    "index": "B",
+    "name": "Sequence Game",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1862,
+    "index": "B",
+    "solvedCount": 28724
+  }
+}

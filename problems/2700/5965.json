@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 833,
+    "index": "C",
+    "name": "Ever-Hungry Krakozyabra",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 833,
+    "index": "C",
+    "solvedCount": 460
+  }
+}

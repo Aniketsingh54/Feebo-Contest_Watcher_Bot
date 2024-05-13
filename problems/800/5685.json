@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 899,
+    "index": "A",
+    "name": "Splitting in Teams",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 899,
+    "index": "A",
+    "solvedCount": 10081
+  }
+}

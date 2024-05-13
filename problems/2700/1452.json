@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1728,
+    "index": "G",
+    "name": "Illumination",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1728,
+    "index": "G",
+    "solvedCount": 424
+  }
+}

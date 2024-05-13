@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1183,
+    "index": "F",
+    "name": "Topforces Strikes Back",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1183,
+    "index": "F",
+    "solvedCount": 1766
+  }
+}

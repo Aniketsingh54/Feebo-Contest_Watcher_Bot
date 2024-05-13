@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1141,
+    "index": "A",
+    "name": "Game 23",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1141,
+    "index": "A",
+    "solvedCount": 29651
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1848,
+    "index": "B",
+    "name": "Vika and the Bridge",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1848,
+    "index": "B",
+    "solvedCount": 13391
+  }
+}

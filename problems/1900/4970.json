@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1055,
+    "index": "C",
+    "name": "Lucky Days",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1055,
+    "index": "C",
+    "solvedCount": 1843
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "F",
+    "name": "Marmots (hard)",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "F",
+    "solvedCount": 120
+  }
+}

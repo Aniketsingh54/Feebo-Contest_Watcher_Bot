@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1152,
+    "index": "B",
+    "name": "Neko Performs Cat Furrier Transform",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1152,
+    "index": "B",
+    "solvedCount": 8813
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 980,
+    "index": "C",
+    "name": "Posterized",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 980,
+    "index": "C",
+    "solvedCount": 3723
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1496,
+    "index": "A",
+    "name": "Split it!",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1496,
+    "index": "A",
+    "solvedCount": 20276
+  }
+}

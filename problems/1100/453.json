@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1899,
+    "index": "C",
+    "name": "Yarik and Array",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1899,
+    "index": "C",
+    "solvedCount": 18156
+  }
+}

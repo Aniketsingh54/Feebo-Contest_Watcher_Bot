@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "J",
+    "name": "Renovation",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "J",
+    "solvedCount": 556
+  }
+}

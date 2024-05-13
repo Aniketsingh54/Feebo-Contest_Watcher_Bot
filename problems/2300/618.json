@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1866,
+    "index": "D",
+    "name": "Digital Wallet",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1866,
+    "index": "D",
+    "solvedCount": 1191
+  }
+}

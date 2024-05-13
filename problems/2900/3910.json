@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1264,
+    "index": "D2",
+    "name": "Beautiful Bracket Sequence (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1264,
+    "index": "D2",
+    "solvedCount": 846
+  }
+}

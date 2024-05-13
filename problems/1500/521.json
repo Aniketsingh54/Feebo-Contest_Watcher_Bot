@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1883,
+    "index": "D",
+    "name": "In Love",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1883,
+    "index": "D",
+    "solvedCount": 9997
+  }
+}

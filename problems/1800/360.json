@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1912,
+    "index": "K",
+    "name": "Kim's Quest",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1912,
+    "index": "K",
+    "solvedCount": 2041
+  }
+}

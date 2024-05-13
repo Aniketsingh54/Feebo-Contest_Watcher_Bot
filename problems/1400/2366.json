@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1559,
+    "index": "D1",
+    "name": "Mocha and Diana (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1559,
+    "index": "D1",
+    "solvedCount": 13240
+  }
+}

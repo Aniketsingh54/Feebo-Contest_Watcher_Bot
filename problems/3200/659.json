@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1859,
+    "index": "F",
+    "name": "Teleportation in Byteland",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1859,
+    "index": "F",
+    "solvedCount": 370
+  }
+}

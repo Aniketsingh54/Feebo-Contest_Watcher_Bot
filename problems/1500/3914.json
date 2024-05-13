@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1264,
+    "index": "A",
+    "name": "Beautiful Regional Contest",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1264,
+    "index": "A",
+    "solvedCount": 9837
+  }
+}

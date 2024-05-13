@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1385,
+    "index": "A",
+    "name": "Three Pairwise Maximums",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1385,
+    "index": "A",
+    "solvedCount": 37601
+  }
+}

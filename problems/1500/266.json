@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1926,
+    "index": "E",
+    "name": "Vlad and an Odd Ordering",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1926,
+    "index": "E",
+    "solvedCount": 10060
+  }
+}

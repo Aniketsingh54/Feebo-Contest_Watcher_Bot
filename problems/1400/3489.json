@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1350,
+    "index": "B",
+    "name": "Orac and Models",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1350,
+    "index": "B",
+    "solvedCount": 20612
+  }
+}

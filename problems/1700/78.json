@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1955,
+    "index": "E",
+    "name": "Long Inversions",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1955,
+    "index": "E",
+    "solvedCount": 7126
+  }
+}

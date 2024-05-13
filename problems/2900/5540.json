@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 925,
+    "index": "E",
+    "name": "May Holidays",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 925,
+    "index": "E",
+    "solvedCount": 359
+  }
+}

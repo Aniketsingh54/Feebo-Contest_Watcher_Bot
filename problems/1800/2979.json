@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1446,
+    "index": "B",
+    "name": "Catching Cheaters",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1446,
+    "index": "B",
+    "solvedCount": 7545
+  }
+}

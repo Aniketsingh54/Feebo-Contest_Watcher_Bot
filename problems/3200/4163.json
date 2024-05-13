@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1210,
+    "index": "F2",
+    "name": "Marek and Matching (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 3200,
+    "tags": [
+      "brute force",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1210,
+    "index": "F2",
+    "solvedCount": 189
+  }
+}

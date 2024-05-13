@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1594,
+    "index": "E1",
+    "name": "Rubik's Cube Coloring (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1594,
+    "index": "E1",
+    "solvedCount": 10867
+  }
+}

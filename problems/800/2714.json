@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1498,
+    "index": "A",
+    "name": "GCD Sum",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1498,
+    "index": "A",
+    "solvedCount": 22659
+  }
+}

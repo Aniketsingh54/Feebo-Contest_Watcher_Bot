@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 739,
+    "index": "D",
+    "name": "Recover a functional graph",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3400,
+    "tags": [
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 739,
+    "index": "D",
+    "solvedCount": 180
+  }
+}

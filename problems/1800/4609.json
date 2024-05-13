@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1129,
+    "index": "A2",
+    "name": "Toy Train",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1129,
+    "index": "A2",
+    "solvedCount": 4036
+  }
+}

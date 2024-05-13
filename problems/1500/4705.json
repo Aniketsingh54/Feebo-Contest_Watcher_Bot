@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1106,
+    "index": "D",
+    "name": "Lunar New Year and a Wander",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1106,
+    "index": "D",
+    "solvedCount": 13936
+  }
+}

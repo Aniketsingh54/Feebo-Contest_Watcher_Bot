@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1051,
+    "index": "E",
+    "name": "Vasya and Big Integers",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "hashing",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1051,
+    "index": "E",
+    "solvedCount": 877
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1601,
+    "index": "A",
+    "name": "Array Elimination",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1601,
+    "index": "A",
+    "solvedCount": 13265
+  }
+}

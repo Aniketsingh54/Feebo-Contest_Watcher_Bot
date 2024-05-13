@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1352,
+    "index": "D",
+    "name": "Alice, Bob and Candies",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1352,
+    "index": "D",
+    "solvedCount": 24879
+  }
+}

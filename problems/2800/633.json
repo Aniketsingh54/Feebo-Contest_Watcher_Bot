@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1863,
+    "index": "G",
+    "name": "Swaps",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2800,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1863,
+    "index": "G",
+    "solvedCount": 558
+  }
+}

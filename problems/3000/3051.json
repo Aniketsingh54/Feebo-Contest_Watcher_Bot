@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1428,
+    "index": "G2",
+    "name": "Lucky Numbers (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 3000,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1428,
+    "index": "G2",
+    "solvedCount": 609
+  }
+}

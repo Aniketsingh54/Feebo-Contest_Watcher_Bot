@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1579,
+    "index": "C",
+    "name": "Ticks",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1579,
+    "index": "C",
+    "solvedCount": 10282
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1702,
+    "index": "F",
+    "name": "Equate Multisets",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1702,
+    "index": "F",
+    "solvedCount": 7947
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1444,
+    "index": "C",
+    "name": "Team-Building",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1444,
+    "index": "C",
+    "solvedCount": 1459
+  }
+}

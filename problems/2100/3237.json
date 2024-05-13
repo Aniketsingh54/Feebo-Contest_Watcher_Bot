@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1393,
+    "index": "D",
+    "name": "Rarity and New Dress",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1393,
+    "index": "D",
+    "solvedCount": 3768
+  }
+}

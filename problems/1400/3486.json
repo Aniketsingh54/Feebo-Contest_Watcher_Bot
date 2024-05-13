@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1351,
+    "index": "C",
+    "name": "Skier",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1351,
+    "index": "C",
+    "solvedCount": 8223
+  }
+}

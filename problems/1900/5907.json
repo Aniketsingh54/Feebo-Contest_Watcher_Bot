@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 846,
+    "index": "D",
+    "name": "Monitor",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 846,
+    "index": "D",
+    "solvedCount": 2353
+  }
+}

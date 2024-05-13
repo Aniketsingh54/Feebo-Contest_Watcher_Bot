@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1346,
+    "index": "D",
+    "name": "Constructing the Dungeon",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "*special",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1346,
+    "index": "D",
+    "solvedCount": 478
+  }
+}

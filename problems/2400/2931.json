@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1455,
+    "index": "E",
+    "name": "Four Points",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "flows",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1455,
+    "index": "E",
+    "solvedCount": 1434
+  }
+}

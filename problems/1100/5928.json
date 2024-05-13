@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 842,
+    "index": "B",
+    "name": "Gleb And Pizza",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 842,
+    "index": "B",
+    "solvedCount": 10063
+  }
+}

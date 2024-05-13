@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1822,
+    "index": "F",
+    "name": "Gardening Friends",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1822,
+    "index": "F",
+    "solvedCount": 5579
+  }
+}

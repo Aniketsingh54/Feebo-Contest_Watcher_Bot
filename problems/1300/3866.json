@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1271,
+    "index": "C",
+    "name": "Shawarma Tent",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1271,
+    "index": "C",
+    "solvedCount": 10262
+  }
+}

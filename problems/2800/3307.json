@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1379,
+    "index": "E",
+    "name": "Inverse Genealogy",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1379,
+    "index": "E",
+    "solvedCount": 389
+  }
+}

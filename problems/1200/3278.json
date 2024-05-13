@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1385,
+    "index": "C",
+    "name": "Make It Good",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1385,
+    "index": "C",
+    "solvedCount": 26178
+  }
+}

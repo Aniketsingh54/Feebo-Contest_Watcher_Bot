@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1895,
+    "index": "G",
+    "name": "Two Characters, Two Colors",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "flows",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1895,
+    "index": "G",
+    "solvedCount": 172
+  }
+}

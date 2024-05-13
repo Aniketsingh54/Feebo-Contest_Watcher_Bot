@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1868,
+    "index": "C",
+    "name": "Travel Plan",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1868,
+    "index": "C",
+    "solvedCount": 1076
+  }
+}

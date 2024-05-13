@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 757,
+    "index": "C",
+    "name": "Felicity is Coming!",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "hashing",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 757,
+    "index": "C",
+    "solvedCount": 2308
+  }
+}

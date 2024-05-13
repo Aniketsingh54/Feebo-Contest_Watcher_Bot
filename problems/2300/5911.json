@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 845,
+    "index": "G",
+    "name": "Shortest Path Problem?",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 845,
+    "index": "G",
+    "solvedCount": 1494
+  }
+}

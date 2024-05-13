@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 756,
+    "index": "B",
+    "name": "Travel Card",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 756,
+    "index": "B",
+    "solvedCount": 3307
+  }
+}

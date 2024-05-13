@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 724,
+    "index": "F",
+    "name": "Uniformly Branched Trees",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 724,
+    "index": "F",
+    "solvedCount": 390
+  }
+}

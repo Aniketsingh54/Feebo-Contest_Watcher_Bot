@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1322,
+    "index": "D",
+    "name": "Reality Show",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1322,
+    "index": "D",
+    "solvedCount": 699
+  }
+}

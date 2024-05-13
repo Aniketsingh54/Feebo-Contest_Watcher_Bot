@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 923,
+    "index": "A",
+    "name": "Primal Sport",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 923,
+    "index": "A",
+    "solvedCount": 4974
+  }
+}

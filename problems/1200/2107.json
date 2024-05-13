@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1613,
+    "index": "C",
+    "name": "Poisoned Dagger",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "binary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1613,
+    "index": "C",
+    "solvedCount": 22581
+  }
+}

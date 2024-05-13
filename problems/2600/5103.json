@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1027,
+    "index": "G",
+    "name": "X-mouse in the Campus",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1027,
+    "index": "G",
+    "solvedCount": 297
+  }
+}

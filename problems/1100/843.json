@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1829,
+    "index": "E",
+    "name": "The Lakes",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1829,
+    "index": "E",
+    "solvedCount": 18247
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1701,
+    "index": "F",
+    "name": "Points",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1701,
+    "index": "F",
+    "solvedCount": 888
+  }
+}

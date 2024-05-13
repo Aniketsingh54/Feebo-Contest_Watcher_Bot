@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1354,
+    "index": "F",
+    "name": "Summoning Minions",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "flows",
+      "graph matchings",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1354,
+    "index": "F",
+    "solvedCount": 979
+  }
+}

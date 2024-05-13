@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 797,
+    "index": "B",
+    "name": "Odd sum",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 797,
+    "index": "B",
+    "solvedCount": 10167
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1922,
+    "index": "A",
+    "name": "Tricky Template",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1922,
+    "index": "A",
+    "solvedCount": 25876
+  }
+}

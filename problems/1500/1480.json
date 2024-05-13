@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1722,
+    "index": "G",
+    "name": "Even-Odd XOR",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1722,
+    "index": "G",
+    "solvedCount": 10397
+  }
+}

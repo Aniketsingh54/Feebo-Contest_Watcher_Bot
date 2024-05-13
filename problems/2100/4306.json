@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1185,
+    "index": "G1",
+    "name": "Playlist for Polycarp (easy version)",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1185,
+    "index": "G1",
+    "solvedCount": 2561
+  }
+}

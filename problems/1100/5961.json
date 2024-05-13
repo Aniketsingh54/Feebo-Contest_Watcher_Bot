@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 834,
+    "index": "B",
+    "name": "The Festive Evening",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 834,
+    "index": "B",
+    "solvedCount": 8518
+  }
+}

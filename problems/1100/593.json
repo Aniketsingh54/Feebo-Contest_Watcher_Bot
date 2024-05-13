@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1869,
+    "index": "B",
+    "name": "2D Traveling",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "geometry",
+      "math",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1869,
+    "index": "B",
+    "solvedCount": 14422
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1704,
+    "index": "A",
+    "name": "Two 0-1 Sequences",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1704,
+    "index": "A",
+    "solvedCount": 15788
+  }
+}

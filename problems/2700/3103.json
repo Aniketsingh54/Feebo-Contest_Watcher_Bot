@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1421,
+    "index": "E",
+    "name": "Swedish Heroes",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1421,
+    "index": "E",
+    "solvedCount": 674
+  }
+}

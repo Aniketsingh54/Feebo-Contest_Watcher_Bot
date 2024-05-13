@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 833,
+    "index": "E",
+    "name": "Caramel Clouds",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 833,
+    "index": "E",
+    "solvedCount": 210
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1466,
+    "index": "D",
+    "name": "13th Labour of Heracles",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1466,
+    "index": "D",
+    "solvedCount": 10806
+  }
+}

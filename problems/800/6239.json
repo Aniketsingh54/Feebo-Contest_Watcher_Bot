@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 769,
+    "index": "A",
+    "name": "Year of University Entrance",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "*special",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 769,
+    "index": "A",
+    "solvedCount": 5571
+  }
+}

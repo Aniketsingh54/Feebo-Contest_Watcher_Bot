@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1625,
+    "index": "B",
+    "name": "Elementary Particles",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1625,
+    "index": "B",
+    "solvedCount": 15864
+  }
+}

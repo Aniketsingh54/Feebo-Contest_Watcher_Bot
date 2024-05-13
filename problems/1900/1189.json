@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1773,
+    "index": "A",
+    "name": "Amazing Trick",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1773,
+    "index": "A",
+    "solvedCount": 1481
+  }
+}

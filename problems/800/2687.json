@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1504,
+    "index": "A",
+    "name": " Déjà Vu",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1504,
+    "index": "A",
+    "solvedCount": 21406
+  }
+}

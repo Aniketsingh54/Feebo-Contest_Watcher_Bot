@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1326,
+    "index": "F1",
+    "name": "Wise Men (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1326,
+    "index": "F1",
+    "solvedCount": 813
+  }
+}

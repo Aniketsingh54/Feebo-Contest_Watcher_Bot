@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1780,
+    "index": "B",
+    "name": "GCD Partition",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1780,
+    "index": "B",
+    "solvedCount": 16578
+  }
+}

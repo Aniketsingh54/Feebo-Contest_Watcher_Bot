@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1614,
+    "index": "C",
+    "name": "Divan and bitwise operations",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1614,
+    "index": "C",
+    "solvedCount": 9917
+  }
+}

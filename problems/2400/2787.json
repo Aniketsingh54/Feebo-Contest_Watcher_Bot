@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1485,
+    "index": "F",
+    "name": "Copy or Prefix Sum",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1485,
+    "index": "F",
+    "solvedCount": 1863
+  }
+}

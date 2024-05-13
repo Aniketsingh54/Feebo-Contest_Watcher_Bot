@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1346,
+    "index": "H",
+    "name": "Game with Segments",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "*special",
+      "data structures",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1346,
+    "index": "H",
+    "solvedCount": 46
+  }
+}

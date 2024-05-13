@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1328,
+    "index": "B",
+    "name": "K-th Beautiful String",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1328,
+    "index": "B",
+    "solvedCount": 28154
+  }
+}

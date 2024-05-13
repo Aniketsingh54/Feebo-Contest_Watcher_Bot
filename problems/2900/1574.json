@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1705,
+    "index": "F",
+    "name": "Mark and the Online Exam",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2900,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1705,
+    "index": "F",
+    "solvedCount": 573
+  }
+}

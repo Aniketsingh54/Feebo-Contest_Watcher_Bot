@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1325,
+    "index": "B",
+    "name": "CopyCopyCopyCopyCopy",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1325,
+    "index": "B",
+    "solvedCount": 34909
+  }
+}

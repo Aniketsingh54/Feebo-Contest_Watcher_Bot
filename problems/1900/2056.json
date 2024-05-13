@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1620,
+    "index": "E",
+    "name": "Replace the Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dsu",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1620,
+    "index": "E",
+    "solvedCount": 7779
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1096,
+    "index": "A",
+    "name": "Find Divisible",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1096,
+    "index": "A",
+    "solvedCount": 18423
+  }
+}

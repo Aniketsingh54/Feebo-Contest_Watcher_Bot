@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1268,
+    "index": "D",
+    "name": "Invertation in Tournament",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1268,
+    "index": "D",
+    "solvedCount": 482
+  }
+}

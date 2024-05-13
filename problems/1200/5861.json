@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 854,
+    "index": "B",
+    "name": "Maxim Buys an Apartment",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 854,
+    "index": "B",
+    "solvedCount": 8125
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1562,
+    "index": "A",
+    "name": "The Miracle and the Sleeper",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1562,
+    "index": "A",
+    "solvedCount": 25194
+  }
+}

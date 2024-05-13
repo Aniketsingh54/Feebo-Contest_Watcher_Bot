@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1025,
+    "index": "F",
+    "name": "Disjoint Triangles",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1025,
+    "index": "F",
+    "solvedCount": 638
+  }
+}

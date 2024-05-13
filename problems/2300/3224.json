@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1396,
+    "index": "C",
+    "name": "Monster Invaders",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1396,
+    "index": "C",
+    "solvedCount": 2389
+  }
+}

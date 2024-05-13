@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 962,
+    "index": "B",
+    "name": "Students in Railway Carriage",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 962,
+    "index": "B",
+    "solvedCount": 7587
+  }
+}

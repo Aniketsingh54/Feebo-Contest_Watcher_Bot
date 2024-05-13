@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 985,
+    "index": "E",
+    "name": "Pencils and Boxes",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 985,
+    "index": "E",
+    "solvedCount": 3255
+  }
+}

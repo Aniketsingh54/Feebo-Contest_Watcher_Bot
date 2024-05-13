@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1179,
+    "index": "E",
+    "name": "Alesya and Discrete Math",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "divide and conquer",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1179,
+    "index": "E",
+    "solvedCount": 169
+  }
+}

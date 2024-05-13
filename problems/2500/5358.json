@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 976,
+    "index": "F",
+    "name": "Minimal k-covering",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 976,
+    "index": "F",
+    "solvedCount": 561
+  }
+}

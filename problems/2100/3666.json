@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1312,
+    "index": "E",
+    "name": "Array Shrinking",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1312,
+    "index": "E",
+    "solvedCount": 5536
+  }
+}

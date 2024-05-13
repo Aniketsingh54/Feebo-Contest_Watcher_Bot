@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 939,
+    "index": "E",
+    "name": "Maximize!",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "greedy",
+      "ternary search",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 939,
+    "index": "E",
+    "solvedCount": 3012
+  }
+}

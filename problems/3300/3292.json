@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1381,
+    "index": "E",
+    "name": "Origami",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3300,
+    "tags": [
+      "geometry",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1381,
+    "index": "E",
+    "solvedCount": 100
+  }
+}

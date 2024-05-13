@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1119,
+    "index": "C",
+    "name": "Ramesses and Corner Inversion",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1119,
+    "index": "C",
+    "solvedCount": 6561
+  }
+}

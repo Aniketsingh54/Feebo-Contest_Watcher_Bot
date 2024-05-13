@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 954,
+    "index": "G",
+    "name": "Castle Defense",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 954,
+    "index": "G",
+    "solvedCount": 1899
+  }
+}

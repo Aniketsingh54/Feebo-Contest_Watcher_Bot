@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1635,
+    "index": "E",
+    "name": "Cars ",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1635,
+    "index": "E",
+    "solvedCount": 2168
+  }
+}

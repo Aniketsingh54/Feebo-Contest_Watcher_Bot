@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 877,
+    "index": "E",
+    "name": "Danil and a Part-time Job",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 877,
+    "index": "E",
+    "solvedCount": 4253
+  }
+}

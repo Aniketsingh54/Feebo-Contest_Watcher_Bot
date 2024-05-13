@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1076,
+    "index": "B",
+    "name": "Divisor Subtraction",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1076,
+    "index": "B",
+    "solvedCount": 12544
+  }
+}

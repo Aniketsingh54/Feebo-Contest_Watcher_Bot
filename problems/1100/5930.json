@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 841,
+    "index": "B",
+    "name": "Godsend",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 841,
+    "index": "B",
+    "solvedCount": 11972
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1784,
+    "index": "B",
+    "name": "Letter Exchange",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1784,
+    "index": "B",
+    "solvedCount": 3214
+  }
+}

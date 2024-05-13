@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1365,
+    "index": "E",
+    "name": "Maximum Subsequence Value",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1365,
+    "index": "E",
+    "solvedCount": 7505
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 934,
+    "index": "A",
+    "name": "A Compatible Pair",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 934,
+    "index": "A",
+    "solvedCount": 6704
+  }
+}

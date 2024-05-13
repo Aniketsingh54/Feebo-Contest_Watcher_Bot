@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 717,
+    "index": "A",
+    "name": "Festival Organization",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 717,
+    "index": "A",
+    "solvedCount": 333
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1032,
+    "index": "C",
+    "name": "Playing Piano",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1032,
+    "index": "C",
+    "solvedCount": 3894
+  }
+}

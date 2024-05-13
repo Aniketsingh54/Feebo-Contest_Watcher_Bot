@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 996,
+    "index": "B",
+    "name": "World Cup",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 996,
+    "index": "B",
+    "solvedCount": 8851
+  }
+}

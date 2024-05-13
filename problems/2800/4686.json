@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1109,
+    "index": "C",
+    "name": "Sasha and a Patient Friend",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1109,
+    "index": "C",
+    "solvedCount": 245
+  }
+}

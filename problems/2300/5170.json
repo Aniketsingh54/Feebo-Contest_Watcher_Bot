@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1009,
+    "index": "F",
+    "name": "Dominant Indices",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dsu",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1009,
+    "index": "F",
+    "solvedCount": 5116
+  }
+}

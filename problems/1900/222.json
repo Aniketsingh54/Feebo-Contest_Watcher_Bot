@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1932,
+    "index": "F",
+    "name": "Feed Cats",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1932,
+    "index": "F",
+    "solvedCount": 3400
+  }
+}

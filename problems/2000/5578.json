@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 920,
+    "index": "F",
+    "name": "SUM and REPLACE",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dsu",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 920,
+    "index": "F",
+    "solvedCount": 6231
+  }
+}

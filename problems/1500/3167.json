@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1408,
+    "index": "C",
+    "name": "Discrete Acceleration",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1408,
+    "index": "C",
+    "solvedCount": 8627
+  }
+}

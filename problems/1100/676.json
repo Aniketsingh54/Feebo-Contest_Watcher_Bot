@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1857,
+    "index": "B",
+    "name": "Maximum Rounding",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1857,
+    "index": "B",
+    "solvedCount": 22138
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 788,
+    "index": "E",
+    "name": "New task",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2900,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 788,
+    "index": "E",
+    "solvedCount": 331
+  }
+}

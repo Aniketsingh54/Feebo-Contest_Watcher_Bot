@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1814,
+    "index": "D",
+    "name": "Balancing Weapons",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1814,
+    "index": "D",
+    "solvedCount": 819
+  }
+}

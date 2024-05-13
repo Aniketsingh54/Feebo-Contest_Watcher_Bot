@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1096,
+    "index": "E",
+    "name": "The Top Scorer",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1096,
+    "index": "E",
+    "solvedCount": 861
+  }
+}

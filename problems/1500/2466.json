@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1542,
+    "index": "B",
+    "name": "Plus and Multiply",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1542,
+    "index": "B",
+    "solvedCount": 22093
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1919,
+    "index": "H",
+    "name": "Tree Diameter",
+    "type": "PROGRAMMING",
+    "points": 5000,
+    "rating": 2000,
+    "tags": [
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1919,
+    "index": "H",
+    "solvedCount": 128
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1360,
+    "index": "B",
+    "name": "Honest Coach",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1360,
+    "index": "B",
+    "solvedCount": 46129
+  }
+}

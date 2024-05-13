@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1385,
+    "index": "G",
+    "name": "Columns Swaps",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1385,
+    "index": "G",
+    "solvedCount": 1327
+  }
+}

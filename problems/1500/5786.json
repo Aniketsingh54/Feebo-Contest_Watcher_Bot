@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 873,
+    "index": "B",
+    "name": "Balanced Substring",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 873,
+    "index": "B",
+    "solvedCount": 7416
+  }
+}

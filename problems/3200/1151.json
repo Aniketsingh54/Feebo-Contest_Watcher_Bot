@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "K",
+    "name": "Uniform Chemistry",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "K",
+    "solvedCount": 64
+  }
+}

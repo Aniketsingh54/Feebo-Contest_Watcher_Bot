@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1315,
+    "index": "B",
+    "name": "Homecoming",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1315,
+    "index": "B",
+    "solvedCount": 8961
+  }
+}

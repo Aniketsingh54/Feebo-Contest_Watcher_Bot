@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 946,
+    "index": "A",
+    "name": "Partition",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 946,
+    "index": "A",
+    "solvedCount": 16096
+  }
+}

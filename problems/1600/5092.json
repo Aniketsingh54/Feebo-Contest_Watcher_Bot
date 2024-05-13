@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1029,
+    "index": "C",
+    "name": "Maximal Intersection",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1029,
+    "index": "C",
+    "solvedCount": 7310
+  }
+}

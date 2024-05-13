@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1151,
+    "index": "D",
+    "name": "Stas and the Queue at the Buffet",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1151,
+    "index": "D",
+    "solvedCount": 8216
+  }
+}

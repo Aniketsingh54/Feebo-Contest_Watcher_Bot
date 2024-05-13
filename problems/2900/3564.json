@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1334,
+    "index": "G",
+    "name": "Substring Search",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "fft"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1334,
+    "index": "G",
+    "solvedCount": 353
+  }
+}

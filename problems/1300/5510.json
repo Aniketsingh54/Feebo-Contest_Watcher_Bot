@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 932,
+    "index": "B",
+    "name": "Recursive Queries",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 932,
+    "index": "B",
+    "solvedCount": 7796
+  }
+}

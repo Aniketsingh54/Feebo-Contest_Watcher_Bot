@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1923,
+    "index": "B",
+    "name": "Monsters Attack!",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1923,
+    "index": "B",
+    "solvedCount": 16157
+  }
+}

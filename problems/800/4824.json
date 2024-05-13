@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1088,
+    "index": "A",
+    "name": "Ehab and another construction problem",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1088,
+    "index": "A",
+    "solvedCount": 16437
+  }
+}

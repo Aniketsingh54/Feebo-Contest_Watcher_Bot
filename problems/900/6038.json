@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 814,
+    "index": "A",
+    "name": "An abandoned sentiment from past",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 814,
+    "index": "A",
+    "solvedCount": 10254
+  }
+}

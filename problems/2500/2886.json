@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1467,
+    "index": "E",
+    "name": "Distinctive Roots in a Tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1467,
+    "index": "E",
+    "solvedCount": 1334
+  }
+}

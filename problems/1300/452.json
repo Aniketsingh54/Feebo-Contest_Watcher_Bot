@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1899,
+    "index": "D",
+    "name": "Yarik and Musical Notes",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "hashing",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1899,
+    "index": "D",
+    "solvedCount": 12223
+  }
+}

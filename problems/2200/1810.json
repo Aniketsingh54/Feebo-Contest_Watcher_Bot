@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1666,
+    "index": "I",
+    "name": "Interactive Treasure Hunt",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "geometry",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1666,
+    "index": "I",
+    "solvedCount": 1384
+  }
+}

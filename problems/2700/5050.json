@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1036,
+    "index": "G",
+    "name": "Sources and Sinks",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1036,
+    "index": "G",
+    "solvedCount": 361
+  }
+}

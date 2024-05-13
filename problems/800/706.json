@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1851,
+    "index": "B",
+    "name": "Parity Sort",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1851,
+    "index": "B",
+    "solvedCount": 28093
+  }
+}

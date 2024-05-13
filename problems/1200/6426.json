@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 729,
+    "index": "B",
+    "name": "Spotlights",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 729,
+    "index": "B",
+    "solvedCount": 7737
+  }
+}

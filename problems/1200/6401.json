@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 732,
+    "index": "C",
+    "name": "Sanatorium",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 732,
+    "index": "C",
+    "solvedCount": 9474
+  }
+}

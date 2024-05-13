@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "H",
+    "name": "Load Testing",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "H",
+    "solvedCount": 2370
+  }
+}

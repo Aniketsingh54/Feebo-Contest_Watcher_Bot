@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1889,
+    "index": "B",
+    "name": "Doremy's Connecting Plan",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1889,
+    "index": "B",
+    "solvedCount": 6751
+  }
+}

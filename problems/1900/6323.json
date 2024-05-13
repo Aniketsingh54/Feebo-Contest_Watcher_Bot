@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 750,
+    "index": "D",
+    "name": "New Year and Fireworks",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 750,
+    "index": "D",
+    "solvedCount": 3056
+  }
+}

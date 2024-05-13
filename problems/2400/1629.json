@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1697,
+    "index": "E",
+    "name": "Coloring",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "geometry",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1697,
+    "index": "E",
+    "solvedCount": 1137
+  }
+}

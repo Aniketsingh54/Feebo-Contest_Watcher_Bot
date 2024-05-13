@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1007,
+    "index": "C",
+    "name": "Guess two numbers",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1007,
+    "index": "C",
+    "solvedCount": 407
+  }
+}

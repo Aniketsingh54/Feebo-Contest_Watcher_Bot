@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1311,
+    "index": "B",
+    "name": "WeirdSort",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "dfs and similar",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1311,
+    "index": "B",
+    "solvedCount": 18490
+  }
+}

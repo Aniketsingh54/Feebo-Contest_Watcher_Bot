@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 830,
+    "index": "A",
+    "name": "Office Keys",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 830,
+    "index": "A",
+    "solvedCount": 6582
+  }
+}

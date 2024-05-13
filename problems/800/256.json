@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1928,
+    "index": "A",
+    "name": "Rectangle Cutting",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1928,
+    "index": "A",
+    "solvedCount": 21183
+  }
+}

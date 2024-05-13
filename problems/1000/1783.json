@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1671,
+    "index": "B",
+    "name": "Consecutive Points Segment",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1671,
+    "index": "B",
+    "solvedCount": 18122
+  }
+}

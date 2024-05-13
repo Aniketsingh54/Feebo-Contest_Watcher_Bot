@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 959,
+    "index": "E",
+    "name": "Mahmoud and Ehab and the xor-MST",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 959,
+    "index": "E",
+    "solvedCount": 3307
+  }
+}

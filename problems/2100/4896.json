@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "E",
+    "name": "Getting Deals Done",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "E",
+    "solvedCount": 1191
+  }
+}

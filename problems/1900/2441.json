@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1547,
+    "index": "F",
+    "name": "Array Stabilization (GCD version)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1547,
+    "index": "F",
+    "solvedCount": 5510
+  }
+}

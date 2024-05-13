@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 868,
+    "index": "E",
+    "name": "Policeman and a Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 868,
+    "index": "E",
+    "solvedCount": 459
+  }
+}

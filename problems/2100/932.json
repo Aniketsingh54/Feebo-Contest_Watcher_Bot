@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1811,
+    "index": "G1",
+    "name": "Vlad and the Nice Paths (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1811,
+    "index": "G1",
+    "solvedCount": 1916
+  }
+}

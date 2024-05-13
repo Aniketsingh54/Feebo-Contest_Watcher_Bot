@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1734,
+    "index": "A",
+    "name": "Select Three Sticks",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1734,
+    "index": "A",
+    "solvedCount": 20763
+  }
+}

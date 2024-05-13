@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1458,
+    "index": "A",
+    "name": "Row GCD",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1458,
+    "index": "A",
+    "solvedCount": 15989
+  }
+}

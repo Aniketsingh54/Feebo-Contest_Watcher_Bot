@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1065,
+    "index": "G",
+    "name": "Fibonacci Suffix",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1065,
+    "index": "G",
+    "solvedCount": 239
+  }
+}

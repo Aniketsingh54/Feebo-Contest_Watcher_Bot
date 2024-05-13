@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1017,
+    "index": "H",
+    "name": "The Films",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3300,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1017,
+    "index": "H",
+    "solvedCount": 138
+  }
+}

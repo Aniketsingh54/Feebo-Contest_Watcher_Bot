@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1760,
+    "index": "F",
+    "name": "Quests",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1760,
+    "index": "F",
+    "solvedCount": 11333
+  }
+}

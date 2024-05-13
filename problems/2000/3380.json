@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1366,
+    "index": "D",
+    "name": "Two Divisors",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1366,
+    "index": "D",
+    "solvedCount": 9922
+  }
+}

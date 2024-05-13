@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1359,
+    "index": "E",
+    "name": "Modular Stability",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1359,
+    "index": "E",
+    "solvedCount": 5732
+  }
+}

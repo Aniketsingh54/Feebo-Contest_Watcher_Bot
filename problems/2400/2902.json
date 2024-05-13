@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1463,
+    "index": "E",
+    "name": "Plan of Lectures",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1463,
+    "index": "E",
+    "solvedCount": 1454
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1280,
+    "index": "C",
+    "name": "Jeremy Bearimy",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1280,
+    "index": "C",
+    "solvedCount": 2481
+  }
+}

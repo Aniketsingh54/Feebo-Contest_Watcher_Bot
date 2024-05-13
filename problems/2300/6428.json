@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 727,
+    "index": "F",
+    "name": "Polycarp's problems",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 727,
+    "index": "F",
+    "solvedCount": 763
+  }
+}

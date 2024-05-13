@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 736,
+    "index": "D",
+    "name": "Permutations",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 736,
+    "index": "D",
+    "solvedCount": 450
+  }
+}

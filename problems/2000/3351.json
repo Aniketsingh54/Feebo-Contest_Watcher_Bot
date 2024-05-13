@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1370,
+    "index": "D",
+    "name": "Odd-Even Subsequence",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "dp",
+      "dsu",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1370,
+    "index": "D",
+    "solvedCount": 9132
+  }
+}

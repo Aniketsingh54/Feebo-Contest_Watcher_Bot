@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 812,
+    "index": "B",
+    "name": "Sagheer, the Hausmeister",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 812,
+    "index": "B",
+    "solvedCount": 5073
+  }
+}

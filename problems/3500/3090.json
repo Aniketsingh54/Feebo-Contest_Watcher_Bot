@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1423,
+    "index": "G",
+    "name": "Growing flowers",
+    "type": "PROGRAMMING",
+    "rating": 3500,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1423,
+    "index": "G",
+    "solvedCount": 180
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 918,
+    "index": "B",
+    "name": "Radio Station",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 918,
+    "index": "B",
+    "solvedCount": 15689
+  }
+}

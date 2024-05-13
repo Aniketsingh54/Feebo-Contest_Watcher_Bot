@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1737,
+    "index": "D",
+    "name": "Ela and the Wiring Wizard",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "dp",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1737,
+    "index": "D",
+    "solvedCount": 1812
+  }
+}

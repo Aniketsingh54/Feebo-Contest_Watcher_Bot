@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "E",
+    "name": "Guess Game",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "games",
+      "math",
+      "probabilities",
+      "sortings",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "E",
+    "solvedCount": 2466
+  }
+}

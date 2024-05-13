@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1972,
+    "index": "B",
+    "name": "Coin Games",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1972,
+    "index": "B",
+    "solvedCount": 14430
+  }
+}

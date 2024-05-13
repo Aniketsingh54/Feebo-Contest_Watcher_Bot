@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 713,
+    "index": "E",
+    "name": "Sonya Partymaker",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 713,
+    "index": "E",
+    "solvedCount": 342
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1091,
+    "index": "G",
+    "name": "New Year and the Factorisation Collaboration",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3200,
+    "tags": [
+      "interactive",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1091,
+    "index": "G",
+    "solvedCount": 197
+  }
+}

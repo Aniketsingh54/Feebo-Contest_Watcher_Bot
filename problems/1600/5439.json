@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 954,
+    "index": "D",
+    "name": "Fight Against Traffic",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 954,
+    "index": "D",
+    "solvedCount": 6307
+  }
+}

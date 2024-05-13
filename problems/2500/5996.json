@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 822,
+    "index": "F",
+    "name": "Madness",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 822,
+    "index": "F",
+    "solvedCount": 288
+  }
+}

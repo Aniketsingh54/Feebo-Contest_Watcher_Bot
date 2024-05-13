@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1913,
+    "index": "B",
+    "name": "Swap and Delete",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1913,
+    "index": "B",
+    "solvedCount": 21859
+  }
+}

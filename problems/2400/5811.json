@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 865,
+    "index": "D",
+    "name": "Buy Low Sell High",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 865,
+    "index": "D",
+    "solvedCount": 4783
+  }
+}

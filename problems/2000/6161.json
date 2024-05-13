@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 786,
+    "index": "A",
+    "name": "Berzerk",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 786,
+    "index": "A",
+    "solvedCount": 2307
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1115,
+    "index": "U3",
+    "name": "Block unitary",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1115,
+    "index": "U3",
+    "solvedCount": 195
+  }
+}

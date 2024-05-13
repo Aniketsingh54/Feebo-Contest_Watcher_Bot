@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1852,
+    "index": "D",
+    "name": "Miriany and Matchstick",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1852,
+    "index": "D",
+    "solvedCount": 430
+  }
+}

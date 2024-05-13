@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1249,
+    "index": "D1",
+    "name": "Too Many Segments (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1249,
+    "index": "D1",
+    "solvedCount": 4811
+  }
+}

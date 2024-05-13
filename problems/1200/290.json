@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1922,
+    "index": "B",
+    "name": "Forming Triangles",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1922,
+    "index": "B",
+    "solvedCount": 19030
+  }
+}

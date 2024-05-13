@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1927,
+    "index": "F",
+    "name": "Microcycle",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1927,
+    "index": "F",
+    "solvedCount": 3807
+  }
+}

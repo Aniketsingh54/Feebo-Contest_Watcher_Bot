@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1792,
+    "index": "F1",
+    "name": "Graph Coloring (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1792,
+    "index": "F1",
+    "solvedCount": 668
+  }
+}

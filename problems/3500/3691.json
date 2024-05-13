@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1305,
+    "index": "G",
+    "name": "Kuroni and Antihype",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1305,
+    "index": "G",
+    "solvedCount": 946
+  }
+}

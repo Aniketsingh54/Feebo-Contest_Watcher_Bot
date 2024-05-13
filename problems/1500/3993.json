@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1249,
+    "index": "C2",
+    "name": "Good Numbers (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1249,
+    "index": "C2",
+    "solvedCount": 12218
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1103,
+    "index": "C",
+    "name": "Johnny Solving",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1103,
+    "index": "C",
+    "solvedCount": 779
+  }
+}

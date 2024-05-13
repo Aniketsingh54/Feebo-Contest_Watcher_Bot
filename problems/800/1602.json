@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1702,
+    "index": "B",
+    "name": "Polycarp Writes a String from Memory",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1702,
+    "index": "B",
+    "solvedCount": 26947
+  }
+}

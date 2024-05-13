@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 733,
+    "index": "E",
+    "name": "Sleep in Class",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 733,
+    "index": "E",
+    "solvedCount": 863
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1965,
+    "index": "A",
+    "name": "Everything Nim",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1965,
+    "index": "A",
+    "solvedCount": 9844
+  }
+}

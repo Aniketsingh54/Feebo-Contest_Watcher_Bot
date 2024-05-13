@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1485,
+    "index": "E",
+    "name": "Move and Swap",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1485,
+    "index": "E",
+    "solvedCount": 1213
+  }
+}

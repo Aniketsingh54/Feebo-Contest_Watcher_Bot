@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1901,
+    "index": "D",
+    "name": "Yet Another Monster Fight",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1901,
+    "index": "D",
+    "solvedCount": 6176
+  }
+}

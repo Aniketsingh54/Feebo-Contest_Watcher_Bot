@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1325,
+    "index": "D",
+    "name": "Ehab the Xorcist",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1325,
+    "index": "D",
+    "solvedCount": 11590
+  }
+}

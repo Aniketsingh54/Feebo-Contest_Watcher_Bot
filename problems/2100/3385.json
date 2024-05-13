@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1365,
+    "index": "F",
+    "name": "Swaps Again",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1365,
+    "index": "F",
+    "solvedCount": 4308
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1843,
+    "index": "B",
+    "name": "Long Long",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1843,
+    "index": "B",
+    "solvedCount": 28056
+  }
+}

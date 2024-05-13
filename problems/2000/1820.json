@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1665,
+    "index": "D",
+    "name": "GCD Guess",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "chinese remainder theorem",
+      "constructive algorithms",
+      "games",
+      "interactive",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1665,
+    "index": "D",
+    "solvedCount": 3701
+  }
+}

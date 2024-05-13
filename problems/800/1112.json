@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1783,
+    "index": "A",
+    "name": "Make it Beautiful",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1783,
+    "index": "A",
+    "solvedCount": 27320
+  }
+}

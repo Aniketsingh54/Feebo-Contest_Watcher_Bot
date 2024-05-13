@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1746,
+    "index": "F",
+    "name": "Kazaee",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "hashing",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1746,
+    "index": "F",
+    "solvedCount": 1521
+  }
+}

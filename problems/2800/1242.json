@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "I",
+    "name": "Infinite Chess",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "I",
+    "solvedCount": 181
+  }
+}

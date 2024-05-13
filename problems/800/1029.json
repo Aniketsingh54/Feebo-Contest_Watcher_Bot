@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1797,
+    "index": "A",
+    "name": "Li Hua and Maze",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1797,
+    "index": "A",
+    "solvedCount": 16941
+  }
+}

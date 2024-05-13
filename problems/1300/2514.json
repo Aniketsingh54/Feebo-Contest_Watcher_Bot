@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1534,
+    "index": "C",
+    "name": "Little Alawn's Puzzle",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "dsu",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1534,
+    "index": "C",
+    "solvedCount": 12496
+  }
+}

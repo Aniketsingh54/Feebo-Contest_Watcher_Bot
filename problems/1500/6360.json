@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 743,
+    "index": "C",
+    "name": "Vladik and fractions",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 743,
+    "index": "C",
+    "solvedCount": 11846
+  }
+}

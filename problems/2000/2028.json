@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1624,
+    "index": "F",
+    "name": "Interacdive Problem",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1624,
+    "index": "F",
+    "solvedCount": 3178
+  }
+}

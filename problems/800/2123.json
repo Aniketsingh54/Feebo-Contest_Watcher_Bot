@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1611,
+    "index": "B",
+    "name": "Team Composition: Programmers and Mathematicians",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1611,
+    "index": "B",
+    "solvedCount": 28466
+  }
+}

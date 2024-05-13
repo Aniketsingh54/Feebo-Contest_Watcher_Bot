@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1818,
+    "index": "B",
+    "name": "Indivisible",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1818,
+    "index": "B",
+    "solvedCount": 14044
+  }
+}

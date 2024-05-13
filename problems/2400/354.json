@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1913,
+    "index": "E",
+    "name": "Matrix Problem",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1913,
+    "index": "E",
+    "solvedCount": 908
+  }
+}

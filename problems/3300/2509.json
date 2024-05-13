@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1534,
+    "index": "G",
+    "name": "A New Beginning",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "dp",
+      "geometry",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1534,
+    "index": "G",
+    "solvedCount": 525
+  }
+}

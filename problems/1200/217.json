@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1933,
+    "index": "D",
+    "name": "Turtle Tenacity: Continual Mods",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1933,
+    "index": "D",
+    "solvedCount": 17806
+  }
+}

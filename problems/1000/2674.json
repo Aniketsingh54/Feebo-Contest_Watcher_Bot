@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1506,
+    "index": "C",
+    "name": "Double-ended Strings",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1506,
+    "index": "C",
+    "solvedCount": 23414
+  }
+}

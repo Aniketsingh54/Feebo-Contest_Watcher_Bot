@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1779,
+    "index": "A",
+    "name": "Hall of Fame",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1779,
+    "index": "A",
+    "solvedCount": 22896
+  }
+}

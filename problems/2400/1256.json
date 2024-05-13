@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1764,
+    "index": "E",
+    "name": "Doremy's Number Line",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1764,
+    "index": "E",
+    "solvedCount": 1179
+  }
+}

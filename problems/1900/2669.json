@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1508,
+    "index": "A",
+    "name": "Binary Literature",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1508,
+    "index": "A",
+    "solvedCount": 6006
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1140,
+    "index": "G",
+    "name": "Double Tree",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1140,
+    "index": "G",
+    "solvedCount": 462
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 780,
+    "index": "F",
+    "name": "Axel and Marston in Bitland",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 780,
+    "index": "F",
+    "solvedCount": 1020
+  }
+}

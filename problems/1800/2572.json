@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1525,
+    "index": "D",
+    "name": "Armchairs",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "flows",
+      "graph matchings",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1525,
+    "index": "D",
+    "solvedCount": 9382
+  }
+}

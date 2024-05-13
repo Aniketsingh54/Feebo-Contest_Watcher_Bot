@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1132,
+    "index": "B",
+    "name": "Discounts",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1132,
+    "index": "B",
+    "solvedCount": 12737
+  }
+}

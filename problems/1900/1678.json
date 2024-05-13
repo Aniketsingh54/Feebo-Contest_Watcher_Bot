@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1689,
+    "index": "D",
+    "name": "Lena and Matrix",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "dp",
+      "geometry",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1689,
+    "index": "D",
+    "solvedCount": 4034
+  }
+}

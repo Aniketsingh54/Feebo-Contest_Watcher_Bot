@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1221,
+    "index": "G",
+    "name": "Graph And Numbers",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1221,
+    "index": "G",
+    "solvedCount": 519
+  }
+}

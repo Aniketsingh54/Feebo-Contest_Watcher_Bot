@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1721,
+    "index": "E",
+    "name": "Prefix Function Queries",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1721,
+    "index": "E",
+    "solvedCount": 1813
+  }
+}

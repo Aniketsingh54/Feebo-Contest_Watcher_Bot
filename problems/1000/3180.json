@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1405,
+    "index": "B",
+    "name": "Array Cancellation",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1405,
+    "index": "B",
+    "solvedCount": 21028
+  }
+}

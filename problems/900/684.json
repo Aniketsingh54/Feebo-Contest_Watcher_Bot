@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1855,
+    "index": "B",
+    "name": "Longest Divisors Interval",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1855,
+    "index": "B",
+    "solvedCount": 23827
+  }
+}

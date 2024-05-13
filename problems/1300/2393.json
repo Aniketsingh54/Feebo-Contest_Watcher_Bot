@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1555,
+    "index": "B",
+    "name": "Two Tables",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1555,
+    "index": "B",
+    "solvedCount": 15630
+  }
+}

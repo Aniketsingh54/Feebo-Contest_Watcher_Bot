@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1789,
+    "index": "D",
+    "name": "Serval and Shift-Shift-Shift",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1789,
+    "index": "D",
+    "solvedCount": 1576
+  }
+}

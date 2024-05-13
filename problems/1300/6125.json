@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 796,
+    "index": "B",
+    "name": "Find The Bone",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 796,
+    "index": "B",
+    "solvedCount": 8950
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1599,
+    "index": "H",
+    "name": "Hidden Fortress",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1599,
+    "index": "H",
+    "solvedCount": 1012
+  }
+}

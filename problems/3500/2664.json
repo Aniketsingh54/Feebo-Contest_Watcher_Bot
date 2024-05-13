@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1508,
+    "index": "F",
+    "name": "Optimal Encoding",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "brute force",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1508,
+    "index": "F",
+    "solvedCount": 117
+  }
+}

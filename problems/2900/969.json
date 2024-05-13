@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1806,
+    "index": "F2",
+    "name": "GCD Master (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2900,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1806,
+    "index": "F2",
+    "solvedCount": 267
+  }
+}

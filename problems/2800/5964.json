@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 833,
+    "index": "D",
+    "name": "Red-Black Cobweb",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 833,
+    "index": "D",
+    "solvedCount": 372
+  }
+}

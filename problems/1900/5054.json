@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1036,
+    "index": "C",
+    "name": "Classy Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1036,
+    "index": "C",
+    "solvedCount": 8609
+  }
+}

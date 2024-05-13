@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1747,
+    "index": "E",
+    "name": "List Generation",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1747,
+    "index": "E",
+    "solvedCount": 485
+  }
+}

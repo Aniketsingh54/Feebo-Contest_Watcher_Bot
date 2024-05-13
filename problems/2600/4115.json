@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1218,
+    "index": "C",
+    "name": "Jumping Transformers",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1218,
+    "index": "C",
+    "solvedCount": 171
+  }
+}

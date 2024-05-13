@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1207,
+    "index": "C",
+    "name": "Gas Pipeline",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1207,
+    "index": "C",
+    "solvedCount": 9556
+  }
+}

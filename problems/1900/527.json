@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1882,
+    "index": "D",
+    "name": "Tree XOR",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1882,
+    "index": "D",
+    "solvedCount": 4977
+  }
+}

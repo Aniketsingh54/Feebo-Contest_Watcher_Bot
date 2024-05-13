@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 711,
+    "index": "D",
+    "name": "Directed Roads",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 711,
+    "index": "D",
+    "solvedCount": 4359
+  }
+}

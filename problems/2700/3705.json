@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1303,
+    "index": "G",
+    "name": "Sum of Prefix Sums",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "geometry",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1303,
+    "index": "G",
+    "solvedCount": 727
+  }
+}

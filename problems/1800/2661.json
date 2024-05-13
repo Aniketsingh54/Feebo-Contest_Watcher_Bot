@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1509,
+    "index": "C",
+    "name": "The Sports Festival",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1509,
+    "index": "C",
+    "solvedCount": 11821
+  }
+}

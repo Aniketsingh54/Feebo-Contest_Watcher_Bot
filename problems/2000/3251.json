@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1391,
+    "index": "D",
+    "name": "505",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1391,
+    "index": "D",
+    "solvedCount": 4935
+  }
+}

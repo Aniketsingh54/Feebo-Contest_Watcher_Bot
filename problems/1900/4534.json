@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1144,
+    "index": "E",
+    "name": "Median String",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1144,
+    "index": "E",
+    "solvedCount": 4058
+  }
+}

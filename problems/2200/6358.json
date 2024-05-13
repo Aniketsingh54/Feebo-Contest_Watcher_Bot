@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 743,
+    "index": "E",
+    "name": "Vladik and cards",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 743,
+    "index": "E",
+    "solvedCount": 1472
+  }
+}

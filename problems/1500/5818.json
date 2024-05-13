@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 864,
+    "index": "C",
+    "name": "Bus",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 864,
+    "index": "C",
+    "solvedCount": 5827
+  }
+}

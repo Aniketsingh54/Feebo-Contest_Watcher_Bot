@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 920,
+    "index": "E",
+    "name": "Connected Components?",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 920,
+    "index": "E",
+    "solvedCount": 5810
+  }
+}

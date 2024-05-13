@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 939,
+    "index": "D",
+    "name": "Love Rescue",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 939,
+    "index": "D",
+    "solvedCount": 7137
+  }
+}

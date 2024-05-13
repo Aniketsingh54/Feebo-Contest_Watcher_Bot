@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1556,
+    "index": "H",
+    "name": "DIY Tree",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3300,
+    "tags": [
+      "graphs",
+      "greedy",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1556,
+    "index": "H",
+    "solvedCount": 323
+  }
+}

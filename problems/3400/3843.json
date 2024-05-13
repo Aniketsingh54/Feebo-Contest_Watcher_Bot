@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1276,
+    "index": "F",
+    "name": "Asterisk Substrings",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3400,
+    "tags": [
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1276,
+    "index": "F",
+    "solvedCount": 333
+  }
+}

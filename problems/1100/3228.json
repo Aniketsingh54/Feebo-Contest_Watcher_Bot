@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1395,
+    "index": "B",
+    "name": "Boboniu Plays Chess",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1395,
+    "index": "B",
+    "solvedCount": 15780
+  }
+}

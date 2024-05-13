@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1011,
+    "index": "B",
+    "name": "Planning The Expedition",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1011,
+    "index": "B",
+    "solvedCount": 9808
+  }
+}

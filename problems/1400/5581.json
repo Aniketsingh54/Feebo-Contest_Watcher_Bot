@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 920,
+    "index": "C",
+    "name": "Swap Adjacent Elements",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 920,
+    "index": "C",
+    "solvedCount": 8999
+  }
+}

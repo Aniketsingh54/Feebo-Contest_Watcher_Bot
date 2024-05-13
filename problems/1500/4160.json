@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1211,
+    "index": "B",
+    "name": "Traveling Around the Golden Ring of Berland",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1211,
+    "index": "B",
+    "solvedCount": 754
+  }
+}

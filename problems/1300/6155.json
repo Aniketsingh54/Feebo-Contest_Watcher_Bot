@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 787,
+    "index": "B",
+    "name": "Not Afraid",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 787,
+    "index": "B",
+    "solvedCount": 5572
+  }
+}

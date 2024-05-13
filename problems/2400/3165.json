@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1408,
+    "index": "E",
+    "name": "Avoid Rainbow Cycles",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1408,
+    "index": "E",
+    "solvedCount": 1876
+  }
+}

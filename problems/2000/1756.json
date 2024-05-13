@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1674,
+    "index": "G",
+    "name": "Remove Directed Edges",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1674,
+    "index": "G",
+    "solvedCount": 2388
+  }
+}

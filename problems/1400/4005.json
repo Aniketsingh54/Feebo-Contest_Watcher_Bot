@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1245,
+    "index": "C",
+    "name": "Constanze's Machine",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1245,
+    "index": "C",
+    "solvedCount": 16778
+  }
+}

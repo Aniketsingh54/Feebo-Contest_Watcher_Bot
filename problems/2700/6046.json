@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 812,
+    "index": "D",
+    "name": "Sagheer and Kindergarten",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 812,
+    "index": "D",
+    "solvedCount": 326
+  }
+}

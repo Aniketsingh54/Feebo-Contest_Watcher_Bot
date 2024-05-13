@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1091,
+    "index": "F",
+    "name": "New Year and the Mallard Expedition",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1091,
+    "index": "F",
+    "solvedCount": 786
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1045,
+    "index": "C",
+    "name": "Hyperspace Highways",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1045,
+    "index": "C",
+    "solvedCount": 621
+  }
+}

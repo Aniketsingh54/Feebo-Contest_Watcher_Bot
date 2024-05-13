@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1223,
+    "index": "C",
+    "name": "Save the Nature",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1223,
+    "index": "C",
+    "solvedCount": 7771
+  }
+}

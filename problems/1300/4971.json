@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1055,
+    "index": "B",
+    "name": "Alice and Hairdresser",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "dsu",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1055,
+    "index": "B",
+    "solvedCount": 4895
+  }
+}

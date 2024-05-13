@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1794,
+    "index": "D",
+    "name": "Counting Factorizations",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1794,
+    "index": "D",
+    "solvedCount": 3349
+  }
+}

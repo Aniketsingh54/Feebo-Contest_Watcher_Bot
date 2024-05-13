@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1619,
+    "index": "E",
+    "name": "MEX and Increments",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1619,
+    "index": "E",
+    "solvedCount": 8682
+  }
+}

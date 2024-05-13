@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1450,
+    "index": "A",
+    "name": "Avoid Trygub",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1450,
+    "index": "A",
+    "solvedCount": 17496
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 840,
+    "index": "E",
+    "name": "In a Trap",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 840,
+    "index": "E",
+    "solvedCount": 432
+  }
+}

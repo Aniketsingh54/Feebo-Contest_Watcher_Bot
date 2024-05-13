@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1028,
+    "index": "B",
+    "name": "Unnatural Conditions",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1028,
+    "index": "B",
+    "solvedCount": 8774
+  }
+}

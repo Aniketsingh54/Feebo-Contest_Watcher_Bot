@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1409,
+    "index": "C",
+    "name": "Yet Another Array Restoration",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1409,
+    "index": "C",
+    "solvedCount": 22746
+  }
+}

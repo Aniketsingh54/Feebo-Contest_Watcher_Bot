@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1599,
+    "index": "A",
+    "name": "Weights",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1599,
+    "index": "A",
+    "solvedCount": 634
+  }
+}

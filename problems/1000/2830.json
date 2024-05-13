@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1476,
+    "index": "A",
+    "name": "K-divisible Sum",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1476,
+    "index": "A",
+    "solvedCount": 35049
+  }
+}

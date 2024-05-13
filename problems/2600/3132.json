@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1416,
+    "index": "D",
+    "name": "Graph and Queries",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1416,
+    "index": "D",
+    "solvedCount": 1873
+  }
+}

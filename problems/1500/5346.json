@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 978,
+    "index": "F",
+    "name": "Mentors",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 978,
+    "index": "F",
+    "solvedCount": 8045
+  }
+}

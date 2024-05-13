@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 831,
+    "index": "A",
+    "name": "Unimodal Array",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 831,
+    "index": "A",
+    "solvedCount": 10037
+  }
+}

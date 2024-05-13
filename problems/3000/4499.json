@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1149,
+    "index": "D",
+    "name": "Abandoning Roads",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "brute force",
+      "dp",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1149,
+    "index": "D",
+    "solvedCount": 671
+  }
+}

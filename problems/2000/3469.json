@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1354,
+    "index": "C2",
+    "name": "Not So Simple Polygon Embedding",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1354,
+    "index": "C2",
+    "solvedCount": 5812
+  }
+}

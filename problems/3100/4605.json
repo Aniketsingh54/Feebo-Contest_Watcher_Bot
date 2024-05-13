@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1129,
+    "index": "E",
+    "name": "Legendary Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3100,
+    "tags": [
+      "binary search",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1129,
+    "index": "E",
+    "solvedCount": 405
+  }
+}

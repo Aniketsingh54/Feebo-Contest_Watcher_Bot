@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 865,
+    "index": "G",
+    "name": "Flowers and Chocolate",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3300,
+    "tags": [
+      "combinatorics",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 865,
+    "index": "G",
+    "solvedCount": 132
+  }
+}

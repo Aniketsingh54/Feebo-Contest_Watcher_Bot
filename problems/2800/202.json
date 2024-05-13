@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1935,
+    "index": "F",
+    "name": "Andrey's Tree",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1935,
+    "index": "F",
+    "solvedCount": 392
+  }
+}

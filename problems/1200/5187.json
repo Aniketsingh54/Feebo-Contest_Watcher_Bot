@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1006,
+    "index": "B",
+    "name": "Polycarp's Practice",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1006,
+    "index": "B",
+    "solvedCount": 12825
+  }
+}

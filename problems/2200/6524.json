@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 707,
+    "index": "D",
+    "name": "Persistent Bookcase ",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dfs and similar",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 707,
+    "index": "D",
+    "solvedCount": 2599
+  }
+}

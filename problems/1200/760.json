@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1843,
+    "index": "D",
+    "name": "Apple Tree",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1843,
+    "index": "D",
+    "solvedCount": 17051
+  }
+}

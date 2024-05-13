@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1499,
+    "index": "A",
+    "name": "Domino on Windowsill",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1499,
+    "index": "A",
+    "solvedCount": 21018
+  }
+}

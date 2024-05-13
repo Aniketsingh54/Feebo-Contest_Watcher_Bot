@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1659,
+    "index": "C",
+    "name": "Line Empire",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1659,
+    "index": "C",
+    "solvedCount": 9682
+  }
+}

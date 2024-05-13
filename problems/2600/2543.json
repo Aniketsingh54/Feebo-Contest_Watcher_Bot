@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1530,
+    "index": "F",
+    "name": "Bingo",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1530,
+    "index": "F",
+    "solvedCount": 752
+  }
+}

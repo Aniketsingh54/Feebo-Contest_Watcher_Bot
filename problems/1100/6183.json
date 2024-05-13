@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 779,
+    "index": "B",
+    "name": "Weird Rounding",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 779,
+    "index": "B",
+    "solvedCount": 10193
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 744,
+    "index": "C",
+    "name": "Hongcow Buys a Deck of Cards",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 744,
+    "index": "C",
+    "solvedCount": 1010
+  }
+}

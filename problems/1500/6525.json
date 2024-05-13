@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 707,
+    "index": "C",
+    "name": "Pythagorean Triples",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 707,
+    "index": "C",
+    "solvedCount": 12306
+  }
+}

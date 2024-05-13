@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1430,
+    "index": "F",
+    "name": "Realistic Gameplay",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1430,
+    "index": "F",
+    "solvedCount": 859
+  }
+}

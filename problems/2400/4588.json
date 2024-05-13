@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1132,
+    "index": "G",
+    "name": "Greedy Subsequences",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1132,
+    "index": "G",
+    "solvedCount": 960
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1426,
+    "index": "B",
+    "name": "Symmetric Matrix",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1426,
+    "index": "B",
+    "solvedCount": 20352
+  }
+}

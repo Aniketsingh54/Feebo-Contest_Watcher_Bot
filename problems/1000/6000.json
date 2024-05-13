@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 822,
+    "index": "B",
+    "name": "Crossword solving",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 822,
+    "index": "B",
+    "solvedCount": 9323
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1428,
+    "index": "E",
+    "name": "Carrots for Rabbits",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1428,
+    "index": "E",
+    "solvedCount": 3513
+  }
+}

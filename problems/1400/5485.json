@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 937,
+    "index": "B",
+    "name": "Vile Grasshoppers",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 937,
+    "index": "B",
+    "solvedCount": 6792
+  }
+}

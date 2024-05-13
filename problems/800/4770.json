@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1095,
+    "index": "A",
+    "name": "Repeating Cipher",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1095,
+    "index": "A",
+    "solvedCount": 29479
+  }
+}

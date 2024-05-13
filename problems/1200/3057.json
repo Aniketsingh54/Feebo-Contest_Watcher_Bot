@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1428,
+    "index": "B",
+    "name": "Belted Rooms",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1428,
+    "index": "B",
+    "solvedCount": 14175
+  }
+}

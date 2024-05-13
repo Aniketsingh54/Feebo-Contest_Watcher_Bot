@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 859,
+    "index": "A",
+    "name": "Declined Finalists",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 859,
+    "index": "A",
+    "solvedCount": 7615
+  }
+}

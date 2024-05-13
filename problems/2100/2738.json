@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1493,
+    "index": "D",
+    "name": "GCD of an Array",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "hashing",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1493,
+    "index": "D",
+    "solvedCount": 4741
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1896,
+    "index": "F",
+    "name": "Bracket Xoring",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1896,
+    "index": "F",
+    "solvedCount": 652
+  }
+}

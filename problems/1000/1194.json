@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1772,
+    "index": "C",
+    "name": "Different Differences",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1772,
+    "index": "C",
+    "solvedCount": 22708
+  }
+}

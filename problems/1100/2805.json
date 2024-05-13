@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1481,
+    "index": "B",
+    "name": "New Colony",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1481,
+    "index": "B",
+    "solvedCount": 19025
+  }
+}

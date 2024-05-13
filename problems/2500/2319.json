@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1571,
+    "index": "G",
+    "name": "A Battle Against a Dragon",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "*special",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1571,
+    "index": "G",
+    "solvedCount": 71
+  }
+}

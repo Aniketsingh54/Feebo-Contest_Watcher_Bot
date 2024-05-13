@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 778,
+    "index": "D",
+    "name": "Parquet Re-laying",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 778,
+    "index": "D",
+    "solvedCount": 484
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1637,
+    "index": "H",
+    "name": "Minimize Inversions Number",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1637,
+    "index": "H",
+    "solvedCount": 300
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1392,
+    "index": "C",
+    "name": "Omkar and Waterslide",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1392,
+    "index": "C",
+    "solvedCount": 18320
+  }
+}

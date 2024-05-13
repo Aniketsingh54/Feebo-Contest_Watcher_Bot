@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1551,
+    "index": "B2",
+    "name": "Wonderful Coloring - 2",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1551,
+    "index": "B2",
+    "solvedCount": 15051
+  }
+}

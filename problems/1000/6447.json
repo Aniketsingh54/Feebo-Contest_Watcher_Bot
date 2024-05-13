@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 724,
+    "index": "A",
+    "name": "Checking the Calendar",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 724,
+    "index": "A",
+    "solvedCount": 6995
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "D",
+    "name": "Packmen Strike Back",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "D",
+    "solvedCount": 349
+  }
+}

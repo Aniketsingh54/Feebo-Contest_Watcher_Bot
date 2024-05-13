@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1556,
+    "index": "F",
+    "name": "Sports Betting",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1556,
+    "index": "F",
+    "solvedCount": 1172
+  }
+}

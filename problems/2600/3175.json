@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1406,
+    "index": "E",
+    "name": "Deleting Numbers",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "interactive",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1406,
+    "index": "E",
+    "solvedCount": 1552
+  }
+}

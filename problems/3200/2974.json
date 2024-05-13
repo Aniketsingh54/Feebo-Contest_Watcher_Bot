@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1446,
+    "index": "F",
+    "name": "Line Distance",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1446,
+    "index": "F",
+    "solvedCount": 272
+  }
+}

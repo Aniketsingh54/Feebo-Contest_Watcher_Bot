@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1217,
+    "index": "D",
+    "name": "Coloring Edges",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1217,
+    "index": "D",
+    "solvedCount": 4945
+  }
+}

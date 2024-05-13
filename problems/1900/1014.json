@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1799,
+    "index": "D1",
+    "name": "Hot Start Up (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1799,
+    "index": "D1",
+    "solvedCount": 4086
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1787,
+    "index": "D",
+    "name": "Game on Axis",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1787,
+    "index": "D",
+    "solvedCount": 3262
+  }
+}

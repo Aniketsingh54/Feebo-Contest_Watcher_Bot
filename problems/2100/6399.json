@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 732,
+    "index": "E",
+    "name": "Sockets",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 732,
+    "index": "E",
+    "solvedCount": 1576
+  }
+}

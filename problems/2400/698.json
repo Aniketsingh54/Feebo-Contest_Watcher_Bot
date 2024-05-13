@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1852,
+    "index": "C",
+    "name": "Ina of the Mountain",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1852,
+    "index": "C",
+    "solvedCount": 1457
+  }
+}

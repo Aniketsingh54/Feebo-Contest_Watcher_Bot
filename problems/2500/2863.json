@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1470,
+    "index": "C",
+    "name": "Strange Shuffle",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1470,
+    "index": "C",
+    "solvedCount": 1305
+  }
+}

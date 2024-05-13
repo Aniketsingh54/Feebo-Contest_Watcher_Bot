@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1051,
+    "index": "B",
+    "name": "Relatively Prime Pairs",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1051,
+    "index": "B",
+    "solvedCount": 16535
+  }
+}

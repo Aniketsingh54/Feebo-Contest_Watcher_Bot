@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 724,
+    "index": "G",
+    "name": "Xor-matic Number of the Graph",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "graphs",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 724,
+    "index": "G",
+    "solvedCount": 996
+  }
+}

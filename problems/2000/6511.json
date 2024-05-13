@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 710,
+    "index": "E",
+    "name": "Generate a String",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 710,
+    "index": "E",
+    "solvedCount": 4974
+  }
+}

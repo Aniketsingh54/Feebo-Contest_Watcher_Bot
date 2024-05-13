@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1044,
+    "index": "C",
+    "name": "Optimal Polygon Perimeter",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1044,
+    "index": "C",
+    "solvedCount": 1203
+  }
+}

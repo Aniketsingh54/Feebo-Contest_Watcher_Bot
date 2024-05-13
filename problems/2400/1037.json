@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1795,
+    "index": "F",
+    "name": "Blocking Chips",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1795,
+    "index": "F",
+    "solvedCount": 1051
+  }
+}

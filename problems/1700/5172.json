@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1009,
+    "index": "D",
+    "name": "Relatively Prime Graph",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1009,
+    "index": "D",
+    "solvedCount": 6148
+  }
+}

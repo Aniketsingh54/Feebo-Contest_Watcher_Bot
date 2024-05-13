@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1321,
+    "index": "A",
+    "name": "Contest for Robots",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1321,
+    "index": "A",
+    "solvedCount": 14008
+  }
+}

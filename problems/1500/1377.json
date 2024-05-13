@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1740,
+    "index": "D",
+    "name": "Knowledge Cards",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1740,
+    "index": "D",
+    "solvedCount": 7704
+  }
+}

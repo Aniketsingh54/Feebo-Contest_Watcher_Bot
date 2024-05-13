@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 731,
+    "index": "A",
+    "name": "Night at the Museum",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 731,
+    "index": "A",
+    "solvedCount": 43238
+  }
+}

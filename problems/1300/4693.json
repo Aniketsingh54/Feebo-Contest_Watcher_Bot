@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1108,
+    "index": "C",
+    "name": "Nice Garland",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1108,
+    "index": "C",
+    "solvedCount": 11758
+  }
+}

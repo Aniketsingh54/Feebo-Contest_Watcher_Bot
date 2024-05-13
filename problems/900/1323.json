@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1749,
+    "index": "B",
+    "name": "Death's Blessing",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1749,
+    "index": "B",
+    "solvedCount": 20363
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1807,
+    "index": "D",
+    "name": "Odd Queries",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1807,
+    "index": "D",
+    "solvedCount": 28764
+  }
+}

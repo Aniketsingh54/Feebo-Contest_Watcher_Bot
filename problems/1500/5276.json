@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 991,
+    "index": "C",
+    "name": "Candies",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 991,
+    "index": "C",
+    "solvedCount": 10020
+  }
+}

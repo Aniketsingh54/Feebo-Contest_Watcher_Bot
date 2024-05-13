@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1029,
+    "index": "A",
+    "name": "Many Equal Substrings",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1029,
+    "index": "A",
+    "solvedCount": 12010
+  }
+}

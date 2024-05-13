@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1780,
+    "index": "D",
+    "name": "Bit Guessing Game",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1780,
+    "index": "D",
+    "solvedCount": 4650
+  }
+}

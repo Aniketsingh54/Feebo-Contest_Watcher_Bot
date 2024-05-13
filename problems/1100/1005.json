@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1800,
+    "index": "C2",
+    "name": "Powering the Hero (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1800,
+    "index": "C2",
+    "solvedCount": 21368
+  }
+}

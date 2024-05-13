@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1342,
+    "index": "A",
+    "name": "Road To Zero",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1342,
+    "index": "A",
+    "solvedCount": 38395
+  }
+}

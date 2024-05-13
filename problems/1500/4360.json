@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1178,
+    "index": "D",
+    "name": "Prime Graph",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1178,
+    "index": "D",
+    "solvedCount": 7148
+  }
+}

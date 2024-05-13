@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1433,
+    "index": "C",
+    "name": "Dominant Piranha",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1433,
+    "index": "C",
+    "solvedCount": 26409
+  }
+}

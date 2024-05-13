@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1709,
+    "index": "B",
+    "name": "Also Try Minecraft",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1709,
+    "index": "B",
+    "solvedCount": 21863
+  }
+}

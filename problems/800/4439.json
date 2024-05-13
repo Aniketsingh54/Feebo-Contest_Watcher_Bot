@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1162,
+    "index": "A",
+    "name": "Zoning Restrictions Again",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1162,
+    "index": "A",
+    "solvedCount": 8175
+  }
+}

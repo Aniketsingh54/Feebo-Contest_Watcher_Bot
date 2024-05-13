@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 915,
+    "index": "A",
+    "name": "Garden",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 915,
+    "index": "A",
+    "solvedCount": 14363
+  }
+}

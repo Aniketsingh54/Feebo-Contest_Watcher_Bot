@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1175,
+    "index": "F",
+    "name": "The Number of Subpermutations",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "hashing",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1175,
+    "index": "F",
+    "solvedCount": 1559
+  }
+}

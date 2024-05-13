@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1301,
+    "index": "E",
+    "name": "Nanosoft",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1301,
+    "index": "E",
+    "solvedCount": 1270
+  }
+}

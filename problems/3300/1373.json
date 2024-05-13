@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1740,
+    "index": "H",
+    "name": "MEX Tree Manipulation",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1740,
+    "index": "H",
+    "solvedCount": 201
+  }
+}

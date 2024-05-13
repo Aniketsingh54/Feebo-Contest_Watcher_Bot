@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1909,
+    "index": "G",
+    "name": "Pumping Lemma",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3000,
+    "tags": [
+      "hashing",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1909,
+    "index": "G",
+    "solvedCount": 319
+  }
+}

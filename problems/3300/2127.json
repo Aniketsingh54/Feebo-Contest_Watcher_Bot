@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1610,
+    "index": "G",
+    "name": "AmShZ Wins a Bet",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "greedy",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1610,
+    "index": "G",
+    "solvedCount": 376
+  }
+}

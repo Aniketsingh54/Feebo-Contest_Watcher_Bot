@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 920,
+    "index": "A",
+    "name": "Water The Garden",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 920,
+    "index": "A",
+    "solvedCount": 7605
+  }
+}

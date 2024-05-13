@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1213,
+    "index": "C",
+    "name": "Book Reading",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1213,
+    "index": "C",
+    "solvedCount": 17953
+  }
+}

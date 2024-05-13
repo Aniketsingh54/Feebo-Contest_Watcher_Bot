@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1955,
+    "index": "F",
+    "name": "Unfair Game",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "math",
+      "schedules"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1955,
+    "index": "F",
+    "solvedCount": 5868
+  }
+}

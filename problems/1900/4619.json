@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1120,
+    "index": "A",
+    "name": "Diana and Liana",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1120,
+    "index": "A",
+    "solvedCount": 1619
+  }
+}

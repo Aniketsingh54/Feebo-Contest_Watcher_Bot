@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 950,
+    "index": "A",
+    "name": "Left-handers, Right-handers and Ambidexters",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 950,
+    "index": "A",
+    "solvedCount": 14914
+  }
+}

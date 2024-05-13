@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1114,
+    "index": "F",
+    "name": "Please, another Queries on Array?",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1114,
+    "index": "F",
+    "solvedCount": 1812
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1635,
+    "index": "B",
+    "name": "Avoid Local Maximums",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1635,
+    "index": "B",
+    "solvedCount": 17798
+  }
+}

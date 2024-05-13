@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1607,
+    "index": "C",
+    "name": "Minimum Extraction",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1607,
+    "index": "C",
+    "solvedCount": 24346
+  }
+}

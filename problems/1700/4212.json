@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1203,
+    "index": "D2",
+    "name": "Remove the Substring (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1203,
+    "index": "D2",
+    "solvedCount": 7111
+  }
+}

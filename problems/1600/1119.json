@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1781,
+    "index": "C",
+    "name": "Equal Frequencies",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1781,
+    "index": "C",
+    "solvedCount": 7060
+  }
+}

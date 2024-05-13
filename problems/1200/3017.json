@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1437,
+    "index": "B",
+    "name": "Reverse Binary Strings",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1437,
+    "index": "B",
+    "solvedCount": 18672
+  }
+}

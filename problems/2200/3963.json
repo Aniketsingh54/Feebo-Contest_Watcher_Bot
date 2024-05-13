@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1252,
+    "index": "E",
+    "name": "Songwriter",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1252,
+    "index": "E",
+    "solvedCount": 1212
+  }
+}

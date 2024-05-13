@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 992,
+    "index": "B",
+    "name": "Nastya Studies Informatics",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 992,
+    "index": "B",
+    "solvedCount": 6105
+  }
+}

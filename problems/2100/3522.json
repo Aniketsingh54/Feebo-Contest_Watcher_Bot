@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1343,
+    "index": "E",
+    "name": "Weights Distributing",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1343,
+    "index": "E",
+    "solvedCount": 4815
+  }
+}

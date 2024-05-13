@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1788,
+    "index": "F",
+    "name": "XOR, Tree, and Queries",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1788,
+    "index": "F",
+    "solvedCount": 794
+  }
+}

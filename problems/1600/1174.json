@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1774,
+    "index": "D",
+    "name": "Same Count One",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1774,
+    "index": "D",
+    "solvedCount": 7438
+  }
+}

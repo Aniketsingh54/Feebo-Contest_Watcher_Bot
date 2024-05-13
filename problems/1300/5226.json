@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1001,
+    "index": "F",
+    "name": "Distinguish multi-qubit basis states",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1001,
+    "index": "F",
+    "solvedCount": 531
+  }
+}

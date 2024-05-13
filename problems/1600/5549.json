@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 924,
+    "index": "B",
+    "name": "Three-level Laser",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 924,
+    "index": "B",
+    "solvedCount": 5065
+  }
+}

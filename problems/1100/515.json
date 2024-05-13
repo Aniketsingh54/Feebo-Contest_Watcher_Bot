@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1884,
+    "index": "B",
+    "name": "Haunted House",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1884,
+    "index": "B",
+    "solvedCount": 11683
+  }
+}

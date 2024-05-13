@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1936,
+    "index": "B",
+    "name": "Pinball",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1936,
+    "index": "B",
+    "solvedCount": 2446
+  }
+}

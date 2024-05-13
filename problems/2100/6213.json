@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 774,
+    "index": "B",
+    "name": "Significant Cups",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "*special",
+      "binary search",
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 774,
+    "index": "B",
+    "solvedCount": 216
+  }
+}

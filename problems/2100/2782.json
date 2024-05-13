@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1486,
+    "index": "D",
+    "name": "Max Median",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1486,
+    "index": "D",
+    "solvedCount": 6738
+  }
+}

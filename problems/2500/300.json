@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1920,
+    "index": "F1",
+    "name": "Smooth Sailing (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1920,
+    "index": "F1",
+    "solvedCount": 878
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1216,
+    "index": "A",
+    "name": "Prefixes",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1216,
+    "index": "A",
+    "solvedCount": 18380
+  }
+}

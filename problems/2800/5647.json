@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 908,
+    "index": "G",
+    "name": "New Year and Original Order",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2800,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 908,
+    "index": "G",
+    "solvedCount": 1283
+  }
+}

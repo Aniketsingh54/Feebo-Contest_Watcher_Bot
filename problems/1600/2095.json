@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1615,
+    "index": "C",
+    "name": "Menorah",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1615,
+    "index": "C",
+    "solvedCount": 8059
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1556,
+    "index": "D",
+    "name": "Take a Guess",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1556,
+    "index": "D",
+    "solvedCount": 6495
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1682,
+    "index": "B",
+    "name": "AND Sorting",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1682,
+    "index": "B",
+    "solvedCount": 17237
+  }
+}

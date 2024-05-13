@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1188,
+    "index": "B",
+    "name": "Count Pairs",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2300,
+    "tags": [
+      "math",
+      "matrices",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1188,
+    "index": "B",
+    "solvedCount": 4297
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1141,
+    "index": "C",
+    "name": "Polycarp Restores Permutation",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1141,
+    "index": "C",
+    "solvedCount": 11232
+  }
+}

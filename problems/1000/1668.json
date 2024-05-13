@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1691,
+    "index": "B",
+    "name": "Shoe Shuffling",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1691,
+    "index": "B",
+    "solvedCount": 21287
+  }
+}

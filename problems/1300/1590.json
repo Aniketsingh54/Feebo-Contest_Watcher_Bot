@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1703,
+    "index": "F",
+    "name": "Yet Another Problem About Pairs Satisfying an Inequality",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1703,
+    "index": "F",
+    "solvedCount": 18238
+  }
+}

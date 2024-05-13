@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1777,
+    "index": "E",
+    "name": "Edge Reverse",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1777,
+    "index": "E",
+    "solvedCount": 1698
+  }
+}

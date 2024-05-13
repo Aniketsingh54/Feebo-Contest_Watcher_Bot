@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1384,
+    "index": "A",
+    "name": "Common Prefixes",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1384,
+    "index": "A",
+    "solvedCount": 18383
+  }
+}

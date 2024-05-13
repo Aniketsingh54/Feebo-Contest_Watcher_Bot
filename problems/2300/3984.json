@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "E",
+    "name": "The Coronation",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "E",
+    "solvedCount": 799
+  }
+}

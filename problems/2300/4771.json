@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1093,
+    "index": "G",
+    "name": "Multidimensional Queries",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1093,
+    "index": "G",
+    "solvedCount": 1825
+  }
+}

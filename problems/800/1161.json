@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "A",
+    "name": "Walking Boy",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "A",
+    "solvedCount": 6771
+  }
+}

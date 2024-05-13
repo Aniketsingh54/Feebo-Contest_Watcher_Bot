@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1562,
+    "index": "C",
+    "name": "Rings",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1562,
+    "index": "C",
+    "solvedCount": 12915
+  }
+}

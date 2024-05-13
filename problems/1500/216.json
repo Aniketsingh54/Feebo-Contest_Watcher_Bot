@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1933,
+    "index": "E",
+    "name": "Turtle vs. Rabbit Race: Optimal Trainings",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1933,
+    "index": "E",
+    "solvedCount": 9718
+  }
+}

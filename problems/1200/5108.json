@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1027,
+    "index": "B",
+    "name": "Numbers on the Chessboard",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1027,
+    "index": "B",
+    "solvedCount": 8077
+  }
+}

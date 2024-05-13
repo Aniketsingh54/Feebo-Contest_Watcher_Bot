@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "M",
+    "name": "Algoland and Berland",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "M",
+    "solvedCount": 64
+  }
+}

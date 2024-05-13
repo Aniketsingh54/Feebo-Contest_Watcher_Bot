@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 727,
+    "index": "D",
+    "name": "T-shirts Distribution",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 727,
+    "index": "D",
+    "solvedCount": 1801
+  }
+}

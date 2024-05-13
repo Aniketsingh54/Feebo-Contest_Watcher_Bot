@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1202,
+    "index": "E",
+    "name": "You Are Given Some Strings...",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1202,
+    "index": "E",
+    "solvedCount": 1905
+  }
+}

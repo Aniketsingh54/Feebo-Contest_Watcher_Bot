@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1427,
+    "index": "A",
+    "name": "Avoiding Zero",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1427,
+    "index": "A",
+    "solvedCount": 16835
+  }
+}

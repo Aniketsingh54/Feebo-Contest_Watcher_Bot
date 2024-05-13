@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "B4",
+    "name": "Distinguish four 2-qubit states - 2",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "B4",
+    "solvedCount": 304
+  }
+}

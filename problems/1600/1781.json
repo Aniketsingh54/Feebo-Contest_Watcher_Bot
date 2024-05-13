@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1671,
+    "index": "D",
+    "name": "Insert a Progression",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1671,
+    "index": "D",
+    "solvedCount": 7279
+  }
+}

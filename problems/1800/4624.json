@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1119,
+    "index": "D",
+    "name": "Frets On Fire",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1119,
+    "index": "D",
+    "solvedCount": 4503
+  }
+}

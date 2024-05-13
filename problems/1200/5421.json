@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 958,
+    "index": "C1",
+    "name": "Encryption (easy)",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 958,
+    "index": "C1",
+    "solvedCount": 2776
+  }
+}

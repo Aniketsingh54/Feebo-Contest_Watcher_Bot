@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1043,
+    "index": "C",
+    "name": "Smallest Word",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1043,
+    "index": "C",
+    "solvedCount": 6782
+  }
+}

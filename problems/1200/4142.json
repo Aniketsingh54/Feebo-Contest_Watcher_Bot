@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1214,
+    "index": "C",
+    "name": "Bad Sequence",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1214,
+    "index": "C",
+    "solvedCount": 12839
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1793,
+    "index": "E",
+    "name": "Velepin and Marketing",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1793,
+    "index": "E",
+    "solvedCount": 932
+  }
+}

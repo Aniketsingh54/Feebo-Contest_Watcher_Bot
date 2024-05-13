@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1426,
+    "index": "C",
+    "name": "Increase and Copy",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1426,
+    "index": "C",
+    "solvedCount": 19022
+  }
+}

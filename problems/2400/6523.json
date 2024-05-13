@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 707,
+    "index": "E",
+    "name": "Garlands",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 707,
+    "index": "E",
+    "solvedCount": 1003
+  }
+}

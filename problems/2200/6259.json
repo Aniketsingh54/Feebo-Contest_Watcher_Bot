@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 765,
+    "index": "E",
+    "name": "Tree Folding",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 765,
+    "index": "E",
+    "solvedCount": 1246
+  }
+}

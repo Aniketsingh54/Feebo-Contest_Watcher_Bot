@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1899,
+    "index": "E",
+    "name": "Queue Sort",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1899,
+    "index": "E",
+    "solvedCount": 13929
+  }
+}

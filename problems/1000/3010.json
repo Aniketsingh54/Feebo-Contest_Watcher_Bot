@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1438,
+    "index": "B",
+    "name": "Valerii Against Everyone",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1438,
+    "index": "B",
+    "solvedCount": 18470
+  }
+}

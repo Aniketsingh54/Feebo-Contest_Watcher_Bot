@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1822,
+    "index": "A",
+    "name": "TubeTube Feed",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1822,
+    "index": "A",
+    "solvedCount": 23644
+  }
+}

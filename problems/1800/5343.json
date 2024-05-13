@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 979,
+    "index": "B",
+    "name": "Treasure Hunt",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 979,
+    "index": "B",
+    "solvedCount": 4351
+  }
+}

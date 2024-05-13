@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 875,
+    "index": "A",
+    "name": "Classroom Watch",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 875,
+    "index": "A",
+    "solvedCount": 9493
+  }
+}

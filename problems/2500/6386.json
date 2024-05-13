@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 734,
+    "index": "F",
+    "name": "Anton and School",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 734,
+    "index": "F",
+    "solvedCount": 1279
+  }
+}

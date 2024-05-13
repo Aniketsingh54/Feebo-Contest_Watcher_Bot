@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1528,
+    "index": "C",
+    "name": "Trees of Tranquillity",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1528,
+    "index": "C",
+    "solvedCount": 2501
+  }
+}

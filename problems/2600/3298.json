@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1380,
+    "index": "G",
+    "name": "Circular Dungeon",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "greedy",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1380,
+    "index": "G",
+    "solvedCount": 771
+  }
+}

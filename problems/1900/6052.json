@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 811,
+    "index": "C",
+    "name": "Vladik and Memorable Trip",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 811,
+    "index": "C",
+    "solvedCount": 3204
+  }
+}

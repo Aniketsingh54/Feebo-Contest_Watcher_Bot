@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1600,
+    "index": "E",
+    "name": "Array Game",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "games",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1600,
+    "index": "E",
+    "solvedCount": 1924
+  }
+}

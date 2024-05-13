@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1836,
+    "index": "A",
+    "name": "Destroyer",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1836,
+    "index": "A",
+    "solvedCount": 19794
+  }
+}

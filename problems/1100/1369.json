@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1741,
+    "index": "C",
+    "name": "Minimize the Thickness",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1741,
+    "index": "C",
+    "solvedCount": 17207
+  }
+}

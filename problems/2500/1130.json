@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1779,
+    "index": "F",
+    "name": "Xorcerer's Stones",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1779,
+    "index": "F",
+    "solvedCount": 1220
+  }
+}

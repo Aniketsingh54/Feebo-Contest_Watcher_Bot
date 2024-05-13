@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1411,
+    "index": "E",
+    "name": "Poman Numbers",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1411,
+    "index": "E",
+    "solvedCount": 1555
+  }
+}

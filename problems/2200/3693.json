@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1305,
+    "index": "E",
+    "name": "Kuroni and the Score Distribution",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1305,
+    "index": "E",
+    "solvedCount": 2918
+  }
+}

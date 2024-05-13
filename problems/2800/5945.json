@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 838,
+    "index": "C",
+    "name": "Future Failure",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "dp",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 838,
+    "index": "C",
+    "solvedCount": 278
+  }
+}

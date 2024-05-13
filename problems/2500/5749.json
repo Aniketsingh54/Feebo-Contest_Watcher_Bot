@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "L",
+    "name": "Berland.Taxi",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "L",
+    "solvedCount": 227
+  }
+}

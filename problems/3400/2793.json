@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1482,
+    "index": "H",
+    "name": "Exam",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "string suffix structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1482,
+    "index": "H",
+    "solvedCount": 433
+  }
+}

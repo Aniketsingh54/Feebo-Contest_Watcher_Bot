@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 887,
+    "index": "E",
+    "name": "Little Brother",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "geometry",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 887,
+    "index": "E",
+    "solvedCount": 162
+  }
+}

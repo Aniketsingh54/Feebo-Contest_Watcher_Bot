@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 920,
+    "index": "D",
+    "name": "Tanks",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 920,
+    "index": "D",
+    "solvedCount": 684
+  }
+}

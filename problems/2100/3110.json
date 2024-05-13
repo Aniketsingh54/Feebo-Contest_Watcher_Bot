@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1420,
+    "index": "C2",
+    "name": "Pokémon Army (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1420,
+    "index": "C2",
+    "solvedCount": 4502
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1361,
+    "index": "C",
+    "name": "Johnny and Megan's Necklace",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1361,
+    "index": "C",
+    "solvedCount": 1385
+  }
+}

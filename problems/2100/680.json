@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1856,
+    "index": "D",
+    "name": "More Wrong",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "divide and conquer",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1856,
+    "index": "D",
+    "solvedCount": 3088
+  }
+}

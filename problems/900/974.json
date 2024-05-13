@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1806,
+    "index": "B",
+    "name": "Mex Master",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1806,
+    "index": "B",
+    "solvedCount": 17033
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 835,
+    "index": "D",
+    "name": "Palindromic characteristics",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "dp",
+      "hashing",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 835,
+    "index": "D",
+    "solvedCount": 3907
+  }
+}

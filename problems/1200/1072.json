@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1790,
+    "index": "D",
+    "name": "Matryoshkas",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1790,
+    "index": "D",
+    "solvedCount": 18201
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1584,
+    "index": "E",
+    "name": "Game with Stones",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1584,
+    "index": "E",
+    "solvedCount": 1219
+  }
+}

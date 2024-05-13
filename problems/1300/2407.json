@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1553,
+    "index": "B",
+    "name": "Reverse String",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "dp",
+      "hashing",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1553,
+    "index": "B",
+    "solvedCount": 13829
+  }
+}

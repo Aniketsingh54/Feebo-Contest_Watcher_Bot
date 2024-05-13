@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1567,
+    "index": "A",
+    "name": "Domino Disaster",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1567,
+    "index": "A",
+    "solvedCount": 29655
+  }
+}

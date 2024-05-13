@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 716,
+    "index": "B",
+    "name": "Complete the Word",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 716,
+    "index": "B",
+    "solvedCount": 11816
+  }
+}

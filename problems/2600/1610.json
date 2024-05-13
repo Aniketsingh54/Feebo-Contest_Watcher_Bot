@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1700,
+    "index": "F",
+    "name": "Puzzle",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1700,
+    "index": "F",
+    "solvedCount": 849
+  }
+}

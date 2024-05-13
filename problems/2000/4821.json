@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1088,
+    "index": "D",
+    "name": "Ehab and another another xor problem",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "implementation",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1088,
+    "index": "D",
+    "solvedCount": 2762
+  }
+}

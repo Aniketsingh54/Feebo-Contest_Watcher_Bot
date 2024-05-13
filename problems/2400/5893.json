@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "L",
+    "name": "Berland SU Computer Network",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "hashing",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "L",
+    "solvedCount": 315
+  }
+}

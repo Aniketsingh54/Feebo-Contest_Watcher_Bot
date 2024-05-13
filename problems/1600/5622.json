@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 913,
+    "index": "C",
+    "name": "Party Lemonade",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 913,
+    "index": "C",
+    "solvedCount": 7743
+  }
+}

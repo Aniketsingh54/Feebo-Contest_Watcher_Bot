@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1478,
+    "index": "A",
+    "name": "Nezzar and Colorful Balls",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1478,
+    "index": "A",
+    "solvedCount": 25718
+  }
+}

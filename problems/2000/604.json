@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1867,
+    "index": "E1",
+    "name": "Salyg1n and Array (simple version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1867,
+    "index": "E1",
+    "solvedCount": 3522
+  }
+}

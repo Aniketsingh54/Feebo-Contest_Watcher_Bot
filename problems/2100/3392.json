@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1364,
+    "index": "D",
+    "name": "Ehab's Last Corollary",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1364,
+    "index": "D",
+    "solvedCount": 4015
+  }
+}

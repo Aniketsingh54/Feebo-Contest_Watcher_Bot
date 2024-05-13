@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 983,
+    "index": "C",
+    "name": "Elevator",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 983,
+    "index": "C",
+    "solvedCount": 801
+  }
+}

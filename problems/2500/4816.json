@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1089,
+    "index": "C",
+    "name": "Cactus Search",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1089,
+    "index": "C",
+    "solvedCount": 401
+  }
+}

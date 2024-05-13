@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1266,
+    "index": "D",
+    "name": "Decreasing Debts",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1266,
+    "index": "D",
+    "solvedCount": 3410
+  }
+}

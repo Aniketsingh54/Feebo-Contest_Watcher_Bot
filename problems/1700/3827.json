@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1280,
+    "index": "A",
+    "name": "Cut and Paste",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1280,
+    "index": "A",
+    "solvedCount": 5159
+  }
+}

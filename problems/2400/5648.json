@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 908,
+    "index": "F",
+    "name": "New Year and Rainbow Roads",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 908,
+    "index": "F",
+    "solvedCount": 1370
+  }
+}

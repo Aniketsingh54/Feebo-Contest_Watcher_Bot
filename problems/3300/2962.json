@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1450,
+    "index": "H2",
+    "name": "Multithreading (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3300,
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1450,
+    "index": "H2",
+    "solvedCount": 165
+  }
+}

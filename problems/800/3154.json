@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1411,
+    "index": "A",
+    "name": "In-game Chat",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1411,
+    "index": "A",
+    "solvedCount": 20143
+  }
+}

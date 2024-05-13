@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1255,
+    "index": "B",
+    "name": "Fridge Lockers",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1255,
+    "index": "B",
+    "solvedCount": 11681
+  }
+}

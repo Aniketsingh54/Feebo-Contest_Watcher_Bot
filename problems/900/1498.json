@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1720,
+    "index": "A",
+    "name": "Burenka Plays with Fractions",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1720,
+    "index": "A",
+    "solvedCount": 21763
+  }
+}

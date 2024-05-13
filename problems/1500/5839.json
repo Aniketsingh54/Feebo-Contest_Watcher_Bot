@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 859,
+    "index": "C",
+    "name": "Pie Rules",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 859,
+    "index": "C",
+    "solvedCount": 5269
+  }
+}

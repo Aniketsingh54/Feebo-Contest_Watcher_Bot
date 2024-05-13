@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1315,
+    "index": "A",
+    "name": "Dead Pixel",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1315,
+    "index": "A",
+    "solvedCount": 11807
+  }
+}

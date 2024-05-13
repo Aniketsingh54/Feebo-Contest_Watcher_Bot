@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1579,
+    "index": "E1",
+    "name": "Permutation Minimization by Deque",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1579,
+    "index": "E1",
+    "solvedCount": 20903
+  }
+}

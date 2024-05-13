@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 750,
+    "index": "B",
+    "name": "New Year and North Pole",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "geometry",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 750,
+    "index": "B",
+    "solvedCount": 9426
+  }
+}

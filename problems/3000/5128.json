@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1019,
+    "index": "C",
+    "name": "Sergey's problem",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1019,
+    "index": "C",
+    "solvedCount": 1073
+  }
+}

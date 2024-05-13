@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 988,
+    "index": "B",
+    "name": "Substrings Sort",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 988,
+    "index": "B",
+    "solvedCount": 17888
+  }
+}

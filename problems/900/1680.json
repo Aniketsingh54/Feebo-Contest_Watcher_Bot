@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1689,
+    "index": "B",
+    "name": "Mystic Permutation",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1689,
+    "index": "B",
+    "solvedCount": 17110
+  }
+}

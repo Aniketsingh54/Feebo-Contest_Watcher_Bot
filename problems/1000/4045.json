@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1237,
+    "index": "A",
+    "name": "Balanced Rating Changes",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1237,
+    "index": "A",
+    "solvedCount": 18603
+  }
+}

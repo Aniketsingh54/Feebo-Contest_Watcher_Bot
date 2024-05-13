@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "G",
+    "name": "Discarding Game",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "G",
+    "solvedCount": 710
+  }
+}

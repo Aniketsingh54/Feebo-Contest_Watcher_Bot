@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1057,
+    "index": "A",
+    "name": "Bmail Computer Network",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "*special",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1057,
+    "index": "A",
+    "solvedCount": 5766
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1042,
+    "index": "E",
+    "name": "Vasya and Magic Matrix",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1042,
+    "index": "E",
+    "solvedCount": 1689
+  }
+}

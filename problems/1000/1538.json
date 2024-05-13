@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1713,
+    "index": "B",
+    "name": "Optimal Reduction",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1713,
+    "index": "B",
+    "solvedCount": 20734
+  }
+}

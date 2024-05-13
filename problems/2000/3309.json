@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1379,
+    "index": "C",
+    "name": "Choosing flowers",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1379,
+    "index": "C",
+    "solvedCount": 5421
+  }
+}

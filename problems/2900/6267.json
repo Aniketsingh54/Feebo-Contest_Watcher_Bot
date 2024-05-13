@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 763,
+    "index": "D",
+    "name": "Timofey and a flat tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "graphs",
+      "hashing",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 763,
+    "index": "D",
+    "solvedCount": 514
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1326,
+    "index": "A",
+    "name": "Bad Ugly Numbers",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1326,
+    "index": "A",
+    "solvedCount": 29468
+  }
+}

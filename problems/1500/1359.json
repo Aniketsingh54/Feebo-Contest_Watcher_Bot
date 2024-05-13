@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1742,
+    "index": "F",
+    "name": "Smaller",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1742,
+    "index": "F",
+    "solvedCount": 10835
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 784,
+    "index": "D",
+    "name": "Touchy-Feely Palindromes",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 784,
+    "index": "D",
+    "solvedCount": 425
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 923,
+    "index": "C",
+    "name": "Perfect Security",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "greedy",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 923,
+    "index": "C",
+    "solvedCount": 4155
+  }
+}

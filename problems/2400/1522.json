@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1715,
+    "index": "E",
+    "name": "Long Way Home",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "geometry",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1715,
+    "index": "E",
+    "solvedCount": 1607
+  }
+}

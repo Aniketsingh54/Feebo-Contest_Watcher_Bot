@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1010,
+    "index": "F",
+    "name": "Tree",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3400,
+    "tags": [
+      "fft",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1010,
+    "index": "F",
+    "solvedCount": 211
+  }
+}

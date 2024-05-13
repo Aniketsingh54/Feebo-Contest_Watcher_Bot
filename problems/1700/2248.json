@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1583,
+    "index": "C",
+    "name": "Omkar and Determination",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1583,
+    "index": "C",
+    "solvedCount": 6809
+  }
+}

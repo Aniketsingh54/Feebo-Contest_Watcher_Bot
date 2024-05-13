@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1617,
+    "index": "D1",
+    "name": "Too Many Impostors (easy version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1617,
+    "index": "D1",
+    "solvedCount": 4529
+  }
+}

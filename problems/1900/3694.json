@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1305,
+    "index": "D",
+    "name": "Kuroni and the Celebration",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1305,
+    "index": "D",
+    "solvedCount": 4756
+  }
+}

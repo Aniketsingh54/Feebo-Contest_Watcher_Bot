@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1686,
+    "index": "A",
+    "name": "Everything Everywhere All But One",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1686,
+    "index": "A",
+    "solvedCount": 20184
+  }
+}

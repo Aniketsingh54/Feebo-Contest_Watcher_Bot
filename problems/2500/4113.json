@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1218,
+    "index": "E",
+    "name": "Product Tuples",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "divide and conquer",
+      "fft"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1218,
+    "index": "E",
+    "solvedCount": 357
+  }
+}

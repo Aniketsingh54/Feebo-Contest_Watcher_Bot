@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 801,
+    "index": "A",
+    "name": "Vicious Keyboard",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 801,
+    "index": "A",
+    "solvedCount": 7217
+  }
+}

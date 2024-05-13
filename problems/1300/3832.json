@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1279,
+    "index": "B",
+    "name": "Verse For Santa",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1279,
+    "index": "B",
+    "solvedCount": 13359
+  }
+}

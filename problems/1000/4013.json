@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1244,
+    "index": "B",
+    "name": "Rooms and Staircases",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1244,
+    "index": "B",
+    "solvedCount": 15128
+  }
+}

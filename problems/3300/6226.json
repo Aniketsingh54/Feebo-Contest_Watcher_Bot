@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 771,
+    "index": "F",
+    "name": "Bear and Isomorphic Points",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "geometry",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 771,
+    "index": "F",
+    "solvedCount": 78
+  }
+}

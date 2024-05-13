@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 811,
+    "index": "D",
+    "name": "Vladik and Favorite Game",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 811,
+    "index": "D",
+    "solvedCount": 1526
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1015,
+    "index": "A",
+    "name": "Points in Segments",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1015,
+    "index": "A",
+    "solvedCount": 20522
+  }
+}

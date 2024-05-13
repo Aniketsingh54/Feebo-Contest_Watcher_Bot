@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1396,
+    "index": "E",
+    "name": "Distance Matching",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1396,
+    "index": "E",
+    "solvedCount": 320
+  }
+}

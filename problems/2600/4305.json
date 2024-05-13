@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1185,
+    "index": "G2",
+    "name": "Playlist for Polycarp (hard version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1185,
+    "index": "G2",
+    "solvedCount": 709
+  }
+}

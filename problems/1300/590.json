@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1870,
+    "index": "C",
+    "name": "Colorful Table",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1870,
+    "index": "C",
+    "solvedCount": 10738
+  }
+}

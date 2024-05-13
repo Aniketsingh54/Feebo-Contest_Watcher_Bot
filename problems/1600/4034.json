@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1238,
+    "index": "C",
+    "name": "Standard Free2play",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1238,
+    "index": "C",
+    "solvedCount": 7102
+  }
+}

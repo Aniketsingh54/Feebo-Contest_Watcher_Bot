@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1106,
+    "index": "F",
+    "name": "Lunar New Year and a Recursive Sequence",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2400,
+    "tags": [
+      "math",
+      "matrices",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1106,
+    "index": "F",
+    "solvedCount": 949
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 919,
+    "index": "E",
+    "name": "Congruence Equation",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "chinese remainder theorem",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 919,
+    "index": "E",
+    "solvedCount": 1827
+  }
+}

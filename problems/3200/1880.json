@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1656,
+    "index": "H",
+    "name": "Equal LCM Subsets",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1656,
+    "index": "H",
+    "solvedCount": 414
+  }
+}

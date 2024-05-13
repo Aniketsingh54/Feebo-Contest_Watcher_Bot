@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1385,
+    "index": "B",
+    "name": "Restore the Permutation by Merger",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1385,
+    "index": "B",
+    "solvedCount": 36310
+  }
+}

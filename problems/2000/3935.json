@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1256,
+    "index": "F",
+    "name": "Equalizing Two Strings",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1256,
+    "index": "F",
+    "solvedCount": 3067
+  }
+}

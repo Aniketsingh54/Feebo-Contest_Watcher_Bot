@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1611,
+    "index": "E1",
+    "name": "Escape The Maze (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1611,
+    "index": "E1",
+    "solvedCount": 6953
+  }
+}

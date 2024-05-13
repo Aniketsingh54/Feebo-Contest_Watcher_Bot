@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1223,
+    "index": "F",
+    "name": "Stack Exterminable Arrays",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1223,
+    "index": "F",
+    "solvedCount": 1949
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1768,
+    "index": "E",
+    "name": "Partial Sorting",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1768,
+    "index": "E",
+    "solvedCount": 1785
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1386,
+    "index": "B",
+    "name": "Mixture",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "*special",
+      "data structures",
+      "geometry",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1386,
+    "index": "B",
+    "solvedCount": 118
+  }
+}

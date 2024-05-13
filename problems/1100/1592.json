@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1703,
+    "index": "D",
+    "name": "Double Strings",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1703,
+    "index": "D",
+    "solvedCount": 24398
+  }
+}

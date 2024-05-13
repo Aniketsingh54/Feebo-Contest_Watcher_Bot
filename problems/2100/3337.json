@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1372,
+    "index": "D",
+    "name": "Omkar and Circle",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "dp",
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1372,
+    "index": "D",
+    "solvedCount": 5293
+  }
+}

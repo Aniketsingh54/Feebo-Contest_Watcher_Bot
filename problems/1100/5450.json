@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 950,
+    "index": "B",
+    "name": "Intercepted Message",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 950,
+    "index": "B",
+    "solvedCount": 7304
+  }
+}

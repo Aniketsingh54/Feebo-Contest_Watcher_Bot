@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1867,
+    "index": "D",
+    "name": "Cyclic Operations",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1867,
+    "index": "D",
+    "solvedCount": 5334
+  }
+}

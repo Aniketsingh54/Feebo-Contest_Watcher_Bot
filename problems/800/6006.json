@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 821,
+    "index": "A",
+    "name": "Okabe and Future Gadget Laboratory",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 821,
+    "index": "A",
+    "solvedCount": 7940
+  }
+}

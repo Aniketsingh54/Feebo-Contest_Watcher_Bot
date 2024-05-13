@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1547,
+    "index": "E",
+    "name": "Air Conditioners",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "shortest paths",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1547,
+    "index": "E",
+    "solvedCount": 13856
+  }
+}

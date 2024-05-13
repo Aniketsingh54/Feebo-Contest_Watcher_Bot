@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1919,
+    "index": "E",
+    "name": "Counting Prefixes",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1919,
+    "index": "E",
+    "solvedCount": 776
+  }
+}

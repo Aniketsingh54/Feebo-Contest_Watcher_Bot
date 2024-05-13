@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 924,
+    "index": "F",
+    "name": "Minimal Subset Difference",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3200,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 924,
+    "index": "F",
+    "solvedCount": 157
+  }
+}

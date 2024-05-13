@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "I",
+    "name": "Show Must Go On",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "I",
+    "solvedCount": 126
+  }
+}

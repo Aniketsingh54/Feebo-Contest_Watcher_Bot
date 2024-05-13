@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1841,
+    "index": "B",
+    "name": "Keep it Beautiful",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1841,
+    "index": "B",
+    "solvedCount": 20576
+  }
+}

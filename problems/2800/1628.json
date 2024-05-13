@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1697,
+    "index": "F",
+    "name": "Too Many Constraints",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1697,
+    "index": "F",
+    "solvedCount": 514
+  }
+}

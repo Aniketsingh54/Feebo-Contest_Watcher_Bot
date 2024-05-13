@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 845,
+    "index": "C",
+    "name": "Two TVs",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 845,
+    "index": "C",
+    "solvedCount": 7898
+  }
+}

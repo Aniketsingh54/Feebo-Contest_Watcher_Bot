@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1316,
+    "index": "F",
+    "name": "Battalion Strength",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1316,
+    "index": "F",
+    "solvedCount": 580
+  }
+}

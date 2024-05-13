@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1610,
+    "index": "C",
+    "name": "Keshi Is Throwing a Party",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1610,
+    "index": "C",
+    "solvedCount": 10739
+  }
+}

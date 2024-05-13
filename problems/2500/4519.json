@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1146,
+    "index": "F",
+    "name": "Leaf Partition",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1146,
+    "index": "F",
+    "solvedCount": 1091
+  }
+}

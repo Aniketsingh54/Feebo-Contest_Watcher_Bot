@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1198,
+    "index": "D",
+    "name": "Rectangle Painting 1",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1198,
+    "index": "D",
+    "solvedCount": 3102
+  }
+}

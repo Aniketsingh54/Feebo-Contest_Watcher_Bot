@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1055,
+    "index": "A",
+    "name": "Metro",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1055,
+    "index": "A",
+    "solvedCount": 10386
+  }
+}

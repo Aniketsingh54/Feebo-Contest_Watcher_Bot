@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1967,
+    "index": "C",
+    "name": "Fenwick Tree",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1967,
+    "index": "C",
+    "solvedCount": 1211
+  }
+}

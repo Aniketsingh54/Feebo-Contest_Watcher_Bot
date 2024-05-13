@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1036,
+    "index": "F",
+    "name": "Relatively Prime Powers",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1036,
+    "index": "F",
+    "solvedCount": 1362
+  }
+}

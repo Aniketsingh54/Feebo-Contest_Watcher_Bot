@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 891,
+    "index": "B",
+    "name": "Gluttony",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 891,
+    "index": "B",
+    "solvedCount": 2904
+  }
+}

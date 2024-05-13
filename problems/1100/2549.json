@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1529,
+    "index": "B",
+    "name": "Sifid and Strange Subsequences",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1529,
+    "index": "B",
+    "solvedCount": 20344
+  }
+}

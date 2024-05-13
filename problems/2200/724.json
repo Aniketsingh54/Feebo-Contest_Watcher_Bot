@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1848,
+    "index": "D",
+    "name": "Vika and Bonuses",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1848,
+    "index": "D",
+    "solvedCount": 2515
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 958,
+    "index": "D1",
+    "name": "Hyperspace Jump (easy)",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "expression parsing",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 958,
+    "index": "D1",
+    "solvedCount": 2035
+  }
+}

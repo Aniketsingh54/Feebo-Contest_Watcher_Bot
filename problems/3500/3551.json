@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1336,
+    "index": "E2",
+    "name": "Chiori and Doll Picking (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 3500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1336,
+    "index": "E2",
+    "solvedCount": 288
+  }
+}

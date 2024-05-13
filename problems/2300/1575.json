@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1705,
+    "index": "E",
+    "name": "Mark and Professor Koro",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1705,
+    "index": "E",
+    "solvedCount": 1979
+  }
+}

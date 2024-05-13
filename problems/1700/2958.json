@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1451,
+    "index": "D",
+    "name": "Circle Game",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "games",
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1451,
+    "index": "D",
+    "solvedCount": 9262
+  }
+}

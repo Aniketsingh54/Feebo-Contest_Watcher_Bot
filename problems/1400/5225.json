@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1001,
+    "index": "G",
+    "name": "Oracle for f(x) = k-th element of x",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1001,
+    "index": "G",
+    "solvedCount": 531
+  }
+}

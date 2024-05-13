@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1903,
+    "index": "D2",
+    "name": "Maximum And Queries (hard version)",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "divide and conquer",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1903,
+    "index": "D2",
+    "solvedCount": 709
+  }
+}

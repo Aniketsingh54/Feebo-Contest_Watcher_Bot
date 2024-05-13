@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1009,
+    "index": "B",
+    "name": "Minimum Ternary String",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1009,
+    "index": "B",
+    "solvedCount": 9901
+  }
+}

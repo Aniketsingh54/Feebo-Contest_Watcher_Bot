@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1107,
+    "index": "C",
+    "name": "Brutality",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1107,
+    "index": "C",
+    "solvedCount": 9651
+  }
+}

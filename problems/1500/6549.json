@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 702,
+    "index": "B",
+    "name": "Powers of Two",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 702,
+    "index": "B",
+    "solvedCount": 11310
+  }
+}

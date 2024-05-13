@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1719,
+    "index": "C",
+    "name": "Fighting Tournament",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1719,
+    "index": "C",
+    "solvedCount": 12870
+  }
+}

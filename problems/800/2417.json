@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1552,
+    "index": "A",
+    "name": "Subsequence Permutation",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 800,
+    "tags": [
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1552,
+    "index": "A",
+    "solvedCount": 23517
+  }
+}

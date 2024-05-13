@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1850,
+    "index": "C",
+    "name": "Word on the Paper",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1850,
+    "index": "C",
+    "solvedCount": 41198
+  }
+}

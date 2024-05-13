@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1856,
+    "index": "E1",
+    "name": "PermuTree (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1856,
+    "index": "E1",
+    "solvedCount": 4912
+  }
+}

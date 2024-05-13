@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1638,
+    "index": "F",
+    "name": "Two Posters",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1638,
+    "index": "F",
+    "solvedCount": 189
+  }
+}

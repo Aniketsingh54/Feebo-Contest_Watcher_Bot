@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1849,
+    "index": "B",
+    "name": "Monsters",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1849,
+    "index": "B",
+    "solvedCount": 22739
+  }
+}

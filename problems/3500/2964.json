@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1450,
+    "index": "G",
+    "name": "Communism",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3500,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1450,
+    "index": "G",
+    "solvedCount": 233
+  }
+}

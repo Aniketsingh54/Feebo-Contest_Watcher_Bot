@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1823,
+    "index": "F",
+    "name": "Random Walk",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "dp",
+      "graphs",
+      "math",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1823,
+    "index": "F",
+    "solvedCount": 788
+  }
+}

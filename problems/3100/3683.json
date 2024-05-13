@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1307,
+    "index": "G",
+    "name": "Cow and Exercise",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3100,
+    "tags": [
+      "flows",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1307,
+    "index": "G",
+    "solvedCount": 479
+  }
+}

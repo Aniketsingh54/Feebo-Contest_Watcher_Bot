@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1687,
+    "index": "B",
+    "name": "Railway System",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "interactive",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1687,
+    "index": "B",
+    "solvedCount": 3487
+  }
+}

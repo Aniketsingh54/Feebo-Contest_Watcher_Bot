@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1445,
+    "index": "B",
+    "name": "Elimination",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1445,
+    "index": "B",
+    "solvedCount": 15055
+  }
+}

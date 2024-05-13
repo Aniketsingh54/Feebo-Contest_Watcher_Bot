@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1811,
+    "index": "F",
+    "name": "Is It Flower?",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1811,
+    "index": "F",
+    "solvedCount": 1730
+  }
+}

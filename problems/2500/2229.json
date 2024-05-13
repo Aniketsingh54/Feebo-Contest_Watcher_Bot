@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1585,
+    "index": "G",
+    "name": "Poachers",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "games",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1585,
+    "index": "G",
+    "solvedCount": 171
+  }
+}

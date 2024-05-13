@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1005,
+    "index": "B",
+    "name": "Delete from the Left",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1005,
+    "index": "B",
+    "solvedCount": 22356
+  }
+}

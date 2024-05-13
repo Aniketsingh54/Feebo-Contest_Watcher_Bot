@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 773,
+    "index": "F",
+    "name": "Test Data Generation",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3400,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 773,
+    "index": "F",
+    "solvedCount": 184
+  }
+}

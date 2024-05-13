@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1613,
+    "index": "B",
+    "name": "Absent Remainder",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1613,
+    "index": "B",
+    "solvedCount": 21195
+  }
+}

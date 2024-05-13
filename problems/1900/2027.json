@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1624,
+    "index": "G",
+    "name": "MinOr Tree",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1624,
+    "index": "G",
+    "solvedCount": 5549
+  }
+}

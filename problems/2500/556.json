@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1876,
+    "index": "D",
+    "name": "Lexichromatography",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1876,
+    "index": "D",
+    "solvedCount": 815
+  }
+}

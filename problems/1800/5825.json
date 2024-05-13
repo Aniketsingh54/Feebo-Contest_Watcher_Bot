@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 863,
+    "index": "C",
+    "name": "1-2-3",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 863,
+    "index": "C",
+    "solvedCount": 2406
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1106,
+    "index": "C",
+    "name": "Lunar New Year and Number Division",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1106,
+    "index": "C",
+    "solvedCount": 14285
+  }
+}

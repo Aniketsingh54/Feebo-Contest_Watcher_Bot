@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 777,
+    "index": "D",
+    "name": "Cloud of Hashtags",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 777,
+    "index": "D",
+    "solvedCount": 4913
+  }
+}

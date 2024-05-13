@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1195,
+    "index": "C",
+    "name": "Basketball Exercise",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1195,
+    "index": "C",
+    "solvedCount": 24068
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1750,
+    "index": "B",
+    "name": "Maximum Substring",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1750,
+    "index": "B",
+    "solvedCount": 15954
+  }
+}

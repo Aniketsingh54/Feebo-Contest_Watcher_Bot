@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1918,
+    "index": "D",
+    "name": "Blocking Elements",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1918,
+    "index": "D",
+    "solvedCount": 4269
+  }
+}

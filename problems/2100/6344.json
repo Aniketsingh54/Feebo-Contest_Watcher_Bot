@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 746,
+    "index": "G",
+    "name": "New Roads",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 746,
+    "index": "G",
+    "solvedCount": 1317
+  }
+}

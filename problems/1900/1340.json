@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1746,
+    "index": "D",
+    "name": "Paths on the Tree",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1746,
+    "index": "D",
+    "solvedCount": 4426
+  }
+}

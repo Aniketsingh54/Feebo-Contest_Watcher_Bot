@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 908,
+    "index": "E",
+    "name": "New Year and Entity Enumeration",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 908,
+    "index": "E",
+    "solvedCount": 734
+  }
+}

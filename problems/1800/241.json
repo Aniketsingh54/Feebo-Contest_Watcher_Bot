@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "D1",
+    "name": "Sum over all Substrings (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "D1",
+    "solvedCount": 3694
+  }
+}

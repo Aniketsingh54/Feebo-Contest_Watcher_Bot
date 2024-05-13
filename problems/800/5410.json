@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 959,
+    "index": "A",
+    "name": "Mahmoud and Ehab and the even-odd game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 959,
+    "index": "A",
+    "solvedCount": 44209
+  }
+}

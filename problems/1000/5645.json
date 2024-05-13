@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 909,
+    "index": "A",
+    "name": "Generate Login",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 909,
+    "index": "A",
+    "solvedCount": 9155
+  }
+}

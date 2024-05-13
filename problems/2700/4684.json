@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1109,
+    "index": "E",
+    "name": "Sasha and a Very Easy Test",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1109,
+    "index": "E",
+    "solvedCount": 494
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1950,
+    "index": "D",
+    "name": "Product of Binary Decimals",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1950,
+    "index": "D",
+    "solvedCount": 20342
+  }
+}

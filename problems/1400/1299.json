@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1758,
+    "index": "C",
+    "name": "Almost All Multiples",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1758,
+    "index": "C",
+    "solvedCount": 12915
+  }
+}

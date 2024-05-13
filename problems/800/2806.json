@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1481,
+    "index": "A",
+    "name": "Space Navigation ",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1481,
+    "index": "A",
+    "solvedCount": 24657
+  }
+}

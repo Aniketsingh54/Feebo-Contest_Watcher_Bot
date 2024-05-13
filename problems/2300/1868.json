@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1658,
+    "index": "D2",
+    "name": "388535 (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1658,
+    "index": "D2",
+    "solvedCount": 2440
+  }
+}

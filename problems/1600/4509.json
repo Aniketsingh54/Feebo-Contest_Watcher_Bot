@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1148,
+    "index": "B",
+    "name": "Born This Way",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1148,
+    "index": "B",
+    "solvedCount": 7286
+  }
+}

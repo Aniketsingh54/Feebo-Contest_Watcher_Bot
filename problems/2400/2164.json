@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1605,
+    "index": "E",
+    "name": "Array Equalizer",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1605,
+    "index": "E",
+    "solvedCount": 997
+  }
+}

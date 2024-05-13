@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 758,
+    "index": "A",
+    "name": "Holiday Of Equality",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 758,
+    "index": "A",
+    "solvedCount": 57431
+  }
+}

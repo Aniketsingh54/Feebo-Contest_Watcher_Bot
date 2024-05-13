@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 766,
+    "index": "C",
+    "name": "Mahmoud and a Message",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 766,
+    "index": "C",
+    "solvedCount": 4315
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1362,
+    "index": "B",
+    "name": "Johnny and His Hobbies",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1362,
+    "index": "B",
+    "solvedCount": 18376
+  }
+}

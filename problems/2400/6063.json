@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 808,
+    "index": "F",
+    "name": "Card Game",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 808,
+    "index": "F",
+    "solvedCount": 1092
+  }
+}

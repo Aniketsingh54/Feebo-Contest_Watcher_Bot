@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1615,
+    "index": "H",
+    "name": "Reindeer Games",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "divide and conquer",
+      "flows",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1615,
+    "index": "H",
+    "solvedCount": 308
+  }
+}

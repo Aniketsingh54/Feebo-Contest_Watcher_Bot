@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1838,
+    "index": "B",
+    "name": "Minimize Permutation Subarrays",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1838,
+    "index": "B",
+    "solvedCount": 15829
+  }
+}

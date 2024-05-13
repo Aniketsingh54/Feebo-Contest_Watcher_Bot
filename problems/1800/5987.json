@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 827,
+    "index": "B",
+    "name": "High Load",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 827,
+    "index": "B",
+    "solvedCount": 3435
+  }
+}

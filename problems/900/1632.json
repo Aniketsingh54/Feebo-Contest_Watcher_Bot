@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1697,
+    "index": "B",
+    "name": "Promo",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1697,
+    "index": "B",
+    "solvedCount": 25538
+  }
+}

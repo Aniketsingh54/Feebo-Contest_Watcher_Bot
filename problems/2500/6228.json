@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 771,
+    "index": "D",
+    "name": "Bear and Company",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 771,
+    "index": "D",
+    "solvedCount": 1105
+  }
+}

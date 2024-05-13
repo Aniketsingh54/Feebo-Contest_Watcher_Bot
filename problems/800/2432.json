@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1549,
+    "index": "B",
+    "name": "Gregor and the Pawn Game",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1549,
+    "index": "B",
+    "solvedCount": 23797
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 898,
+    "index": "C",
+    "name": "Phone Numbers",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 898,
+    "index": "C",
+    "solvedCount": 5143
+  }
+}

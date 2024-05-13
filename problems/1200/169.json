@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1941,
+    "index": "D",
+    "name": "Rudolf and the Ball Game",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1941,
+    "index": "D",
+    "solvedCount": 16622
+  }
+}

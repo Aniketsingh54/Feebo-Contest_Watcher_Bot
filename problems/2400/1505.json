@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1718,
+    "index": "C",
+    "name": "Tonya and Burenka-179",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1718,
+    "index": "C",
+    "solvedCount": 1520
+  }
+}

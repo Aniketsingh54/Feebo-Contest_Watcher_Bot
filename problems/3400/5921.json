@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 843,
+    "index": "D",
+    "name": "Dynamic Shortest Path",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3400,
+    "tags": [
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 843,
+    "index": "D",
+    "solvedCount": 756
+  }
+}

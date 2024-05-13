@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1141,
+    "index": "B",
+    "name": "Maximal Continuous Rest",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1141,
+    "index": "B",
+    "solvedCount": 20672
+  }
+}

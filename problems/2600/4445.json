@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1158,
+    "index": "D",
+    "name": "Winding polygonal line",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1158,
+    "index": "D",
+    "solvedCount": 663
+  }
+}

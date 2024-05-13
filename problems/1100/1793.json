@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1669,
+    "index": "F",
+    "name": "Eating Candies",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1669,
+    "index": "F",
+    "solvedCount": 23130
+  }
+}

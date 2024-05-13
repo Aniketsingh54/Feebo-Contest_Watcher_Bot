@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1110,
+    "index": "H",
+    "name": "Modest Substrings",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1110,
+    "index": "H",
+    "solvedCount": 276
+  }
+}

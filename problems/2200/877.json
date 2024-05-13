@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1822,
+    "index": "G2",
+    "name": "Magic Triples (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1822,
+    "index": "G2",
+    "solvedCount": 2312
+  }
+}

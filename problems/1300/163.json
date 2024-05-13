@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1942,
+    "index": "C1",
+    "name": "Bessie's Birthday Cake (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1300,
+    "tags": [
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1942,
+    "index": "C1",
+    "solvedCount": 9502
+  }
+}

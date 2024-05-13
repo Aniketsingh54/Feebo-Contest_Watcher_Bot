@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1372,
+    "index": "B",
+    "name": "Omkar and Last Class of Math",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1372,
+    "index": "B",
+    "solvedCount": 26177
+  }
+}

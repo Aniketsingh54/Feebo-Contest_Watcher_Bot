@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1005,
+    "index": "E1",
+    "name": "Median on Segments (Permutations Edition)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1005,
+    "index": "E1",
+    "solvedCount": 3721
+  }
+}

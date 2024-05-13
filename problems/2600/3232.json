@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1394,
+    "index": "C",
+    "name": "Boboniu and String",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "geometry",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1394,
+    "index": "C",
+    "solvedCount": 901
+  }
+}

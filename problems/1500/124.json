@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1949,
+    "index": "B",
+    "name": "Charming Meals",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1949,
+    "index": "B",
+    "solvedCount": 1835
+  }
+}

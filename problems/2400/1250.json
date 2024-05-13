@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "A",
+    "name": "Access Levels",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "dsu",
+      "flows",
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "A",
+    "solvedCount": 666
+  }
+}

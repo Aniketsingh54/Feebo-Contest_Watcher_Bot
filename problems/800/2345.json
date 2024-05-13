@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1566,
+    "index": "B",
+    "name": "MIN-MEX Cut",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1566,
+    "index": "B",
+    "solvedCount": 19108
+  }
+}

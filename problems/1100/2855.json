@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1472,
+    "index": "C",
+    "name": "Long Jumps",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1472,
+    "index": "C",
+    "solvedCount": 30014
+  }
+}

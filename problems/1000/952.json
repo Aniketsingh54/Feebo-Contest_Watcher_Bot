@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1809,
+    "index": "B",
+    "name": "Points on Plane",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1809,
+    "index": "B",
+    "solvedCount": 19052
+  }
+}

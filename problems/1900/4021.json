@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1242,
+    "index": "B",
+    "name": "0-1 MST",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1242,
+    "index": "B",
+    "solvedCount": 6981
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1791,
+    "index": "D",
+    "name": "Distinct Split",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1791,
+    "index": "D",
+    "solvedCount": 26986
+  }
+}

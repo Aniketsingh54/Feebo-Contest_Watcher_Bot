@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1342,
+    "index": "B",
+    "name": "Binary Period",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1342,
+    "index": "B",
+    "solvedCount": 23151
+  }
+}

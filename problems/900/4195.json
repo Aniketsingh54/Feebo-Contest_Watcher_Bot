@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1206,
+    "index": "B",
+    "name": "Make Product Equal One",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1206,
+    "index": "B",
+    "solvedCount": 26045
+  }
+}

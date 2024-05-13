@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1215,
+    "index": "B",
+    "name": "The Number of Products",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1215,
+    "index": "B",
+    "solvedCount": 12089
+  }
+}

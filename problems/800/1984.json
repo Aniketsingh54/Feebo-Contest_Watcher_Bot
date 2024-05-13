@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1633,
+    "index": "B",
+    "name": "Minority",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1633,
+    "index": "B",
+    "solvedCount": 27236
+  }
+}

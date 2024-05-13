@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1571,
+    "index": "F",
+    "name": "Kotlinforces",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "*special",
+      "constructive algorithms",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1571,
+    "index": "F",
+    "solvedCount": 177
+  }
+}

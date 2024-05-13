@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1542,
+    "index": "D",
+    "name": "Priority Queue",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "math",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1542,
+    "index": "D",
+    "solvedCount": 2532
+  }
+}

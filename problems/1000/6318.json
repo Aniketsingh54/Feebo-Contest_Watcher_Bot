@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 753,
+    "index": "A",
+    "name": "Santa Claus and Candies",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 753,
+    "index": "A",
+    "solvedCount": 8771
+  }
+}

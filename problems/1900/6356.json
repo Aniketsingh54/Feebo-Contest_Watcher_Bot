@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 744,
+    "index": "B",
+    "name": "Hongcow's Game",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "divide and conquer",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 744,
+    "index": "B",
+    "solvedCount": 1706
+  }
+}

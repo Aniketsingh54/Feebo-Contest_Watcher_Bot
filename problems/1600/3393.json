@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1364,
+    "index": "C",
+    "name": "Ehab and Prefix MEXs",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1364,
+    "index": "C",
+    "solvedCount": 12676
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1004,
+    "index": "F",
+    "name": "Sonya and Bitwise OR",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1004,
+    "index": "F",
+    "solvedCount": 700
+  }
+}

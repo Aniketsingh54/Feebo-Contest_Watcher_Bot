@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 761,
+    "index": "C",
+    "name": "Dasha and Password",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 761,
+    "index": "C",
+    "solvedCount": 5833
+  }
+}

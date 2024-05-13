@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1375,
+    "index": "I",
+    "name": "Cubic Lattice",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "geometry",
+      "math",
+      "matrices",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1375,
+    "index": "I",
+    "solvedCount": 76
+  }
+}

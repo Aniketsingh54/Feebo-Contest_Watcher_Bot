@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 813,
+    "index": "A",
+    "name": "The Contest",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 813,
+    "index": "A",
+    "solvedCount": 5012
+  }
+}

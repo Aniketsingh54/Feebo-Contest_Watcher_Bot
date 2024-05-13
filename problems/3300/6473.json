@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 718,
+    "index": "E",
+    "name": "Matvey's Birthday",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "bitmasks",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 718,
+    "index": "E",
+    "solvedCount": 342
+  }
+}

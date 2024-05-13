@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 792,
+    "index": "A",
+    "name": "New Bus Route",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 792,
+    "index": "A",
+    "solvedCount": 8745
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1101,
+    "index": "E",
+    "name": "Polycarp's New Job",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1101,
+    "index": "E",
+    "solvedCount": 7719
+  }
+}

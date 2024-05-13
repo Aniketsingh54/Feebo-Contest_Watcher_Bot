@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1083,
+    "index": "C",
+    "name": "Max Mex",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1083,
+    "index": "C",
+    "solvedCount": 837
+  }
+}

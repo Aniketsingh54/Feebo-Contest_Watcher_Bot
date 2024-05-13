@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 720,
+    "index": "A",
+    "name": "Closing ceremony",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 720,
+    "index": "A",
+    "solvedCount": 837
+  }
+}

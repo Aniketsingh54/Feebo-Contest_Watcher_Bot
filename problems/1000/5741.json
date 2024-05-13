@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 886,
+    "index": "A",
+    "name": "ACM ICPC",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 886,
+    "index": "A",
+    "solvedCount": 10087
+  }
+}

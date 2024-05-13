@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1027,
+    "index": "D",
+    "name": "Mouse Hunt",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1027,
+    "index": "D",
+    "solvedCount": 7003
+  }
+}

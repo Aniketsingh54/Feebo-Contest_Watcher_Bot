@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1219,
+    "index": "G",
+    "name": "Harvester",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1219,
+    "index": "G",
+    "solvedCount": 604
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1157,
+    "index": "E",
+    "name": "Minimum Array",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1157,
+    "index": "E",
+    "solvedCount": 8159
+  }
+}

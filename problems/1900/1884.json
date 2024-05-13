@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1656,
+    "index": "D",
+    "name": "K-good",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1656,
+    "index": "D",
+    "solvedCount": 6612
+  }
+}

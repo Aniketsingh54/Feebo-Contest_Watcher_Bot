@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1695,
+    "index": "E",
+    "name": "Ambiguous Dominoes",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1695,
+    "index": "E",
+    "solvedCount": 424
+  }
+}

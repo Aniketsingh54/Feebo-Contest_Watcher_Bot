@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1817,
+    "index": "B",
+    "name": "Fish Graph",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1817,
+    "index": "B",
+    "solvedCount": 3866
+  }
+}

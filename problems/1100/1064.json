@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1791,
+    "index": "E",
+    "name": "Negatives and Positives",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1791,
+    "index": "E",
+    "solvedCount": 25664
+  }
+}

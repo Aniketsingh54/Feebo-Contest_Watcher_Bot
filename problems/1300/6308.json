@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 755,
+    "index": "C",
+    "name": "PolandBall and Forest",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 755,
+    "index": "C",
+    "solvedCount": 11700
+  }
+}

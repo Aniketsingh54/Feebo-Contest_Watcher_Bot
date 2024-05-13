@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1762,
+    "index": "B",
+    "name": "Make Array Good",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1762,
+    "index": "B",
+    "solvedCount": 16197
+  }
+}

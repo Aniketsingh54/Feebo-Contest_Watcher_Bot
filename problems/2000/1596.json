@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1702,
+    "index": "G2",
+    "name": "Passable Paths (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1702,
+    "index": "G2",
+    "solvedCount": 4333
+  }
+}

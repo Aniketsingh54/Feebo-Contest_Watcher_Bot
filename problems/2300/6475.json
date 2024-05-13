@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 718,
+    "index": "C",
+    "name": "Sasha and Array",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 718,
+    "index": "C",
+    "solvedCount": 3370
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1625,
+    "index": "D",
+    "name": "Binary Spiders",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "implementation",
+      "math",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1625,
+    "index": "D",
+    "solvedCount": 1968
+  }
+}

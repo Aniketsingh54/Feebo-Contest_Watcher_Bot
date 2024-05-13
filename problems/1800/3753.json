@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1295,
+    "index": "D",
+    "name": "Same GCDs",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1295,
+    "index": "D",
+    "solvedCount": 8432
+  }
+}

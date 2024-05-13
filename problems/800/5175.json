@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1009,
+    "index": "A",
+    "name": "Game Shopping",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1009,
+    "index": "A",
+    "solvedCount": 11650
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1211,
+    "index": "H",
+    "name": "Road Repair in Treeland",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "*special",
+      "binary search",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1211,
+    "index": "H",
+    "solvedCount": 41
+  }
+}

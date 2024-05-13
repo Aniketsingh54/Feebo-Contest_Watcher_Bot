@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1411,
+    "index": "B",
+    "name": "Fair Numbers",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1411,
+    "index": "B",
+    "solvedCount": 17831
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 798,
+    "index": "E",
+    "name": "Mike and code of a permutation",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 798,
+    "index": "E",
+    "solvedCount": 458
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1272,
+    "index": "B",
+    "name": "Snow Walking Robot",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1272,
+    "index": "B",
+    "solvedCount": 13496
+  }
+}

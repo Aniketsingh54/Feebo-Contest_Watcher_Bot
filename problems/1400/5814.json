@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 865,
+    "index": "A",
+    "name": "Save the problem!",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 865,
+    "index": "A",
+    "solvedCount": 4143
+  }
+}

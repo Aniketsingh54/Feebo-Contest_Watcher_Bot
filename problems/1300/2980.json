@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1446,
+    "index": "A",
+    "name": "Knapsack",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1446,
+    "index": "A",
+    "solvedCount": 14930
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1928,
+    "index": "E",
+    "name": "Modular Sequence",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1928,
+    "index": "E",
+    "solvedCount": 1549
+  }
+}

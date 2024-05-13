@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 878,
+    "index": "D",
+    "name": "Magic Breeding",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "bitmasks"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 878,
+    "index": "D",
+    "solvedCount": 640
+  }
+}

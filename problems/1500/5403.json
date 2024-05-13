@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 960,
+    "index": "B",
+    "name": "Minimize the error",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 960,
+    "index": "B",
+    "solvedCount": 7391
+  }
+}

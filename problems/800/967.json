@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1807,
+    "index": "B",
+    "name": "Grab the Candies",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1807,
+    "index": "B",
+    "solvedCount": 39844
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1076,
+    "index": "F",
+    "name": "Summer Practice Report",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1076,
+    "index": "F",
+    "solvedCount": 619
+  }
+}

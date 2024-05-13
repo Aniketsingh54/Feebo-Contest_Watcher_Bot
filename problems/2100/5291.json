@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 988,
+    "index": "F",
+    "name": "Rain and Umbrellas",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 988,
+    "index": "F",
+    "solvedCount": 2202
+  }
+}

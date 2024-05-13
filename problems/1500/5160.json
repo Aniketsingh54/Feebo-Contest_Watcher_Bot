@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1012,
+    "index": "A",
+    "name": "Photo of The Sky",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1012,
+    "index": "A",
+    "solvedCount": 6150
+  }
+}

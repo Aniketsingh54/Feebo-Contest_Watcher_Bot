@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1023,
+    "index": "E",
+    "name": "Down or Right",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1023,
+    "index": "E",
+    "solvedCount": 1955
+  }
+}

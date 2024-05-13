@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1675,
+    "index": "A",
+    "name": "Food for Animals",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1675,
+    "index": "A",
+    "solvedCount": 31556
+  }
+}

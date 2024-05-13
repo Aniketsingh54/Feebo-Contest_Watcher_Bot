@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1098,
+    "index": "A",
+    "name": "Sum in the tree",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1098,
+    "index": "A",
+    "solvedCount": 8362
+  }
+}

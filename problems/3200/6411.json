@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "K",
+    "name": "Roads Orientation Problem",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "K",
+    "solvedCount": 93
+  }
+}

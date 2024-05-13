@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1845,
+    "index": "B",
+    "name": "Come Together",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "geometry",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1845,
+    "index": "B",
+    "solvedCount": 20889
+  }
+}

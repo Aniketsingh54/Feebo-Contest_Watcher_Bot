@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1945,
+    "index": "H",
+    "name": "GCD is Greater",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1945,
+    "index": "H",
+    "solvedCount": 490
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1967,
+    "index": "A",
+    "name": "Permutation Counting",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1967,
+    "index": "A",
+    "solvedCount": 8664
+  }
+}

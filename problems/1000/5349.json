@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 978,
+    "index": "C",
+    "name": "Letters",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 978,
+    "index": "C",
+    "solvedCount": 24424
+  }
+}

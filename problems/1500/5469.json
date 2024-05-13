@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 940,
+    "index": "C",
+    "name": "Phone Numbers",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 940,
+    "index": "C",
+    "solvedCount": 5618
+  }
+}

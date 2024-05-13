@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1957,
+    "index": "D",
+    "name": "A BIT of an Inequality",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1957,
+    "index": "D",
+    "solvedCount": 3572
+  }
+}

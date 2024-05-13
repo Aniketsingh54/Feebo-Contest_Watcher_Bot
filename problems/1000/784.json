@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1840,
+    "index": "C",
+    "name": "Ski Resort",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "combinatorics",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1840,
+    "index": "C",
+    "solvedCount": 24653
+  }
+}

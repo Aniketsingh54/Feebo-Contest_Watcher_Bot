@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1404,
+    "index": "B",
+    "name": "Tree Tag",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1404,
+    "index": "B",
+    "solvedCount": 7086
+  }
+}

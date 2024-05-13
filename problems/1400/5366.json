@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 975,
+    "index": "C",
+    "name": "Valhalla Siege",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "binary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 975,
+    "index": "C",
+    "solvedCount": 9374
+  }
+}

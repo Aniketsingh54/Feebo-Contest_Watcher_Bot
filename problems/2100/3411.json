@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1360,
+    "index": "H",
+    "name": "Binary Median",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1360,
+    "index": "H",
+    "solvedCount": 4283
+  }
+}

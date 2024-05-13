@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1292,
+    "index": "C",
+    "name": "Xenon's Attack on the Gangs",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1292,
+    "index": "C",
+    "solvedCount": 1873
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1868,
+    "index": "D",
+    "name": "Flower-like Pseudotree",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1868,
+    "index": "D",
+    "solvedCount": 248
+  }
+}

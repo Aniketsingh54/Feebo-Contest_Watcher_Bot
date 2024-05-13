@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1583,
+    "index": "F",
+    "name": "Defender of Childhood Dreams",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1583,
+    "index": "F",
+    "solvedCount": 1222
+  }
+}

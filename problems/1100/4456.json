@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1157,
+    "index": "A",
+    "name": "Reachable Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1157,
+    "index": "A",
+    "solvedCount": 15392
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 959,
+    "index": "F",
+    "name": "Mahmoud and Ehab and yet another xor task",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 959,
+    "index": "F",
+    "solvedCount": 1940
+  }
+}

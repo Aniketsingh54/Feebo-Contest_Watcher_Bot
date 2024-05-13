@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1379,
+    "index": "F2",
+    "name": "Chess Strikes Back (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1379,
+    "index": "F2",
+    "solvedCount": 467
+  }
+}

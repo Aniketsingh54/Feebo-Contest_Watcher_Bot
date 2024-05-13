@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 786,
+    "index": "B",
+    "name": "Legacy",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 786,
+    "index": "B",
+    "solvedCount": 5444
+  }
+}

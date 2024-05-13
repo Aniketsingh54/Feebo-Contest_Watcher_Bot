@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 772,
+    "index": "B",
+    "name": "Volatile Kite",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 772,
+    "index": "B",
+    "solvedCount": 3094
+  }
+}

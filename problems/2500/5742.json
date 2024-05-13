@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 884,
+    "index": "F",
+    "name": "Anti-Palindromize",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "flows",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 884,
+    "index": "F",
+    "solvedCount": 936
+  }
+}

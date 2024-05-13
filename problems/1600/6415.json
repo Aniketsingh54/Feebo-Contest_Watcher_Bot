@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "G",
+    "name": "Car Repair Shop",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "G",
+    "solvedCount": 2100
+  }
+}

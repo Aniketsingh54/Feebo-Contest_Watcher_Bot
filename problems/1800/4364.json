@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1177,
+    "index": "B",
+    "name": "Digits Sequence (Hard Edition)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "divide and conquer",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1177,
+    "index": "B",
+    "solvedCount": 2400
+  }
+}

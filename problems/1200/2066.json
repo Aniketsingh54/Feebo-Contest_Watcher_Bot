@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1619,
+    "index": "C",
+    "name": "Wrong Addition",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1619,
+    "index": "C",
+    "solvedCount": 20267
+  }
+}

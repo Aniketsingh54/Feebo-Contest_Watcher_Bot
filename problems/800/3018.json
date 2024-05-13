@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1437,
+    "index": "A",
+    "name": "Marketing Scheme",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1437,
+    "index": "A",
+    "solvedCount": 17823
+  }
+}

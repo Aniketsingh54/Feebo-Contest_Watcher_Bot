@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1254,
+    "index": "A",
+    "name": "Feeding Chicken",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1254,
+    "index": "A",
+    "solvedCount": 4988
+  }
+}

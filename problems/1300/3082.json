@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1424,
+    "index": "G",
+    "name": "Years",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1424,
+    "index": "G",
+    "solvedCount": 5649
+  }
+}

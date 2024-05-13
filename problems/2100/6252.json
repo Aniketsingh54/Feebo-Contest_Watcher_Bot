@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 766,
+    "index": "E",
+    "name": "Mahmoud and a xor trip",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 766,
+    "index": "E",
+    "solvedCount": 2829
+  }
+}

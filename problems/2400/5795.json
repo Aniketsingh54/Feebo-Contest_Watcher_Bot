@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 869,
+    "index": "E",
+    "name": "The Untended Antiquity",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 869,
+    "index": "E",
+    "solvedCount": 1471
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1914,
+    "index": "F",
+    "name": "Programming Competition",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1914,
+    "index": "F",
+    "solvedCount": 3677
+  }
+}

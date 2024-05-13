@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1535,
+    "index": "D",
+    "name": "Playoff Tournament",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1535,
+    "index": "D",
+    "solvedCount": 7490
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1482,
+    "index": "C",
+    "name": "Basic Diplomacy",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1482,
+    "index": "C",
+    "solvedCount": 9093
+  }
+}

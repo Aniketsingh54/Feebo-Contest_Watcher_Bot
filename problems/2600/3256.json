@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1389,
+    "index": "F",
+    "name": "Bicolored Segments",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "dp",
+      "graph matchings",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1389,
+    "index": "F",
+    "solvedCount": 946
+  }
+}

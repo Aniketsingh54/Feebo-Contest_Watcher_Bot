@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 898,
+    "index": "D",
+    "name": "Alarm Clock",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1600,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 898,
+    "index": "D",
+    "solvedCount": 3615
+  }
+}

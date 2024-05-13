@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1234,
+    "index": "D",
+    "name": "Distinct Characters Queries",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1234,
+    "index": "D",
+    "solvedCount": 14189
+  }
+}

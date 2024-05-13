@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 741,
+    "index": "C",
+    "name": "Arpa’s overnight party and Mehrdad’s silent entering",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 741,
+    "index": "C",
+    "solvedCount": 2378
+  }
+}

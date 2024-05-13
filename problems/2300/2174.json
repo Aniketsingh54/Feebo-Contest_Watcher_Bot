@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1603,
+    "index": "C",
+    "name": "Extreme Extension",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1603,
+    "index": "C",
+    "solvedCount": 1976
+  }
+}

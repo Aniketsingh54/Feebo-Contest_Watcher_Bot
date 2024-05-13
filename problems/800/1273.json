@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1762,
+    "index": "A",
+    "name": "Divide and Conquer",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1762,
+    "index": "A",
+    "solvedCount": 18561
+  }
+}

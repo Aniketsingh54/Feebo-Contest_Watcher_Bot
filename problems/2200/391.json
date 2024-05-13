@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1907,
+    "index": "G",
+    "name": "Lights",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1907,
+    "index": "G",
+    "solvedCount": 1749
+  }
+}

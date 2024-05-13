@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1932,
+    "index": "D",
+    "name": "Card Game",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1932,
+    "index": "D",
+    "solvedCount": 9907
+  }
+}

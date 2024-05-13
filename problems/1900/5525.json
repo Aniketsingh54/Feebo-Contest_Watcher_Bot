@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 928,
+    "index": "C",
+    "name": "Dependency management",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "*special",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 928,
+    "index": "C",
+    "solvedCount": 879
+  }
+}

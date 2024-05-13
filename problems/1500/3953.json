@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1253,
+    "index": "C",
+    "name": "Sweets Eating",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1253,
+    "index": "C",
+    "solvedCount": 13809
+  }
+}

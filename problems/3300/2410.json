@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1552,
+    "index": "H",
+    "name": "Guess the Perimeter",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "interactive",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1552,
+    "index": "H",
+    "solvedCount": 316
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1037,
+    "index": "H",
+    "name": "Security",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1037,
+    "index": "H",
+    "solvedCount": 976
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1954,
+    "index": "F",
+    "name": "Unique Strings",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1954,
+    "index": "F",
+    "solvedCount": 203
+  }
+}

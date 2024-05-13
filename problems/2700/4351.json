@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1179,
+    "index": "D",
+    "name": "Fedor Runs for President",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1179,
+    "index": "D",
+    "solvedCount": 773
+  }
+}

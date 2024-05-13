@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1733,
+    "index": "C",
+    "name": "Parity Shuffle Sorting",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1733,
+    "index": "C",
+    "solvedCount": 15114
+  }
+}

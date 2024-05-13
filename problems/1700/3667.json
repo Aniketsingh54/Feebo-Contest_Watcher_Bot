@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1312,
+    "index": "D",
+    "name": "Count the Arrays",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1312,
+    "index": "D",
+    "solvedCount": 8957
+  }
+}

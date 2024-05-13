@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1919,
+    "index": "F2",
+    "name": "Wine Factory (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "dp",
+      "flows",
+      "greedy",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1919,
+    "index": "F2",
+    "solvedCount": 741
+  }
+}

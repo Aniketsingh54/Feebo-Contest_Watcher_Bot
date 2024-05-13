@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1850,
+    "index": "B",
+    "name": "Ten Words of Wisdom",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1850,
+    "index": "B",
+    "solvedCount": 40485
+  }
+}

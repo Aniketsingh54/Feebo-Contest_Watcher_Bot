@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1313,
+    "index": "D",
+    "name": "Happy New Year",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1313,
+    "index": "D",
+    "solvedCount": 1161
+  }
+}

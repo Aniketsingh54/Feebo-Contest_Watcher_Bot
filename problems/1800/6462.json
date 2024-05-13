@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 721,
+    "index": "C",
+    "name": "Journey",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 721,
+    "index": "C",
+    "solvedCount": 5676
+  }
+}

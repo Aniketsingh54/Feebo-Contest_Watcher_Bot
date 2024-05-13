@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1413,
+    "index": "F",
+    "name": "Roads and Ramen",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1413,
+    "index": "F",
+    "solvedCount": 706
+  }
+}

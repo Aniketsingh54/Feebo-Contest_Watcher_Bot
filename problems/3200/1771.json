@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1672,
+    "index": "G",
+    "name": "Cross Xor",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3200,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1672,
+    "index": "G",
+    "solvedCount": 313
+  }
+}

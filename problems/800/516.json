@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1884,
+    "index": "A",
+    "name": "Simple Design",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1884,
+    "index": "A",
+    "solvedCount": 16459
+  }
+}

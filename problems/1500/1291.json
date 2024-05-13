@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1759,
+    "index": "E",
+    "name": "The Humanoid",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1759,
+    "index": "E",
+    "solvedCount": 9978
+  }
+}

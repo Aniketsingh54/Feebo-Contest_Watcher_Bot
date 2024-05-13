@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 778,
+    "index": "C",
+    "name": "Peterson Polyglot",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dsu",
+      "hashing",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 778,
+    "index": "C",
+    "solvedCount": 863
+  }
+}

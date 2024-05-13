@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 911,
+    "index": "F",
+    "name": "Tree Destruction",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 911,
+    "index": "F",
+    "solvedCount": 1565
+  }
+}

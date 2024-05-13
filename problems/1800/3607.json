@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1327,
+    "index": "E",
+    "name": "Count The Blocks",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1327,
+    "index": "E",
+    "solvedCount": 8570
+  }
+}

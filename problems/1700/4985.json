@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1051,
+    "index": "D",
+    "name": "Bicolorings",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1051,
+    "index": "D",
+    "solvedCount": 7147
+  }
+}

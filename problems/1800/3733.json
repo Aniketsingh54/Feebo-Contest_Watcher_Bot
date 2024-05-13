@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1299,
+    "index": "B",
+    "name": "Aerodynamic",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1299,
+    "index": "B",
+    "solvedCount": 5056
+  }
+}

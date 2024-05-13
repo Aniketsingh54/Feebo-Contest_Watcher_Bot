@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1033,
+    "index": "G",
+    "name": "Chip Game",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1033,
+    "index": "G",
+    "solvedCount": 355
+  }
+}

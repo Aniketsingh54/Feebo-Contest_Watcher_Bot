@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 777,
+    "index": "C",
+    "name": "Alyona and Spreadsheet",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 777,
+    "index": "C",
+    "solvedCount": 6278
+  }
+}

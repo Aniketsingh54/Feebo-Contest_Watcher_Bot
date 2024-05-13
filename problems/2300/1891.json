@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1654,
+    "index": "E",
+    "name": "Arithmetic Operations",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "data structures",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1654,
+    "index": "E",
+    "solvedCount": 1991
+  }
+}

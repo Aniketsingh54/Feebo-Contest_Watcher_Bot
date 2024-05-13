@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1913,
+    "index": "D",
+    "name": "Array Collapse",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1913,
+    "index": "D",
+    "solvedCount": 2707
+  }
+}

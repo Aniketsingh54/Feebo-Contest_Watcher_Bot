@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 995,
+    "index": "E",
+    "name": "Number Clicker",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "divide and conquer",
+      "graphs",
+      "meet-in-the-middle",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 995,
+    "index": "E",
+    "solvedCount": 615
+  }
+}

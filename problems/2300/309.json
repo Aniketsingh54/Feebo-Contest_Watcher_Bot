@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1919,
+    "index": "F1",
+    "name": "Wine Factory (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1919,
+    "index": "F1",
+    "solvedCount": 2027
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1811,
+    "index": "G2",
+    "name": "Vlad and the Nice Paths (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1811,
+    "index": "G2",
+    "solvedCount": 1621
+  }
+}

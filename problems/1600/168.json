@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1941,
+    "index": "E",
+    "name": "Rudolf and k Bridges",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1941,
+    "index": "E",
+    "solvedCount": 8173
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1031,
+    "index": "D",
+    "name": "Minimum path",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1031,
+    "index": "D",
+    "solvedCount": 2617
+  }
+}

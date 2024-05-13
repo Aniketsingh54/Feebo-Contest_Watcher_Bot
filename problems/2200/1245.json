@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "F",
+    "name": "Chemistry Lab",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "geometry",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "F",
+    "solvedCount": 588
+  }
+}

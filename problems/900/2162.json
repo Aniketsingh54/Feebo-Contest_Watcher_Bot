@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1606,
+    "index": "A",
+    "name": "AB Balance",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1606,
+    "index": "A",
+    "solvedCount": 22856
+  }
+}

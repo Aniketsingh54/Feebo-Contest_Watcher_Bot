@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1584,
+    "index": "B",
+    "name": "Coloring Rectangles",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1584,
+    "index": "B",
+    "solvedCount": 13081
+  }
+}

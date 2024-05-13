@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1702,
+    "index": "C",
+    "name": "Train and Queries",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1702,
+    "index": "C",
+    "solvedCount": 21508
+  }
+}

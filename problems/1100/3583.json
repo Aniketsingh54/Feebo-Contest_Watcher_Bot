@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1332,
+    "index": "A",
+    "name": "Exercising Walk",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1332,
+    "index": "A",
+    "solvedCount": 19143
+  }
+}

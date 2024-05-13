@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1111,
+    "index": "C",
+    "name": "Creative Snap",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "brute force",
+      "divide and conquer",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1111,
+    "index": "C",
+    "solvedCount": 6109
+  }
+}

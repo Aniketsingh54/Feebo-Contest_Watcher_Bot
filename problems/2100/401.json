@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "J",
+    "name": "Count BFS Graph",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "J",
+    "solvedCount": 635
+  }
+}

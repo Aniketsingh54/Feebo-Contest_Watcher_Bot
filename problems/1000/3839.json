@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1278,
+    "index": "A",
+    "name": "Shuffle Hashing",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1278,
+    "index": "A",
+    "solvedCount": 15721
+  }
+}

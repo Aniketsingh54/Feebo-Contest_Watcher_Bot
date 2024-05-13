@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 821,
+    "index": "E",
+    "name": "Okabe and El Psy Kongroo",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 821,
+    "index": "E",
+    "solvedCount": 1415
+  }
+}

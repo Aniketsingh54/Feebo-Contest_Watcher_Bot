@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1923,
+    "index": "E",
+    "name": "Count Paths",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1923,
+    "index": "E",
+    "solvedCount": 3185
+  }
+}

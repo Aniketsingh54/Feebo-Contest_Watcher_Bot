@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "D",
+    "name": "Matrix Cascade",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "D",
+    "solvedCount": 6341
+  }
+}

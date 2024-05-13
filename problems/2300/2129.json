@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1610,
+    "index": "E",
+    "name": "AmShZ and G.O.A.T.",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1610,
+    "index": "E",
+    "solvedCount": 1627
+  }
+}

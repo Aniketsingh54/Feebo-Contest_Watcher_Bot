@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1713,
+    "index": "A",
+    "name": "Traveling Salesman Problem",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1713,
+    "index": "A",
+    "solvedCount": 21671
+  }
+}

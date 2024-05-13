@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 794,
+    "index": "D",
+    "name": "Labelling Cities",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 794,
+    "index": "D",
+    "solvedCount": 761
+  }
+}

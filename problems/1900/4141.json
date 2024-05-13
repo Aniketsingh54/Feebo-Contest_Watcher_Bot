@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1214,
+    "index": "D",
+    "name": "Treasure Island",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "flows",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1214,
+    "index": "D",
+    "solvedCount": 4943
+  }
+}

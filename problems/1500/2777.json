@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1487,
+    "index": "C",
+    "name": "Minimum Ties",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1487,
+    "index": "C",
+    "solvedCount": 13703
+  }
+}

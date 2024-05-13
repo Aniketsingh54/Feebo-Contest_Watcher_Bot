@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1311,
+    "index": "C",
+    "name": "Perform the Combo",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1311,
+    "index": "C",
+    "solvedCount": 15591
+  }
+}

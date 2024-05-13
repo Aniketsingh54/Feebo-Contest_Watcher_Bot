@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 718,
+    "index": "D",
+    "name": "Andrew and Chemistry",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "hashing",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 718,
+    "index": "D",
+    "solvedCount": 382
+  }
+}

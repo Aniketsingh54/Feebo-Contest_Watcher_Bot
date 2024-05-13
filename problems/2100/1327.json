@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1748,
+    "index": "D",
+    "name": "ConstructOR ",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "chinese remainder theorem",
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1748,
+    "index": "D",
+    "solvedCount": 2666
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1761,
+    "index": "D",
+    "name": "Carry Bit",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1761,
+    "index": "D",
+    "solvedCount": 2333
+  }
+}

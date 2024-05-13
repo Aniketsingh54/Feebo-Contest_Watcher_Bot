@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1721,
+    "index": "F",
+    "name": "Matching Reduction",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1721,
+    "index": "F",
+    "solvedCount": 363
+  }
+}

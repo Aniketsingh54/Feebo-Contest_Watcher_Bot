@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 784,
+    "index": "C",
+    "name": "INTERCALC",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 784,
+    "index": "C",
+    "solvedCount": 673
+  }
+}

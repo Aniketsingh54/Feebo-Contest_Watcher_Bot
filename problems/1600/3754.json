@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1295,
+    "index": "C",
+    "name": "Obtain The String",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1295,
+    "index": "C",
+    "solvedCount": 12556
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 815,
+    "index": "E",
+    "name": "Karen and Neighborhood",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 815,
+    "index": "E",
+    "solvedCount": 218
+  }
+}

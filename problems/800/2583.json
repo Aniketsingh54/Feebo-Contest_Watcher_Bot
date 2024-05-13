@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1523,
+    "index": "A",
+    "name": "Game of Life",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1523,
+    "index": "A",
+    "solvedCount": 13399
+  }
+}

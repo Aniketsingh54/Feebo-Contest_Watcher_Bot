@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1218,
+    "index": "D",
+    "name": "Xor Spanning Tree",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "divide and conquer",
+      "fft",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1218,
+    "index": "D",
+    "solvedCount": 313
+  }
+}

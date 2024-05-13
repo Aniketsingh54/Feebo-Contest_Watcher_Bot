@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1115,
+    "index": "G2",
+    "name": "OR oracle",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1115,
+    "index": "G2",
+    "solvedCount": 305
+  }
+}

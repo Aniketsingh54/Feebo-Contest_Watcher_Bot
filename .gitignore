@@ -1,0 +1,5 @@
+auth_info_baileys/
+contests/*
+!contests/.gitkeep
+node_modules/
+

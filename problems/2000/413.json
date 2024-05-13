@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1905,
+    "index": "D",
+    "name": "Cyclic MEX",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1905,
+    "index": "D",
+    "solvedCount": 3505
+  }
+}

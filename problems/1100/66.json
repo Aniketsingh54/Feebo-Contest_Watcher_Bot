@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1957,
+    "index": "B",
+    "name": "A BIT of a Construction",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1957,
+    "index": "B",
+    "solvedCount": 14802
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1220,
+    "index": "E",
+    "name": "Tourism",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2200,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1220,
+    "index": "E",
+    "solvedCount": 2542
+  }
+}

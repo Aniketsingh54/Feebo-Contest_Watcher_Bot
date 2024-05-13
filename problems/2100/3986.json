@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "C",
+    "name": "Trip to Saint Petersburg",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "C",
+    "solvedCount": 1289
+  }
+}

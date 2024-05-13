@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1742,
+    "index": "B",
+    "name": "Increasing",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1742,
+    "index": "B",
+    "solvedCount": 44567
+  }
+}

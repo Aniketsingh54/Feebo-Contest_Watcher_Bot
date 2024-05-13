@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1744,
+    "index": "B",
+    "name": "Even-Odd Increments ",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1744,
+    "index": "B",
+    "solvedCount": 22826
+  }
+}

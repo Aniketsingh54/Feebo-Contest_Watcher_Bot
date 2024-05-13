@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1446,
+    "index": "C",
+    "name": "Xor Tree",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1446,
+    "index": "C",
+    "solvedCount": 3392
+  }
+}

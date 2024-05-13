@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1713,
+    "index": "D",
+    "name": "Tournament Countdown",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "interactive",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1713,
+    "index": "D",
+    "solvedCount": 5462
+  }
+}

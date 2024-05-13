@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 999,
+    "index": "E",
+    "name": "Reachability from the Capital",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 999,
+    "index": "E",
+    "solvedCount": 6366
+  }
+}

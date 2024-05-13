@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1630,
+    "index": "E",
+    "name": "Expected Components",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1630,
+    "index": "E",
+    "solvedCount": 423
+  }
+}

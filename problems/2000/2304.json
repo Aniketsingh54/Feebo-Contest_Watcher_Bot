@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1574,
+    "index": "D",
+    "name": "The Strongest Build",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "hashing",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1574,
+    "index": "D",
+    "solvedCount": 4355
+  }
+}

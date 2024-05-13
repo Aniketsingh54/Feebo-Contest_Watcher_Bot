@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1632,
+    "index": "D",
+    "name": "New Year Concert",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1632,
+    "index": "D",
+    "solvedCount": 4468
+  }
+}

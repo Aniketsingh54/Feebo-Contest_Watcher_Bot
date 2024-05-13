@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1329,
+    "index": "B",
+    "name": "Dreamoon Likes Sequences",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1329,
+    "index": "B",
+    "solvedCount": 6389
+  }
+}

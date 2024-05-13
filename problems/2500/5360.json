@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 976,
+    "index": "D",
+    "name": "Degree Set",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 976,
+    "index": "D",
+    "solvedCount": 669
+  }
+}

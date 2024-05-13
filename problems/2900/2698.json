@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1500,
+    "index": "D",
+    "name": "Tiles for Bathroom",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1500,
+    "index": "D",
+    "solvedCount": 414
+  }
+}

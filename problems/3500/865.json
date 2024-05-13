@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1824,
+    "index": "E",
+    "name": "LuoTianyi and Cartridge",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1824,
+    "index": "E",
+    "solvedCount": 124
+  }
+}

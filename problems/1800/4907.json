@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1067,
+    "index": "B",
+    "name": "Multihedgehog",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1067,
+    "index": "B",
+    "solvedCount": 2512
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1954,
+    "index": "A",
+    "name": "Painting the Ribbon",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1954,
+    "index": "A",
+    "solvedCount": 20345
+  }
+}

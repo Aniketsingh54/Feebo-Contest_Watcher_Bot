@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "N",
+    "name": "Wires",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "N",
+    "solvedCount": 1546
+  }
+}

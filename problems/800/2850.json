@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1473,
+    "index": "A",
+    "name": "Replacing Elements",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1473,
+    "index": "A",
+    "solvedCount": 32873
+  }
+}

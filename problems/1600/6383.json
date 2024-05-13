@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 735,
+    "index": "C",
+    "name": "Tennis Championship",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1600,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 735,
+    "index": "C",
+    "solvedCount": 7341
+  }
+}

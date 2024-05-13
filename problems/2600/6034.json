@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 814,
+    "index": "E",
+    "name": "An unavoidable detour for home",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 814,
+    "index": "E",
+    "solvedCount": 640
+  }
+}

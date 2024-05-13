@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1349,
+    "index": "E",
+    "name": "Slime and Hats",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1349,
+    "index": "E",
+    "solvedCount": 85
+  }
+}

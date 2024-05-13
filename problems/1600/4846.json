@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1082,
+    "index": "C",
+    "name": "Multi-Subject Competition",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1082,
+    "index": "C",
+    "solvedCount": 5507
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1545,
+    "index": "E1",
+    "name": "AquaMoon and Time Stop (easy version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1545,
+    "index": "E1",
+    "solvedCount": 74
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "E3",
+    "name": "Daleks' Invasion (hard)",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "E3",
+    "solvedCount": 492
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1100,
+    "index": "D",
+    "name": "Dasha and Chess",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1100,
+    "index": "D",
+    "solvedCount": 833
+  }
+}

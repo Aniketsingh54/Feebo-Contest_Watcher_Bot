@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1712,
+    "index": "E1",
+    "name": "LCM Sum (easy version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1712,
+    "index": "E1",
+    "solvedCount": 2040
+  }
+}

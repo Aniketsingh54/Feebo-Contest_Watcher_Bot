@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 989,
+    "index": "B",
+    "name": "A Tide of Riverscape",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 989,
+    "index": "B",
+    "solvedCount": 6975
+  }
+}

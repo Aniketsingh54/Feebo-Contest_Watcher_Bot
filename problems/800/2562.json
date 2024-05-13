@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1527,
+    "index": "A",
+    "name": "And Then There Were K",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "bitmasks"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1527,
+    "index": "A",
+    "solvedCount": 33952
+  }
+}

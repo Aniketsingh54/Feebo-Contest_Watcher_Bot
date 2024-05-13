@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 930,
+    "index": "B",
+    "name": "Game with String",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "implementation",
+      "probabilities",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 930,
+    "index": "B",
+    "solvedCount": 2596
+  }
+}

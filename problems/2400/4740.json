@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1099,
+    "index": "F",
+    "name": "Cookies",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "games",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1099,
+    "index": "F",
+    "solvedCount": 907
+  }
+}

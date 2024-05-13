@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1012,
+    "index": "D",
+    "name": "AB-Strings",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1012,
+    "index": "D",
+    "solvedCount": 316
+  }
+}

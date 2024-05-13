@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1332,
+    "index": "D",
+    "name": "Walk on Matrix",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1332,
+    "index": "D",
+    "solvedCount": 7869
+  }
+}

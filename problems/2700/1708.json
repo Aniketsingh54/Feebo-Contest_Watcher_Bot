@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1682,
+    "index": "E",
+    "name": "Unordered Swaps",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1682,
+    "index": "E",
+    "solvedCount": 561
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1556,
+    "index": "B",
+    "name": "Take Your Places!",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1556,
+    "index": "B",
+    "solvedCount": 12432
+  }
+}

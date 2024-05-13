@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1899,
+    "index": "B",
+    "name": "250 Thousand Tons of TNT",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1899,
+    "index": "B",
+    "solvedCount": 18122
+  }
+}

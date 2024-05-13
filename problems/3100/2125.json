@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1610,
+    "index": "I",
+    "name": "Mashtali vs AtCoder",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3100,
+    "tags": [
+      "games",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1610,
+    "index": "I",
+    "solvedCount": 259
+  }
+}

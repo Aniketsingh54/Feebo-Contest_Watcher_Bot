@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 727,
+    "index": "E",
+    "name": "Games on a CD",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "hashing",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 727,
+    "index": "E",
+    "solvedCount": 1119
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1499,
+    "index": "G",
+    "name": "Graph Coloring",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "data structures",
+      "graphs",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1499,
+    "index": "G",
+    "solvedCount": 186
+  }
+}

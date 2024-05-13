@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1147,
+    "index": "C",
+    "name": "Thanos Nim",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1147,
+    "index": "C",
+    "solvedCount": 3154
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1905,
+    "index": "F",
+    "name": "Field Should Not Be Empty",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1905,
+    "index": "F",
+    "solvedCount": 456
+  }
+}

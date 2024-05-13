@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1792,
+    "index": "E",
+    "name": "Divisors and Table",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1792,
+    "index": "E",
+    "solvedCount": 1305
+  }
+}

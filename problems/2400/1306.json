@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1753,
+    "index": "D",
+    "name": "The Beach",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1753,
+    "index": "D",
+    "solvedCount": 1669
+  }
+}

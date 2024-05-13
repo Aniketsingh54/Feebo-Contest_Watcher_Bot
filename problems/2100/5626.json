@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 912,
+    "index": "D",
+    "name": "Fishes",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "probabilities",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 912,
+    "index": "D",
+    "solvedCount": 1956
+  }
+}

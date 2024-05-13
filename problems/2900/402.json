@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "I",
+    "name": "Contingency Plan 2",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "I",
+    "solvedCount": 126
+  }
+}

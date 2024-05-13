@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1644,
+    "index": "B",
+    "name": "Anti-Fibonacci Permutation",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1644,
+    "index": "B",
+    "solvedCount": 20456
+  }
+}

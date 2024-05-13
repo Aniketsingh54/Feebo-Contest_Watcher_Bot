@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1692,
+    "index": "D",
+    "name": "The Clock",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1692,
+    "index": "D",
+    "solvedCount": 18756
+  }
+}

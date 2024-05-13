@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1416,
+    "index": "F",
+    "name": "Showing Off",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3300,
+    "tags": [
+      "flows",
+      "graph matchings",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1416,
+    "index": "F",
+    "solvedCount": 372
+  }
+}

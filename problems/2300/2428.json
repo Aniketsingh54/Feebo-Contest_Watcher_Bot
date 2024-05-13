@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1550,
+    "index": "D",
+    "name": "Excellent Arrays",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1550,
+    "index": "D",
+    "solvedCount": 1781
+  }
+}

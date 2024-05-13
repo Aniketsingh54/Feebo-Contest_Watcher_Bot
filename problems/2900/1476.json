@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "D",
+    "name": "Deducing Sortability",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "D",
+    "solvedCount": 118
+  }
+}

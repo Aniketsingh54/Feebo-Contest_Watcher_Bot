@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1025,
+    "index": "C",
+    "name": "Plasticine zebra",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1025,
+    "index": "C",
+    "solvedCount": 5925
+  }
+}

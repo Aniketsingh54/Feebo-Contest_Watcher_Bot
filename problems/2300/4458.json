@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1156,
+    "index": "F",
+    "name": "Card Bag",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1156,
+    "index": "F",
+    "solvedCount": 1331
+  }
+}

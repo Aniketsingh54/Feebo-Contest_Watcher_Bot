@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 814,
+    "index": "C",
+    "name": "An impassioned circulation of affection",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "dp",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 814,
+    "index": "C",
+    "solvedCount": 6311
+  }
+}

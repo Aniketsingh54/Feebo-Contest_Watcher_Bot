@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1172,
+    "index": "E",
+    "name": "Nauuo and ODT",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1172,
+    "index": "E",
+    "solvedCount": 289
+  }
+}

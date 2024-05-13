@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1780,
+    "index": "E",
+    "name": "Josuke and Complete Graph",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1780,
+    "index": "E",
+    "solvedCount": 1305
+  }
+}

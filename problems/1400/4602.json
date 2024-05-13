@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1130,
+    "index": "C",
+    "name": "Connect",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1130,
+    "index": "C",
+    "solvedCount": 8327
+  }
+}

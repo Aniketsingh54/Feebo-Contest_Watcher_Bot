@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1543,
+    "index": "D2",
+    "name": "RPD and Rap Sheet (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1543,
+    "index": "D2",
+    "solvedCount": 1944
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1685,
+    "index": "D1",
+    "name": "Permutation Weight (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1685,
+    "index": "D1",
+    "solvedCount": 423
+  }
+}

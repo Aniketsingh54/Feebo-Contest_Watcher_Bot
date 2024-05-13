@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1486,
+    "index": "B",
+    "name": "Eastern Exhibition",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "geometry",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1486,
+    "index": "B",
+    "solvedCount": 15251
+  }
+}

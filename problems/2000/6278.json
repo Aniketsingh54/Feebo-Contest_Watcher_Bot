@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 761,
+    "index": "E",
+    "name": "Dasha and Puzzle",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 761,
+    "index": "E",
+    "solvedCount": 1898
+  }
+}

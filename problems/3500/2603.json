@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1517,
+    "index": "H",
+    "name": "Fly Around the World",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "dp",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1517,
+    "index": "H",
+    "solvedCount": 64
+  }
+}

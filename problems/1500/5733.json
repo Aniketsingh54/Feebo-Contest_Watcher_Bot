@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 887,
+    "index": "C",
+    "name": "Solution for Cube",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 887,
+    "index": "C",
+    "solvedCount": 2833
+  }
+}

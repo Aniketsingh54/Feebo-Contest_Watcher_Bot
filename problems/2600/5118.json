@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1023,
+    "index": "F",
+    "name": "Mobile Phone Network",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2600,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1023,
+    "index": "F",
+    "solvedCount": 862
+  }
+}

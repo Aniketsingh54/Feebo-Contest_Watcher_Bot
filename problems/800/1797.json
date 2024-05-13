@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1669,
+    "index": "B",
+    "name": "Triple",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1669,
+    "index": "B",
+    "solvedCount": 39985
+  }
+}

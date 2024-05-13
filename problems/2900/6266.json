@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 763,
+    "index": "E",
+    "name": "Timofey and our friends animals",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 763,
+    "index": "E",
+    "solvedCount": 475
+  }
+}

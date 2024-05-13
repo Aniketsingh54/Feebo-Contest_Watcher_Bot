@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1844,
+    "index": "E",
+    "name": "Great Grids",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1844,
+    "index": "E",
+    "solvedCount": 1688
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1473,
+    "index": "D",
+    "name": "Program",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1473,
+    "index": "D",
+    "solvedCount": 9319
+  }
+}

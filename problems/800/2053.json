@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1621,
+    "index": "A",
+    "name": "Stable Arrangement of Rooks",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1621,
+    "index": "A",
+    "solvedCount": 23548
+  }
+}

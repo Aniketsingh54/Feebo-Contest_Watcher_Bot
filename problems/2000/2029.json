@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1624,
+    "index": "E",
+    "name": "Masha-forgetful",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "hashing",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1624,
+    "index": "E",
+    "solvedCount": 3950
+  }
+}

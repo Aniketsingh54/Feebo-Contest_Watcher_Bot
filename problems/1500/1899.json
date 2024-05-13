@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1651,
+    "index": "C",
+    "name": "Fault-tolerant Network",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1651,
+    "index": "C",
+    "solvedCount": 10469
+  }
+}

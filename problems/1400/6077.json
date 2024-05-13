@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 804,
+    "index": "B",
+    "name": "Minimum number of steps",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 804,
+    "index": "B",
+    "solvedCount": 9520
+  }
+}

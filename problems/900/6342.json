@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 747,
+    "index": "B",
+    "name": "Mammoth's Genome Decoding",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 747,
+    "index": "B",
+    "solvedCount": 8569
+  }
+}

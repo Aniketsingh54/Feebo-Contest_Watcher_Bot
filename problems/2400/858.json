@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1826,
+    "index": "E",
+    "name": "Walk the Runway",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dp",
+      "graphs",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1826,
+    "index": "E",
+    "solvedCount": 1502
+  }
+}

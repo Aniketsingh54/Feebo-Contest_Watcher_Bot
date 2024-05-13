@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1912,
+    "index": "I",
+    "name": "Innovative Washing Machine",
+    "type": "PROGRAMMING",
+    "rating": 3300,
+    "tags": [
+      "geometry",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1912,
+    "index": "I",
+    "solvedCount": 54
+  }
+}

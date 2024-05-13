@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 717,
+    "index": "H",
+    "name": "Pokermon League challenge",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 717,
+    "index": "H",
+    "solvedCount": 417
+  }
+}

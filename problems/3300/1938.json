@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1641,
+    "index": "E",
+    "name": "Special Positions",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3300,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1641,
+    "index": "E",
+    "solvedCount": 203
+  }
+}

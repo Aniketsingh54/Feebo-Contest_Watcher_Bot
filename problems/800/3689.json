@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1307,
+    "index": "A",
+    "name": "Cow and Haybales",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1307,
+    "index": "A",
+    "solvedCount": 14715
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1660,
+    "index": "D",
+    "name": "Maximum Product Strikes Back",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1660,
+    "index": "D",
+    "solvedCount": 8163
+  }
+}

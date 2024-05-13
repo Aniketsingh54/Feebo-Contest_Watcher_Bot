@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1196,
+    "index": "F",
+    "name": "K-th Path",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1196,
+    "index": "F",
+    "solvedCount": 2432
+  }
+}

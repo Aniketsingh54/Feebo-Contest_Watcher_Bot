@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1285,
+    "index": "C",
+    "name": "Fadi and LCM",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1285,
+    "index": "C",
+    "solvedCount": 22001
+  }
+}

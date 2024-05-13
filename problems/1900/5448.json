@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 952,
+    "index": "B",
+    "name": "A Map of the Cat",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 952,
+    "index": "B",
+    "solvedCount": 1991
+  }
+}

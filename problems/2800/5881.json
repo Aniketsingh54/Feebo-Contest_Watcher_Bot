@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 850,
+    "index": "D",
+    "name": "Tournament Construction",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 850,
+    "index": "D",
+    "solvedCount": 371
+  }
+}

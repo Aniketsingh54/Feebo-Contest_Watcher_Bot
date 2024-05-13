@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1807,
+    "index": "F",
+    "name": "Bouncy Ball",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1807,
+    "index": "F",
+    "solvedCount": 5891
+  }
+}

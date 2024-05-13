@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1827,
+    "index": "E",
+    "name": "Bus Routes",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1827,
+    "index": "E",
+    "solvedCount": 363
+  }
+}

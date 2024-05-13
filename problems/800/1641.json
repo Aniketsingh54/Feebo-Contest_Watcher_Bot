@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1696,
+    "index": "A",
+    "name": "NIT orz!",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1696,
+    "index": "A",
+    "solvedCount": 18329
+  }
+}

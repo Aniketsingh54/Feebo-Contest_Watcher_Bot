@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1825,
+    "index": "A",
+    "name": "LuoTianyi and the Palindrome String",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1825,
+    "index": "A",
+    "solvedCount": 19278
+  }
+}

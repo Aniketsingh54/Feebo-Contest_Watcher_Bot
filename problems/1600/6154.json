@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 788,
+    "index": "A",
+    "name": "Functions again",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 788,
+    "index": "A",
+    "solvedCount": 8960
+  }
+}

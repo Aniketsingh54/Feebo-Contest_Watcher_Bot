@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 799,
+    "index": "B",
+    "name": "T-shirt buying",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 799,
+    "index": "B",
+    "solvedCount": 8391
+  }
+}

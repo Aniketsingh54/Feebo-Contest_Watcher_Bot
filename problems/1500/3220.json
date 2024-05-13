@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1397,
+    "index": "B",
+    "name": "Power Sequence",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1397,
+    "index": "B",
+    "solvedCount": 14357
+  }
+}

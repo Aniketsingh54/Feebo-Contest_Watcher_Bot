@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1067,
+    "index": "D",
+    "name": "Computer Game",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3100,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1067,
+    "index": "D",
+    "solvedCount": 354
+  }
+}

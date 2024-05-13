@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1075,
+    "index": "A",
+    "name": "The King's Race",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1075,
+    "index": "A",
+    "solvedCount": 8331
+  }
+}

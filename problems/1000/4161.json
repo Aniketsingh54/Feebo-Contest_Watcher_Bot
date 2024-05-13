@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1211,
+    "index": "A",
+    "name": "Three Problems",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1211,
+    "index": "A",
+    "solvedCount": 1273
+  }
+}

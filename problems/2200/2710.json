@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1498,
+    "index": "E",
+    "name": "Two Houses",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy",
+      "interactive",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1498,
+    "index": "E",
+    "solvedCount": 1839
+  }
+}

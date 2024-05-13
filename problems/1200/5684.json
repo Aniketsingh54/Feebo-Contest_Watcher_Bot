@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 899,
+    "index": "B",
+    "name": "Months and Years",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 899,
+    "index": "B",
+    "solvedCount": 5749
+  }
+}

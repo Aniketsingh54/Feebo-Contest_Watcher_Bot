@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1223,
+    "index": "G",
+    "name": "Wooden Raft",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3200,
+    "tags": [
+      "binary search",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1223,
+    "index": "G",
+    "solvedCount": 226
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1774,
+    "index": "A",
+    "name": "Add Plus Minus Sign",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1774,
+    "index": "A",
+    "solvedCount": 21954
+  }
+}

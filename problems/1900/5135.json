@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1017,
+    "index": "D",
+    "name": "The Wu",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1017,
+    "index": "D",
+    "solvedCount": 3342
+  }
+}

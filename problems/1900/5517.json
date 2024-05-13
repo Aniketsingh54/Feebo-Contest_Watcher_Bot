@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 930,
+    "index": "C",
+    "name": "Teodor is not a liar!",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 930,
+    "index": "C",
+    "solvedCount": 2071
+  }
+}

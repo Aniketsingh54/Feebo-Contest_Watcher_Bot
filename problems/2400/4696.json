@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1107,
+    "index": "G",
+    "name": "Vasya and Maximum Profit",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1107,
+    "index": "G",
+    "solvedCount": 989
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 821,
+    "index": "D",
+    "name": "Okabe and City",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 821,
+    "index": "D",
+    "solvedCount": 1346
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1701,
+    "index": "B",
+    "name": "Permutation",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1701,
+    "index": "B",
+    "solvedCount": 19966
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1354,
+    "index": "D",
+    "name": "Multiset",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1354,
+    "index": "D",
+    "solvedCount": 8270
+  }
+}

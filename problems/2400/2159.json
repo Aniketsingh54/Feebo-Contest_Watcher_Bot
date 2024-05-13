@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1606,
+    "index": "D",
+    "name": "Red-Blue Matrix",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1606,
+    "index": "D",
+    "solvedCount": 1402
+  }
+}

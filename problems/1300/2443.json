@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1547,
+    "index": "D",
+    "name": "Co-growing Sequence",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1547,
+    "index": "D",
+    "solvedCount": 16048
+  }
+}

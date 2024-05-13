@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1777,
+    "index": "F",
+    "name": "Comfortably Numb",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1777,
+    "index": "F",
+    "solvedCount": 818
+  }
+}

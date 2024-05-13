@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1245,
+    "index": "F",
+    "name": "Daniel and Spring Cleaning",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1245,
+    "index": "F",
+    "solvedCount": 1718
+  }
+}

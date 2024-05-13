@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1742,
+    "index": "E",
+    "name": "Scuza",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1742,
+    "index": "E",
+    "solvedCount": 22015
+  }
+}

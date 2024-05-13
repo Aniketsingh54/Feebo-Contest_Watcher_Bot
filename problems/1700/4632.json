@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1118,
+    "index": "D1",
+    "name": "Coffee and Coursework (Easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1118,
+    "index": "D1",
+    "solvedCount": 5512
+  }
+}

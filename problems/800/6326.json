@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 750,
+    "index": "A",
+    "name": "New Year and Hurry",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 750,
+    "index": "A",
+    "solvedCount": 71008
+  }
+}

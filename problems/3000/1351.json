@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1743,
+    "index": "G",
+    "name": "Antifibonacci Cut",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "hashing",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1743,
+    "index": "G",
+    "solvedCount": 244
+  }
+}

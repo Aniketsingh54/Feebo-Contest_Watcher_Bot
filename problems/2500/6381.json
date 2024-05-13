@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 735,
+    "index": "E",
+    "name": "Ostap and Tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 735,
+    "index": "E",
+    "solvedCount": 845
+  }
+}

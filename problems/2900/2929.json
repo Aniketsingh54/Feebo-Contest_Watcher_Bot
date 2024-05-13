@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1455,
+    "index": "G",
+    "name": "Forbidden Value",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1455,
+    "index": "G",
+    "solvedCount": 398
+  }
+}

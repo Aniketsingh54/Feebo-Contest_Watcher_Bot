@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1783,
+    "index": "G",
+    "name": "Weighed Tree Radius",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1783,
+    "index": "G",
+    "solvedCount": 409
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1951,
+    "index": "I",
+    "name": "Growing Trees",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3200,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "flows",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1951,
+    "index": "I",
+    "solvedCount": 43
+  }
+}

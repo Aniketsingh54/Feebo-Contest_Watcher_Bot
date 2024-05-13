@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1764,
+    "index": "F",
+    "name": "Doremy's Experimental Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1764,
+    "index": "F",
+    "solvedCount": 918
+  }
+}

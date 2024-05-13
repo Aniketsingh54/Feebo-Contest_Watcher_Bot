@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1387,
+    "index": "B1",
+    "name": "Village (Minimum)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "*special",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1387,
+    "index": "B1",
+    "solvedCount": 1327
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1388,
+    "index": "C",
+    "name": "Uncle Bogdan and Country Happiness",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1388,
+    "index": "C",
+    "solvedCount": 9351
+  }
+}

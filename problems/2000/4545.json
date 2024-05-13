@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1142,
+    "index": "B",
+    "name": "Lynyrd Skynyrd",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1142,
+    "index": "B",
+    "solvedCount": 2779
+  }
+}

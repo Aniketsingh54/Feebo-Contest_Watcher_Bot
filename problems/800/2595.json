@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1520,
+    "index": "B",
+    "name": "Ordinary Numbers",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1520,
+    "index": "B",
+    "solvedCount": 42881
+  }
+}

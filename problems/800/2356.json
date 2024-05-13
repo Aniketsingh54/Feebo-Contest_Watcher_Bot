@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1561,
+    "index": "A",
+    "name": "Simply Strange Sort",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1561,
+    "index": "A",
+    "solvedCount": 16451
+  }
+}

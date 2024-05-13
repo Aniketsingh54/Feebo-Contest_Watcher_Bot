@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1187,
+    "index": "F",
+    "name": "Expected Square Beauty",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1187,
+    "index": "F",
+    "solvedCount": 847
+  }
+}

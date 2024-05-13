@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1217,
+    "index": "C",
+    "name": "The Number Of Good Substrings",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1217,
+    "index": "C",
+    "solvedCount": 7090
+  }
+}

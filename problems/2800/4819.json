@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1088,
+    "index": "F",
+    "name": "Ehab and a weird weight formula",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1088,
+    "index": "F",
+    "solvedCount": 488
+  }
+}

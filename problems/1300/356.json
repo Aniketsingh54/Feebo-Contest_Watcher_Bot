@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1913,
+    "index": "C",
+    "name": "Game with Multiset",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1913,
+    "index": "C",
+    "solvedCount": 13669
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1758,
+    "index": "E",
+    "name": "Tick, Tock",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1758,
+    "index": "E",
+    "solvedCount": 789
+  }
+}

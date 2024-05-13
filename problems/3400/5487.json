@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 936,
+    "index": "E",
+    "name": "Iqea",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 936,
+    "index": "E",
+    "solvedCount": 182
+  }
+}

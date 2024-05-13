@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "C2",
+    "name": "Distinguish zero state and plus state without errors",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "C2",
+    "solvedCount": 262
+  }
+}

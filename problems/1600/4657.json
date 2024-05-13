@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1115,
+    "index": "U2",
+    "name": "Chessboard unitary",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1115,
+    "index": "U2",
+    "solvedCount": 227
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1540,
+    "index": "C2",
+    "name": "Converging Array (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1540,
+    "index": "C2",
+    "solvedCount": 436
+  }
+}

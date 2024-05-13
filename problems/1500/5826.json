@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 863,
+    "index": "B",
+    "name": "Kayaking",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 863,
+    "index": "B",
+    "solvedCount": 7588
+  }
+}

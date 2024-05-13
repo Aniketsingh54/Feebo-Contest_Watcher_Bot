@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1557,
+    "index": "A",
+    "name": "Ezzat and Two Subsequences",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1557,
+    "index": "A",
+    "solvedCount": 27471
+  }
+}

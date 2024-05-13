@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1395,
+    "index": "C",
+    "name": "Boboniu and Bit Operations",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1395,
+    "index": "C",
+    "solvedCount": 13515
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1835,
+    "index": "C",
+    "name": "Twin Clusters",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1835,
+    "index": "C",
+    "solvedCount": 939
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1417,
+    "index": "B",
+    "name": "Two Arrays",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1417,
+    "index": "B",
+    "solvedCount": 14333
+  }
+}

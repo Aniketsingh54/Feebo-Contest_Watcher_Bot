@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1828,
+    "index": "B",
+    "name": "Permutation Swap",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1828,
+    "index": "B",
+    "solvedCount": 20685
+  }
+}

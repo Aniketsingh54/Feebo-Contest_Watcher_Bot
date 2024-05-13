@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 992,
+    "index": "A",
+    "name": "Nastya and an Array",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 992,
+    "index": "A",
+    "solvedCount": 12902
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1957,
+    "index": "F1",
+    "name": "Frequency Mismatch (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "hashing",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1957,
+    "index": "F1",
+    "solvedCount": 339
+  }
+}

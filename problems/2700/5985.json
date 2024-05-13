@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 827,
+    "index": "D",
+    "name": "Best Edge Weight",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 827,
+    "index": "D",
+    "solvedCount": 1064
+  }
+}

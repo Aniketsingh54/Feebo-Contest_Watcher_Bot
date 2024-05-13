@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1078,
+    "index": "E",
+    "name": "Negative Time Summation",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3400,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1078,
+    "index": "E",
+    "solvedCount": 86
+  }
+}

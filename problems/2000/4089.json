@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1223,
+    "index": "D",
+    "name": "Sequence Sorting",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1223,
+    "index": "D",
+    "solvedCount": 3929
+  }
+}

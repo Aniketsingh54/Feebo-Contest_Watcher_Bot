@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1277,
+    "index": "A",
+    "name": "Happy Birthday, Polycarp!",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1277,
+    "index": "A",
+    "solvedCount": 12951
+  }
+}

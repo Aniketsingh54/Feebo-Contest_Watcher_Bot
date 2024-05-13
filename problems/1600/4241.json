@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1198,
+    "index": "B",
+    "name": "Welfare State",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1198,
+    "index": "B",
+    "solvedCount": 9300
+  }
+}

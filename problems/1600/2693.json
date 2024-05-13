@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1503,
+    "index": "A",
+    "name": "Balance the Bits",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1503,
+    "index": "A",
+    "solvedCount": 13001
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1120,
+    "index": "D",
+    "name": "Power Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1120,
+    "index": "D",
+    "solvedCount": 1264
+  }
+}

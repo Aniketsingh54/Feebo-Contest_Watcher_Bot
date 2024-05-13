@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1553,
+    "index": "F",
+    "name": "Pairwise Modulo",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1553,
+    "index": "F",
+    "solvedCount": 2104
+  }
+}

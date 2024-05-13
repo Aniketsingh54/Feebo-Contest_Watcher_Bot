@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1277,
+    "index": "B",
+    "name": "Make Them Odd",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1277,
+    "index": "B",
+    "solvedCount": 14635
+  }
+}

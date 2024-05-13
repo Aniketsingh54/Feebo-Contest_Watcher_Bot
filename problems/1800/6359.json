@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 743,
+    "index": "D",
+    "name": "Chloe and pleasant prizes",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 743,
+    "index": "D",
+    "solvedCount": 4250
+  }
+}

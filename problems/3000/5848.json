@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 856,
+    "index": "F",
+    "name": "To Play or not to Play",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 856,
+    "index": "F",
+    "solvedCount": 101
+  }
+}

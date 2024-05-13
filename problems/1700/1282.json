@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1760,
+    "index": "G",
+    "name": "SlavicG's Favorite Problem",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1760,
+    "index": "G",
+    "solvedCount": 6894
+  }
+}

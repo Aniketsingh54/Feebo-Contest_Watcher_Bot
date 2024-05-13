@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1034,
+    "index": "D",
+    "name": "Intervals of Intervals",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1034,
+    "index": "D",
+    "solvedCount": 432
+  }
+}

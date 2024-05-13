@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1467,
+    "index": "B",
+    "name": "Hills And Valleys",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1467,
+    "index": "B",
+    "solvedCount": 10708
+  }
+}

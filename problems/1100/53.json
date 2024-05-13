@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1966,
+    "index": "B",
+    "name": "Rectangle Filling",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1966,
+    "index": "B",
+    "solvedCount": 11122
+  }
+}

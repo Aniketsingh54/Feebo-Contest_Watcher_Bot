@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1834,
+    "index": "B",
+    "name": "Maximum Strength",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1834,
+    "index": "B",
+    "solvedCount": 14541
+  }
+}

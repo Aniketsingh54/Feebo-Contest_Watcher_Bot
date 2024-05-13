@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1916,
+    "index": "C",
+    "name": "Training Before the Olympiad",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1916,
+    "index": "C",
+    "solvedCount": 16679
+  }
+}

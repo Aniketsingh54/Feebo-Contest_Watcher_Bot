@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "N",
+    "name": "Count Permutations",
+    "type": "PROGRAMMING",
+    "rating": 3500,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "N",
+    "solvedCount": 71
+  }
+}

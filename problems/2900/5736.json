@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 886,
+    "index": "F",
+    "name": "Symmetric Projections",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2900,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 886,
+    "index": "F",
+    "solvedCount": 263
+  }
+}

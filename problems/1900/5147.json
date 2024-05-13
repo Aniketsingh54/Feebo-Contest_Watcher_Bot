@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1015,
+    "index": "E2",
+    "name": "Stars Drawing (Hard Edition)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1015,
+    "index": "E2",
+    "solvedCount": 3470
+  }
+}

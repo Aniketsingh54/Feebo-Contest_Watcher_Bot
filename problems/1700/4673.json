@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1111,
+    "index": "B",
+    "name": "Average Superhero Gang Power ",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1111,
+    "index": "B",
+    "solvedCount": 6184
+  }
+}

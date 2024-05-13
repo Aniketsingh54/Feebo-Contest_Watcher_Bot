@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1425,
+    "index": "D",
+    "name": "Danger of Mad Snakes",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1425,
+    "index": "D",
+    "solvedCount": 803
+  }
+}

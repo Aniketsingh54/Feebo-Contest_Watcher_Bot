@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1012,
+    "index": "E",
+    "name": "Cycle sort",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "dsu",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1012,
+    "index": "E",
+    "solvedCount": 271
+  }
+}

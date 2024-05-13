@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1886,
+    "index": "B",
+    "name": "Fear of the Dark",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1886,
+    "index": "B",
+    "solvedCount": 15186
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1736,
+    "index": "A",
+    "name": "Make A Equal to B",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1736,
+    "index": "A",
+    "solvedCount": 22438
+  }
+}

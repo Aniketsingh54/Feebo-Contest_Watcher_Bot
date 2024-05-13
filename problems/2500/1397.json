@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1737,
+    "index": "E",
+    "name": "Ela Goes Hiking",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1737,
+    "index": "E",
+    "solvedCount": 891
+  }
+}

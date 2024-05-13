@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1691,
+    "index": "D",
+    "name": "Max GEQ Sum",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1691,
+    "index": "D",
+    "solvedCount": 5488
+  }
+}

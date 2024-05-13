@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1599,
+    "index": "J",
+    "name": "Bob's Beautiful Array",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1599,
+    "index": "J",
+    "solvedCount": 284
+  }
+}

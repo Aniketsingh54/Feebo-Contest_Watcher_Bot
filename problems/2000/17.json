@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "E2",
+    "name": "Trails (Medium)",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "E2",
+    "solvedCount": 546
+  }
+}

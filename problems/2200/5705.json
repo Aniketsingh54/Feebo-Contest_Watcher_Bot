@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 894,
+    "index": "D",
+    "name": "Ralph And His Tour in Binary Country",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 894,
+    "index": "D",
+    "solvedCount": 1105
+  }
+}

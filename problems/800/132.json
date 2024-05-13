@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1948,
+    "index": "A",
+    "name": "Special Characters",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1948,
+    "index": "A",
+    "solvedCount": 26288
+  }
+}

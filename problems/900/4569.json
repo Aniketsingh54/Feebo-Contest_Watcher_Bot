@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1138,
+    "index": "A",
+    "name": "Sushi for Two",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1138,
+    "index": "A",
+    "solvedCount": 17403
+  }
+}

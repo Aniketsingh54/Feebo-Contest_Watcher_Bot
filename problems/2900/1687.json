@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1687,
+    "index": "D",
+    "name": "Cute number",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dsu",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1687,
+    "index": "D",
+    "solvedCount": 557
+  }
+}

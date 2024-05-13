@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1036,
+    "index": "D",
+    "name": "Vasya and Arrays",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1036,
+    "index": "D",
+    "solvedCount": 8979
+  }
+}

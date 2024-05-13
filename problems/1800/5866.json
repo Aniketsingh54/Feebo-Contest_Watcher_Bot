@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 853,
+    "index": "B",
+    "name": "Jury Meeting",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 853,
+    "index": "B",
+    "solvedCount": 2503
+  }
+}

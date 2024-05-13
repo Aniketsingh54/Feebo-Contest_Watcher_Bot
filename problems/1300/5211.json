@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "D2",
+    "name": "Oracle for f(x) = b * x + (1 - b) * (1 - x) mod 2",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "D2",
+    "solvedCount": 371
+  }
+}

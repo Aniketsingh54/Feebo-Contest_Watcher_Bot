@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 762,
+    "index": "C",
+    "name": "Two strings",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "hashing",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 762,
+    "index": "C",
+    "solvedCount": 2366
+  }
+}

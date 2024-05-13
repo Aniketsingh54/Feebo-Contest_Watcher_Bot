@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 755,
+    "index": "G",
+    "name": "PolandBall and Many Other Balls",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3200,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 755,
+    "index": "G",
+    "solvedCount": 859
+  }
+}

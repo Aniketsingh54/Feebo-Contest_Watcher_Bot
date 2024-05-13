@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 936,
+    "index": "B",
+    "name": "Sleepy Game",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 936,
+    "index": "B",
+    "solvedCount": 3030
+  }
+}

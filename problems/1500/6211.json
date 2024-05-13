@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 774,
+    "index": "D",
+    "name": "Lie or Truth",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "*special",
+      "constructive algorithms",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 774,
+    "index": "D",
+    "solvedCount": 1904
+  }
+}

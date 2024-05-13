@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1201,
+    "index": "D",
+    "name": "Treasure Hunting",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1201,
+    "index": "D",
+    "solvedCount": 2284
+  }
+}

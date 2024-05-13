@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1844,
+    "index": "A",
+    "name": "Subtraction Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1844,
+    "index": "A",
+    "solvedCount": 23873
+  }
+}

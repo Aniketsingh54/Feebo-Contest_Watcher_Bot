@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1228,
+    "index": "D",
+    "name": "Complete Tripartite",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "hashing",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1228,
+    "index": "D",
+    "solvedCount": 4974
+  }
+}

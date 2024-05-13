@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1620,
+    "index": "A",
+    "name": "Equal or Not Equal",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1620,
+    "index": "A",
+    "solvedCount": 21218
+  }
+}

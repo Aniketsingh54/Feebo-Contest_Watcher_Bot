@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1166,
+    "index": "D",
+    "name": "Cute Sequences",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1166,
+    "index": "D",
+    "solvedCount": 2127
+  }
+}

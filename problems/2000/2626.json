@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1514,
+    "index": "D",
+    "name": "Cut and Stick",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1514,
+    "index": "D",
+    "solvedCount": 4093
+  }
+}

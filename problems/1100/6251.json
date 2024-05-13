@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 767,
+    "index": "A",
+    "name": "Snacktower",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 767,
+    "index": "A",
+    "solvedCount": 19285
+  }
+}

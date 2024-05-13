@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1692,
+    "index": "G",
+    "name": "2^Sort",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1692,
+    "index": "G",
+    "solvedCount": 15971
+  }
+}

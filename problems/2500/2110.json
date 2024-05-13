@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1612,
+    "index": "G",
+    "name": "Max Sum Array",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1612,
+    "index": "G",
+    "solvedCount": 816
+  }
+}

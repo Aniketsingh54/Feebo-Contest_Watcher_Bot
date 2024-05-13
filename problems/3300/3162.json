@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1408,
+    "index": "H",
+    "name": "Rainbow Triples",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "flows",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1408,
+    "index": "H",
+    "solvedCount": 352
+  }
+}

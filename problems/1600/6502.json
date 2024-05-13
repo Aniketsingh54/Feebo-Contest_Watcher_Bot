@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 712,
+    "index": "C",
+    "name": "Memory and De-Evolution",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 712,
+    "index": "C",
+    "solvedCount": 5554
+  }
+}

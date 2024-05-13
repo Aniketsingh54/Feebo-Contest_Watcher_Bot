@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 710,
+    "index": "B",
+    "name": "Optimal Point on a Line",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 710,
+    "index": "B",
+    "solvedCount": 8529
+  }
+}

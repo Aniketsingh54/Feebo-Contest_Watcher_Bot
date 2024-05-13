@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1190,
+    "index": "B",
+    "name": "Tokitsukaze, CSL and Stone Game",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1190,
+    "index": "B",
+    "solvedCount": 6294
+  }
+}

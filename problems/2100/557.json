@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1876,
+    "index": "C",
+    "name": "Autosynthesis",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1876,
+    "index": "C",
+    "solvedCount": 2141
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1283,
+    "index": "C",
+    "name": "Friends and Gifts",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1283,
+    "index": "C",
+    "solvedCount": 12793
+  }
+}

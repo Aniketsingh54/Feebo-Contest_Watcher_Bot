@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1796,
+    "index": "E",
+    "name": "Colored Subgraphs",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1796,
+    "index": "E",
+    "solvedCount": 695
+  }
+}

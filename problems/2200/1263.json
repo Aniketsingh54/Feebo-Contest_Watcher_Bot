@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1763,
+    "index": "D",
+    "name": "Valid Bitonic Permutations",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1763,
+    "index": "D",
+    "solvedCount": 1960
+  }
+}

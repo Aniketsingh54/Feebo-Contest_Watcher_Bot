@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1256,
+    "index": "A",
+    "name": "Payment Without Change",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1256,
+    "index": "A",
+    "solvedCount": 28446
+  }
+}

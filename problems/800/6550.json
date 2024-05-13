@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 702,
+    "index": "A",
+    "name": "Maximum Increase",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 702,
+    "index": "A",
+    "solvedCount": 41574
+  }
+}

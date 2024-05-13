@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1816,
+    "index": "B",
+    "name": "Grid Reconstruction",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1816,
+    "index": "B",
+    "solvedCount": 14704
+  }
+}

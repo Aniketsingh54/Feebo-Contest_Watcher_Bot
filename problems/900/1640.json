@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1696,
+    "index": "B",
+    "name": "NIT Destroys the Universe",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1696,
+    "index": "B",
+    "solvedCount": 19362
+  }
+}

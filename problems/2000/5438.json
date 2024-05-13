@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 954,
+    "index": "E",
+    "name": "Water Taps",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 954,
+    "index": "E",
+    "solvedCount": 1834
+  }
+}

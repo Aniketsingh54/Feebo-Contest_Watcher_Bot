@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1630,
+    "index": "B",
+    "name": "Range and Partition",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1630,
+    "index": "B",
+    "solvedCount": 5505
+  }
+}

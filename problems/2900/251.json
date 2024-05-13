@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1928,
+    "index": "F",
+    "name": "Digital Patterns",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1928,
+    "index": "F",
+    "solvedCount": 209
+  }
+}

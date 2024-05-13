@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1814,
+    "index": "F",
+    "name": "Communication Towers",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1814,
+    "index": "F",
+    "solvedCount": 465
+  }
+}

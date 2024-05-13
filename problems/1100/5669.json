@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 902,
+    "index": "A",
+    "name": "Visiting a Friend",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 902,
+    "index": "A",
+    "solvedCount": 9685
+  }
+}

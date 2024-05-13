@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 817,
+    "index": "D",
+    "name": "Imbalanced Array",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 817,
+    "index": "D",
+    "solvedCount": 4404
+  }
+}

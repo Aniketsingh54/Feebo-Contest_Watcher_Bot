@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1894,
+    "index": "A",
+    "name": "Secret Sport",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1894,
+    "index": "A",
+    "solvedCount": 18114
+  }
+}

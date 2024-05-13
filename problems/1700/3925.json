@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1260,
+    "index": "C",
+    "name": "Infinite Fence",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1260,
+    "index": "C",
+    "solvedCount": 7871
+  }
+}

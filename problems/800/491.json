@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1890,
+    "index": "B",
+    "name": "Qingshan Loves Strings",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1890,
+    "index": "B",
+    "solvedCount": 16657
+  }
+}

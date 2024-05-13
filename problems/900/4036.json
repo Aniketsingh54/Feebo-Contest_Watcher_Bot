@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1238,
+    "index": "A",
+    "name": "Prime Subtraction",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1238,
+    "index": "A",
+    "solvedCount": 23286
+  }
+}

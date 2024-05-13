@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1787,
+    "index": "G",
+    "name": "Colorful Tree Again",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3000,
+    "tags": [
+      "brute force",
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1787,
+    "index": "G",
+    "solvedCount": 396
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1950,
+    "index": "A",
+    "name": "Stair, Peak, or Neither?",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1950,
+    "index": "A",
+    "solvedCount": 44054
+  }
+}

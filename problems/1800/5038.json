@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1038,
+    "index": "D",
+    "name": "Slime",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1038,
+    "index": "D",
+    "solvedCount": 8123
+  }
+}

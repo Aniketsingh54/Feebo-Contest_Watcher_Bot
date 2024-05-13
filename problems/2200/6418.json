@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "D",
+    "name": "Running Over The Bridges",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "D",
+    "solvedCount": 680
+  }
+}

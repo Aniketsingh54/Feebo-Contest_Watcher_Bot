@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 743,
+    "index": "B",
+    "name": "Chloe and the sequence ",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 743,
+    "index": "B",
+    "solvedCount": 14226
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1684,
+    "index": "D",
+    "name": "Traps",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1684,
+    "index": "D",
+    "solvedCount": 9312
+  }
+}

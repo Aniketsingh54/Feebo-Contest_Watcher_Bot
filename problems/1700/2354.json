@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1561,
+    "index": "D1",
+    "name": "Up the Strip (simplified version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1561,
+    "index": "D1",
+    "solvedCount": 5392
+  }
+}

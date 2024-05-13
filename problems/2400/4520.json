@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1146,
+    "index": "E",
+    "name": "Hot is Cold",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1146,
+    "index": "E",
+    "solvedCount": 823
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1279,
+    "index": "C",
+    "name": "Stack of Presents",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1279,
+    "index": "C",
+    "solvedCount": 11427
+  }
+}

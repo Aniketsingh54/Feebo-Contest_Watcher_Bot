@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1928,
+    "index": "C",
+    "name": "Physical Education Lesson",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1928,
+    "index": "C",
+    "solvedCount": 7476
+  }
+}

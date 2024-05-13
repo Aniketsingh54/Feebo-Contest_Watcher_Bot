@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1866,
+    "index": "K",
+    "name": "Keen Tree Calculation",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "geometry",
+      "graphs",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1866,
+    "index": "K",
+    "solvedCount": 412
+  }
+}

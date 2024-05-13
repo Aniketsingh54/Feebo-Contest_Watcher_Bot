@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1217,
+    "index": "F",
+    "name": "Forced Online Queries Problem",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1217,
+    "index": "F",
+    "solvedCount": 541
+  }
+}

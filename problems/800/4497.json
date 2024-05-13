@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1150,
+    "index": "A",
+    "name": "Stock Arbitraging",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1150,
+    "index": "A",
+    "solvedCount": 11613
+  }
+}

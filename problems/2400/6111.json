@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 798,
+    "index": "D",
+    "name": "Mike and distribution",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 798,
+    "index": "D",
+    "solvedCount": 1848
+  }
+}

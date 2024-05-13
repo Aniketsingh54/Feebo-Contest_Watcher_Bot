@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1794,
+    "index": "C",
+    "name": "Scoring Subsequences",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1794,
+    "index": "C",
+    "solvedCount": 12478
+  }
+}

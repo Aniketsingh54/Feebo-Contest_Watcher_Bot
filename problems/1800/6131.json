@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 794,
+    "index": "C",
+    "name": "Naming Company",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "games",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 794,
+    "index": "C",
+    "solvedCount": 3037
+  }
+}

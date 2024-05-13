@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1120,
+    "index": "C",
+    "name": "Compress String",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1120,
+    "index": "C",
+    "solvedCount": 1871
+  }
+}

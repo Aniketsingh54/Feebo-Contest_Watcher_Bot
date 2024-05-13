@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1626,
+    "index": "A",
+    "name": "Equidistant Letters",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1626,
+    "index": "A",
+    "solvedCount": 28337
+  }
+}

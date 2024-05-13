@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1719,
+    "index": "B",
+    "name": "Mathematical Circus",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1719,
+    "index": "B",
+    "solvedCount": 18300
+  }
+}

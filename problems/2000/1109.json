@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1783,
+    "index": "D",
+    "name": "Different Arrays",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1783,
+    "index": "D",
+    "solvedCount": 4186
+  }
+}

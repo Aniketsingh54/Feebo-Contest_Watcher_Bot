@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 909,
+    "index": "F",
+    "name": "AND-permutations",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 909,
+    "index": "F",
+    "solvedCount": 515
+  }
+}

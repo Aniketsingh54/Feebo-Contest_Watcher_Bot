@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1225,
+    "index": "F",
+    "name": "Tree Factory",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1225,
+    "index": "F",
+    "solvedCount": 865
+  }
+}

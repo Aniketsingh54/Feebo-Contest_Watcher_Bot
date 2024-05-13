@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1067,
+    "index": "A",
+    "name": "Array Without Local Maximums ",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1900,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1067,
+    "index": "A",
+    "solvedCount": 2786
+  }
+}

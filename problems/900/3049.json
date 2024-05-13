@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1430,
+    "index": "A",
+    "name": "Number of Apartments",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1430,
+    "index": "A",
+    "solvedCount": 20462
+  }
+}

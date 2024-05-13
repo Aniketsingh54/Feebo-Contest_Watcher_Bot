@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 916,
+    "index": "D",
+    "name": "Jamie and To-do List",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 916,
+    "index": "D",
+    "solvedCount": 488
+  }
+}

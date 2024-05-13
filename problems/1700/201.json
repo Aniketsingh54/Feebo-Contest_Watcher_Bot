@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1936,
+    "index": "A",
+    "name": "Bitwise Operation Wizard",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1936,
+    "index": "A",
+    "solvedCount": 6568
+  }
+}

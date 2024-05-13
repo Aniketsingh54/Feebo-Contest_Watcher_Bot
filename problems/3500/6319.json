@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 750,
+    "index": "H",
+    "name": "New Year and Snowy Grid",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3500,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 750,
+    "index": "H",
+    "solvedCount": 187
+  }
+}

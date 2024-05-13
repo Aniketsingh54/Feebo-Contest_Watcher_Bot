@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1887,
+    "index": "C",
+    "name": "Minimum Array",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "hashing",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1887,
+    "index": "C",
+    "solvedCount": 1577
+  }
+}

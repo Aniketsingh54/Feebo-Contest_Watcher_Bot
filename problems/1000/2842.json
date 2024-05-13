@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1474,
+    "index": "B",
+    "name": "Different Divisors",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1474,
+    "index": "B",
+    "solvedCount": 26379
+  }
+}

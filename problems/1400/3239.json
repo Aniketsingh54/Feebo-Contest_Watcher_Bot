@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1393,
+    "index": "B",
+    "name": "Applejack and Storages",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1393,
+    "index": "B",
+    "solvedCount": 16263
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1593,
+    "index": "F",
+    "name": "Red-Black Number",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "math",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1593,
+    "index": "F",
+    "solvedCount": 2349
+  }
+}

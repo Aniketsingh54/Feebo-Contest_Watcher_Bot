@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1788,
+    "index": "D",
+    "name": "Moving Dots",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1788,
+    "index": "D",
+    "solvedCount": 3730
+  }
+}

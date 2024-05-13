@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1336,
+    "index": "D",
+    "name": "Yui and Mahjong Set",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1336,
+    "index": "D",
+    "solvedCount": 464
+  }
+}

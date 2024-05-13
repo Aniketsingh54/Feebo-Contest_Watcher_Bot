@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 898,
+    "index": "E",
+    "name": "Squares and not squares",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 898,
+    "index": "E",
+    "solvedCount": 4491
+  }
+}

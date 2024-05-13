@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1562,
+    "index": "B",
+    "name": "Scenes From a Memory",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1562,
+    "index": "B",
+    "solvedCount": 19180
+  }
+}

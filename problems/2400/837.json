@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1830,
+    "index": "C",
+    "name": "Hyperregular Bracket Strings",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "hashing",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1830,
+    "index": "C",
+    "solvedCount": 1528
+  }
+}

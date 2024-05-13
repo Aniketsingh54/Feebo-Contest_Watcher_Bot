@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1666,
+    "index": "K",
+    "name": "Kingdom Partition",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "flows"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1666,
+    "index": "K",
+    "solvedCount": 185
+  }
+}

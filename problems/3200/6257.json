@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 765,
+    "index": "G",
+    "name": "Math, math everywhere",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3200,
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "meet-in-the-middle",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 765,
+    "index": "G",
+    "solvedCount": 81
+  }
+}

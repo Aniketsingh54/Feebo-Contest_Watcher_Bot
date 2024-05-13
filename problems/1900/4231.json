@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1200,
+    "index": "D",
+    "name": "White Lines",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1200,
+    "index": "D",
+    "solvedCount": 4031
+  }
+}

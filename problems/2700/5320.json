@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 982,
+    "index": "F",
+    "name": "The Meeting Place Cannot Be Changed",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 982,
+    "index": "F",
+    "solvedCount": 181
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1858,
+    "index": "C",
+    "name": "Yet Another Permutation Problem",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1858,
+    "index": "C",
+    "solvedCount": 21959
+  }
+}

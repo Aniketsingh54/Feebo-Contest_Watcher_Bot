@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1933,
+    "index": "G",
+    "name": "Turtle Magic: Royal Turtle Shell Pattern",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1933,
+    "index": "G",
+    "solvedCount": 866
+  }
+}

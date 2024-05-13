@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1599,
+    "index": "C",
+    "name": "Bubble Strike",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1599,
+    "index": "C",
+    "solvedCount": 1557
+  }
+}

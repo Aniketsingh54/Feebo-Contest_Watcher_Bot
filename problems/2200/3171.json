@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1407,
+    "index": "D",
+    "name": "Discrete Centrifugal Jumps",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1407,
+    "index": "D",
+    "solvedCount": 4631
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 706,
+    "index": "C",
+    "name": "Hard problem",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 706,
+    "index": "C",
+    "solvedCount": 15644
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 715,
+    "index": "C",
+    "name": "Digit Tree",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2700,
+    "tags": [
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 715,
+    "index": "C",
+    "solvedCount": 1926
+  }
+}

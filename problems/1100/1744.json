@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1676,
+    "index": "E",
+    "name": "Eating Queries",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1676,
+    "index": "E",
+    "solvedCount": 24700
+  }
+}

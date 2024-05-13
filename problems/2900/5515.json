@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 930,
+    "index": "E",
+    "name": "Coins Exhibition",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 930,
+    "index": "E",
+    "solvedCount": 409
+  }
+}

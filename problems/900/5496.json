@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 935,
+    "index": "B",
+    "name": "Fafa and the Gates",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 935,
+    "index": "B",
+    "solvedCount": 11359
+  }
+}

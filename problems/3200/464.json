@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1896,
+    "index": "G",
+    "name": "Pepe Racing",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3200,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1896,
+    "index": "G",
+    "solvedCount": 307
+  }
+}

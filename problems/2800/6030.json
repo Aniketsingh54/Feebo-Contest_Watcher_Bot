@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 815,
+    "index": "D",
+    "name": "Karen and Cards",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 815,
+    "index": "D",
+    "solvedCount": 595
+  }
+}

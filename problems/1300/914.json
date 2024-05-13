@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1815,
+    "index": "A",
+    "name": "Ian and Array Sorting",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1815,
+    "index": "A",
+    "solvedCount": 13463
+  }
+}

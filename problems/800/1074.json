@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1790,
+    "index": "B",
+    "name": "Taisia and Dice",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1790,
+    "index": "B",
+    "solvedCount": 26669
+  }
+}

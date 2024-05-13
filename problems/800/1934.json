@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1644,
+    "index": "A",
+    "name": "Doors and Keys",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1644,
+    "index": "A",
+    "solvedCount": 26884
+  }
+}

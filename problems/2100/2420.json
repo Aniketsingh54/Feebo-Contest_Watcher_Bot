@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1551,
+    "index": "D2",
+    "name": "Domino (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1551,
+    "index": "D2",
+    "solvedCount": 2659
+  }
+}

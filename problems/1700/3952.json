@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1253,
+    "index": "D",
+    "name": "Harmonious Graph",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1253,
+    "index": "D",
+    "solvedCount": 8844
+  }
+}

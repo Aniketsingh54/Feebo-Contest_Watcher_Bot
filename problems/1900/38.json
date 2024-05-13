@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1968,
+    "index": "G1",
+    "name": "Division + LCP (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "hashing",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1968,
+    "index": "G1",
+    "solvedCount": 2939
+  }
+}

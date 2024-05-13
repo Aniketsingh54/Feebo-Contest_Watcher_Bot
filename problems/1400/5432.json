@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 955,
+    "index": "B",
+    "name": "Not simply beatiful strings",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 955,
+    "index": "B",
+    "solvedCount": 4733
+  }
+}

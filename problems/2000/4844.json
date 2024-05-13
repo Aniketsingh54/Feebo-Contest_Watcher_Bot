@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1082,
+    "index": "E",
+    "name": "Increasing Frequency",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1082,
+    "index": "E",
+    "solvedCount": 4039
+  }
+}

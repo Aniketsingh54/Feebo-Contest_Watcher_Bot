@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1371,
+    "index": "E1",
+    "name": "Asterism (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1371,
+    "index": "E1",
+    "solvedCount": 4952
+  }
+}

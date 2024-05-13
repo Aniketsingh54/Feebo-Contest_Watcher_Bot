@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1366,
+    "index": "G",
+    "name": "Construct the String",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1366,
+    "index": "G",
+    "solvedCount": 532
+  }
+}

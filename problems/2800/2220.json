@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1592,
+    "index": "F2",
+    "name": "Alice and Recoloring 2",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graph matchings",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1592,
+    "index": "F2",
+    "solvedCount": 663
+  }
+}

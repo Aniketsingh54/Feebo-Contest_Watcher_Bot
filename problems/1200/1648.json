@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1694,
+    "index": "B",
+    "name": "Paranoid String",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1694,
+    "index": "B",
+    "solvedCount": 18531
+  }
+}

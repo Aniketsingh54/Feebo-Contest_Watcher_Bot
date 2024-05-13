@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1679,
+    "index": "E",
+    "name": "Typical Party in Dorm",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1679,
+    "index": "E",
+    "solvedCount": 1100
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1805,
+    "index": "B",
+    "name": "The String Has a Target",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1805,
+    "index": "B",
+    "solvedCount": 18176
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 871,
+    "index": "E",
+    "name": "Restore the Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2900,
+    "tags": [
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 871,
+    "index": "E",
+    "solvedCount": 147
+  }
+}

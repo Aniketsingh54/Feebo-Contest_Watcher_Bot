@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1490,
+    "index": "C",
+    "name": "Sum of Cubes",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1490,
+    "index": "C",
+    "solvedCount": 31455
+  }
+}

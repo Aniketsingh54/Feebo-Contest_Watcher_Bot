@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 807,
+    "index": "B",
+    "name": "T-Shirt Hunt",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 807,
+    "index": "B",
+    "solvedCount": 3526
+  }
+}

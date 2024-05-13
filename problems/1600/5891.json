@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 848,
+    "index": "A",
+    "name": "From Y to Y",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 848,
+    "index": "A",
+    "solvedCount": 5022
+  }
+}

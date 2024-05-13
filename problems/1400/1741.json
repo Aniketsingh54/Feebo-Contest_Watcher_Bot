@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1676,
+    "index": "H1",
+    "name": "Maximum Crossings (Easy Version)",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1676,
+    "index": "H1",
+    "solvedCount": 13285
+  }
+}

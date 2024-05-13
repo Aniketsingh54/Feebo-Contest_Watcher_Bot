@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 713,
+    "index": "A",
+    "name": "Sonya and Queries",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 713,
+    "index": "A",
+    "solvedCount": 8332
+  }
+}

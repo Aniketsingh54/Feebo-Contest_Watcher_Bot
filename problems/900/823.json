@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1833,
+    "index": "B",
+    "name": "Restore the Weather",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1833,
+    "index": "B",
+    "solvedCount": 25408
+  }
+}

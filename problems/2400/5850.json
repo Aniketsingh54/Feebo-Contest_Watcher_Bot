@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 856,
+    "index": "D",
+    "name": "Masha and Cactus",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 856,
+    "index": "D",
+    "solvedCount": 369
+  }
+}

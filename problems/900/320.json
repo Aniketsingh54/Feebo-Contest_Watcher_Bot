@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1918,
+    "index": "B",
+    "name": "Minimize Inversions",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1918,
+    "index": "B",
+    "solvedCount": 22132
+  }
+}

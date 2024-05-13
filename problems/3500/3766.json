@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1292,
+    "index": "E",
+    "name": "Rin and The Unknown Flower",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1292,
+    "index": "E",
+    "solvedCount": 327
+  }
+}

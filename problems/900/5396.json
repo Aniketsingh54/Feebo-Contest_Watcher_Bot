@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 961,
+    "index": "A",
+    "name": "Tetris",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 961,
+    "index": "A",
+    "solvedCount": 9902
+  }
+}

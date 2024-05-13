@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1290,
+    "index": "C",
+    "name": "Prefix Enlightenment",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1290,
+    "index": "C",
+    "solvedCount": 1534
+  }
+}

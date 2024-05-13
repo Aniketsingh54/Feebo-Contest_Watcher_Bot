@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1175,
+    "index": "A",
+    "name": "From Hero to Zero",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1175,
+    "index": "A",
+    "solvedCount": 17800
+  }
+}

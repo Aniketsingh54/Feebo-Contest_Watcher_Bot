@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "G",
+    "name": "Another Wine Tasting Event",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "G",
+    "solvedCount": 1954
+  }
+}

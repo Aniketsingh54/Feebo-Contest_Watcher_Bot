@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 769,
+    "index": "C",
+    "name": "Cycle In Maze",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "*special",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 769,
+    "index": "C",
+    "solvedCount": 2112
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 723,
+    "index": "B",
+    "name": "Text Document Analysis",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "expression parsing",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 723,
+    "index": "B",
+    "solvedCount": 10068
+  }
+}

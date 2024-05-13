@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 747,
+    "index": "F",
+    "name": "Igor and Interesting Numbers",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 747,
+    "index": "F",
+    "solvedCount": 409
+  }
+}

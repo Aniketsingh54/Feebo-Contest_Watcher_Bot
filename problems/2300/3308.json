@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1379,
+    "index": "D",
+    "name": "New Passenger Trams",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1379,
+    "index": "D",
+    "solvedCount": 1059
+  }
+}

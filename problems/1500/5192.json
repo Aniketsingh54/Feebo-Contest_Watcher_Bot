@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1005,
+    "index": "D",
+    "name": "Polycarp and Div 3",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1005,
+    "index": "D",
+    "solvedCount": 9833
+  }
+}

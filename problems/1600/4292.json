@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1188,
+    "index": "A1",
+    "name": "Add on a Tree",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 1600,
+    "tags": [
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1188,
+    "index": "A1",
+    "solvedCount": 8229
+  }
+}

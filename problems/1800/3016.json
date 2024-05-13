@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1437,
+    "index": "C",
+    "name": "Chef Monocarp",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "flows",
+      "graph matchings",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1437,
+    "index": "C",
+    "solvedCount": 10121
+  }
+}

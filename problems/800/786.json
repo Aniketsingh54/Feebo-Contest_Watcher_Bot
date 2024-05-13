@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1840,
+    "index": "A",
+    "name": "Cipher Shifer",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1840,
+    "index": "A",
+    "solvedCount": 32625
+  }
+}

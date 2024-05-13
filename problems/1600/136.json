@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1946,
+    "index": "C",
+    "name": "Tree Cutting",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1946,
+    "index": "C",
+    "solvedCount": 9101
+  }
+}

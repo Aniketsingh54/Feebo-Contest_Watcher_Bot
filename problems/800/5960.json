@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 835,
+    "index": "A",
+    "name": "Key races",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 835,
+    "index": "A",
+    "solvedCount": 19944
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1292,
+    "index": "A",
+    "name": "NEKO's Maze Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "dsu",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1292,
+    "index": "A",
+    "solvedCount": 12938
+  }
+}

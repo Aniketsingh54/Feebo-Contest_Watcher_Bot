@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1641,
+    "index": "F",
+    "name": "Covering Circle",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3500,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1641,
+    "index": "F",
+    "solvedCount": 94
+  }
+}

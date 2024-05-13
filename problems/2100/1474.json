@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "F",
+    "name": "Field Photography",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "F",
+    "solvedCount": 938
+  }
+}

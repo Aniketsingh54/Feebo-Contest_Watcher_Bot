@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1925,
+    "index": "B",
+    "name": "A Balanced Problemset?",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1925,
+    "index": "B",
+    "solvedCount": 18229
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1321,
+    "index": "C",
+    "name": "Remove Adjacent",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1321,
+    "index": "C",
+    "solvedCount": 9507
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1746,
+    "index": "E2",
+    "name": "Joking (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3200,
+    "tags": [
+      "dp",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1746,
+    "index": "E2",
+    "solvedCount": 373
+  }
+}

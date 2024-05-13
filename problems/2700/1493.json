@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1720,
+    "index": "E",
+    "name": "Misha and Paintings",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1720,
+    "index": "E",
+    "solvedCount": 737
+  }
+}

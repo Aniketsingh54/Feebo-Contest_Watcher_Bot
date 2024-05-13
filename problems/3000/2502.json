@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1535,
+    "index": "F",
+    "name": "String Distance",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "hashing",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1535,
+    "index": "F",
+    "solvedCount": 438
+  }
+}

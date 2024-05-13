@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1690,
+    "index": "C",
+    "name": "Restoring the Duration of Tasks",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1690,
+    "index": "C",
+    "solvedCount": 25433
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1292,
+    "index": "D",
+    "name": "Chaotic V.",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1292,
+    "index": "D",
+    "solvedCount": 777
+  }
+}

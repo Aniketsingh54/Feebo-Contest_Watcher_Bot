@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1190,
+    "index": "D",
+    "name": "Tokitsukaze and Strange Rectangle",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1190,
+    "index": "D",
+    "solvedCount": 2216
+  }
+}

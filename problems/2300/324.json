@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1917,
+    "index": "D",
+    "name": "Yet Another Inversions Problem",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1917,
+    "index": "D",
+    "solvedCount": 1658
+  }
+}

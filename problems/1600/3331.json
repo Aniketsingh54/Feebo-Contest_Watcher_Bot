@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1373,
+    "index": "D",
+    "name": "Maximum Sum on Even Positions",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1373,
+    "index": "D",
+    "solvedCount": 14973
+  }
+}

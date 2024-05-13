@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1548,
+    "index": "B",
+    "name": "Integers Have Friends",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1548,
+    "index": "B",
+    "solvedCount": 9309
+  }
+}

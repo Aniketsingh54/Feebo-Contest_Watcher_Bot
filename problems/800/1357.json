@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1743,
+    "index": "A",
+    "name": "Password",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1743,
+    "index": "A",
+    "solvedCount": 26139
+  }
+}

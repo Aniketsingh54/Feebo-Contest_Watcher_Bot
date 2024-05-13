@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1139,
+    "index": "B",
+    "name": "Chocolates",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1139,
+    "index": "B",
+    "solvedCount": 15650
+  }
+}

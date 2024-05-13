@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1878,
+    "index": "G",
+    "name": "wxhtzdy ORO Tree",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1878,
+    "index": "G",
+    "solvedCount": 1096
+  }
+}

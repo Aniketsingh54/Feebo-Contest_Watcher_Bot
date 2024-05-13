@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1108,
+    "index": "E2",
+    "name": "Array and Segments (Hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1108,
+    "index": "E2",
+    "solvedCount": 2121
+  }
+}

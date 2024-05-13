@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1477,
+    "index": "F",
+    "name": "Nezzar and Chocolate Bars",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1477,
+    "index": "F",
+    "solvedCount": 123
+  }
+}

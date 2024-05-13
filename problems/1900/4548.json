@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1141,
+    "index": "F2",
+    "name": "Same Sum Blocks (Hard)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1141,
+    "index": "F2",
+    "solvedCount": 4057
+  }
+}

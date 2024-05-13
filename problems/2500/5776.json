@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 875,
+    "index": "F",
+    "name": "Royal Questions",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 875,
+    "index": "F",
+    "solvedCount": 1251
+  }
+}

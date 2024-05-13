@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1430,
+    "index": "B",
+    "name": "Barrels",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1430,
+    "index": "B",
+    "solvedCount": 19144
+  }
+}

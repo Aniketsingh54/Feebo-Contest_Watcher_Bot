@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1303,
+    "index": "F",
+    "name": "Number of Components",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "dsu",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1303,
+    "index": "F",
+    "solvedCount": 515
+  }
+}

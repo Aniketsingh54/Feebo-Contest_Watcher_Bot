@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1607,
+    "index": "D",
+    "name": "Blue-Red Permutation",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1607,
+    "index": "D",
+    "solvedCount": 16414
+  }
+}

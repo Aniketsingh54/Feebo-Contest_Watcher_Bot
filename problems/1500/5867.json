@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 853,
+    "index": "A",
+    "name": "Planning",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1500,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 853,
+    "index": "A",
+    "solvedCount": 5768
+  }
+}

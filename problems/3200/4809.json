@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1089,
+    "index": "J",
+    "name": "JS Minification",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1089,
+    "index": "J",
+    "solvedCount": 120
+  }
+}

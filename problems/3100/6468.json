@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 720,
+    "index": "C",
+    "name": "Homework",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 720,
+    "index": "C",
+    "solvedCount": 97
+  }
+}

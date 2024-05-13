@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 803,
+    "index": "G",
+    "name": "Periodic RMQ Problem",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 803,
+    "index": "G",
+    "solvedCount": 1299
+  }
+}

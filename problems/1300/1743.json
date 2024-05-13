@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1676,
+    "index": "F",
+    "name": "Longest Strike",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1676,
+    "index": "F",
+    "solvedCount": 15862
+  }
+}

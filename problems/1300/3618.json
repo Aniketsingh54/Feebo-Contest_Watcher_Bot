@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1326,
+    "index": "C",
+    "name": "Permutation Partitions",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1326,
+    "index": "C",
+    "solvedCount": 15280
+  }
+}

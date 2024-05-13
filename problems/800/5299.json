@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 987,
+    "index": "A",
+    "name": "Infinity Gauntlet",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 987,
+    "index": "A",
+    "solvedCount": 16251
+  }
+}

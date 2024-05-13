@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 949,
+    "index": "F",
+    "name": "Astronomy",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "geometry",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 949,
+    "index": "F",
+    "solvedCount": 57
+  }
+}

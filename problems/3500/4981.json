@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1053,
+    "index": "E",
+    "name": "Euler tour",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1053,
+    "index": "E",
+    "solvedCount": 194
+  }
+}

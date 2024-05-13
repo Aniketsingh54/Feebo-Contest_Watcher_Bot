@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1503,
+    "index": "C",
+    "name": "Travelling Salesman Problem",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "shortest paths",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1503,
+    "index": "C",
+    "solvedCount": 3200
+  }
+}

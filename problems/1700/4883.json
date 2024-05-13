@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1073,
+    "index": "D",
+    "name": "Berland Fair",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1073,
+    "index": "D",
+    "solvedCount": 6323
+  }
+}

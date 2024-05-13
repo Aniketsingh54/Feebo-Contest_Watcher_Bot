@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1436,
+    "index": "D",
+    "name": "Bandit in a City",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1436,
+    "index": "D",
+    "solvedCount": 5847
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 760,
+    "index": "B",
+    "name": "Frodo and pillows",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 760,
+    "index": "B",
+    "solvedCount": 6078
+  }
+}

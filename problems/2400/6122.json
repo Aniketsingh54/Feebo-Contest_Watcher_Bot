@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 796,
+    "index": "E",
+    "name": "Exam Cheating",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 796,
+    "index": "E",
+    "solvedCount": 625
+  }
+}

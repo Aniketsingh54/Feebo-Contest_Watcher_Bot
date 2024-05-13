@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1827,
+    "index": "B2",
+    "name": "Range Sorting (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1827,
+    "index": "B2",
+    "solvedCount": 1774
+  }
+}

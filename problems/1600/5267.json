@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 993,
+    "index": "A",
+    "name": "Two Squares",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "geometry",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 993,
+    "index": "A",
+    "solvedCount": 3878
+  }
+}

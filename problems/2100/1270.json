@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1762,
+    "index": "D",
+    "name": "GCD Queries ",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1762,
+    "index": "D",
+    "solvedCount": 3293
+  }
+}

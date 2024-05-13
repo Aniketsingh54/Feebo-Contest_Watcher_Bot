@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1404,
+    "index": "C",
+    "name": "Fixed Point Removal",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1404,
+    "index": "C",
+    "solvedCount": 2494
+  }
+}

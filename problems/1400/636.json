@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1863,
+    "index": "D",
+    "name": "Two-Colored Dominoes",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1863,
+    "index": "D",
+    "solvedCount": 8939
+  }
+}

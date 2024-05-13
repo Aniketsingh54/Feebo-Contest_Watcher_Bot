@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1380,
+    "index": "B",
+    "name": "Universal Solution",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1380,
+    "index": "B",
+    "solvedCount": 14227
+  }
+}

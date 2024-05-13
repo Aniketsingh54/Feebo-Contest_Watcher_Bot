@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 849,
+    "index": "B",
+    "name": "Tell Your World",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 849,
+    "index": "B",
+    "solvedCount": 3495
+  }
+}

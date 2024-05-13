@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 792,
+    "index": "E",
+    "name": "Colored Balls",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 792,
+    "index": "E",
+    "solvedCount": 1040
+  }
+}

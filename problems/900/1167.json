@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1775,
+    "index": "A2",
+    "name": "Gardener and the Capybaras (hard version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1775,
+    "index": "A2",
+    "solvedCount": 18275
+  }
+}

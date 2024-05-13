@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 961,
+    "index": "G",
+    "name": "Partitions",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 961,
+    "index": "G",
+    "solvedCount": 1296
+  }
+}

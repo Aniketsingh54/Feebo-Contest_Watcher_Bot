@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1210,
+    "index": "B",
+    "name": "Marcin and Training Camp",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1210,
+    "index": "B",
+    "solvedCount": 5664
+  }
+}

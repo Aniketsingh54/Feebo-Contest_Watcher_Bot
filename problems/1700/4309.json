@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1185,
+    "index": "D",
+    "name": "Extra Element",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1700,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1185,
+    "index": "D",
+    "solvedCount": 6431
+  }
+}

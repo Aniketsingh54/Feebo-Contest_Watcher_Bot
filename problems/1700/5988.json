@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 827,
+    "index": "A",
+    "name": "String Reconstruction",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 827,
+    "index": "A",
+    "solvedCount": 3940
+  }
+}

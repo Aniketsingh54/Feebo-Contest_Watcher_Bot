@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1418,
+    "index": "F",
+    "name": "Equal Product",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "data structures",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1418,
+    "index": "F",
+    "solvedCount": 356
+  }
+}

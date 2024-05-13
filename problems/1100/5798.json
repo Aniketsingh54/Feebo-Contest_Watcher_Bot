@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 869,
+    "index": "B",
+    "name": "The Eternal Immortality",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 869,
+    "index": "B",
+    "solvedCount": 12931
+  }
+}

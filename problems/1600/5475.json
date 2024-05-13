@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 939,
+    "index": "C",
+    "name": "Convenient For Everybody",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 939,
+    "index": "C",
+    "solvedCount": 4565
+  }
+}

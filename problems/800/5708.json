@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 894,
+    "index": "A",
+    "name": "QAQ",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 894,
+    "index": "A",
+    "solvedCount": 32958
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1367,
+    "index": "D",
+    "name": "Task On The Board",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1367,
+    "index": "D",
+    "solvedCount": 7979
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 756,
+    "index": "A",
+    "name": "Pavel and barbecue",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 756,
+    "index": "A",
+    "solvedCount": 2958
+  }
+}

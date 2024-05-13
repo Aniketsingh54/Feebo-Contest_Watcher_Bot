@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1270,
+    "index": "G",
+    "name": "Subset with Zero Sum",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1270,
+    "index": "G",
+    "solvedCount": 2034
+  }
+}

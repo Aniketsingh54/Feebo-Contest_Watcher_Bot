@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 845,
+    "index": "D",
+    "name": "Driving Test",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 845,
+    "index": "D",
+    "solvedCount": 2332
+  }
+}

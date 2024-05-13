@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1444,
+    "index": "B",
+    "name": "Divide and Sum",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1444,
+    "index": "B",
+    "solvedCount": 6046
+  }
+}

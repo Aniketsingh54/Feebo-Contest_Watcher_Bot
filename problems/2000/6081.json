@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 803,
+    "index": "E",
+    "name": "Roma and Poker",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 803,
+    "index": "E",
+    "solvedCount": 2102
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1327,
+    "index": "D",
+    "name": "Infinite Path",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1327,
+    "index": "D",
+    "solvedCount": 3071
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 733,
+    "index": "A",
+    "name": "Grasshopper And the String",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 733,
+    "index": "A",
+    "solvedCount": 15941
+  }
+}

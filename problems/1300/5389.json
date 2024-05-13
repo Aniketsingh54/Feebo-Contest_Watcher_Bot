@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 962,
+    "index": "A",
+    "name": "Equator",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 962,
+    "index": "A",
+    "solvedCount": 12537
+  }
+}

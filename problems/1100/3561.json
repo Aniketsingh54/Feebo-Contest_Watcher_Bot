@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1335,
+    "index": "C",
+    "name": "Two Teams Composing",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1335,
+    "index": "C",
+    "solvedCount": 33305
+  }
+}

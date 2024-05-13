@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 825,
+    "index": "D",
+    "name": "Suitable Replacement",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 825,
+    "index": "D",
+    "solvedCount": 3179
+  }
+}

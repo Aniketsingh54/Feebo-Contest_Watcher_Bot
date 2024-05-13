@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1519,
+    "index": "C",
+    "name": "Berland Regional",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1519,
+    "index": "C",
+    "solvedCount": 15985
+  }
+}

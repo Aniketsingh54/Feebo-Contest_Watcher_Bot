@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1015,
+    "index": "B",
+    "name": "Obtaining the String",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1015,
+    "index": "B",
+    "solvedCount": 11329
+  }
+}

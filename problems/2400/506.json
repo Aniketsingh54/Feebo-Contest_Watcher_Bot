@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1886,
+    "index": "E",
+    "name": "I Wanna be the Team Leader",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1886,
+    "index": "E",
+    "solvedCount": 1335
+  }
+}

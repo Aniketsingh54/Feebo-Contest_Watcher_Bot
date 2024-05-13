@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1819,
+    "index": "C",
+    "name": "The Fox and the Complete Tree Traversal",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "implementation",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1819,
+    "index": "C",
+    "solvedCount": 1396
+  }
+}

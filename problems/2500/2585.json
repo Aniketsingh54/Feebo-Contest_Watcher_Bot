@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1521,
+    "index": "D",
+    "name": "Nastia Plays with a Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1521,
+    "index": "D",
+    "solvedCount": 1806
+  }
+}

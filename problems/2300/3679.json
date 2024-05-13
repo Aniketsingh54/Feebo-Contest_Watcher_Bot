@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1310,
+    "index": "D",
+    "name": "Tourism",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "graphs",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1310,
+    "index": "D",
+    "solvedCount": 1331
+  }
+}

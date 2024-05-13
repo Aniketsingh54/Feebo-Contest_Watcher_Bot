@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1775,
+    "index": "C",
+    "name": "Interesting Sequence",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "bitmasks",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1775,
+    "index": "C",
+    "solvedCount": 9666
+  }
+}

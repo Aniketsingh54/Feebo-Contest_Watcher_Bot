@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1130,
+    "index": "B",
+    "name": "Two Cakes",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1130,
+    "index": "B",
+    "solvedCount": 7698
+  }
+}

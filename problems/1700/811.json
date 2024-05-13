@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1835,
+    "index": "A",
+    "name": "k-th equality",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1835,
+    "index": "A",
+    "solvedCount": 7455
+  }
+}

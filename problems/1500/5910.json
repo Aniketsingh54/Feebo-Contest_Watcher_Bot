@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 846,
+    "index": "A",
+    "name": "Curriculum Vitae",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 846,
+    "index": "A",
+    "solvedCount": 4162
+  }
+}

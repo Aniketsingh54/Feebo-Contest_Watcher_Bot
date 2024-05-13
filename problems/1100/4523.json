@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1146,
+    "index": "B",
+    "name": "Hate \"A\"",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1146,
+    "index": "B",
+    "solvedCount": 8332
+  }
+}

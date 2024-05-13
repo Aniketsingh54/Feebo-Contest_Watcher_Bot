@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1827,
+    "index": "B1",
+    "name": "Range Sorting (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "dp",
+      "dsu",
+      "greedy",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1827,
+    "index": "B1",
+    "solvedCount": 3667
+  }
+}

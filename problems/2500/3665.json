@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1312,
+    "index": "F",
+    "name": "Attack on Red Kingdom",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "games",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1312,
+    "index": "F",
+    "solvedCount": 718
+  }
+}

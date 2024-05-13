@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1608,
+    "index": "D",
+    "name": "Dominoes",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "fft",
+      "graphs",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1608,
+    "index": "D",
+    "solvedCount": 1348
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1038,
+    "index": "F",
+    "name": "Wrap Around",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1038,
+    "index": "F",
+    "solvedCount": 296
+  }
+}

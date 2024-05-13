@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1416,
+    "index": "A",
+    "name": "k-Amazing Numbers",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1416,
+    "index": "A",
+    "solvedCount": 11744
+  }
+}

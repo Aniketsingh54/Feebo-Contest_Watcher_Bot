@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 850,
+    "index": "E",
+    "name": "Random Elections",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "divide and conquer",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 850,
+    "index": "E",
+    "solvedCount": 380
+  }
+}

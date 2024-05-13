@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 991,
+    "index": "F",
+    "name": "Concise and clear",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 991,
+    "index": "F",
+    "solvedCount": 294
+  }
+}

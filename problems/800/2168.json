@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1605,
+    "index": "A",
+    "name": "A.M. Deviation",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1605,
+    "index": "A",
+    "solvedCount": 20337
+  }
+}

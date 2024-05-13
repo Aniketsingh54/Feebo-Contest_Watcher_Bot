@@ -1,0 +1,26 @@
+{
+  "problem": {
+    "contestId": 1536,
+    "index": "F",
+    "name": "Omkar and Akmar",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "chinese remainder theorem",
+      "combinatorics",
+      "constructive algorithms",
+      "fft",
+      "games",
+      "geometry",
+      "math",
+      "meet-in-the-middle",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1536,
+    "index": "F",
+    "solvedCount": 913
+  }
+}

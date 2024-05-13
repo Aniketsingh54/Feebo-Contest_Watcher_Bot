@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 734,
+    "index": "D",
+    "name": "Anton and Chess",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 734,
+    "index": "D",
+    "solvedCount": 3682
+  }
+}

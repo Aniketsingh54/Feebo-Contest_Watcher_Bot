@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 875,
+    "index": "C",
+    "name": "National Property",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 875,
+    "index": "C",
+    "solvedCount": 1921
+  }
+}

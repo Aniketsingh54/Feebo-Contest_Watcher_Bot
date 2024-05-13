@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "J",
+    "name": "Road Reform",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "J",
+    "solvedCount": 3917
+  }
+}

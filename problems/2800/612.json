@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1866,
+    "index": "J",
+    "name": "Jackets and Packets",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1866,
+    "index": "J",
+    "solvedCount": 270
+  }
+}

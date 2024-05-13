@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1579,
+    "index": "B",
+    "name": "Shifting Sort",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1579,
+    "index": "B",
+    "solvedCount": 17818
+  }
+}

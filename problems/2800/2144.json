@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1608,
+    "index": "E",
+    "name": "The Cells on the Paper",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1608,
+    "index": "E",
+    "solvedCount": 423
+  }
+}

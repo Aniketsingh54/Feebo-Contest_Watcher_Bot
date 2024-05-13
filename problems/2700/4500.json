@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1149,
+    "index": "C",
+    "name": "Tree Generator™",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1149,
+    "index": "C",
+    "solvedCount": 1174
+  }
+}

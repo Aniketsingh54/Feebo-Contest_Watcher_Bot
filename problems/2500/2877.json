@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "I",
+    "name": "Plane Tiling",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "geometry",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "I",
+    "solvedCount": 470
+  }
+}

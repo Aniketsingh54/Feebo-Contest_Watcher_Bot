@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1774,
+    "index": "F1",
+    "name": "Magician and Pigs (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1774,
+    "index": "F1",
+    "solvedCount": 1022
+  }
+}

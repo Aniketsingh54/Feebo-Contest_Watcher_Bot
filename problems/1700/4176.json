@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1209,
+    "index": "D",
+    "name": "Cow and Snacks",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1209,
+    "index": "D",
+    "solvedCount": 8823
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1580,
+    "index": "D",
+    "name": "Subsequence",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1580,
+    "index": "D",
+    "solvedCount": 758
+  }
+}

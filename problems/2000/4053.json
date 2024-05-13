@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1234,
+    "index": "E",
+    "name": "Special Permutations",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1234,
+    "index": "E",
+    "solvedCount": 2585
+  }
+}

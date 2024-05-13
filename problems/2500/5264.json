@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 993,
+    "index": "D",
+    "name": "Compute Power",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 993,
+    "index": "D",
+    "solvedCount": 593
+  }
+}

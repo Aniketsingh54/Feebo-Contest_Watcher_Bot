@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1211,
+    "index": "I",
+    "name": "Unusual Graph",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "*special",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1211,
+    "index": "I",
+    "solvedCount": 34
+  }
+}

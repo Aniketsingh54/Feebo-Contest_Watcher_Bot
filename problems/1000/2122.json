@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1611,
+    "index": "C",
+    "name": "Polycarp Recovers the Permutation",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1611,
+    "index": "C",
+    "solvedCount": 17943
+  }
+}

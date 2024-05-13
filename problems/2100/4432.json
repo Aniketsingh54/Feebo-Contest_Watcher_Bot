@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1163,
+    "index": "D",
+    "name": "Mysterious Code",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1163,
+    "index": "D",
+    "solvedCount": 1218
+  }
+}

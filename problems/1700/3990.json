@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1249,
+    "index": "E",
+    "name": "By Elevator or Stairs?",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dp",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1249,
+    "index": "E",
+    "solvedCount": 9226
+  }
+}

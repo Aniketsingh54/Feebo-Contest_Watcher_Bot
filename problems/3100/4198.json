@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1205,
+    "index": "E",
+    "name": "Expected Value Again",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "combinatorics",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1205,
+    "index": "E",
+    "solvedCount": 269
+  }
+}

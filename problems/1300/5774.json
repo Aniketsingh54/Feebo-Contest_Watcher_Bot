@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 876,
+    "index": "B",
+    "name": "Divisiblity of Differences",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 876,
+    "index": "B",
+    "solvedCount": 8696
+  }
+}

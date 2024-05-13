@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1173,
+    "index": "B",
+    "name": "Nauuo and Chess",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1173,
+    "index": "B",
+    "solvedCount": 8780
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 873,
+    "index": "A",
+    "name": "Chores",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 873,
+    "index": "A",
+    "solvedCount": 7996
+  }
+}

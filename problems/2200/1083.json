@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1788,
+    "index": "E",
+    "name": "Sum Over Zero",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1788,
+    "index": "E",
+    "solvedCount": 2475
+  }
+}

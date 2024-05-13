@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1545,
+    "index": "B",
+    "name": "AquaMoon and Chess",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1545,
+    "index": "B",
+    "solvedCount": 5638
+  }
+}

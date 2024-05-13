@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1882,
+    "index": "C",
+    "name": "Card Game",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1882,
+    "index": "C",
+    "solvedCount": 11331
+  }
+}

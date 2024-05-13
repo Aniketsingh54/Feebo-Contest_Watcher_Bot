@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 812,
+    "index": "A",
+    "name": "Sagheer and Crossroads",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 812,
+    "index": "A",
+    "solvedCount": 6168
+  }
+}

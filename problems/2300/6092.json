@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "I",
+    "name": "Fake News (hard)",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "I",
+    "solvedCount": 1427
+  }
+}

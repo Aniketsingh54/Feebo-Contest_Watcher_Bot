@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 991,
+    "index": "B",
+    "name": "Getting an A",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 991,
+    "index": "B",
+    "solvedCount": 12321
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 856,
+    "index": "C",
+    "name": "Eleventh Birthday",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 856,
+    "index": "C",
+    "solvedCount": 526
+  }
+}

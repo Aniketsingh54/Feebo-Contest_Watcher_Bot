@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1409,
+    "index": "F",
+    "name": "Subsequences of Length Two",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1409,
+    "index": "F",
+    "solvedCount": 4272
+  }
+}

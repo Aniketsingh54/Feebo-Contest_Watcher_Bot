@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "I",
+    "name": "Future Dominators",
+    "type": "PROGRAMMING",
+    "points": 4250,
+    "rating": 3500,
+    "tags": [
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "I",
+    "solvedCount": 82
+  }
+}

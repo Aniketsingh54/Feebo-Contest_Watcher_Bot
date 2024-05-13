@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "C",
+    "name": "Lexicographically Largest",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "C",
+    "solvedCount": 6410
+  }
+}

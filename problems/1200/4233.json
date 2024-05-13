@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1200,
+    "index": "B",
+    "name": "Block Adventure",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1200,
+    "index": "B",
+    "solvedCount": 13720
+  }
+}

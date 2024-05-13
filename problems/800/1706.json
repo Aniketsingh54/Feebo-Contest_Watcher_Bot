@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1684,
+    "index": "A",
+    "name": "Digit Minimization",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1684,
+    "index": "A",
+    "solvedCount": 23479
+  }
+}

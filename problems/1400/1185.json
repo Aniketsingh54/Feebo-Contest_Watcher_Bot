@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1773,
+    "index": "E",
+    "name": "Easy Assembly",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1773,
+    "index": "E",
+    "solvedCount": 4660
+  }
+}

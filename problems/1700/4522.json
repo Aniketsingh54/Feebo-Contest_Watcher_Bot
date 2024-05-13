@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1146,
+    "index": "C",
+    "name": "Tree Diameter",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "graphs",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1146,
+    "index": "C",
+    "solvedCount": 3523
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1740,
+    "index": "E",
+    "name": "Hanging Hearts",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1740,
+    "index": "E",
+    "solvedCount": 4112
+  }
+}

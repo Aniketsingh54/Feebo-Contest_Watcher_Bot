@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1948,
+    "index": "G",
+    "name": "MST with Matching",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dsu",
+      "graph matchings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1948,
+    "index": "G",
+    "solvedCount": 613
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1201,
+    "index": "A",
+    "name": "Important Exam",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1201,
+    "index": "A",
+    "solvedCount": 15319
+  }
+}

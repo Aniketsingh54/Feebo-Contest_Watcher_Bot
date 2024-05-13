@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1292,
+    "index": "B",
+    "name": "Aroma's Search",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1292,
+    "index": "B",
+    "solvedCount": 6028
+  }
+}

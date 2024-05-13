@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 870,
+    "index": "D",
+    "name": "Something with XOR Queries",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "interactive",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 870,
+    "index": "D",
+    "solvedCount": 1193
+  }
+}

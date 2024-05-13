@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 912,
+    "index": "B",
+    "name": "New Year's Eve",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 912,
+    "index": "B",
+    "solvedCount": 11382
+  }
+}

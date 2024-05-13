@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1055,
+    "index": "F",
+    "name": "Tree and XOR",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 2900,
+    "tags": [
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1055,
+    "index": "F",
+    "solvedCount": 446
+  }
+}

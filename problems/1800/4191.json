@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1207,
+    "index": "D",
+    "name": "Number Of Permutations",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "combinatorics"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1207,
+    "index": "D",
+    "solvedCount": 5789
+  }
+}

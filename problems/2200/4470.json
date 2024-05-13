@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1154,
+    "index": "G",
+    "name": "Minimum Possible LCM",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1154,
+    "index": "G",
+    "solvedCount": 2621
+  }
+}

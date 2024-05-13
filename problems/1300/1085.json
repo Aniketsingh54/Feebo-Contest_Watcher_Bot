@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1788,
+    "index": "C",
+    "name": "Matching Numbers",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1788,
+    "index": "C",
+    "solvedCount": 16488
+  }
+}

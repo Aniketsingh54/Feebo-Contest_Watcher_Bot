@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1621,
+    "index": "F",
+    "name": "Strange Instructions",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1621,
+    "index": "F",
+    "solvedCount": 532
+  }
+}

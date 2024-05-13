@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1447,
+    "index": "B",
+    "name": "Numbers Box",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1447,
+    "index": "B",
+    "solvedCount": 15234
+  }
+}

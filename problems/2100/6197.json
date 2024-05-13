@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 776,
+    "index": "E",
+    "name": "The Holmes Children",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 776,
+    "index": "E",
+    "solvedCount": 2101
+  }
+}

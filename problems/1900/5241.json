@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 999,
+    "index": "D",
+    "name": "Equalize the Remainders",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 999,
+    "index": "D",
+    "solvedCount": 4160
+  }
+}

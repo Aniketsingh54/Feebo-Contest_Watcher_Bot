@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1379,
+    "index": "B",
+    "name": "Dubious Cyrpto",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1379,
+    "index": "B",
+    "solvedCount": 12473
+  }
+}

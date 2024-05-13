@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1249,
+    "index": "B2",
+    "name": "Books Exchange (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1249,
+    "index": "B2",
+    "solvedCount": 16258
+  }
+}

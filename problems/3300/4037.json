@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1237,
+    "index": "H",
+    "name": "Balanced Reversals",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3300,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1237,
+    "index": "H",
+    "solvedCount": 303
+  }
+}

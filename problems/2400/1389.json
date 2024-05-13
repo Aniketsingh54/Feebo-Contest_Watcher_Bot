@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1738,
+    "index": "F",
+    "name": "Connectivity Addicts",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "interactive",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1738,
+    "index": "F",
+    "solvedCount": 1153
+  }
+}

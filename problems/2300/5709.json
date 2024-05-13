@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 893,
+    "index": "F",
+    "name": "Subtree Minimum Query",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 893,
+    "index": "F",
+    "solvedCount": 1667
+  }
+}

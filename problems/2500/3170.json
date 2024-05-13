@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1407,
+    "index": "E",
+    "name": "Egor in the Republic of Dagestan",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1407,
+    "index": "E",
+    "solvedCount": 1604
+  }
+}

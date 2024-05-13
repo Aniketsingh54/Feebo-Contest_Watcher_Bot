@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1151,
+    "index": "F",
+    "name": "Sonya and Informatics",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "matrices",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1151,
+    "index": "F",
+    "solvedCount": 1143
+  }
+}

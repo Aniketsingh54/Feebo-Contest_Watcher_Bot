@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1462,
+    "index": "E2",
+    "name": "Close Tuples (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "implementation",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1462,
+    "index": "E2",
+    "solvedCount": 9219
+  }
+}

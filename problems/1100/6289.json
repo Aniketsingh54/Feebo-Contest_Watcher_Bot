@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 758,
+    "index": "B",
+    "name": "Blown Garland",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 758,
+    "index": "B",
+    "solvedCount": 10060
+  }
+}

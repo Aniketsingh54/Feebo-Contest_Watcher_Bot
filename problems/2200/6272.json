@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 762,
+    "index": "E",
+    "name": "Radio stations",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 762,
+    "index": "E",
+    "solvedCount": 1283
+  }
+}

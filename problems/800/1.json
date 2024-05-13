@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1972,
+    "index": "A",
+    "name": "Contest Proposal",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1972,
+    "index": "A",
+    "solvedCount": 16154
+  }
+}

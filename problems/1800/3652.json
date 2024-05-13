@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1316,
+    "index": "C",
+    "name": "Primitive Primes",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1316,
+    "index": "C",
+    "solvedCount": 7030
+  }
+}

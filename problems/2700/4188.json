@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1207,
+    "index": "G",
+    "name": "Indie Album",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1207,
+    "index": "G",
+    "solvedCount": 968
+  }
+}

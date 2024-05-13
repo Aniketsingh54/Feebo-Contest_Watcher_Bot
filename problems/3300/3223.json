@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1396,
+    "index": "D",
+    "name": "Rainbow Rectangles",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1396,
+    "index": "D",
+    "solvedCount": 297
+  }
+}

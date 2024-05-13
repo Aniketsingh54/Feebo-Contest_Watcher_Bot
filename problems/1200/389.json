@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1909,
+    "index": "B",
+    "name": "Make Almost Equal With Mod",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1909,
+    "index": "B",
+    "solvedCount": 13910
+  }
+}

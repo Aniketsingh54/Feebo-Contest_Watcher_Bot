@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1439,
+    "index": "A1",
+    "name": "Binary Table (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1439,
+    "index": "A1",
+    "solvedCount": 9165
+  }
+}

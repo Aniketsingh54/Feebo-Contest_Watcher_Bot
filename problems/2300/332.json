@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1916,
+    "index": "E",
+    "name": "Happy Life in University",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1916,
+    "index": "E",
+    "solvedCount": 2101
+  }
+}

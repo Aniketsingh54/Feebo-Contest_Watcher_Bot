@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1051,
+    "index": "C",
+    "name": "Vasya and Multisets",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1051,
+    "index": "C",
+    "solvedCount": 9139
+  }
+}

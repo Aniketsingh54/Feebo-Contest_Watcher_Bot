@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1487,
+    "index": "B",
+    "name": "Cat Cycle",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1487,
+    "index": "B",
+    "solvedCount": 19673
+  }
+}

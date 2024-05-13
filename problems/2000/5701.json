@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 895,
+    "index": "C",
+    "name": "Square Subsets",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 895,
+    "index": "C",
+    "solvedCount": 5127
+  }
+}

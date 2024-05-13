@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1843,
+    "index": "F2",
+    "name": "Omsk Metro (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1843,
+    "index": "F2",
+    "solvedCount": 1471
+  }
+}

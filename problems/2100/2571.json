@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1525,
+    "index": "E",
+    "name": "Assimilation IV",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1525,
+    "index": "E",
+    "solvedCount": 1968
+  }
+}

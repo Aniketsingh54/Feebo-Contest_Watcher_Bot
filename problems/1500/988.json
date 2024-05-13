@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1804,
+    "index": "C",
+    "name": "Pull Your Luck",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1804,
+    "index": "C",
+    "solvedCount": 11538
+  }
+}

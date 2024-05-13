@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1439,
+    "index": "C",
+    "name": "Greedy Shopping",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1439,
+    "index": "C",
+    "solvedCount": 1677
+  }
+}

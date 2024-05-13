@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1571,
+    "index": "H",
+    "name": "Laser Beams",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "*special",
+      "geometry",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1571,
+    "index": "H",
+    "solvedCount": 44
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1402,
+    "index": "A",
+    "name": "Fancy Fence",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "data structures",
+      "dsu",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1402,
+    "index": "A",
+    "solvedCount": 1142
+  }
+}

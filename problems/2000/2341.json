@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1566,
+    "index": "E",
+    "name": "Buds Re-hanging",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1566,
+    "index": "E",
+    "solvedCount": 4020
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1320,
+    "index": "E",
+    "name": "Treeland and Viruses",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1320,
+    "index": "E",
+    "solvedCount": 665
+  }
+}

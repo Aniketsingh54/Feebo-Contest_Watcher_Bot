@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1278,
+    "index": "C",
+    "name": "Berry Jam",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1278,
+    "index": "C",
+    "solvedCount": 7605
+  }
+}

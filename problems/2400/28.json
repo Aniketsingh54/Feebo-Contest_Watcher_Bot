@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "A3",
+    "name": "Balanced Unshuffle (Hard)",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "A3",
+    "solvedCount": 295
+  }
+}

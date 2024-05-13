@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 999,
+    "index": "C",
+    "name": "Alphabetic Removals",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 999,
+    "index": "C",
+    "solvedCount": 17322
+  }
+}

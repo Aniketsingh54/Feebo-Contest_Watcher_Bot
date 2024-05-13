@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1609,
+    "index": "E",
+    "name": "William The Oblivious ",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1609,
+    "index": "E",
+    "solvedCount": 1844
+  }
+}

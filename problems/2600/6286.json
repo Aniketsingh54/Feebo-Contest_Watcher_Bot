@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 758,
+    "index": "E",
+    "name": "Broken Tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 758,
+    "index": "E",
+    "solvedCount": 443
+  }
+}

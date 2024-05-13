@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 784,
+    "index": "E",
+    "name": "Twisted Circuit",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "*special",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 784,
+    "index": "E",
+    "solvedCount": 1880
+  }
+}

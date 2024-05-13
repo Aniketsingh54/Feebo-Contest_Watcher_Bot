@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1479,
+    "index": "E",
+    "name": "School Clubs",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "dp",
+      "fft",
+      "math",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1479,
+    "index": "E",
+    "solvedCount": 188
+  }
+}

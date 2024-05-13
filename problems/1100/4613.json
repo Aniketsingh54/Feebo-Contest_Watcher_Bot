@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1121,
+    "index": "A",
+    "name": "Technogoblet of Fire",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1121,
+    "index": "A",
+    "solvedCount": 7099
+  }
+}

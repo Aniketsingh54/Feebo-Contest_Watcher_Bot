@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1832,
+    "index": "C",
+    "name": "Contrast Value",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1832,
+    "index": "C",
+    "solvedCount": 18284
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1029,
+    "index": "F",
+    "name": "Multicolored Markers",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1029,
+    "index": "F",
+    "solvedCount": 2473
+  }
+}

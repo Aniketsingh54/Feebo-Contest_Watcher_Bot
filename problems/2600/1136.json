@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1778,
+    "index": "F",
+    "name": "Maximizing Root",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1778,
+    "index": "F",
+    "solvedCount": 598
+  }
+}

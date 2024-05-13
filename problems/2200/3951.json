@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1253,
+    "index": "E",
+    "name": "Antenna Coverage",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1253,
+    "index": "E",
+    "solvedCount": 2624
+  }
+}

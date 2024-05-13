@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1893,
+    "index": "D",
+    "name": "Colorful Constructive",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1893,
+    "index": "D",
+    "solvedCount": 819
+  }
+}

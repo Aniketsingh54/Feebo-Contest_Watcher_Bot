@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 755,
+    "index": "E",
+    "name": "PolandBall and White-Red graph",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 755,
+    "index": "E",
+    "solvedCount": 812
+  }
+}

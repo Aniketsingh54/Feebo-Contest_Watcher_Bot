@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1804,
+    "index": "B",
+    "name": "Vaccination",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1804,
+    "index": "B",
+    "solvedCount": 13794
+  }
+}

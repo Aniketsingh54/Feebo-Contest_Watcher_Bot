@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 780,
+    "index": "E",
+    "name": "Underground Lab",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 780,
+    "index": "E",
+    "solvedCount": 2295
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1608,
+    "index": "G",
+    "name": "Alphabetic Tree",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1608,
+    "index": "G",
+    "solvedCount": 150
+  }
+}

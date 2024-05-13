@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1571,
+    "index": "E",
+    "name": "Fix the String",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "*special",
+      "bitmasks",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1571,
+    "index": "E",
+    "solvedCount": 324
+  }
+}

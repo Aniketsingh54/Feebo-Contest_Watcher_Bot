@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1178,
+    "index": "E",
+    "name": "Archaeology",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1178,
+    "index": "E",
+    "solvedCount": 4129
+  }
+}

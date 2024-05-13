@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 958,
+    "index": "A2",
+    "name": "Death Stars (medium)",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "hashing",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 958,
+    "index": "A2",
+    "solvedCount": 876
+  }
+}

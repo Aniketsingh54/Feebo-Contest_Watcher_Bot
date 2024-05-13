@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1111,
+    "index": "E",
+    "name": "Tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1111,
+    "index": "E",
+    "solvedCount": 843
+  }
+}

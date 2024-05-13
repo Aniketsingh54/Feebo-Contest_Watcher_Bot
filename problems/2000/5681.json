@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 899,
+    "index": "E",
+    "name": "Segments Removal",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dsu",
+      "flows",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 899,
+    "index": "E",
+    "solvedCount": 2738
+  }
+}

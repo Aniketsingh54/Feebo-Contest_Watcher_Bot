@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1080,
+    "index": "F",
+    "name": "Katya and Segments Sets",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "interactive",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1080,
+    "index": "F",
+    "solvedCount": 672
+  }
+}

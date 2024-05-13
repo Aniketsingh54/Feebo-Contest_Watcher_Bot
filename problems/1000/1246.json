@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "E",
+    "name": "Exchange",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "E",
+    "solvedCount": 9540
+  }
+}

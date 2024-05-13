@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 840,
+    "index": "C",
+    "name": "On the Bench",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 840,
+    "index": "C",
+    "solvedCount": 1645
+  }
+}

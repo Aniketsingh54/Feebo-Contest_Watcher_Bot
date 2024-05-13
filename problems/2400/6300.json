@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 756,
+    "index": "D",
+    "name": "Bacterial Melee",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 756,
+    "index": "D",
+    "solvedCount": 975
+  }
+}

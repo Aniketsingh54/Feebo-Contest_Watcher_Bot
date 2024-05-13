@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "C",
+    "name": "Bulmart",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "C",
+    "solvedCount": 1004
+  }
+}

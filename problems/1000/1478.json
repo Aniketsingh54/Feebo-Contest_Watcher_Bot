@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "B",
+    "name": "Basketball Together",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "B",
+    "solvedCount": 11734
+  }
+}

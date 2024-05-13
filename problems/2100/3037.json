@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1431,
+    "index": "F",
+    "name": "Neural Network Problem",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "*special",
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1431,
+    "index": "F",
+    "solvedCount": 153
+  }
+}

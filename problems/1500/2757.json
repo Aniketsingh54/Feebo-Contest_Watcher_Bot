@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1490,
+    "index": "F",
+    "name": "Equalize the Array",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1490,
+    "index": "F",
+    "solvedCount": 15488
+  }
+}

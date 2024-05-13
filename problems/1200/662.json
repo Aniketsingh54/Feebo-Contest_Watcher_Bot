@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1859,
+    "index": "C",
+    "name": "Another Permutation Problem",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1859,
+    "index": "C",
+    "solvedCount": 16327
+  }
+}

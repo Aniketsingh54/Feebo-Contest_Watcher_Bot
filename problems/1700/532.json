@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1881,
+    "index": "F",
+    "name": "Minimum Maximum Distance",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1881,
+    "index": "F",
+    "solvedCount": 6009
+  }
+}

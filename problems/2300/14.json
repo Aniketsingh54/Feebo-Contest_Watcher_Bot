@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "F2",
+    "name": "Playing Quidditch (Medium)",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "F2",
+    "solvedCount": 217
+  }
+}

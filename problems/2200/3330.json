@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1373,
+    "index": "E",
+    "name": "Sum of Digits",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1373,
+    "index": "E",
+    "solvedCount": 2696
+  }
+}

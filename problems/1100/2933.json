@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1455,
+    "index": "C",
+    "name": "Ping-pong",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1455,
+    "index": "C",
+    "solvedCount": 19235
+  }
+}

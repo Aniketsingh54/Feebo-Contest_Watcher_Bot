@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 940,
+    "index": "D",
+    "name": "Alena And The Heater",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 940,
+    "index": "D",
+    "solvedCount": 3572
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 896,
+    "index": "A",
+    "name": "Nephren gives a riddle",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 896,
+    "index": "A",
+    "solvedCount": 3338
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 762,
+    "index": "B",
+    "name": "USB vs. PS/2",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 762,
+    "index": "B",
+    "solvedCount": 7505
+  }
+}

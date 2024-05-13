@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 809,
+    "index": "D",
+    "name": "Hitchhiking in the Baltic States",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 809,
+    "index": "D",
+    "solvedCount": 760
+  }
+}

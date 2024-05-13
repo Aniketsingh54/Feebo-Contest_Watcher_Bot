@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1033,
+    "index": "E",
+    "name": "Hidden Bipartite Graph",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1033,
+    "index": "E",
+    "solvedCount": 582
+  }
+}

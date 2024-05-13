@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1392,
+    "index": "F",
+    "name": "Omkar and Landslide",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1392,
+    "index": "F",
+    "solvedCount": 1942
+  }
+}

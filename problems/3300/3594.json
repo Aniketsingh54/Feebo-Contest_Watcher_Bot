@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1329,
+    "index": "E",
+    "name": "Dreamoon Loves AA",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1329,
+    "index": "E",
+    "solvedCount": 172
+  }
+}

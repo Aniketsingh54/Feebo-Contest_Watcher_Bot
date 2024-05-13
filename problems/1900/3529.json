@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1342,
+    "index": "D",
+    "name": "Multiple Testcases",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1342,
+    "index": "D",
+    "solvedCount": 5834
+  }
+}

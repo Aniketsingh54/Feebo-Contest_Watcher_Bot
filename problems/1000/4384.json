@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1174,
+    "index": "A",
+    "name": "Ehab Fails to Be Thanos",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1174,
+    "index": "A",
+    "solvedCount": 17215
+  }
+}

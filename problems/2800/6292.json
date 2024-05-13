@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 757,
+    "index": "F",
+    "name": "Team Rocket Rises Again",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 757,
+    "index": "F",
+    "solvedCount": 1066
+  }
+}

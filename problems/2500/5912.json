@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 845,
+    "index": "F",
+    "name": "Guards In The Storehouse",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 845,
+    "index": "F",
+    "solvedCount": 421
+  }
+}

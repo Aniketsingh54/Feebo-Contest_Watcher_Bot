@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1066,
+    "index": "D",
+    "name": "Boxes Packing",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1066,
+    "index": "D",
+    "solvedCount": 5311
+  }
+}

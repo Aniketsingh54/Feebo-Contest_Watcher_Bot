@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1582,
+    "index": "F2",
+    "name": "Korney Korneevich and XOR (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1582,
+    "index": "F2",
+    "solvedCount": 1711
+  }
+}

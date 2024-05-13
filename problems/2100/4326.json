@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "A2",
+    "name": "Heidi Learns Hashing (Medium)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "A2",
+    "solvedCount": 934
+  }
+}

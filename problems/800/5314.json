@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 984,
+    "index": "A",
+    "name": "Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 984,
+    "index": "A",
+    "solvedCount": 18928
+  }
+}

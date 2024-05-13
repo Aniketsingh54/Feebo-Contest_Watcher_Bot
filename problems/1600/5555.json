@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 923,
+    "index": "B",
+    "name": "Producing Snow",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 923,
+    "index": "B",
+    "solvedCount": 7177
+  }
+}

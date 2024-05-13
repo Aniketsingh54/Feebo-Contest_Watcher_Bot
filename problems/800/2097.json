@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1615,
+    "index": "A",
+    "name": "Closing The Gap",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1615,
+    "index": "A",
+    "solvedCount": 20499
+  }
+}

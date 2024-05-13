@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1061,
+    "index": "D",
+    "name": "TV Shows",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1061,
+    "index": "D",
+    "solvedCount": 2294
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1575,
+    "index": "D",
+    "name": "Divisible by Twenty-Five",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1575,
+    "index": "D",
+    "solvedCount": 2405
+  }
+}

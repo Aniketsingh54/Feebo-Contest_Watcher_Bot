@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 864,
+    "index": "E",
+    "name": "Fire",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 864,
+    "index": "E",
+    "solvedCount": 4131
+  }
+}

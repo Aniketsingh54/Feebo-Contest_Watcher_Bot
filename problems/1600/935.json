@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1811,
+    "index": "D",
+    "name": "Umka and a Long Flight",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1811,
+    "index": "D",
+    "solvedCount": 7047
+  }
+}

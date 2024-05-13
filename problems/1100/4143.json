@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1214,
+    "index": "B",
+    "name": "Badges",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1214,
+    "index": "B",
+    "solvedCount": 10530
+  }
+}

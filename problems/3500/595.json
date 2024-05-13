@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1868,
+    "index": "F",
+    "name": "LIS?",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1868,
+    "index": "F",
+    "solvedCount": 69
+  }
+}

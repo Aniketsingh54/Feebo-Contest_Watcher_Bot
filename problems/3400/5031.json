@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1039,
+    "index": "E",
+    "name": "Summer Oenothera Exhibition",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1039,
+    "index": "E",
+    "solvedCount": 265
+  }
+}

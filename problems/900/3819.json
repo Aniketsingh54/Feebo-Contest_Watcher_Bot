@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1282,
+    "index": "A",
+    "name": "Temporarily unavailable",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1282,
+    "index": "A",
+    "solvedCount": 14510
+  }
+}

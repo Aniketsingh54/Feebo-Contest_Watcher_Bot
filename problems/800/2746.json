@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1492,
+    "index": "A",
+    "name": "Three swimmers",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1492,
+    "index": "A",
+    "solvedCount": 22438
+  }
+}

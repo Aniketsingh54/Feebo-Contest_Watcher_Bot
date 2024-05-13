@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1615,
+    "index": "G",
+    "name": "Maximum Adjacent Pairs",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3300,
+    "tags": [
+      "constructive algorithms",
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1615,
+    "index": "G",
+    "solvedCount": 147
+  }
+}

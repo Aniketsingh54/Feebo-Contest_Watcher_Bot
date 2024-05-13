@@ -1,0 +1,27 @@
+{
+  "problem": {
+    "contestId": 1895,
+    "index": "E",
+    "name": "Infinite Card Game",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "games",
+      "graphs",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1895,
+    "index": "E",
+    "solvedCount": 1455
+  }
+}

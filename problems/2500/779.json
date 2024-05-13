@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1840,
+    "index": "G2",
+    "name": "In Search of Truth (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "meet-in-the-middle",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1840,
+    "index": "G2",
+    "solvedCount": 901
+  }
+}

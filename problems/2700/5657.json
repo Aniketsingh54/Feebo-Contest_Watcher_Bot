@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 906,
+    "index": "D",
+    "name": "Power Tower",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "chinese remainder theorem",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 906,
+    "index": "D",
+    "solvedCount": 1974
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1611,
+    "index": "G",
+    "name": "Robot and Candies",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "graph matchings",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1611,
+    "index": "G",
+    "solvedCount": 606
+  }
+}

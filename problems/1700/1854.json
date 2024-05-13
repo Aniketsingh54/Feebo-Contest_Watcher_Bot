@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1660,
+    "index": "F1",
+    "name": "Promising String (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1660,
+    "index": "F1",
+    "solvedCount": 6995
+  }
+}

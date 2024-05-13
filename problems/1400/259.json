@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1927,
+    "index": "E",
+    "name": "Klever Permutation",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1927,
+    "index": "E",
+    "solvedCount": 12420
+  }
+}

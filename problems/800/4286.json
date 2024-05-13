@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1189,
+    "index": "A",
+    "name": "Keanu Reeves",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1189,
+    "index": "A",
+    "solvedCount": 15047
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1743,
+    "index": "B",
+    "name": "Permutation Value",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1743,
+    "index": "B",
+    "solvedCount": 21938
+  }
+}

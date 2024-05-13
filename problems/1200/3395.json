@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1364,
+    "index": "A",
+    "name": "XXXXX",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1364,
+    "index": "A",
+    "solvedCount": 26803
+  }
+}

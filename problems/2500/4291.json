@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1188,
+    "index": "A2",
+    "name": "Add on a Tree: Revolution",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1188,
+    "index": "A2",
+    "solvedCount": 1147
+  }
+}

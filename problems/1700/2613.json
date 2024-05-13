@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1516,
+    "index": "C",
+    "name": "Baby Ehab Partitions Again",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1516,
+    "index": "C",
+    "solvedCount": 11525
+  }
+}

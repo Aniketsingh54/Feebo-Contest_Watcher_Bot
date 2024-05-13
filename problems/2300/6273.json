@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 762,
+    "index": "D",
+    "name": "Maximum path",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 762,
+    "index": "D",
+    "solvedCount": 1290
+  }
+}

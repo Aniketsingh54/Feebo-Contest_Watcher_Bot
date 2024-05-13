@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1239,
+    "index": "B",
+    "name": "The World Is Just a Programming Task (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2500,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1239,
+    "index": "B",
+    "solvedCount": 968
+  }
+}

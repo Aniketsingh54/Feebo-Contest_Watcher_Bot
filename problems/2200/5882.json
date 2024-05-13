@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 850,
+    "index": "C",
+    "name": "Arpa and a game with Mojtaba",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 850,
+    "index": "C",
+    "solvedCount": 1374
+  }
+}

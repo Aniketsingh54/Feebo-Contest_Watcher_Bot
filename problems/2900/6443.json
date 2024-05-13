@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 724,
+    "index": "E",
+    "name": "Goods transportation",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "flows",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 724,
+    "index": "E",
+    "solvedCount": 1231
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1488,
+    "index": "I",
+    "name": "Demonic Invasion",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "*special",
+      "flows"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1488,
+    "index": "I",
+    "solvedCount": 33
+  }
+}

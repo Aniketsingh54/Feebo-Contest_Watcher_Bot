@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 770,
+    "index": "C",
+    "name": "Online Courses In BSU",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "*special",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 770,
+    "index": "C",
+    "solvedCount": 2534
+  }
+}

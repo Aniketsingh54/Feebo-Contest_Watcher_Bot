@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 978,
+    "index": "D",
+    "name": "Almost Arithmetic Progression",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 978,
+    "index": "D",
+    "solvedCount": 8388
+  }
+}

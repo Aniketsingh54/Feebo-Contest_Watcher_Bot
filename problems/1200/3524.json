@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1343,
+    "index": "C",
+    "name": "Alternating Subsequence",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1343,
+    "index": "C",
+    "solvedCount": 36398
+  }
+}

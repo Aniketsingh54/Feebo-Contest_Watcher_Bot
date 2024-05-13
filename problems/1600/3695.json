@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1305,
+    "index": "C",
+    "name": "Kuroni and Impossible Calculation",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1305,
+    "index": "C",
+    "solvedCount": 13621
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 893,
+    "index": "E",
+    "name": "Counting Arrays",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 893,
+    "index": "E",
+    "solvedCount": 3263
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1151,
+    "index": "B",
+    "name": "Dima and a Bad XOR",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1151,
+    "index": "B",
+    "solvedCount": 10688
+  }
+}

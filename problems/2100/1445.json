@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1729,
+    "index": "G",
+    "name": "Cut Substrings",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "hashing",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1729,
+    "index": "G",
+    "solvedCount": 2061
+  }
+}

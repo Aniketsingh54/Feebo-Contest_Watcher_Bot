@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 954,
+    "index": "I",
+    "name": "Yet Another String Matching Problem",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 954,
+    "index": "I",
+    "solvedCount": 969
+  }
+}

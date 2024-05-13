@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 737,
+    "index": "E",
+    "name": "Tanya is 5!",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3300,
+    "tags": [
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "schedules"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 737,
+    "index": "E",
+    "solvedCount": 119
+  }
+}

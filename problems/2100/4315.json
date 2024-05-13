@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "E2",
+    "name": "Daleks' Invasion (medium)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "E2",
+    "solvedCount": 898
+  }
+}

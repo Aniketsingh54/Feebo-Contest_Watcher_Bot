@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1010,
+    "index": "A",
+    "name": "Fly",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1010,
+    "index": "A",
+    "solvedCount": 7996
+  }
+}

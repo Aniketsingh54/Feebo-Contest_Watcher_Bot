@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1743,
+    "index": "F",
+    "name": "Intersection and Union",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dp",
+      "matrices",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1743,
+    "index": "F",
+    "solvedCount": 1409
+  }
+}

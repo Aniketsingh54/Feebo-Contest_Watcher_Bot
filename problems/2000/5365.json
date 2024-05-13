@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 975,
+    "index": "D",
+    "name": "Ghosts",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 975,
+    "index": "D",
+    "solvedCount": 1871
+  }
+}

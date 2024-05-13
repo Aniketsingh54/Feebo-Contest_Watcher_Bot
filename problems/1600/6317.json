@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 753,
+    "index": "B",
+    "name": "Interactive Bulls and Cows (Easy)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 753,
+    "index": "B",
+    "solvedCount": 1171
+  }
+}

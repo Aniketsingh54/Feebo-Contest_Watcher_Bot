@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1844,
+    "index": "B",
+    "name": "Permutations & Primes",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1844,
+    "index": "B",
+    "solvedCount": 17448
+  }
+}

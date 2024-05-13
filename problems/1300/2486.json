@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1538,
+    "index": "C",
+    "name": "Number of Pairs",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1538,
+    "index": "C",
+    "solvedCount": 27039
+  }
+}

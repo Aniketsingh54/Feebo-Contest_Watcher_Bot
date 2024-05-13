@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1934,
+    "index": "B",
+    "name": "Yet Another Coin Problem",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1934,
+    "index": "B",
+    "solvedCount": 16672
+  }
+}

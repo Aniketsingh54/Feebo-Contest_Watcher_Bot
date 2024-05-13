@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 931,
+    "index": "C",
+    "name": "Laboratory Work",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 931,
+    "index": "C",
+    "solvedCount": 3290
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 876,
+    "index": "A",
+    "name": "Trip For Meal",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 876,
+    "index": "A",
+    "solvedCount": 9240
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1487,
+    "index": "F",
+    "name": "Ones",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1487,
+    "index": "F",
+    "solvedCount": 360
+  }
+}

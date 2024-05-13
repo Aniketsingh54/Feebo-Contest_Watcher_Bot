@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 756,
+    "index": "F",
+    "name": "Long number",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3400,
+    "tags": [
+      "expression parsing",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 756,
+    "index": "F",
+    "solvedCount": 89
+  }
+}

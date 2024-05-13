@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1216,
+    "index": "F",
+    "name": "Wi-Fi",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1216,
+    "index": "F",
+    "solvedCount": 2332
+  }
+}

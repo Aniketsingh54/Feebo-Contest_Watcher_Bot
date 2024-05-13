@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 858,
+    "index": "B",
+    "name": "Which floor?",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 858,
+    "index": "B",
+    "solvedCount": 3691
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 858,
+    "index": "D",
+    "name": "Polycarp's phone book",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1600,
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 858,
+    "index": "D",
+    "solvedCount": 3712
+  }
+}

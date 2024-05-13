@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1506,
+    "index": "E",
+    "name": "Restoring the Permutation",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1506,
+    "index": "E",
+    "solvedCount": 12609
+  }
+}

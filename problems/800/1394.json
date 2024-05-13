@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1738,
+    "index": "A",
+    "name": "Glory Addicts",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1738,
+    "index": "A",
+    "solvedCount": 13343
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1260,
+    "index": "D",
+    "name": "A Game with Traps",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1260,
+    "index": "D",
+    "solvedCount": 3636
+  }
+}

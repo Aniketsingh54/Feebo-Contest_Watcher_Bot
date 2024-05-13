@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "J",
+    "name": "Streets and Avenues in Berhattan",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "J",
+    "solvedCount": 678
+  }
+}

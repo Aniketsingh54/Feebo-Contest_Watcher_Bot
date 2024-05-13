@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1344,
+    "index": "B",
+    "name": "Monopole Magnets",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1344,
+    "index": "B",
+    "solvedCount": 5774
+  }
+}

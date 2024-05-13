@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 895,
+    "index": "E",
+    "name": "Eyes Closed",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 895,
+    "index": "E",
+    "solvedCount": 908
+  }
+}

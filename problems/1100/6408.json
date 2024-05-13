@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 731,
+    "index": "B",
+    "name": "Coupons and Discounts",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 731,
+    "index": "B",
+    "solvedCount": 7863
+  }
+}

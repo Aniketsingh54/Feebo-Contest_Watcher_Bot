@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1486,
+    "index": "A",
+    "name": "Shifting Stacks",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1486,
+    "index": "A",
+    "solvedCount": 24847
+  }
+}

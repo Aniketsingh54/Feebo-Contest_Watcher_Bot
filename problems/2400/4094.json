@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1221,
+    "index": "F",
+    "name": "Choose a Square",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1221,
+    "index": "F",
+    "solvedCount": 975
+  }
+}

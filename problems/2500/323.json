@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1917,
+    "index": "E",
+    "name": "Construct Matrix",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1917,
+    "index": "E",
+    "solvedCount": 1268
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1739,
+    "index": "B",
+    "name": "Array Recovery",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1739,
+    "index": "B",
+    "solvedCount": 21433
+  }
+}

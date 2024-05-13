@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1929,
+    "index": "D",
+    "name": "Sasha and a Walk in the City",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1929,
+    "index": "D",
+    "solvedCount": 4174
+  }
+}

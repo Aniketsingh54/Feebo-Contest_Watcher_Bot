@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 878,
+    "index": "C",
+    "name": "Tournament",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 878,
+    "index": "C",
+    "solvedCount": 886
+  }
+}

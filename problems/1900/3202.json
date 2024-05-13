@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1400,
+    "index": "D",
+    "name": "Zigzags",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1400,
+    "index": "D",
+    "solvedCount": 9812
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1032,
+    "index": "E",
+    "name": "The Unbearable Lightness of Weights",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1032,
+    "index": "E",
+    "solvedCount": 1476
+  }
+}

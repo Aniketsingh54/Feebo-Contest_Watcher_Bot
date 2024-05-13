@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1346,
+    "index": "G",
+    "name": "Two IP Cameras",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "*special",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1346,
+    "index": "G",
+    "solvedCount": 131
+  }
+}

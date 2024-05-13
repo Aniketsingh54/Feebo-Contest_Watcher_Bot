@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1896,
+    "index": "H2",
+    "name": "Cyclic Hamming (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 3500,
+    "tags": [
+      "brute force",
+      "dp",
+      "fft",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1896,
+    "index": "H2",
+    "solvedCount": 87
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1605,
+    "index": "D",
+    "name": "Treelabeling",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "games",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1605,
+    "index": "D",
+    "solvedCount": 2839
+  }
+}

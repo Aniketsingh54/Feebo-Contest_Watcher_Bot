@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "B",
+    "name": "Broken Keyboard",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "B",
+    "solvedCount": 8720
+  }
+}

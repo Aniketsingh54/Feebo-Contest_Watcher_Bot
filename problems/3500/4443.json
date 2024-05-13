@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1158,
+    "index": "F",
+    "name": "Density of subarrays",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3500,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1158,
+    "index": "F",
+    "solvedCount": 392
+  }
+}

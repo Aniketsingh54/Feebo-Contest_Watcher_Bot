@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1829,
+    "index": "G",
+    "name": "Hits Different",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1829,
+    "index": "G",
+    "solvedCount": 9421
+  }
+}

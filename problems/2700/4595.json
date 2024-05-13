@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1131,
+    "index": "G",
+    "name": "Most Dangerous Shark",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1131,
+    "index": "G",
+    "solvedCount": 399
+  }
+}

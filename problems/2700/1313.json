@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1750,
+    "index": "F",
+    "name": "Majority",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1750,
+    "index": "F",
+    "solvedCount": 859
+  }
+}

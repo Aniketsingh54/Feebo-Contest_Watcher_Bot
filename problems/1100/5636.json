@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 911,
+    "index": "A",
+    "name": "Nearest Minimums",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 911,
+    "index": "A",
+    "solvedCount": 11297
+  }
+}

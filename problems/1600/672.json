@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1857,
+    "index": "F",
+    "name": "Sum and Product",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1857,
+    "index": "F",
+    "solvedCount": 10446
+  }
+}

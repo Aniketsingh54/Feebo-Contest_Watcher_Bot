@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1316,
+    "index": "E",
+    "name": "Team Building",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1316,
+    "index": "E",
+    "solvedCount": 3479
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1925,
+    "index": "D",
+    "name": "Good Trip",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1925,
+    "index": "D",
+    "solvedCount": 3225
+  }
+}

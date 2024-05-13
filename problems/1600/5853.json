@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 856,
+    "index": "A",
+    "name": "Set Theory",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 856,
+    "index": "A",
+    "solvedCount": 1359
+  }
+}

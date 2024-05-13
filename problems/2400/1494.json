@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1720,
+    "index": "D2",
+    "name": "Xor-Subsequence (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dp",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1720,
+    "index": "D2",
+    "solvedCount": 1731
+  }
+}

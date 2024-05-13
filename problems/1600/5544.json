@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 925,
+    "index": "A",
+    "name": "Stairs and Elevators",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "binary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 925,
+    "index": "A",
+    "solvedCount": 3361
+  }
+}

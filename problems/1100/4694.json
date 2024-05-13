@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1108,
+    "index": "B",
+    "name": "Divisors of Two Integers",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1108,
+    "index": "B",
+    "solvedCount": 22438
+  }
+}

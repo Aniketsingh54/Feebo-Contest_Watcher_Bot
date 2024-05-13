@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1619,
+    "index": "A",
+    "name": "Square String?",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1619,
+    "index": "A",
+    "solvedCount": 48573
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1183,
+    "index": "G",
+    "name": "Candy Box (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1183,
+    "index": "G",
+    "solvedCount": 2283
+  }
+}

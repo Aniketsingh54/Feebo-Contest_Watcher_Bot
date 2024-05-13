@@ -1,0 +1,26 @@
+{
+  "problem": {
+    "contestId": 1844,
+    "index": "G",
+    "name": "Tree Weights",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3000,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "implementation",
+      "math",
+      "matrices",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1844,
+    "index": "G",
+    "solvedCount": 644
+  }
+}

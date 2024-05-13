@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1637,
+    "index": "E",
+    "name": "Best Pair",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1637,
+    "index": "E",
+    "solvedCount": 3189
+  }
+}

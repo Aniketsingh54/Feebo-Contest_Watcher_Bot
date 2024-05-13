@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1699,
+    "index": "A",
+    "name": "The Third Three Number Problem",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1699,
+    "index": "A",
+    "solvedCount": 23653
+  }
+}

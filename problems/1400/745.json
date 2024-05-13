@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1845,
+    "index": "C",
+    "name": "Strong Password",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1845,
+    "index": "C",
+    "solvedCount": 13341
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1208,
+    "index": "E",
+    "name": "Let Them Slide",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1208,
+    "index": "E",
+    "solvedCount": 1960
+  }
+}

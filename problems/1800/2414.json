@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1552,
+    "index": "D",
+    "name": "Array Differentiation",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1552,
+    "index": "D",
+    "solvedCount": 6697
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1007,
+    "index": "E",
+    "name": "Mini Metro",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1007,
+    "index": "E",
+    "solvedCount": 165
+  }
+}

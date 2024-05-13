@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1870,
+    "index": "H",
+    "name": "Standard Graph Problem",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1870,
+    "index": "H",
+    "solvedCount": 77
+  }
+}

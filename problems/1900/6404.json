@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 731,
+    "index": "F",
+    "name": "Video Cards",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 731,
+    "index": "F",
+    "solvedCount": 2753
+  }
+}

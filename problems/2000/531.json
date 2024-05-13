@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1881,
+    "index": "G",
+    "name": "Anya and the Mysterious String",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1881,
+    "index": "G",
+    "solvedCount": 2164
+  }
+}

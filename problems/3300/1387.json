@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1738,
+    "index": "H",
+    "name": "Palindrome Addicts",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1738,
+    "index": "H",
+    "solvedCount": 227
+  }
+}

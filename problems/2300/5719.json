@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 891,
+    "index": "C",
+    "name": "Envy",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 891,
+    "index": "C",
+    "solvedCount": 2221
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1369,
+    "index": "D",
+    "name": "TediousLee",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1369,
+    "index": "D",
+    "solvedCount": 8265
+  }
+}

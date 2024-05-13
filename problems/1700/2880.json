@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "F",
+    "name": "Full Turn",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "geometry",
+      "hashing",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "F",
+    "solvedCount": 3590
+  }
+}

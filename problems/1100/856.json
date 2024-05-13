@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1827,
+    "index": "A",
+    "name": "Counting Orders",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1827,
+    "index": "A",
+    "solvedCount": 17504
+  }
+}

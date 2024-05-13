@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 875,
+    "index": "B",
+    "name": "Sorting the Coins",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "dsu",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 875,
+    "index": "B",
+    "solvedCount": 5148
+  }
+}

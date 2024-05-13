@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1550,
+    "index": "C",
+    "name": "Manhattan Subarrays",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1550,
+    "index": "C",
+    "solvedCount": 9945
+  }
+}

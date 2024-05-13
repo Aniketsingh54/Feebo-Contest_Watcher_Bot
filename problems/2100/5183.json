@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1006,
+    "index": "F",
+    "name": "Xor-Paths",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1006,
+    "index": "F",
+    "solvedCount": 4693
+  }
+}

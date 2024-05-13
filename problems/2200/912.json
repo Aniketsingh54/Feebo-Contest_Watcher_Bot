@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1815,
+    "index": "C",
+    "name": "Between",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1815,
+    "index": "C",
+    "solvedCount": 1858
+  }
+}

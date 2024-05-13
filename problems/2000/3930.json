@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1257,
+    "index": "E",
+    "name": "The Contest",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1257,
+    "index": "E",
+    "solvedCount": 4121
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1198,
+    "index": "E",
+    "name": "Rectangle Painting 2",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1198,
+    "index": "E",
+    "solvedCount": 1151
+  }
+}

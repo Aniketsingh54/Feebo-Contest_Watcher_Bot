@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1439,
+    "index": "A2",
+    "name": "Binary Table (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1439,
+    "index": "A2",
+    "solvedCount": 4951
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1695,
+    "index": "D1",
+    "name": "Tree Queries (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1695,
+    "index": "D1",
+    "solvedCount": 2092
+  }
+}

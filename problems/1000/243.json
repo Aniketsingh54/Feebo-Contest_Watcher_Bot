@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "B",
+    "name": "Permutation Printing",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "B",
+    "solvedCount": 13629
+  }
+}

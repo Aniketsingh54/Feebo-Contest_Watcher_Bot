@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 785,
+    "index": "A",
+    "name": "Anton and Polyhedrons",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 785,
+    "index": "A",
+    "solvedCount": 82425
+  }
+}

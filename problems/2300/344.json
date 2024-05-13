@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1914,
+    "index": "G2",
+    "name": "Light Bulbs (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1914,
+    "index": "G2",
+    "solvedCount": 1226
+  }
+}

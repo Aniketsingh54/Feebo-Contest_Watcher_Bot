@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1089,
+    "index": "G",
+    "name": "Guest Student",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1089,
+    "index": "G",
+    "solvedCount": 2850
+  }
+}

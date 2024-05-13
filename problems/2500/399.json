@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "L",
+    "name": "Palindromic Parentheses",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "L",
+    "solvedCount": 433
+  }
+}

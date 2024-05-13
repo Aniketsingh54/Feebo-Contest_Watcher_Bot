@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 896,
+    "index": "E",
+    "name": "Welcome home, Chtholly",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "data structures",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 896,
+    "index": "E",
+    "solvedCount": 1968
+  }
+}

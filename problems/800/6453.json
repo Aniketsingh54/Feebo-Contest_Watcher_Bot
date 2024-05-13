@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 723,
+    "index": "A",
+    "name": "The New Year: Meeting Friends",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 723,
+    "index": "A",
+    "solvedCount": 70951
+  }
+}

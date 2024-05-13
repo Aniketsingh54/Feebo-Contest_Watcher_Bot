@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1739,
+    "index": "F",
+    "name": "Keyboard Design",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dp",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1739,
+    "index": "F",
+    "solvedCount": 513
+  }
+}

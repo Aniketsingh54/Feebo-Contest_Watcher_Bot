@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 810,
+    "index": "A",
+    "name": "Straight <<A>>",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 810,
+    "index": "A",
+    "solvedCount": 8715
+  }
+}

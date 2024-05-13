@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1077,
+    "index": "F2",
+    "name": "Pictures with Kittens (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1077,
+    "index": "F2",
+    "solvedCount": 2885
+  }
+}

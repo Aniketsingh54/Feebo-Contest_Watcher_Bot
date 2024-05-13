@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1834,
+    "index": "E",
+    "name": "MEX of LCM",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1834,
+    "index": "E",
+    "solvedCount": 2064
+  }
+}

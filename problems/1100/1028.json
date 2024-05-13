@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1797,
+    "index": "B",
+    "name": "Li Hua and Pattern",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1797,
+    "index": "B",
+    "solvedCount": 14540
+  }
+}

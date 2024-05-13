@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "J",
+    "name": "Students Initiation",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "J",
+    "solvedCount": 615
+  }
+}

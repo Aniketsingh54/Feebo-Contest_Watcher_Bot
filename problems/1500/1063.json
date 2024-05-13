@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1791,
+    "index": "F",
+    "name": "Range Update Point Query",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1791,
+    "index": "F",
+    "solvedCount": 11531
+  }
+}

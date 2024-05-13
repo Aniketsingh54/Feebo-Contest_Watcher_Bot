@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1845,
+    "index": "E",
+    "name": "Boxes and Balls",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1845,
+    "index": "E",
+    "solvedCount": 1268
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 815,
+    "index": "A",
+    "name": "Karen and Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 815,
+    "index": "A",
+    "solvedCount": 5575
+  }
+}

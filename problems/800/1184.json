@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1773,
+    "index": "F",
+    "name": "Football",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1773,
+    "index": "F",
+    "solvedCount": 3951
+  }
+}

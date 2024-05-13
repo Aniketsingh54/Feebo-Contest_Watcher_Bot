@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1833,
+    "index": "E",
+    "name": "Round Dance",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1833,
+    "index": "E",
+    "solvedCount": 10327
+  }
+}

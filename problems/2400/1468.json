@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "L",
+    "name": "Lemper Cooking Competition",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "L",
+    "solvedCount": 876
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1674,
+    "index": "D",
+    "name": "A-B-C Sort",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1674,
+    "index": "D",
+    "solvedCount": 15778
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1525,
+    "index": "A",
+    "name": "Potion-making",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1525,
+    "index": "A",
+    "solvedCount": 25073
+  }
+}

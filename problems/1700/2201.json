@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1598,
+    "index": "D",
+    "name": "Training Session",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "geometry",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1598,
+    "index": "D",
+    "solvedCount": 8409
+  }
+}

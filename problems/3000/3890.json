@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1267,
+    "index": "G",
+    "name": "Game Relics",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1267,
+    "index": "G",
+    "solvedCount": 628
+  }
+}

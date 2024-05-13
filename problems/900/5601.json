@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 916,
+    "index": "A",
+    "name": "Jamie and Alarm Snooze",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 916,
+    "index": "A",
+    "solvedCount": 8478
+  }
+}

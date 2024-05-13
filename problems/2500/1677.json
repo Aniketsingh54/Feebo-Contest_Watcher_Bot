@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1689,
+    "index": "E",
+    "name": "ANDfinity",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1689,
+    "index": "E",
+    "solvedCount": 1149
+  }
+}

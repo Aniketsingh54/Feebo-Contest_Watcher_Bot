@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1566,
+    "index": "F",
+    "name": "Points Movement",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1566,
+    "index": "F",
+    "solvedCount": 927
+  }
+}

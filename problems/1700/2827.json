@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1476,
+    "index": "D",
+    "name": "Journey",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1476,
+    "index": "D",
+    "solvedCount": 8389
+  }
+}

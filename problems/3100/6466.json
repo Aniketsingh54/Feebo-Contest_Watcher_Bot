@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 720,
+    "index": "E",
+    "name": "Cipher",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 720,
+    "index": "E",
+    "solvedCount": 62
+  }
+}

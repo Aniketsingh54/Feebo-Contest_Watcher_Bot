@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1870,
+    "index": "E",
+    "name": "Another MEX Problem",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1870,
+    "index": "E",
+    "solvedCount": 2212
+  }
+}

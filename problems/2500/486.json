@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1891,
+    "index": "E",
+    "name": "Brukhovich and Exams",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1891,
+    "index": "E",
+    "solvedCount": 771
+  }
+}

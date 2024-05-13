@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1098,
+    "index": "E",
+    "name": "Fedya the Potter",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1098,
+    "index": "E",
+    "solvedCount": 212
+  }
+}

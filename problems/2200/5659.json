@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 906,
+    "index": "B",
+    "name": "Seating of Students",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 906,
+    "index": "B",
+    "solvedCount": 1122
+  }
+}

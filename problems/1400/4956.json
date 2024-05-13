@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1057,
+    "index": "B",
+    "name": "DDoS",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "*special",
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1057,
+    "index": "B",
+    "solvedCount": 1792
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1572,
+    "index": "D",
+    "name": "Bridge Club",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1572,
+    "index": "D",
+    "solvedCount": 471
+  }
+}

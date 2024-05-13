@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1083,
+    "index": "D",
+    "name": "The Fair Nut's getting crazy",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1083,
+    "index": "D",
+    "solvedCount": 226
+  }
+}

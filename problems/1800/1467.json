@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "M",
+    "name": "Moving Both Hands",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "M",
+    "solvedCount": 2852
+  }
+}

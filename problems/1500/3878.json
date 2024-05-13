@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1269,
+    "index": "B",
+    "name": "Modulo Equality",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1269,
+    "index": "B",
+    "solvedCount": 8896
+  }
+}

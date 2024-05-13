@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1408,
+    "index": "A",
+    "name": "Circle Coloring",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1408,
+    "index": "A",
+    "solvedCount": 12394
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1916,
+    "index": "F",
+    "name": "Group Division",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2900,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1916,
+    "index": "F",
+    "solvedCount": 406
+  }
+}

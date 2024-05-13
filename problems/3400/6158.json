@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 786,
+    "index": "D",
+    "name": "Rap God",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "hashing",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 786,
+    "index": "D",
+    "solvedCount": 136
+  }
+}

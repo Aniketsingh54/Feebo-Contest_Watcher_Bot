@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1764,
+    "index": "C",
+    "name": "Doremy's City Construction",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1764,
+    "index": "C",
+    "solvedCount": 9065
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1403,
+    "index": "C",
+    "name": "Chess Rush",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "*special",
+      "combinatorics",
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1403,
+    "index": "C",
+    "solvedCount": 42
+  }
+}

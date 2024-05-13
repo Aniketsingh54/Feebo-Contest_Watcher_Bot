@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1422,
+    "index": "E",
+    "name": "Minlexes",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1422,
+    "index": "E",
+    "solvedCount": 730
+  }
+}

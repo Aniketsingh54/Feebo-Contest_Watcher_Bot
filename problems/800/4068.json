@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1228,
+    "index": "A",
+    "name": "Distinct Digits",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1228,
+    "index": "A",
+    "solvedCount": 21223
+  }
+}

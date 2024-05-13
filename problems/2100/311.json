@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1919,
+    "index": "D",
+    "name": "01 Tree",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dsu",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1919,
+    "index": "D",
+    "solvedCount": 3602
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1046,
+    "index": "I",
+    "name": "Say Hello",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1046,
+    "index": "I",
+    "solvedCount": 303
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1868,
+    "index": "B2",
+    "name": "Candy Party (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1868,
+    "index": "B2",
+    "solvedCount": 2275
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 774,
+    "index": "J",
+    "name": "Stepan's Series",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "*special",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 774,
+    "index": "J",
+    "solvedCount": 353
+  }
+}

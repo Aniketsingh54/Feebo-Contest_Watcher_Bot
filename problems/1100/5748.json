@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "M",
+    "name": "Quadcopter Competition",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "M",
+    "solvedCount": 3493
+  }
+}

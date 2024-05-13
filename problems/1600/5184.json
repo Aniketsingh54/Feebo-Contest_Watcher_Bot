@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1006,
+    "index": "E",
+    "name": "Military Problem",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1006,
+    "index": "E",
+    "solvedCount": 9439
+  }
+}

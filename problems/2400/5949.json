@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 837,
+    "index": "F",
+    "name": "Prefix Sums",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 837,
+    "index": "F",
+    "solvedCount": 738
+  }
+}

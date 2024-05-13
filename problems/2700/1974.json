@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1634,
+    "index": "F",
+    "name": "Fibonacci Additions",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "hashing",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1634,
+    "index": "F",
+    "solvedCount": 1528
+  }
+}

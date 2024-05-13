@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1800,
+    "index": "G",
+    "name": "Symmetree",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dfs and similar",
+      "hashing",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1800,
+    "index": "G",
+    "solvedCount": 1934
+  }
+}

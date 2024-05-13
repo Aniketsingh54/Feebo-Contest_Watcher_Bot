@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1009,
+    "index": "E",
+    "name": "Intercity Travelling",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1009,
+    "index": "E",
+    "solvedCount": 2887
+  }
+}

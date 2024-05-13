@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1968,
+    "index": "A",
+    "name": "Maximize?",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1968,
+    "index": "A",
+    "solvedCount": 25839
+  }
+}

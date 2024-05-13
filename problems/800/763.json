@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1843,
+    "index": "A",
+    "name": "Sasha and Array Coloring",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1843,
+    "index": "A",
+    "solvedCount": 33003
+  }
+}

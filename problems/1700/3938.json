@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1256,
+    "index": "C",
+    "name": "Platforms Jumping",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1256,
+    "index": "C",
+    "solvedCount": 6647
+  }
+}

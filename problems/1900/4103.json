@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1220,
+    "index": "D",
+    "name": "Alex and Julian",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1220,
+    "index": "D",
+    "solvedCount": 3688
+  }
+}

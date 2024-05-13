@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1728,
+    "index": "D",
+    "name": "Letter Picking",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "games",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1728,
+    "index": "D",
+    "solvedCount": 6879
+  }
+}

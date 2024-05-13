@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1957,
+    "index": "C",
+    "name": "How Does the Rook Move?",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1957,
+    "index": "C",
+    "solvedCount": 7498
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1495,
+    "index": "E",
+    "name": "Qingshan and Daniel",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1495,
+    "index": "E",
+    "solvedCount": 406
+  }
+}

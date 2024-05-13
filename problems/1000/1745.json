@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1676,
+    "index": "D",
+    "name": "X-Sum",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1676,
+    "index": "D",
+    "solvedCount": 24053
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1583,
+    "index": "D",
+    "name": "Omkar and the Meaning of Life",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1583,
+    "index": "D",
+    "solvedCount": 5232
+  }
+}

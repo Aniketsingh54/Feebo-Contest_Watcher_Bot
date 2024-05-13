@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1910,
+    "index": "I",
+    "name": "Inverse Problem",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "*special",
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1910,
+    "index": "I",
+    "solvedCount": 40
+  }
+}

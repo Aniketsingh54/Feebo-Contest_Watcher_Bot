@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1420,
+    "index": "A",
+    "name": "Cubes Sorting",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1420,
+    "index": "A",
+    "solvedCount": 22845
+  }
+}

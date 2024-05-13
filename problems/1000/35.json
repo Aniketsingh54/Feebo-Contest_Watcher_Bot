@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1969,
+    "index": "B",
+    "name": "Shifts and Sorting",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1969,
+    "index": "B",
+    "solvedCount": 13706
+  }
+}

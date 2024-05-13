@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1110,
+    "index": "D",
+    "name": "Jongmah",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1110,
+    "index": "D",
+    "solvedCount": 3261
+  }
+}

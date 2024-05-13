@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1264,
+    "index": "B",
+    "name": "Beautiful Sequence",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1264,
+    "index": "B",
+    "solvedCount": 5585
+  }
+}

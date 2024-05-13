@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1848,
+    "index": "E",
+    "name": "Vika and Stone Skipping",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1848,
+    "index": "E",
+    "solvedCount": 742
+  }
+}

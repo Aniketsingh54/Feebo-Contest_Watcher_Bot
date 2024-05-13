@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1257,
+    "index": "G",
+    "name": "Divisor Set",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "divide and conquer",
+      "fft",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1257,
+    "index": "G",
+    "solvedCount": 579
+  }
+}

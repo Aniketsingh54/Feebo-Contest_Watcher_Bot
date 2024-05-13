@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1685,
+    "index": "D2",
+    "name": "Permutation Weight (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1685,
+    "index": "D2",
+    "solvedCount": 104
+  }
+}

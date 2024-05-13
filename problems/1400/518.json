@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1883,
+    "index": "G1",
+    "name": "Dances (Easy version)",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1883,
+    "index": "G1",
+    "solvedCount": 9199
+  }
+}

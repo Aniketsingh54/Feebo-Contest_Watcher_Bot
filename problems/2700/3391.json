@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1364,
+    "index": "E",
+    "name": "X-OR",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "divide and conquer",
+      "interactive",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1364,
+    "index": "E",
+    "solvedCount": 1113
+  }
+}

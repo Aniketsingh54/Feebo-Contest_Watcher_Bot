@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1113,
+    "index": "B",
+    "name": "Sasha and Magnetic Machines",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1113,
+    "index": "B",
+    "solvedCount": 7664
+  }
+}

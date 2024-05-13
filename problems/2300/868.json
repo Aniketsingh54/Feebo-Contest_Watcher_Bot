@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1824,
+    "index": "B2",
+    "name": "LuoTianyi and the Floating Islands (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "math",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1824,
+    "index": "B2",
+    "solvedCount": 2495
+  }
+}

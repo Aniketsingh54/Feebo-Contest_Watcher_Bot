@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1260,
+    "index": "E",
+    "name": "Tournament",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1260,
+    "index": "E",
+    "solvedCount": 1605
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 750,
+    "index": "G",
+    "name": "New Year and Binary Tree Paths",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 750,
+    "index": "G",
+    "solvedCount": 441
+  }
+}

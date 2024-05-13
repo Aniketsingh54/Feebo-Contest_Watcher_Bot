@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1521,
+    "index": "E",
+    "name": "Nastia and a Beautiful Matrix",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1521,
+    "index": "E",
+    "solvedCount": 649
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "E",
+    "name": "2..3...4.... Wonderful! Wonderful!",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "E",
+    "solvedCount": 986
+  }
+}

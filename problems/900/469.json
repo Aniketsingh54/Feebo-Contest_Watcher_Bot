@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1896,
+    "index": "B",
+    "name": "AB Flipping",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1896,
+    "index": "B",
+    "solvedCount": 13388
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1363,
+    "index": "D",
+    "name": "Guess The Maximums",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "implementation",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1363,
+    "index": "D",
+    "solvedCount": 3828
+  }
+}

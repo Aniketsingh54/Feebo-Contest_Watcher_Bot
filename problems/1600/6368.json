@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 741,
+    "index": "B",
+    "name": "Arpa's weak amphitheater and Mehrdad's valuable Hoses",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 741,
+    "index": "B",
+    "solvedCount": 5140
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1731,
+    "index": "E",
+    "name": "Graph Cost",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1731,
+    "index": "E",
+    "solvedCount": 2665
+  }
+}

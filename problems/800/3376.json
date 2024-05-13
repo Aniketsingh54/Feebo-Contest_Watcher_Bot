@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1367,
+    "index": "A",
+    "name": "Short Substrings",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1367,
+    "index": "A",
+    "solvedCount": 54921
+  }
+}

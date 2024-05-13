@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 786,
+    "index": "E",
+    "name": "ALT",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "flows",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 786,
+    "index": "E",
+    "solvedCount": 602
+  }
+}

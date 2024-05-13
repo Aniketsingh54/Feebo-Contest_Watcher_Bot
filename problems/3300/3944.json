@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1254,
+    "index": "E",
+    "name": "Send Tree to Charlie",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1254,
+    "index": "E",
+    "solvedCount": 259
+  }
+}

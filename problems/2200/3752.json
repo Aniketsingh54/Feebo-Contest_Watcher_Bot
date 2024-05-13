@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1295,
+    "index": "E",
+    "name": "Permutation Separation",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1295,
+    "index": "E",
+    "solvedCount": 2344
+  }
+}

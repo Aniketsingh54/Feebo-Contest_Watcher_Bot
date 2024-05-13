@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1065,
+    "index": "C",
+    "name": "Make It Equal",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1065,
+    "index": "C",
+    "solvedCount": 7654
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 768,
+    "index": "A",
+    "name": "Oath of the Night's Watch",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 768,
+    "index": "A",
+    "solvedCount": 26186
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1400,
+    "index": "B",
+    "name": "RPG Protagonist",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1400,
+    "index": "B",
+    "solvedCount": 10834
+  }
+}

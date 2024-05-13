@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1016,
+    "index": "D",
+    "name": "Vasya And The Matrix",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1016,
+    "index": "D",
+    "solvedCount": 4428
+  }
+}

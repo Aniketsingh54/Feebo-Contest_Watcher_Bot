@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1566,
+    "index": "H",
+    "name": "Xor-quiz",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3200,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "interactive",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1566,
+    "index": "H",
+    "solvedCount": 122
+  }
+}

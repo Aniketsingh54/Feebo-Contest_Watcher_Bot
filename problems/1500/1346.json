@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1744,
+    "index": "E1",
+    "name": "Divisible Numbers (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1744,
+    "index": "E1",
+    "solvedCount": 10246
+  }
+}

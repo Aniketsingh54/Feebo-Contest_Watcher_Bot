@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1718,
+    "index": "E",
+    "name": "Impressionism",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1718,
+    "index": "E",
+    "solvedCount": 104
+  }
+}

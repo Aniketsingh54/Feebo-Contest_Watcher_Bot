@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1955,
+    "index": "D",
+    "name": "Inaccurate Subsequence Search",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1955,
+    "index": "D",
+    "solvedCount": 12779
+  }
+}

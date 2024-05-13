@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1774,
+    "index": "F2",
+    "name": "Magician and Pigs (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1774,
+    "index": "F2",
+    "solvedCount": 642
+  }
+}

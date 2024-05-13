@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1265,
+    "index": "B",
+    "name": "Beautiful Numbers",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1265,
+    "index": "B",
+    "solvedCount": 12301
+  }
+}

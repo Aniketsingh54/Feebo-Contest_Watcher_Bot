@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1111,
+    "index": "A",
+    "name": "Superhero Transformation",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1111,
+    "index": "A",
+    "solvedCount": 16579
+  }
+}

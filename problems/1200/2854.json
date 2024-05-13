@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1472,
+    "index": "D",
+    "name": "Even-Odd Game",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1472,
+    "index": "D",
+    "solvedCount": 26089
+  }
+}

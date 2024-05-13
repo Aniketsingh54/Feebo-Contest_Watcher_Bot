@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1158,
+    "index": "C",
+    "name": "Permutation recovery",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1158,
+    "index": "C",
+    "solvedCount": 1697
+  }
+}

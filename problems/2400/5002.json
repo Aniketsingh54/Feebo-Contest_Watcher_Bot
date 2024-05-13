@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1045,
+    "index": "B",
+    "name": "Space Isaac",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "hashing",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1045,
+    "index": "B",
+    "solvedCount": 491
+  }
+}

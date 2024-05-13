@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "M",
+    "name": "Triangle Construction",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "M",
+    "solvedCount": 2328
+  }
+}

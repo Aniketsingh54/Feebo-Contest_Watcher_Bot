@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1781,
+    "index": "A",
+    "name": "Parallel Projection",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1781,
+    "index": "A",
+    "solvedCount": 14855
+  }
+}

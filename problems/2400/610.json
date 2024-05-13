@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1866,
+    "index": "L",
+    "name": "Lihmuf Balling",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1866,
+    "index": "L",
+    "solvedCount": 653
+  }
+}

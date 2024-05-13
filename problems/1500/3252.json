@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1391,
+    "index": "C",
+    "name": "Cyclic Permutations ",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1391,
+    "index": "C",
+    "solvedCount": 14554
+  }
+}

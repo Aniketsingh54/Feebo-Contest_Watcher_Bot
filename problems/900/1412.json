@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1735,
+    "index": "B",
+    "name": "Tea with Tangerines",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1735,
+    "index": "B",
+    "solvedCount": 17721
+  }
+}

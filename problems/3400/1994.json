@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1630,
+    "index": "F",
+    "name": "Making It Bipartite",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3400,
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1630,
+    "index": "F",
+    "solvedCount": 507
+  }
+}

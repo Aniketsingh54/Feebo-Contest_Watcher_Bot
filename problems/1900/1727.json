@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1679,
+    "index": "D",
+    "name": "Toss a Coin to Your Graph...",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1679,
+    "index": "D",
+    "solvedCount": 4574
+  }
+}

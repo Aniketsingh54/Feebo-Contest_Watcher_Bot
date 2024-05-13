@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1244,
+    "index": "D",
+    "name": "Paint the Tree",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1244,
+    "index": "D",
+    "solvedCount": 7225
+  }
+}

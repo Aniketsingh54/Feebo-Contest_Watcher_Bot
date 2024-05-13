@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1144,
+    "index": "F",
+    "name": "Graph Without Long Directed Paths",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1144,
+    "index": "F",
+    "solvedCount": 10793
+  }
+}

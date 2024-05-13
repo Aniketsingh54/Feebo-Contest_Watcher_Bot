@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1718,
+    "index": "A1",
+    "name": "Burenka and Traditions (easy version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1718,
+    "index": "A1",
+    "solvedCount": 5503
+  }
+}

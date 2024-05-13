@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "E",
+    "name": "Packmen",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "E",
+    "solvedCount": 2736
+  }
+}

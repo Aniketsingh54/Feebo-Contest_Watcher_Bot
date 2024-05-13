@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1628,
+    "index": "D1",
+    "name": "Game on Sum (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "games",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1628,
+    "index": "D1",
+    "solvedCount": 3017
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1672,
+    "index": "E",
+    "name": "notepad.exe",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1672,
+    "index": "E",
+    "solvedCount": 2092
+  }
+}

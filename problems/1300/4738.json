@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1100,
+    "index": "B",
+    "name": "Build a Contest",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1100,
+    "index": "B",
+    "solvedCount": 10896
+  }
+}

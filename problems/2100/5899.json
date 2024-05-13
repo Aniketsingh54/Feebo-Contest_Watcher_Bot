@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "F",
+    "name": "Berland Elections",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "F",
+    "solvedCount": 848
+  }
+}

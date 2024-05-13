@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 886,
+    "index": "D",
+    "name": "Restoration of string",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 886,
+    "index": "D",
+    "solvedCount": 1720
+  }
+}

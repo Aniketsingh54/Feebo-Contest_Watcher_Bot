@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1780,
+    "index": "A",
+    "name": "Hayato and School",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1780,
+    "index": "A",
+    "solvedCount": 21084
+  }
+}

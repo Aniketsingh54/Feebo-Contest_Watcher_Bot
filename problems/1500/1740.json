@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1676,
+    "index": "H2",
+    "name": "Maximum Crossings (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1676,
+    "index": "H2",
+    "solvedCount": 10052
+  }
+}

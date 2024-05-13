@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1515,
+    "index": "B",
+    "name": "Phoenix and Puzzle",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1515,
+    "index": "B",
+    "solvedCount": 24169
+  }
+}

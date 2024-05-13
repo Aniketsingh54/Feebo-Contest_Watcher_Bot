@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1857,
+    "index": "E",
+    "name": "Power of Points",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1857,
+    "index": "E",
+    "solvedCount": 11525
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1904,
+    "index": "D2",
+    "name": "Set To Max (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1904,
+    "index": "D2",
+    "solvedCount": 3819
+  }
+}

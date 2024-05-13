@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1918,
+    "index": "E",
+    "name": "ace5 and Task Order",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "implementation",
+      "interactive",
+      "probabilities",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1918,
+    "index": "E",
+    "solvedCount": 1556
+  }
+}

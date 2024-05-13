@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1851,
+    "index": "C",
+    "name": "Tiles Comeback",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1851,
+    "index": "C",
+    "solvedCount": 22266
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1788,
+    "index": "A",
+    "name": "One and Two",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1788,
+    "index": "A",
+    "solvedCount": 27647
+  }
+}

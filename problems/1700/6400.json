@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 732,
+    "index": "D",
+    "name": "Exams",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 732,
+    "index": "D",
+    "solvedCount": 5404
+  }
+}

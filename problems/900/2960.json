@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1451,
+    "index": "B",
+    "name": "Non-Substring Subsequence",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1451,
+    "index": "B",
+    "solvedCount": 19006
+  }
+}

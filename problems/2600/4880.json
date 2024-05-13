@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1073,
+    "index": "G",
+    "name": "Yet Another LCP Problem",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1073,
+    "index": "G",
+    "solvedCount": 864
+  }
+}

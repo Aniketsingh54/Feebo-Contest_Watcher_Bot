@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1237,
+    "index": "B",
+    "name": "Balanced Tunnel",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1237,
+    "index": "B",
+    "solvedCount": 14741
+  }
+}

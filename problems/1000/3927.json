@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1260,
+    "index": "A",
+    "name": "Heating",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1260,
+    "index": "A",
+    "solvedCount": 14174
+  }
+}

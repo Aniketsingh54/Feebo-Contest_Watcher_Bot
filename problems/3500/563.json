@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1874,
+    "index": "G",
+    "name": "Jellyfish and Inscryption",
+    "type": "PROGRAMMING",
+    "points": 5000,
+    "rating": 3500,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1874,
+    "index": "G",
+    "solvedCount": 74
+  }
+}

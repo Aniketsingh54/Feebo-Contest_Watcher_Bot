@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1905,
+    "index": "E",
+    "name": "One-X",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1905,
+    "index": "E",
+    "solvedCount": 854
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1520,
+    "index": "F2",
+    "name": "Guess the K-th Zero (Hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1520,
+    "index": "F2",
+    "solvedCount": 2895
+  }
+}

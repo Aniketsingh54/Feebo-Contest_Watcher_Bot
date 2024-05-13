@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 803,
+    "index": "B",
+    "name": "Distances to Zero",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 803,
+    "index": "B",
+    "solvedCount": 6417
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1152,
+    "index": "F1",
+    "name": "Neko Rules the Catniverse (Small Version)",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1152,
+    "index": "F1",
+    "solvedCount": 517
+  }
+}

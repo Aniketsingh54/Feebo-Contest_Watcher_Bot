@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1824,
+    "index": "C",
+    "name": "LuoTianyi and XOR-Tree",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1824,
+    "index": "C",
+    "solvedCount": 1255
+  }
+}

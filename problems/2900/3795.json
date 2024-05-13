@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1285,
+    "index": "F",
+    "name": "Classical?",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1285,
+    "index": "F",
+    "solvedCount": 1065
+  }
+}

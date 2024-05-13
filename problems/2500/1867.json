@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1658,
+    "index": "E",
+    "name": "Gojou and Matrix Game",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dp",
+      "games",
+      "hashing",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1658,
+    "index": "E",
+    "solvedCount": 1021
+  }
+}

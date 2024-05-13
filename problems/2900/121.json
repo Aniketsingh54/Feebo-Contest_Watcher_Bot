@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1949,
+    "index": "E",
+    "name": "Damage per Second",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1949,
+    "index": "E",
+    "solvedCount": 82
+  }
+}

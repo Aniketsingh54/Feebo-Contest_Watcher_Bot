@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1781,
+    "index": "B",
+    "name": "Going to the Cinema",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1781,
+    "index": "B",
+    "solvedCount": 13228
+  }
+}

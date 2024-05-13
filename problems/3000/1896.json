@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1651,
+    "index": "F",
+    "name": "Tower Defense",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1651,
+    "index": "F",
+    "solvedCount": 362
+  }
+}

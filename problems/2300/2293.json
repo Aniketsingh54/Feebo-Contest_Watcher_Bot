@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1575,
+    "index": "I",
+    "name": "Illusions of the Desert",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1575,
+    "index": "I",
+    "solvedCount": 843
+  }
+}

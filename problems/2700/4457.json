@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1156,
+    "index": "G",
+    "name": "Optimizer",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "graphs",
+      "greedy",
+      "hashing",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1156,
+    "index": "G",
+    "solvedCount": 120
+  }
+}

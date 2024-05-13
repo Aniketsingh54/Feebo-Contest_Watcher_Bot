@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 933,
+    "index": "C",
+    "name": "A Colourful Prospect",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2700,
+    "tags": [
+      "geometry",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 933,
+    "index": "C",
+    "solvedCount": 550
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1025,
+    "index": "D",
+    "name": "Recovering BST",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1025,
+    "index": "D",
+    "solvedCount": 3300
+  }
+}

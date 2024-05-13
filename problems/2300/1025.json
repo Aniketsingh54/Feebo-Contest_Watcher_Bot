@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1797,
+    "index": "E",
+    "name": "Li Hua and Array",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dsu",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1797,
+    "index": "E",
+    "solvedCount": 1194
+  }
+}

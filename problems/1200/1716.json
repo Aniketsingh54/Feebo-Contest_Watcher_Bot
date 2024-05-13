@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1681,
+    "index": "C",
+    "name": "Double Sort",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1681,
+    "index": "C",
+    "solvedCount": 16973
+  }
+}

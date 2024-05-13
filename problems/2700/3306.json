@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1379,
+    "index": "F1",
+    "name": "Chess Strikes Back (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1379,
+    "index": "F1",
+    "solvedCount": 566
+  }
+}

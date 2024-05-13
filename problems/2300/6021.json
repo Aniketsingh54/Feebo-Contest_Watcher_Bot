@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 817,
+    "index": "F",
+    "name": "MEX Queries",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 817,
+    "index": "F",
+    "solvedCount": 2405
+  }
+}

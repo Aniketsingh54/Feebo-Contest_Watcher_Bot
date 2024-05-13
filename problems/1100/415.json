@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1905,
+    "index": "B",
+    "name": "Begginer's Zelda",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1905,
+    "index": "B",
+    "solvedCount": 15277
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1761,
+    "index": "F1",
+    "name": "Anti-median (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1761,
+    "index": "F1",
+    "solvedCount": 198
+  }
+}

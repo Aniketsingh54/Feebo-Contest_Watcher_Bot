@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1760,
+    "index": "E",
+    "name": "Binary Inversions",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1760,
+    "index": "E",
+    "solvedCount": 19281
+  }
+}

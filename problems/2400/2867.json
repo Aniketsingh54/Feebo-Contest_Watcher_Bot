@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1469,
+    "index": "E",
+    "name": "A Bit Similar",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1469,
+    "index": "E",
+    "solvedCount": 1855
+  }
+}

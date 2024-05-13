@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1365,
+    "index": "C",
+    "name": "Rotation Matching",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1365,
+    "index": "C",
+    "solvedCount": 22388
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1284,
+    "index": "F",
+    "name": "New Year and Social Network",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "graph matchings",
+      "graphs",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1284,
+    "index": "F",
+    "solvedCount": 309
+  }
+}

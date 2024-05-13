@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1548,
+    "index": "C",
+    "name": "The Three Little Pigs",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1548,
+    "index": "C",
+    "solvedCount": 1737
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1285,
+    "index": "E",
+    "name": "Delete a Segment",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "graphs",
+      "sortings",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1285,
+    "index": "E",
+    "solvedCount": 1665
+  }
+}

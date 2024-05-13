@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1534,
+    "index": "D",
+    "name": "Lost Tree",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1534,
+    "index": "D",
+    "solvedCount": 5770
+  }
+}

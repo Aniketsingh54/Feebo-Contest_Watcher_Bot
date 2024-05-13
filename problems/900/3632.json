@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1324,
+    "index": "A",
+    "name": "Yet Another Tetris Problem",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1324,
+    "index": "A",
+    "solvedCount": 25311
+  }
+}

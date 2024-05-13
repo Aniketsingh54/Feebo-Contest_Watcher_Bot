@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1673,
+    "index": "E",
+    "name": "Power or XOR?",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1673,
+    "index": "E",
+    "solvedCount": 661
+  }
+}

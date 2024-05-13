@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1268,
+    "index": "C",
+    "name": "K Integers",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1268,
+    "index": "C",
+    "solvedCount": 1665
+  }
+}

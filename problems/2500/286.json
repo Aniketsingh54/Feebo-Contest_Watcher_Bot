@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1922,
+    "index": "F",
+    "name": "Replace on Segment",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1922,
+    "index": "F",
+    "solvedCount": 1166
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1023,
+    "index": "C",
+    "name": "Bracket Subsequence",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1023,
+    "index": "C",
+    "solvedCount": 9603
+  }
+}

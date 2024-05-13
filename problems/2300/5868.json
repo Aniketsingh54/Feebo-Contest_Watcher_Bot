@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 852,
+    "index": "I",
+    "name": "Dating",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 852,
+    "index": "I",
+    "solvedCount": 556
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1004,
+    "index": "A",
+    "name": "Sonya and Hotels",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1004,
+    "index": "A",
+    "solvedCount": 10966
+  }
+}

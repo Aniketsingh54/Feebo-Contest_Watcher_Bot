@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1697,
+    "index": "C",
+    "name": "awoo's Favorite Problem",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1697,
+    "index": "C",
+    "solvedCount": 13945
+  }
+}

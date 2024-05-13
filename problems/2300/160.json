@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1942,
+    "index": "E",
+    "name": "Farm Game",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1942,
+    "index": "E",
+    "solvedCount": 1441
+  }
+}

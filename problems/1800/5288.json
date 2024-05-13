@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 989,
+    "index": "C",
+    "name": "A Mist of Florescence",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 989,
+    "index": "C",
+    "solvedCount": 3712
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1398,
+    "index": "F",
+    "name": "Controversial Rounds",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1398,
+    "index": "F",
+    "solvedCount": 1068
+  }
+}

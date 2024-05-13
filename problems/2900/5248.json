@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 997,
+    "index": "D",
+    "name": "Cycles in product",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 997,
+    "index": "D",
+    "solvedCount": 424
+  }
+}

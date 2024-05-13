@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1286,
+    "index": "F",
+    "name": "Harry The Potter",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3100,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "fft",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1286,
+    "index": "F",
+    "solvedCount": 235
+  }
+}

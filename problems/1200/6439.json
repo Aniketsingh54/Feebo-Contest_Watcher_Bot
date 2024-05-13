@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 725,
+    "index": "B",
+    "name": "Food on the Plane",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 725,
+    "index": "B",
+    "solvedCount": 5090
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1303,
+    "index": "D",
+    "name": "Fill The Bag",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1303,
+    "index": "D",
+    "solvedCount": 6823
+  }
+}

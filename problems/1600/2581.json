@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1523,
+    "index": "C",
+    "name": "Compression and Expansion",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1523,
+    "index": "C",
+    "solvedCount": 8591
+  }
+}

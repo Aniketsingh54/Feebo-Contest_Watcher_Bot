@@ -1,0 +1,26 @@
+{
+  "problem": {
+    "contestId": 1761,
+    "index": "E",
+    "name": "Make It Connected",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "matrices",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1761,
+    "index": "E",
+    "solvedCount": 1733
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1020,
+    "index": "B",
+    "name": "Badge",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1020,
+    "index": "B",
+    "solvedCount": 20222
+  }
+}

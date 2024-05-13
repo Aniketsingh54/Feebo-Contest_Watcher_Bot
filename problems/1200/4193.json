@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1207,
+    "index": "B",
+    "name": "Square Filling",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1207,
+    "index": "B",
+    "solvedCount": 12958
+  }
+}

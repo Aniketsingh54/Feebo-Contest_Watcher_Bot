@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1044,
+    "index": "B",
+    "name": "Intersecting Subtrees",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1044,
+    "index": "B",
+    "solvedCount": 1542
+  }
+}

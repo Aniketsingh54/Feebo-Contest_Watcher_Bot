@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1442,
+    "index": "E",
+    "name": "Black, White and Grey Tree",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1442,
+    "index": "E",
+    "solvedCount": 554
+  }
+}

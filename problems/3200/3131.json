@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1416,
+    "index": "E",
+    "name": "Split",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1416,
+    "index": "E",
+    "solvedCount": 274
+  }
+}

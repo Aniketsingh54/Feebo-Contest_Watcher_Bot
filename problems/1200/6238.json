@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 769,
+    "index": "B",
+    "name": "News About Credit",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "*special",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 769,
+    "index": "B",
+    "solvedCount": 3235
+  }
+}

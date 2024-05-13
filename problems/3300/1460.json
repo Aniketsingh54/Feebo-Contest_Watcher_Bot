@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1726,
+    "index": "G",
+    "name": "A Certain Magical Party",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3300,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1726,
+    "index": "G",
+    "solvedCount": 282
+  }
+}

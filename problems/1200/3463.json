@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1355,
+    "index": "B",
+    "name": "Young Explorers",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1355,
+    "index": "B",
+    "solvedCount": 24882
+  }
+}

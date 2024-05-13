@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "C1",
+    "name": "Distinguish zero state and plus state with minimum error",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "C1",
+    "solvedCount": 297
+  }
+}

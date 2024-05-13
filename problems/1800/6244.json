@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 768,
+    "index": "C",
+    "name": "Jon Snow and his Favourite Number",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 768,
+    "index": "C",
+    "solvedCount": 3771
+  }
+}

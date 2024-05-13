@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 750,
+    "index": "E",
+    "name": "New Year and Old Subsequence",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 750,
+    "index": "E",
+    "solvedCount": 1466
+  }
+}

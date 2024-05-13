@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1614,
+    "index": "A",
+    "name": "Divan and a Store",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1614,
+    "index": "A",
+    "solvedCount": 23050
+  }
+}

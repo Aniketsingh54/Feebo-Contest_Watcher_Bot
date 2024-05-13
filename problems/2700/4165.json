@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1210,
+    "index": "E",
+    "name": "Wojtek and Card Tricks",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1210,
+    "index": "E",
+    "solvedCount": 390
+  }
+}

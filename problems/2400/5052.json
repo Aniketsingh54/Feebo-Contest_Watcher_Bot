@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1036,
+    "index": "E",
+    "name": "Covered Points",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "fft",
+      "geometry",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1036,
+    "index": "E",
+    "solvedCount": 1414
+  }
+}

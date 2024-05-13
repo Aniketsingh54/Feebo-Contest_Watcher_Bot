@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1301,
+    "index": "C",
+    "name": "Ayoub's function",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1301,
+    "index": "C",
+    "solvedCount": 9058
+  }
+}

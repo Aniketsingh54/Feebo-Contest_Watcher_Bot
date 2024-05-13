@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1946,
+    "index": "A",
+    "name": "Median of an Array",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1946,
+    "index": "A",
+    "solvedCount": 23520
+  }
+}

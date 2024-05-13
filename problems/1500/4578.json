@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1136,
+    "index": "C",
+    "name": "Nastya Is Transposing Matrices",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1136,
+    "index": "C",
+    "solvedCount": 7623
+  }
+}

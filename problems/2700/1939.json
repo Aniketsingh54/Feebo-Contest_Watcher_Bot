@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1641,
+    "index": "D",
+    "name": "Two Arrays",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "greedy",
+      "hashing",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1641,
+    "index": "D",
+    "solvedCount": 1049
+  }
+}

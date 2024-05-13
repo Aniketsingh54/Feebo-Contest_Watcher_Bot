@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1674,
+    "index": "C",
+    "name": "Infinite Replacement",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1674,
+    "index": "C",
+    "solvedCount": 22930
+  }
+}

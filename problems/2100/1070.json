@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1790,
+    "index": "F",
+    "name": "Timofey and Black-White Tree",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "divide and conquer",
+      "graphs",
+      "greedy",
+      "math",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1790,
+    "index": "F",
+    "solvedCount": 3153
+  }
+}

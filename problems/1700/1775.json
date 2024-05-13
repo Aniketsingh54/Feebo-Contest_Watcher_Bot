@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1672,
+    "index": "D",
+    "name": "Cyclic Rotation",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1672,
+    "index": "D",
+    "solvedCount": 5991
+  }
+}

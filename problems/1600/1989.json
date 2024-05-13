@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1632,
+    "index": "C",
+    "name": "Strange Test",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1632,
+    "index": "C",
+    "solvedCount": 12252
+  }
+}

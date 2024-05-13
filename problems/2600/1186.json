@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1773,
+    "index": "D",
+    "name": "Dominoes",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "flows",
+      "graph matchings",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1773,
+    "index": "D",
+    "solvedCount": 422
+  }
+}

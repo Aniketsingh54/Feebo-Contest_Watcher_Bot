@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "B",
+    "name": "Preparing for Merge Sort",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "B",
+    "solvedCount": 4655
+  }
+}

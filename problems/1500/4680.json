@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1110,
+    "index": "C",
+    "name": "Meaningless Operations",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1110,
+    "index": "C",
+    "solvedCount": 8922
+  }
+}

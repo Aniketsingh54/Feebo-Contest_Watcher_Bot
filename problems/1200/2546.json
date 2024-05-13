@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1530,
+    "index": "C",
+    "name": "Pursuit",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1530,
+    "index": "C",
+    "solvedCount": 14246
+  }
+}

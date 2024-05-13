@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1404,
+    "index": "A",
+    "name": "Balanced Bitstring",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1404,
+    "index": "A",
+    "solvedCount": 14782
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1849,
+    "index": "C",
+    "name": "Binary String Copying",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "hashing",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1849,
+    "index": "C",
+    "solvedCount": 9854
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1084,
+    "index": "B",
+    "name": "Kvass and the Fair Nut",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1084,
+    "index": "B",
+    "solvedCount": 7693
+  }
+}

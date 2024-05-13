@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1303,
+    "index": "B",
+    "name": "National Project",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1303,
+    "index": "B",
+    "solvedCount": 15392
+  }
+}

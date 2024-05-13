@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1091,
+    "index": "B",
+    "name": "New Year and the Treasure Geolocation",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1091,
+    "index": "B",
+    "solvedCount": 10548
+  }
+}

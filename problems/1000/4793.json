@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1090,
+    "index": "M",
+    "name": "The Pleasant Walk",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1090,
+    "index": "M",
+    "solvedCount": 6023
+  }
+}

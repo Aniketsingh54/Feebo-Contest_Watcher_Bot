@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 909,
+    "index": "C",
+    "name": "Python Indentation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 909,
+    "index": "C",
+    "solvedCount": 4755
+  }
+}

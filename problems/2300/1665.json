@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1691,
+    "index": "E",
+    "name": "Number of Groups",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1691,
+    "index": "E",
+    "solvedCount": 1750
+  }
+}

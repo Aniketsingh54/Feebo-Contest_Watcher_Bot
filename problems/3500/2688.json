@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1503,
+    "index": "F",
+    "name": "Balance the Cards",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "divide and conquer",
+      "geometry",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1503,
+    "index": "F",
+    "solvedCount": 134
+  }
+}

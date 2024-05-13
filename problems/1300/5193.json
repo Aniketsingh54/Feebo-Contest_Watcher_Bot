@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1005,
+    "index": "C",
+    "name": "Summarize to the Power of Two",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1005,
+    "index": "C",
+    "solvedCount": 11321
+  }
+}

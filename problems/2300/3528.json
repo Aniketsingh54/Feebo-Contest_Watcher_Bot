@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1342,
+    "index": "E",
+    "name": "Placing Rooks",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1342,
+    "index": "E",
+    "solvedCount": 2814
+  }
+}

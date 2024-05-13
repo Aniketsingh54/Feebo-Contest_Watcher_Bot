@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "D1",
+    "name": "Arithmancy (Easy)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "interactive",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "D1",
+    "solvedCount": 352
+  }
+}

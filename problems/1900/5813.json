@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 865,
+    "index": "B",
+    "name": "Ordering Pizza",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "sortings",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 865,
+    "index": "B",
+    "solvedCount": 1650
+  }
+}

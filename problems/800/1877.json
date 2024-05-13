@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1657,
+    "index": "B",
+    "name": "XY Sequence",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1657,
+    "index": "B",
+    "solvedCount": 22579
+  }
+}

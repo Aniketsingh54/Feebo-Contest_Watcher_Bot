@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1332,
+    "index": "F",
+    "name": "Independent Set",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1332,
+    "index": "F",
+    "solvedCount": 976
+  }
+}

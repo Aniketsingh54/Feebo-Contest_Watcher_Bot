@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 822,
+    "index": "C",
+    "name": "Hacker, pack your bags!",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 822,
+    "index": "C",
+    "solvedCount": 4532
+  }
+}

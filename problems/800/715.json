@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1850,
+    "index": "A",
+    "name": "To My Critics",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1850,
+    "index": "A",
+    "solvedCount": 51248
+  }
+}

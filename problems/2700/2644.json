@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1511,
+    "index": "F",
+    "name": "Chainword",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "matrices",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1511,
+    "index": "F",
+    "solvedCount": 418
+  }
+}

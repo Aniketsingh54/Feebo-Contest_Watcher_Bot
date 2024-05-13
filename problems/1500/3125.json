@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1418,
+    "index": "C",
+    "name": "Mortal Kombat Tower",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1418,
+    "index": "C",
+    "solvedCount": 18228
+  }
+}

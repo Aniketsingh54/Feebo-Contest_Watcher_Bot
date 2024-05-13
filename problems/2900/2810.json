@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1479,
+    "index": "D",
+    "name": "Odd Mineral Resource",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1479,
+    "index": "D",
+    "solvedCount": 967
+  }
+}

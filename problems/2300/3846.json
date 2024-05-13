@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1276,
+    "index": "C",
+    "name": "Beautiful Rectangle",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1276,
+    "index": "C",
+    "solvedCount": 1465
+  }
+}

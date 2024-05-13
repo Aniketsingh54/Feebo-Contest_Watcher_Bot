@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1872,
+    "index": "B",
+    "name": "The Corridor or There and Back Again",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1872,
+    "index": "B",
+    "solvedCount": 26642
+  }
+}

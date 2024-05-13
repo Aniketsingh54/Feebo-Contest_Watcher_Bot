@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1920,
+    "index": "D",
+    "name": "Array Repetition",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dsu",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1920,
+    "index": "D",
+    "solvedCount": 5094
+  }
+}

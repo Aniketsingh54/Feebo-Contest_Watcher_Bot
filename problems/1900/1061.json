@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1791,
+    "index": "G2",
+    "name": "Teleporters (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1791,
+    "index": "G2",
+    "solvedCount": 4480
+  }
+}

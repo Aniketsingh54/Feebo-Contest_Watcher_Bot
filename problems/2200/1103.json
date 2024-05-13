@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1784,
+    "index": "C",
+    "name": "Monsters (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1784,
+    "index": "C",
+    "solvedCount": 1530
+  }
+}

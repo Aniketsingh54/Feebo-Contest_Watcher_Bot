@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1470,
+    "index": "E",
+    "name": "Strange Permutation",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3200,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "graphs",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1470,
+    "index": "E",
+    "solvedCount": 293
+  }
+}

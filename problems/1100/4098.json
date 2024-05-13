@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1221,
+    "index": "B",
+    "name": "Knights",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1221,
+    "index": "B",
+    "solvedCount": 11618
+  }
+}

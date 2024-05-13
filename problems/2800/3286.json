@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1383,
+    "index": "D",
+    "name": "Rearrange",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1383,
+    "index": "D",
+    "solvedCount": 640
+  }
+}

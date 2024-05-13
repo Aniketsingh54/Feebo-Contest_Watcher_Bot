@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 803,
+    "index": "F",
+    "name": "Coprime Subsequences",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 803,
+    "index": "F",
+    "solvedCount": 2992
+  }
+}

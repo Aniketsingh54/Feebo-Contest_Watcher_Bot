@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 903,
+    "index": "A",
+    "name": "Hungry Student Problem",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 903,
+    "index": "A",
+    "solvedCount": 14383
+  }
+}

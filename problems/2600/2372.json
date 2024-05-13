@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1558,
+    "index": "D",
+    "name": "Top-Notch Insertions",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1558,
+    "index": "D",
+    "solvedCount": 923
+  }
+}

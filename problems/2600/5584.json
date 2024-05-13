@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 919,
+    "index": "F",
+    "name": "A Game With Numbers",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "games",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 919,
+    "index": "F",
+    "solvedCount": 323
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "D",
+    "name": "Garbage Disposal",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "D",
+    "solvedCount": 4851
+  }
+}

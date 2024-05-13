@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1731,
+    "index": "F",
+    "name": "Function Sum",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1731,
+    "index": "F",
+    "solvedCount": 660
+  }
+}

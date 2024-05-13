@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1062,
+    "index": "D",
+    "name": "Fun with Integers",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1062,
+    "index": "D",
+    "solvedCount": 3865
+  }
+}

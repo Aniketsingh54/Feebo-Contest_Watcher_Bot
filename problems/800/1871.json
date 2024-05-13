@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1658,
+    "index": "B",
+    "name": "Marin and Anti-coprime Permutation",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 800,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1658,
+    "index": "B",
+    "solvedCount": 18370
+  }
+}

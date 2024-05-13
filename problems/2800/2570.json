@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1525,
+    "index": "F",
+    "name": "Goblins And Gnomes",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "dp",
+      "flows",
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1525,
+    "index": "F",
+    "solvedCount": 317
+  }
+}

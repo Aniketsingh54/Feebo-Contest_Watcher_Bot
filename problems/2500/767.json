@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1842,
+    "index": "F",
+    "name": "Tenzing and Tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "shortest paths",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1842,
+    "index": "F",
+    "solvedCount": 1245
+  }
+}

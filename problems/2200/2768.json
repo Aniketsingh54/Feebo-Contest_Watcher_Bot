@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1488,
+    "index": "E",
+    "name": "Palindromic Doubles",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "*special",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1488,
+    "index": "E",
+    "solvedCount": 205
+  }
+}

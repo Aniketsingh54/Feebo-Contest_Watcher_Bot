@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 886,
+    "index": "C",
+    "name": "Petya and Catacombs",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "dsu",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 886,
+    "index": "C",
+    "solvedCount": 5430
+  }
+}

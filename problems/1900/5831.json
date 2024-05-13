@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 862,
+    "index": "C",
+    "name": "Mahmoud and Ehab and the xor",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 862,
+    "index": "C",
+    "solvedCount": 3939
+  }
+}

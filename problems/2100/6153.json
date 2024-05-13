@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 788,
+    "index": "B",
+    "name": "Weird journey",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 788,
+    "index": "B",
+    "solvedCount": 2283
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "G",
+    "name": "Grid Game 2",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "games",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "G",
+    "solvedCount": 145
+  }
+}

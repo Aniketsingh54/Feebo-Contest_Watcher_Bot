@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1704,
+    "index": "D",
+    "name": "Magical Array",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "hashing",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1704,
+    "index": "D",
+    "solvedCount": 4860
+  }
+}

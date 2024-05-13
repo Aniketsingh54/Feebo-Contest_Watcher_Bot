@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1687,
+    "index": "A",
+    "name": "The Enchanted Forest",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1687,
+    "index": "A",
+    "solvedCount": 9984
+  }
+}

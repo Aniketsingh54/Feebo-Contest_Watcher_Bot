@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1556,
+    "index": "C",
+    "name": "Compressed Bracket Sequence",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1556,
+    "index": "C",
+    "solvedCount": 5658
+  }
+}

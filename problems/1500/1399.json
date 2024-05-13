@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1737,
+    "index": "C",
+    "name": "Ela and Crickets",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1737,
+    "index": "C",
+    "solvedCount": 5564
+  }
+}

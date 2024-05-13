@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "D2",
+    "name": "Sum over all Substrings (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "D2",
+    "solvedCount": 2367
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 888,
+    "index": "D",
+    "name": "Almost Identity Permutations",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 888,
+    "index": "D",
+    "solvedCount": 7623
+  }
+}

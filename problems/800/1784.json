@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1671,
+    "index": "A",
+    "name": "String Building",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1671,
+    "index": "A",
+    "solvedCount": 20165
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1286,
+    "index": "B",
+    "name": "Numbers on Tree",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1286,
+    "index": "B",
+    "solvedCount": 4388
+  }
+}

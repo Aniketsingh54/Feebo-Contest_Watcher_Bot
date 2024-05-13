@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 855,
+    "index": "E",
+    "name": "Salazar Slytherin's Locket",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 855,
+    "index": "E",
+    "solvedCount": 1620
+  }
+}

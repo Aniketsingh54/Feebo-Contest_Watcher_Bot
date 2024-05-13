@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1288,
+    "index": "D",
+    "name": "Minimax Problem",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1288,
+    "index": "D",
+    "solvedCount": 6685
+  }
+}

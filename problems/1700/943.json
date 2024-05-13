@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1810,
+    "index": "D",
+    "name": "Climbing the Tree",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1810,
+    "index": "D",
+    "solvedCount": 7094
+  }
+}

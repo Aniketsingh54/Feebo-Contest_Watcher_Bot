@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1497,
+    "index": "D",
+    "name": "Genius",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1497,
+    "index": "D",
+    "solvedCount": 1483
+  }
+}

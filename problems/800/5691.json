@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 898,
+    "index": "A",
+    "name": "Rounding",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 898,
+    "index": "A",
+    "solvedCount": 15606
+  }
+}

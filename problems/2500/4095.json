@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1221,
+    "index": "E",
+    "name": "Game With String",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1221,
+    "index": "E",
+    "solvedCount": 1021
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1301,
+    "index": "F",
+    "name": "Super Jaber",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1301,
+    "index": "F",
+    "solvedCount": 1089
+  }
+}

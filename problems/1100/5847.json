@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 858,
+    "index": "A",
+    "name": "k-rounding",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 858,
+    "index": "A",
+    "solvedCount": 7854
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1283,
+    "index": "E",
+    "name": "New Year Parties",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1283,
+    "index": "E",
+    "solvedCount": 6281
+  }
+}

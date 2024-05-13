@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1872,
+    "index": "A",
+    "name": "Two Vessels",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1872,
+    "index": "A",
+    "solvedCount": 37317
+  }
+}

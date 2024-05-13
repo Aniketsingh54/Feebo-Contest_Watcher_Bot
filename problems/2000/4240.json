@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1198,
+    "index": "C",
+    "name": "Matching vs  Independent Set",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1198,
+    "index": "C",
+    "solvedCount": 3405
+  }
+}

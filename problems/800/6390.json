@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 734,
+    "index": "B",
+    "name": "Anton and Digits",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 734,
+    "index": "B",
+    "solvedCount": 28546
+  }
+}

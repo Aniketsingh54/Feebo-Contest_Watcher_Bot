@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1428,
+    "index": "A",
+    "name": "Box is Pull",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1428,
+    "index": "A",
+    "solvedCount": 16170
+  }
+}

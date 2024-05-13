@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1187,
+    "index": "D",
+    "name": "Subarray Sorting",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1187,
+    "index": "D",
+    "solvedCount": 2452
+  }
+}

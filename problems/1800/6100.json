@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "A",
+    "name": "Heidi and Library (easy)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "A",
+    "solvedCount": 1286
+  }
+}

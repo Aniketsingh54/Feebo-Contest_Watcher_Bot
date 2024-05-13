@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "L",
+    "name": "Project Manager",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "L",
+    "solvedCount": 563
+  }
+}

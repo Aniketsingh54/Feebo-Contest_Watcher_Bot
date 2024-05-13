@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1511,
+    "index": "G",
+    "name": "Chips on a Board",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dp",
+      "games",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1511,
+    "index": "G",
+    "solvedCount": 701
+  }
+}

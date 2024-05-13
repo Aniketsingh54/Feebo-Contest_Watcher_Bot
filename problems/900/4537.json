@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1144,
+    "index": "B",
+    "name": "Parity Alternated Deletions",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1144,
+    "index": "B",
+    "solvedCount": 16768
+  }
+}

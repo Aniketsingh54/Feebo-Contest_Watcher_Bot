@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1935,
+    "index": "A",
+    "name": "Entertainment in MAC",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1935,
+    "index": "A",
+    "solvedCount": 25453
+  }
+}

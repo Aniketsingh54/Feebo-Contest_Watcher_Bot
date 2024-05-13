@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 755,
+    "index": "B",
+    "name": "PolandBall and Game",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "games",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 755,
+    "index": "B",
+    "solvedCount": 10925
+  }
+}

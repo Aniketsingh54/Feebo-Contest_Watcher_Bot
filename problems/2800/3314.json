@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1375,
+    "index": "G",
+    "name": "Tree Modification",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graph matchings",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1375,
+    "index": "G",
+    "solvedCount": 1645
+  }
+}

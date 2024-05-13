@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1417,
+    "index": "A",
+    "name": "Copy-paste",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1417,
+    "index": "A",
+    "solvedCount": 18050
+  }
+}

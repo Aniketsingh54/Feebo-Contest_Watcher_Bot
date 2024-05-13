@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1097,
+    "index": "B",
+    "name": "Petr and a Combination Lock",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1097,
+    "index": "B",
+    "solvedCount": 26636
+  }
+}

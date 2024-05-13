@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1372,
+    "index": "E",
+    "name": "Omkar and Last Floor",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1372,
+    "index": "E",
+    "solvedCount": 967
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1117,
+    "index": "C",
+    "name": "Magic Ship",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1117,
+    "index": "C",
+    "solvedCount": 6392
+  }
+}

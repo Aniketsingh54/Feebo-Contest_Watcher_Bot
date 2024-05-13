@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 862,
+    "index": "F",
+    "name": "Mahmoud and Ehab and the final stage",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 862,
+    "index": "F",
+    "solvedCount": 197
+  }
+}

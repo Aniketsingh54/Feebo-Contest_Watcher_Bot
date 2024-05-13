@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1809,
+    "index": "E",
+    "name": "Two Tanks",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1809,
+    "index": "E",
+    "solvedCount": 792
+  }
+}

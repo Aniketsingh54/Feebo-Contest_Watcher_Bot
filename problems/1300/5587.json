@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 919,
+    "index": "C",
+    "name": "Seat Arrangements",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 919,
+    "index": "C",
+    "solvedCount": 8823
+  }
+}

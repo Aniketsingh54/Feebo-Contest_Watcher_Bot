@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 901,
+    "index": "C",
+    "name": "Bipartite Segments",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 901,
+    "index": "C",
+    "solvedCount": 1132
+  }
+}

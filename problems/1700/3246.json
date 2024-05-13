@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1392,
+    "index": "D",
+    "name": "Omkar and Bed Wars",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1392,
+    "index": "D",
+    "solvedCount": 8442
+  }
+}

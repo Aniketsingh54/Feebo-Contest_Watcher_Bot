@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1792,
+    "index": "D",
+    "name": "Fixed Prefix Permutations",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "hashing",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1792,
+    "index": "D",
+    "solvedCount": 5890
+  }
+}

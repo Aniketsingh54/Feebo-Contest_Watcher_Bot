@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1809,
+    "index": "D",
+    "name": "Binary String Sorting",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1809,
+    "index": "D",
+    "solvedCount": 5898
+  }
+}

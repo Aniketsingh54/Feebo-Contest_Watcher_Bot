@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1817,
+    "index": "D",
+    "name": "Toy Machine",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1817,
+    "index": "D",
+    "solvedCount": 668
+  }
+}

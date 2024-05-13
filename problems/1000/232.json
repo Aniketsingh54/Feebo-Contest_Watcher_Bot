@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1931,
+    "index": "C",
+    "name": "Make Equal Again",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1931,
+    "index": "C",
+    "solvedCount": 26080
+  }
+}

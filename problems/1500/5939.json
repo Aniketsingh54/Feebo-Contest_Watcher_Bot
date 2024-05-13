@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 839,
+    "index": "C",
+    "name": "Journey",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 839,
+    "index": "C",
+    "solvedCount": 15922
+  }
+}

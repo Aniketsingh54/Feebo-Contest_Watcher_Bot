@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 980,
+    "index": "D",
+    "name": "Perfect Groups",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 980,
+    "index": "D",
+    "solvedCount": 2412
+  }
+}

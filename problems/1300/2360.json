@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1560,
+    "index": "D",
+    "name": "Make a Power of Two",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1560,
+    "index": "D",
+    "solvedCount": 17656
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1949,
+    "index": "J",
+    "name": "Amanda the Amoeba",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "graphs",
+      "implementation",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1949,
+    "index": "J",
+    "solvedCount": 314
+  }
+}

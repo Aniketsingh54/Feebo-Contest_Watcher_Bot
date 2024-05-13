@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1951,
+    "index": "B",
+    "name": "Battle Cows",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1951,
+    "index": "B",
+    "solvedCount": 12029
+  }
+}

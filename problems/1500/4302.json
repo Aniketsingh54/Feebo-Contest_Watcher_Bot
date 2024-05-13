@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1186,
+    "index": "D",
+    "name": "Vus the Cossack and Numbers",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1186,
+    "index": "D",
+    "solvedCount": 8756
+  }
+}

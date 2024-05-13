@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1910,
+    "index": "F",
+    "name": "Build Railway Stations",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "*special",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1910,
+    "index": "F",
+    "solvedCount": 162
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1077,
+    "index": "E",
+    "name": "Thematic Contests",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1077,
+    "index": "E",
+    "solvedCount": 4357
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1886,
+    "index": "A",
+    "name": "Sum of Three",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1886,
+    "index": "A",
+    "solvedCount": 24537
+  }
+}

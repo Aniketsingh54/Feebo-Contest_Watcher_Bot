@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 892,
+    "index": "B",
+    "name": "Wrath",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 892,
+    "index": "B",
+    "solvedCount": 8667
+  }
+}

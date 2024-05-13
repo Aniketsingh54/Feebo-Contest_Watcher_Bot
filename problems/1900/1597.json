@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1702,
+    "index": "G1",
+    "name": "Passable Paths (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1702,
+    "index": "G1",
+    "solvedCount": 5117
+  }
+}

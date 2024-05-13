@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1954,
+    "index": "E",
+    "name": "Chain Reaction",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dsu",
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1954,
+    "index": "E",
+    "solvedCount": 1781
+  }
+}

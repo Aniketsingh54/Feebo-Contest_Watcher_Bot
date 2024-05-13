@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1775,
+    "index": "A1",
+    "name": "Gardener and the Capybaras (easy version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1775,
+    "index": "A1",
+    "solvedCount": 19315
+  }
+}

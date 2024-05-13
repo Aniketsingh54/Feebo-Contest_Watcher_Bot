@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1580,
+    "index": "B",
+    "name": "Mathematics Curriculum",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1580,
+    "index": "B",
+    "solvedCount": 970
+  }
+}

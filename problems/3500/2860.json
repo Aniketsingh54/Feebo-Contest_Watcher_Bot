@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1470,
+    "index": "F",
+    "name": "Strange Covering",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3500,
+    "tags": [
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1470,
+    "index": "F",
+    "solvedCount": 115
+  }
+}

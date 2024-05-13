@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1202,
+    "index": "C",
+    "name": "You Are Given a WASD-string...",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1202,
+    "index": "C",
+    "solvedCount": 2472
+  }
+}

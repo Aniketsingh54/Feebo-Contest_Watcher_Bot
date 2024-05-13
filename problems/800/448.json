@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1900,
+    "index": "A",
+    "name": "Cover in Water",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1900,
+    "index": "A",
+    "solvedCount": 21984
+  }
+}

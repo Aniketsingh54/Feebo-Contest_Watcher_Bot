@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1281,
+    "index": "A",
+    "name": "Suffix Three",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1281,
+    "index": "A",
+    "solvedCount": 17705
+  }
+}

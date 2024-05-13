@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1677,
+    "index": "E",
+    "name": "Tokitsukaze and Beautiful Subsegments",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1677,
+    "index": "E",
+    "solvedCount": 505
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 922,
+    "index": "E",
+    "name": "Birds",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 922,
+    "index": "E",
+    "solvedCount": 2017
+  }
+}

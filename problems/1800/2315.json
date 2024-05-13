@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1572,
+    "index": "A",
+    "name": "Book",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "graphs",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1572,
+    "index": "A",
+    "solvedCount": 8541
+  }
+}

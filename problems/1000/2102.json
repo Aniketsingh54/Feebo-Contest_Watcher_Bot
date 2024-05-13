@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1614,
+    "index": "B",
+    "name": "Divan and a New Project ",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1614,
+    "index": "B",
+    "solvedCount": 17901
+  }
+}

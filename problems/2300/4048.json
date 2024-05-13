@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1236,
+    "index": "D",
+    "name": "Alice and the Doll",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1236,
+    "index": "D",
+    "solvedCount": 1646
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1729,
+    "index": "E",
+    "name": "Guess the Cycle Size",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "interactive",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1729,
+    "index": "E",
+    "solvedCount": 6736
+  }
+}

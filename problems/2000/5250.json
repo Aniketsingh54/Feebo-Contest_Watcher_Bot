@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 997,
+    "index": "B",
+    "name": "Roman Digits",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 997,
+    "index": "B",
+    "solvedCount": 2856
+  }
+}

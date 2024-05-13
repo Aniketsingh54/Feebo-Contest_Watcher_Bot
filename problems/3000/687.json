@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1854,
+    "index": "E",
+    "name": "Game Bundles",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1854,
+    "index": "E",
+    "solvedCount": 383
+  }
+}

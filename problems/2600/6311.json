@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 754,
+    "index": "E",
+    "name": "Dasha and cyclic table",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "fft",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 754,
+    "index": "E",
+    "solvedCount": 480
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1047,
+    "index": "B",
+    "name": "Cover Points",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1047,
+    "index": "B",
+    "solvedCount": 16895
+  }
+}

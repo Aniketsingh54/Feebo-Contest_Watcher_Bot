@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1117,
+    "index": "B",
+    "name": "Emotes",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1117,
+    "index": "B",
+    "solvedCount": 13825
+  }
+}

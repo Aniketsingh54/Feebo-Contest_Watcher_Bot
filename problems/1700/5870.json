@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 852,
+    "index": "G",
+    "name": "Bathroom terminal",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 852,
+    "index": "G",
+    "solvedCount": 1267
+  }
+}

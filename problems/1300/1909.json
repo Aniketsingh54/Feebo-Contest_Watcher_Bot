@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1649,
+    "index": "B",
+    "name": "Game of Ball Passing",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1649,
+    "index": "B",
+    "solvedCount": 12776
+  }
+}

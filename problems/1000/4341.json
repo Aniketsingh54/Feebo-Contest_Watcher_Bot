@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1182,
+    "index": "A",
+    "name": "Filling Shapes",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1182,
+    "index": "A",
+    "solvedCount": 29327
+  }
+}

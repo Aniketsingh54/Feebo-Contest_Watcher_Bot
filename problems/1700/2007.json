@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1628,
+    "index": "B",
+    "name": "Peculiar Movie Preferences",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1628,
+    "index": "B",
+    "solvedCount": 11195
+  }
+}

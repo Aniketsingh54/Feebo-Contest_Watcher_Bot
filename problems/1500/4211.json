@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1203,
+    "index": "E",
+    "name": "Boxers",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1203,
+    "index": "E",
+    "solvedCount": 13466
+  }
+}

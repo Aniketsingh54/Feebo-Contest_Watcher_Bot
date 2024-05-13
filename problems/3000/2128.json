@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1610,
+    "index": "F",
+    "name": "Mashtali: a Space Oddysey",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1610,
+    "index": "F",
+    "solvedCount": 501
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 731,
+    "index": "C",
+    "name": "Socks",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 731,
+    "index": "C",
+    "solvedCount": 6792
+  }
+}

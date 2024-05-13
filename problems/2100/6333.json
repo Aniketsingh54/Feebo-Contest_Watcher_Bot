@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 748,
+    "index": "E",
+    "name": "Santa Claus and Tangerines",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 748,
+    "index": "E",
+    "solvedCount": 1441
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 819,
+    "index": "A",
+    "name": "Mister B and Boring Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 2200,
+    "tags": [
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 819,
+    "index": "A",
+    "solvedCount": 308
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 804,
+    "index": "C",
+    "name": "Ice cream coloring",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 804,
+    "index": "C",
+    "solvedCount": 1612
+  }
+}

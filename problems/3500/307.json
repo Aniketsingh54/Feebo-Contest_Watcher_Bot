@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1919,
+    "index": "G",
+    "name": "Tree LGM",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "games",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1919,
+    "index": "G",
+    "solvedCount": 170
+  }
+}

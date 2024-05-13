@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1738,
+    "index": "B",
+    "name": "Prefix Sum Addicts",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1738,
+    "index": "B",
+    "solvedCount": 14788
+  }
+}

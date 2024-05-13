@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 852,
+    "index": "A",
+    "name": "Digits",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 852,
+    "index": "A",
+    "solvedCount": 364
+  }
+}

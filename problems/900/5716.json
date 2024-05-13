@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 892,
+    "index": "A",
+    "name": "Greed",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 892,
+    "index": "A",
+    "solvedCount": 13208
+  }
+}

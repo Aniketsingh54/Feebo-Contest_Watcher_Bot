@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1186,
+    "index": "E",
+    "name": "Vus the Cossack and a Field",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "divide and conquer",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1186,
+    "index": "E",
+    "solvedCount": 555
+  }
+}

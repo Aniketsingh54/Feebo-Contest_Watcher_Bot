@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1282,
+    "index": "E",
+    "name": "The Cake Is a Lie",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1282,
+    "index": "E",
+    "solvedCount": 995
+  }
+}

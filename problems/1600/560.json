@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1875,
+    "index": "D",
+    "name": "Jellyfish and Mex",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1875,
+    "index": "D",
+    "solvedCount": 7602
+  }
+}

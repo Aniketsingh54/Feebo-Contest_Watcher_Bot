@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1406,
+    "index": "C",
+    "name": "Link Cut Centroids",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1406,
+    "index": "C",
+    "solvedCount": 9830
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1572,
+    "index": "C",
+    "name": "Paint",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1572,
+    "index": "C",
+    "solvedCount": 1391
+  }
+}

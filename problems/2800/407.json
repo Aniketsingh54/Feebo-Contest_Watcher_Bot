@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "D",
+    "name": "Spaceship Exploration",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "D",
+    "solvedCount": 89
+  }
+}

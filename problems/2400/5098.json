@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1028,
+    "index": "E",
+    "name": "Restore Array",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1028,
+    "index": "E",
+    "solvedCount": 1124
+  }
+}

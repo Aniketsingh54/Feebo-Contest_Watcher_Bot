@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 798,
+    "index": "C",
+    "name": "Mike and gcd problem",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "dp",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 798,
+    "index": "C",
+    "solvedCount": 5598
+  }
+}

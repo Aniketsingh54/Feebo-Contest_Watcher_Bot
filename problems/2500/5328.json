@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 981,
+    "index": "F",
+    "name": "Round Marriage",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "graph matchings",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 981,
+    "index": "F",
+    "solvedCount": 674
+  }
+}

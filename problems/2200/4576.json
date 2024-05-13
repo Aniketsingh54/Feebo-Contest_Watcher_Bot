@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1136,
+    "index": "E",
+    "name": "Nastya Hasn't Written a Legend",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1136,
+    "index": "E",
+    "solvedCount": 1043
+  }
+}

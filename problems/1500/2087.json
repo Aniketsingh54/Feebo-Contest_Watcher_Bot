@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1616,
+    "index": "C",
+    "name": "Representative Edges",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "geometry",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1616,
+    "index": "C",
+    "solvedCount": 11974
+  }
+}

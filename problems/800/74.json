@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1956,
+    "index": "A",
+    "name": "Nene's Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1956,
+    "index": "A",
+    "solvedCount": 18862
+  }
+}

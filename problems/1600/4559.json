@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1140,
+    "index": "C",
+    "name": "Playlist",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1140,
+    "index": "C",
+    "solvedCount": 9261
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1807,
+    "index": "G1",
+    "name": "Subsequence Addition (Easy Version)",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1807,
+    "index": "G1",
+    "solvedCount": 17871
+  }
+}

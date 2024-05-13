@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1062,
+    "index": "F",
+    "name": "Upgrading Cities",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2900,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1062,
+    "index": "F",
+    "solvedCount": 552
+  }
+}

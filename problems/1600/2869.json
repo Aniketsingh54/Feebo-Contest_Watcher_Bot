@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1469,
+    "index": "C",
+    "name": "Building a Fence",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1469,
+    "index": "C",
+    "solvedCount": 10500
+  }
+}

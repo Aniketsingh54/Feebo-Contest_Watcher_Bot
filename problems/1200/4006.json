@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1245,
+    "index": "B",
+    "name": "Restricted RPS",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1245,
+    "index": "B",
+    "solvedCount": 13438
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1097,
+    "index": "H",
+    "name": "Mateusz and an Infinite Sequence",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1097,
+    "index": "H",
+    "solvedCount": 93
+  }
+}

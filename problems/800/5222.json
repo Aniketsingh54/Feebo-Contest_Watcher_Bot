@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "A1",
+    "name": "Generate superposition of all basis states",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "A1",
+    "solvedCount": 817
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1916,
+    "index": "A",
+    "name": "2023",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1916,
+    "index": "A",
+    "solvedCount": 24557
+  }
+}

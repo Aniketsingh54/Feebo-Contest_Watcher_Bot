@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1718,
+    "index": "F",
+    "name": "Burenka, an Array and Queries",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1718,
+    "index": "F",
+    "solvedCount": 145
+  }
+}

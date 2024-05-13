@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1133,
+    "index": "C",
+    "name": "Balanced Team",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1133,
+    "index": "C",
+    "solvedCount": 21340
+  }
+}

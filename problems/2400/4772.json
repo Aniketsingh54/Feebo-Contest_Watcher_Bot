@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1093,
+    "index": "F",
+    "name": "Vasya and Array",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1093,
+    "index": "F",
+    "solvedCount": 971
+  }
+}

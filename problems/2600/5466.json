@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 940,
+    "index": "F",
+    "name": "Machine Learning",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 940,
+    "index": "F",
+    "solvedCount": 2440
+  }
+}

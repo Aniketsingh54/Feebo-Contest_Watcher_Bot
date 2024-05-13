@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1355,
+    "index": "F",
+    "name": "Guess Divisors Count",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1355,
+    "index": "F",
+    "solvedCount": 811
+  }
+}

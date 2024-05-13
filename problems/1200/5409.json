@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 959,
+    "index": "B",
+    "name": "Mahmoud and Ehab and the message",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "dsu",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 959,
+    "index": "B",
+    "solvedCount": 9095
+  }
+}

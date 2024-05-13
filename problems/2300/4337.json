@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1182,
+    "index": "E",
+    "name": "Product Oriented Recurrence",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "math",
+      "matrices",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1182,
+    "index": "E",
+    "solvedCount": 2526
+  }
+}

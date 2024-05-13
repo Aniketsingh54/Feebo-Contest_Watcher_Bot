@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1150,
+    "index": "B",
+    "name": "Tiling Challenge",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1150,
+    "index": "B",
+    "solvedCount": 10788
+  }
+}

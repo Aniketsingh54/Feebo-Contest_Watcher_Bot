@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 990,
+    "index": "B",
+    "name": "Micro-World",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 990,
+    "index": "B",
+    "solvedCount": 7983
+  }
+}

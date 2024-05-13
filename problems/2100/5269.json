@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 992,
+    "index": "D",
+    "name": "Nastya and a Game",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 992,
+    "index": "D",
+    "solvedCount": 1595
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 721,
+    "index": "D",
+    "name": "Maxim and Array",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 721,
+    "index": "D",
+    "solvedCount": 2292
+  }
+}

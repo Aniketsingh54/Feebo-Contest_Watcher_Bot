@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1338,
+    "index": "D",
+    "name": "Nested Rubber Bands",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1338,
+    "index": "D",
+    "solvedCount": 831
+  }
+}

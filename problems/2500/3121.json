@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1418,
+    "index": "G",
+    "name": "Three Occurrences",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "hashing",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1418,
+    "index": "G",
+    "solvedCount": 1464
+  }
+}

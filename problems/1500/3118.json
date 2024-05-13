@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1419,
+    "index": "C",
+    "name": "Killjoy",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1419,
+    "index": "C",
+    "solvedCount": 14908
+  }
+}

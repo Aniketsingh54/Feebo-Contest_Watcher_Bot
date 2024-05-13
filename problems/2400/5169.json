@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1009,
+    "index": "G",
+    "name": "Allowed Letters",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1009,
+    "index": "G",
+    "solvedCount": 769
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 839,
+    "index": "E",
+    "name": "Mother of Dragons",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "graphs",
+      "math",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 839,
+    "index": "E",
+    "solvedCount": 886
+  }
+}

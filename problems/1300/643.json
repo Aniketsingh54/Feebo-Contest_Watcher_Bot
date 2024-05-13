@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1862,
+    "index": "D",
+    "name": "Ice Cream Balls",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1862,
+    "index": "D",
+    "solvedCount": 16044
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1898,
+    "index": "C",
+    "name": "Colorful Grid",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1898,
+    "index": "C",
+    "solvedCount": 4918
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1108,
+    "index": "E1",
+    "name": "Array and Segments (Easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1108,
+    "index": "E1",
+    "solvedCount": 4416
+  }
+}

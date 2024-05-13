@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1736,
+    "index": "C2",
+    "name": "Good Subarrays (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1736,
+    "index": "C2",
+    "solvedCount": 1240
+  }
+}

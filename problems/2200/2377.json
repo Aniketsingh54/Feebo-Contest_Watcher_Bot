@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1557,
+    "index": "D",
+    "name": "Ezzat and Grid",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1557,
+    "index": "D",
+    "solvedCount": 2472
+  }
+}

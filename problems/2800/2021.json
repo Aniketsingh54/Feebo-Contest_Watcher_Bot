@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1625,
+    "index": "E2",
+    "name": "Cats on the Upgrade (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1625,
+    "index": "E2",
+    "solvedCount": 580
+  }
+}

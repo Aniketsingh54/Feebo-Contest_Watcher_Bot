@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 778,
+    "index": "E",
+    "name": "Selling Numbers",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3000,
+    "tags": [
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 778,
+    "index": "E",
+    "solvedCount": 301
+  }
+}

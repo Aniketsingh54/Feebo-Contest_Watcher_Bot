@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 873,
+    "index": "D",
+    "name": "Merge Sort",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 873,
+    "index": "D",
+    "solvedCount": 2998
+  }
+}

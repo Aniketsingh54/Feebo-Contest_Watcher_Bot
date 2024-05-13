@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1427,
+    "index": "C",
+    "name": "The Hard Work of Paparazzi",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1427,
+    "index": "C",
+    "solvedCount": 5477
+  }
+}

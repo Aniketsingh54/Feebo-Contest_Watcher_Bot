@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1912,
+    "index": "G",
+    "name": "Great City Saint Petersburg",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1912,
+    "index": "G",
+    "solvedCount": 418
+  }
+}

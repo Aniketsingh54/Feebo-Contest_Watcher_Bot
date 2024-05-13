@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1267,
+    "index": "L",
+    "name": "Lexicography",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1267,
+    "index": "L",
+    "solvedCount": 2847
+  }
+}

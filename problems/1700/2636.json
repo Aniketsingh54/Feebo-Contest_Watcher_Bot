@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1512,
+    "index": "G",
+    "name": "Short Task",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1512,
+    "index": "G",
+    "solvedCount": 7811
+  }
+}

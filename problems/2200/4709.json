@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1105,
+    "index": "E",
+    "name": "Helping Hiasat ",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1105,
+    "index": "E",
+    "solvedCount": 1591
+  }
+}

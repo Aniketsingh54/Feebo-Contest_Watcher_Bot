@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1044,
+    "index": "D",
+    "name": "Deduction Queries",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1044,
+    "index": "D",
+    "solvedCount": 971
+  }
+}

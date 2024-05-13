@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 987,
+    "index": "B",
+    "name": "High School: Become Human",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 987,
+    "index": "B",
+    "solvedCount": 11339
+  }
+}

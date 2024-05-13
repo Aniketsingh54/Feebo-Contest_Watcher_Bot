@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1089,
+    "index": "B",
+    "name": "Bimatching",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1089,
+    "index": "B",
+    "solvedCount": 215
+  }
+}

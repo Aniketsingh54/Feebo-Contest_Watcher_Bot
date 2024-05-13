@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1542,
+    "index": "E1",
+    "name": "Abnormal Permutation Pairs (easy version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1542,
+    "index": "E1",
+    "solvedCount": 1186
+  }
+}

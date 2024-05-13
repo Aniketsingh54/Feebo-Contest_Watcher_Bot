@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1769,
+    "index": "B1",
+    "name": "Копирование файлов I",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "*special",
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1769,
+    "index": "B1",
+    "solvedCount": 1313
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1715,
+    "index": "F",
+    "name": "Crop Squares",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1715,
+    "index": "F",
+    "solvedCount": 503
+  }
+}

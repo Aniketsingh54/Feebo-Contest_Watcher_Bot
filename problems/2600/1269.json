@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1762,
+    "index": "E",
+    "name": "Tree Sum",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1762,
+    "index": "E",
+    "solvedCount": 606
+  }
+}

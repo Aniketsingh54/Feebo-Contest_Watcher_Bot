@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1797,
+    "index": "D",
+    "name": "Li Hua and Tree",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1797,
+    "index": "D",
+    "solvedCount": 3700
+  }
+}

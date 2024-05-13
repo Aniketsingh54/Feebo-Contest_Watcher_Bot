@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1866,
+    "index": "M",
+    "name": "Mighty Rock Tower",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1866,
+    "index": "M",
+    "solvedCount": 691
+  }
+}

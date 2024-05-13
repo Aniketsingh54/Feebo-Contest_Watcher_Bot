@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1775,
+    "index": "E",
+    "name": "The Human Equation",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1775,
+    "index": "E",
+    "solvedCount": 3034
+  }
+}

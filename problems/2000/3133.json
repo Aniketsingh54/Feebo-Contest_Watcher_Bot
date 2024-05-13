@@ -1,0 +1,26 @@
+{
+  "problem": {
+    "contestId": 1416,
+    "index": "C",
+    "name": "XOR Inverse",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1416,
+    "index": "C",
+    "solvedCount": 4182
+  }
+}

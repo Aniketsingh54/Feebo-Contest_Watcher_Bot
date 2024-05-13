@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1910,
+    "index": "G",
+    "name": "Pool Records",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "*special",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1910,
+    "index": "G",
+    "solvedCount": 50
+  }
+}

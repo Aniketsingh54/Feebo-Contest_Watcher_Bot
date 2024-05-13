@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1154,
+    "index": "F",
+    "name": "Shovels Shop",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1154,
+    "index": "F",
+    "solvedCount": 2551
+  }
+}

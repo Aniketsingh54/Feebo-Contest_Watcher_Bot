@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 954,
+    "index": "B",
+    "name": "String Typing",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 954,
+    "index": "B",
+    "solvedCount": 7100
+  }
+}

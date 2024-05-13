@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1617,
+    "index": "C",
+    "name": "Paprika and Permutation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1617,
+    "index": "C",
+    "solvedCount": 14583
+  }
+}

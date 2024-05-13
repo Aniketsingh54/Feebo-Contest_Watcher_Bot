@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "J",
+    "name": "Journey",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "J",
+    "solvedCount": 356
+  }
+}

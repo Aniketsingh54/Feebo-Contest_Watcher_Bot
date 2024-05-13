@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 732,
+    "index": "B",
+    "name": "Cormen --- The Best Friend Of a Man",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 732,
+    "index": "B",
+    "solvedCount": 24071
+  }
+}

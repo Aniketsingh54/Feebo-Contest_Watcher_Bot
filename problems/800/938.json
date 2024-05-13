@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1811,
+    "index": "A",
+    "name": "Insert Digit",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1811,
+    "index": "A",
+    "solvedCount": 30052
+  }
+}

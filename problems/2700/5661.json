@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 903,
+    "index": "G",
+    "name": "Yet Another Maxflow Problem",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 903,
+    "index": "G",
+    "solvedCount": 509
+  }
+}

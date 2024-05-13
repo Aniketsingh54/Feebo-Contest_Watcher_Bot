@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1916,
+    "index": "H2",
+    "name": "Matrix Rank (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "matrices",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1916,
+    "index": "H2",
+    "solvedCount": 502
+  }
+}

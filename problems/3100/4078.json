@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1225,
+    "index": "G",
+    "name": "To Make 1",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1225,
+    "index": "G",
+    "solvedCount": 522
+  }
+}

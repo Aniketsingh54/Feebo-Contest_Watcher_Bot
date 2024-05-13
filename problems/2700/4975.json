@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1054,
+    "index": "F",
+    "name": "Electric Scheme",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "flows",
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1054,
+    "index": "F",
+    "solvedCount": 306
+  }
+}

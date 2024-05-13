@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1904,
+    "index": "B",
+    "name": "Collecting Game",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1904,
+    "index": "B",
+    "solvedCount": 12852
+  }
+}

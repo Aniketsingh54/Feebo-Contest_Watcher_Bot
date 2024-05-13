@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1353,
+    "index": "F",
+    "name": "Decreasing Heights",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1353,
+    "index": "F",
+    "solvedCount": 3054
+  }
+}

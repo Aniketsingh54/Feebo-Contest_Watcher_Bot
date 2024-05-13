@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1578,
+    "index": "B",
+    "name": "Building Forest Trails",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1578,
+    "index": "B",
+    "solvedCount": 321
+  }
+}

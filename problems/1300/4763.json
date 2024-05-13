@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1096,
+    "index": "B",
+    "name": "Substring Removal",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1096,
+    "index": "B",
+    "solvedCount": 10340
+  }
+}

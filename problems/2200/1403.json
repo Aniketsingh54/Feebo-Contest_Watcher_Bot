@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1736,
+    "index": "D",
+    "name": "Equal Binary Subsequences",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1736,
+    "index": "D",
+    "solvedCount": 2401
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1272,
+    "index": "E",
+    "name": "Nearest Opposite Parity",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1272,
+    "index": "E",
+    "solvedCount": 5857
+  }
+}

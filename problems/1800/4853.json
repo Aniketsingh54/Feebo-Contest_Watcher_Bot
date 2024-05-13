@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1081,
+    "index": "D",
+    "name": "Maximum Distance",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "dsu",
+      "graphs",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1081,
+    "index": "D",
+    "solvedCount": 3886
+  }
+}

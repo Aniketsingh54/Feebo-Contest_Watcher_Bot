@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 792,
+    "index": "D",
+    "name": "Paths in a Complete Binary Tree",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 792,
+    "index": "D",
+    "solvedCount": 2904
+  }
+}

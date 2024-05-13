@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 793,
+    "index": "A",
+    "name": "Oleg and shares",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 793,
+    "index": "A",
+    "solvedCount": 6561
+  }
+}

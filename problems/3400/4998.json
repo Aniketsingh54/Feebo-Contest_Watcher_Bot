@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1045,
+    "index": "F",
+    "name": "Shady Lady",
+    "type": "PROGRAMMING",
+    "rating": 3400,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1045,
+    "index": "F",
+    "solvedCount": 92
+  }
+}

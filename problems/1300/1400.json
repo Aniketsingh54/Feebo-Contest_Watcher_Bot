@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1737,
+    "index": "B",
+    "name": "Ela's Fitness and the Luxury Number",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1737,
+    "index": "B",
+    "solvedCount": 9190
+  }
+}

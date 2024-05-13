@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1333,
+    "index": "D",
+    "name": "Challenges in school №41",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "games",
+      "graphs",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1333,
+    "index": "D",
+    "solvedCount": 3690
+  }
+}

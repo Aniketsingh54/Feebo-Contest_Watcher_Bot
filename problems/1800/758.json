@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1843,
+    "index": "F1",
+    "name": "Omsk Metro (simple version)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1843,
+    "index": "F1",
+    "solvedCount": 4984
+  }
+}

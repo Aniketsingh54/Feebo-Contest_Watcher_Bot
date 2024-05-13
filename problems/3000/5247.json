@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 997,
+    "index": "E",
+    "name": "Good Subsegments",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3000,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 997,
+    "index": "E",
+    "solvedCount": 1084
+  }
+}

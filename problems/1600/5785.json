@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 873,
+    "index": "C",
+    "name": "Strange Game On Matrix",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 873,
+    "index": "C",
+    "solvedCount": 3215
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1470,
+    "index": "A",
+    "name": "Strange Birthday Party",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1470,
+    "index": "A",
+    "solvedCount": 21266
+  }
+}

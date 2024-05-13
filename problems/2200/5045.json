@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1037,
+    "index": "E",
+    "name": "Trips",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1037,
+    "index": "E",
+    "solvedCount": 2655
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1169,
+    "index": "A",
+    "name": "Circle Metro",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1169,
+    "index": "A",
+    "solvedCount": 11674
+  }
+}

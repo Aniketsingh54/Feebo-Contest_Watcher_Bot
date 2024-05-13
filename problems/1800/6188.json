@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 778,
+    "index": "B",
+    "name": "Bitwise Formula",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "expression parsing",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 778,
+    "index": "B",
+    "solvedCount": 2259
+  }
+}

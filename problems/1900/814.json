@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1834,
+    "index": "D",
+    "name": "Survey in Class",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1834,
+    "index": "D",
+    "solvedCount": 4356
+  }
+}

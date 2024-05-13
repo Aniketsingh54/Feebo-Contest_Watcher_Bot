@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 714,
+    "index": "B",
+    "name": "Filya and Homework",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 714,
+    "index": "B",
+    "solvedCount": 14028
+  }
+}

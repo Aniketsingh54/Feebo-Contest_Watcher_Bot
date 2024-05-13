@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1733,
+    "index": "E",
+    "name": "Conveyor",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1733,
+    "index": "E",
+    "solvedCount": 1094
+  }
+}

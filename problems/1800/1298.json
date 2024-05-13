@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1758,
+    "index": "D",
+    "name": "Range = √Sum",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1758,
+    "index": "D",
+    "solvedCount": 6872
+  }
+}

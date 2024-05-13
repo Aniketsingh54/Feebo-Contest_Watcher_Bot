@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 975,
+    "index": "E",
+    "name": "Hag's Khashba",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 975,
+    "index": "E",
+    "solvedCount": 300
+  }
+}

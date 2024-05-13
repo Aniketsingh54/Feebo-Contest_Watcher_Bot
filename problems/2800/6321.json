@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 750,
+    "index": "F",
+    "name": "New Year and Finding Roots",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 750,
+    "index": "F",
+    "solvedCount": 471
+  }
+}

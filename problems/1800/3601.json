@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1328,
+    "index": "D",
+    "name": "Carousel",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1328,
+    "index": "D",
+    "solvedCount": 12569
+  }
+}

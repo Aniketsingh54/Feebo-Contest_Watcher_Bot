@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1535,
+    "index": "A",
+    "name": "Fair Playoff",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1535,
+    "index": "A",
+    "solvedCount": 46465
+  }
+}

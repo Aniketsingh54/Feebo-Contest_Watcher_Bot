@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1657,
+    "index": "F",
+    "name": "Words on Tree",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1657,
+    "index": "F",
+    "solvedCount": 550
+  }
+}

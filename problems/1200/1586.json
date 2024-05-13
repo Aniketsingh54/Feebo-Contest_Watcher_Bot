@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1704,
+    "index": "C",
+    "name": "Virus",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1704,
+    "index": "C",
+    "solvedCount": 14426
+  }
+}

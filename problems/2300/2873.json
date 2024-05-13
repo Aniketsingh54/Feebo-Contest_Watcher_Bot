@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "M",
+    "name": "Similar Sets",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "M",
+    "solvedCount": 906
+  }
+}

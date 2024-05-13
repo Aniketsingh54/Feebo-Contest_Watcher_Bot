@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1285,
+    "index": "A",
+    "name": "Mezo Playing Zoma",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1285,
+    "index": "A",
+    "solvedCount": 27306
+  }
+}

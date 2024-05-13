@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 923,
+    "index": "E",
+    "name": "Perpetual Subtraction",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3100,
+    "tags": [
+      "fft",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 923,
+    "index": "E",
+    "solvedCount": 435
+  }
+}

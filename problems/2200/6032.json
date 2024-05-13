@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 815,
+    "index": "B",
+    "name": "Karen and Test",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 815,
+    "index": "B",
+    "solvedCount": 1363
+  }
+}

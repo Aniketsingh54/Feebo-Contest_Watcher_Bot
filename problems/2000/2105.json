@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1613,
+    "index": "E",
+    "name": "Crazy Robot",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1613,
+    "index": "E",
+    "solvedCount": 4995
+  }
+}

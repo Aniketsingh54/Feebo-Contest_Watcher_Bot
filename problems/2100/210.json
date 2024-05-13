@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1934,
+    "index": "D1",
+    "name": "XOR Break --- Solo Version",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1934,
+    "index": "D1",
+    "solvedCount": 3078
+  }
+}

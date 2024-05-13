@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 831,
+    "index": "B",
+    "name": "Keyboard Layouts",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 831,
+    "index": "B",
+    "solvedCount": 14071
+  }
+}

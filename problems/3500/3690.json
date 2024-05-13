@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1305,
+    "index": "H",
+    "name": "Kuroni the Private Tutor",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1305,
+    "index": "H",
+    "solvedCount": 110
+  }
+}

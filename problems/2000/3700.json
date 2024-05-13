@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1304,
+    "index": "E",
+    "name": "1-Trees and Queries",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1304,
+    "index": "E",
+    "solvedCount": 4922
+  }
+}

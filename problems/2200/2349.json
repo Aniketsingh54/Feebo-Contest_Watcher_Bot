@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1562,
+    "index": "D2",
+    "name": "Two Hundred Twenty One (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1562,
+    "index": "D2",
+    "solvedCount": 2075
+  }
+}

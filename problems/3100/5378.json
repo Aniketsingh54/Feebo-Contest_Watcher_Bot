@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 963,
+    "index": "E",
+    "name": "Circles of Waiting",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 963,
+    "index": "E",
+    "solvedCount": 503
+  }
+}

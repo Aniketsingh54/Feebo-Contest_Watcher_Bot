@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1388,
+    "index": "A",
+    "name": "Captain Flint and Crew Recruitment",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1388,
+    "index": "A",
+    "solvedCount": 24549
+  }
+}

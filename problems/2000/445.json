@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1900,
+    "index": "D",
+    "name": "Small GCD",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1900,
+    "index": "D",
+    "solvedCount": 3710
+  }
+}

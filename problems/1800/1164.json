@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1775,
+    "index": "D",
+    "name": "Friendly Spiders",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "number theory",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1775,
+    "index": "D",
+    "solvedCount": 5773
+  }
+}

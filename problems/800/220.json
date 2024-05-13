@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1933,
+    "index": "A",
+    "name": "Turtle Puzzle: Rearrange and Negate",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1933,
+    "index": "A",
+    "solvedCount": 35466
+  }
+}

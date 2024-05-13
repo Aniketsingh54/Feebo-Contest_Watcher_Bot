@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1741,
+    "index": "G",
+    "name": "Kirill and Company",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1741,
+    "index": "G",
+    "solvedCount": 1422
+  }
+}

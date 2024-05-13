@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1154,
+    "index": "D",
+    "name": "Walking Robot",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1154,
+    "index": "D",
+    "solvedCount": 9775
+  }
+}

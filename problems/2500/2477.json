@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1539,
+    "index": "E",
+    "name": "Game with Cards",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1539,
+    "index": "E",
+    "solvedCount": 925
+  }
+}

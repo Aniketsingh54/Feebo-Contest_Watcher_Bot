@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1536,
+    "index": "A",
+    "name": "Omkar and Bad Story",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1536,
+    "index": "A",
+    "solvedCount": 20042
+  }
+}

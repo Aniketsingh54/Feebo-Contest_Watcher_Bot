@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1746,
+    "index": "E1",
+    "name": "Joking (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1746,
+    "index": "E1",
+    "solvedCount": 1364
+  }
+}

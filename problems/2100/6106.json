@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 799,
+    "index": "D",
+    "name": "Field expansion",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "dp",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 799,
+    "index": "D",
+    "solvedCount": 1969
+  }
+}

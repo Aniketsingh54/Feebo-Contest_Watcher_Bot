@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1554,
+    "index": "A",
+    "name": "Cherry",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1554,
+    "index": "A",
+    "solvedCount": 28600
+  }
+}

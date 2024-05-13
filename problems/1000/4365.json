@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1177,
+    "index": "A",
+    "name": "Digits Sequence (Easy Edition)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1177,
+    "index": "A",
+    "solvedCount": 5491
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1774,
+    "index": "H",
+    "name": "Maximum Permutation",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1774,
+    "index": "H",
+    "solvedCount": 129
+  }
+}

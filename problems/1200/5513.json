@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 931,
+    "index": "B",
+    "name": "World Cup",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 931,
+    "index": "B",
+    "solvedCount": 7026
+  }
+}

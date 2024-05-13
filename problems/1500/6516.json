@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 709,
+    "index": "B",
+    "name": "Checkpoints",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 709,
+    "index": "B",
+    "solvedCount": 4703
+  }
+}

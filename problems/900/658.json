@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1860,
+    "index": "A",
+    "name": "Not a Substring",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1860,
+    "index": "A",
+    "solvedCount": 20808
+  }
+}

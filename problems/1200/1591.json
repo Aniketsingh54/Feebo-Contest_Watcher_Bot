@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1703,
+    "index": "E",
+    "name": "Mirror Grid",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1703,
+    "index": "E",
+    "solvedCount": 16925
+  }
+}

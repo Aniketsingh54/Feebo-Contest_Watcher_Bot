@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 994,
+    "index": "A",
+    "name": "Fingerprints",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 994,
+    "index": "A",
+    "solvedCount": 13889
+  }
+}

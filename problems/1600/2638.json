@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1512,
+    "index": "E",
+    "name": "Permutation by Sum",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1512,
+    "index": "E",
+    "solvedCount": 10016
+  }
+}

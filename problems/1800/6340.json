@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 747,
+    "index": "D",
+    "name": "Winter Is Coming",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 747,
+    "index": "D",
+    "solvedCount": 3009
+  }
+}

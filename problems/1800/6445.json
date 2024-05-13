@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 724,
+    "index": "C",
+    "name": "Ray Tracing",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "hashing",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 724,
+    "index": "C",
+    "solvedCount": 2113
+  }
+}

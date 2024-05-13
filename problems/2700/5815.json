@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 864,
+    "index": "F",
+    "name": "Cities Excursions",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 864,
+    "index": "F",
+    "solvedCount": 580
+  }
+}

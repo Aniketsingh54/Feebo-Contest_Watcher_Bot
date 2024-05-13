@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 720,
+    "index": "D",
+    "name": "Slalom",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 720,
+    "index": "D",
+    "solvedCount": 224
+  }
+}

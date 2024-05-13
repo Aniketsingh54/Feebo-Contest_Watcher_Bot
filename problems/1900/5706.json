@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 894,
+    "index": "C",
+    "name": "Marco and GCD Sequence",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 894,
+    "index": "C",
+    "solvedCount": 4285
+  }
+}

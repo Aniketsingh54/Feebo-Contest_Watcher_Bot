@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1791,
+    "index": "G1",
+    "name": "Teleporters (Easy Version)",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1791,
+    "index": "G1",
+    "solvedCount": 20550
+  }
+}

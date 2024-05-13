@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 879,
+    "index": "A",
+    "name": "Borya's Diagnosis",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 879,
+    "index": "A",
+    "solvedCount": 8950
+  }
+}

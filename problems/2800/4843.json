@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1082,
+    "index": "F",
+    "name": "Speed Dial",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "dp",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1082,
+    "index": "F",
+    "solvedCount": 408
+  }
+}

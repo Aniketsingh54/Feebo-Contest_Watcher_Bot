@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1500,
+    "index": "B",
+    "name": "Two chandeliers",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "chinese remainder theorem",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1500,
+    "index": "B",
+    "solvedCount": 1985
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1190,
+    "index": "C",
+    "name": "Tokitsukaze and Duel",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1190,
+    "index": "C",
+    "solvedCount": 1889
+  }
+}

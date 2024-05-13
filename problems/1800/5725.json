@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 888,
+    "index": "E",
+    "name": "Maximum Subsequence",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "divide and conquer",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 888,
+    "index": "E",
+    "solvedCount": 6645
+  }
+}

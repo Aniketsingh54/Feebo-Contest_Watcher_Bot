@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1430,
+    "index": "G",
+    "name": "Yet Another DAG Problem",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1430,
+    "index": "G",
+    "solvedCount": 626
+  }
+}

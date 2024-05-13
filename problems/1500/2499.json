@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1536,
+    "index": "C",
+    "name": "Diluc and Kaeya",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "dp",
+      "hashing",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1536,
+    "index": "C",
+    "solvedCount": 13567
+  }
+}

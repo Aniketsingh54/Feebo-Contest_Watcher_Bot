@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1873,
+    "index": "D",
+    "name": "1D Eraser",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1873,
+    "index": "D",
+    "solvedCount": 32746
+  }
+}

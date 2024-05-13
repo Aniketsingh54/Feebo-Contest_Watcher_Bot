@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1081,
+    "index": "E",
+    "name": "Missing Numbers",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1081,
+    "index": "E",
+    "solvedCount": 2535
+  }
+}

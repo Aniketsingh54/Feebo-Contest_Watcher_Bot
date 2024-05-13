@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1242,
+    "index": "C",
+    "name": "Sum Balance",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1242,
+    "index": "C",
+    "solvedCount": 1470
+  }
+}

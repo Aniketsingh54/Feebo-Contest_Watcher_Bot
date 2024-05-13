@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1207,
+    "index": "E",
+    "name": "XOR Guessing",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1207,
+    "index": "E",
+    "solvedCount": 5617
+  }
+}

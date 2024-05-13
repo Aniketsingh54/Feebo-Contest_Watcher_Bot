@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 983,
+    "index": "D",
+    "name": "Arkady and Rectangles",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3300,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 983,
+    "index": "D",
+    "solvedCount": 322
+  }
+}

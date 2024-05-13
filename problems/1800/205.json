@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1935,
+    "index": "C",
+    "name": "Messenger in MAC",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1935,
+    "index": "C",
+    "solvedCount": 7129
+  }
+}

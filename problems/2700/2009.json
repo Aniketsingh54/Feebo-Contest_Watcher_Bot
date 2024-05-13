@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1627,
+    "index": "F",
+    "name": "Not Splitting",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "geometry",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1627,
+    "index": "F",
+    "solvedCount": 553
+  }
+}

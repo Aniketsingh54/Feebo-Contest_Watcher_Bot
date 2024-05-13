@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1552,
+    "index": "B",
+    "name": "Running for Gold",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1552,
+    "index": "B",
+    "solvedCount": 14975
+  }
+}

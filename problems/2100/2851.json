@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1472,
+    "index": "G",
+    "name": "Moving to the Capital",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1472,
+    "index": "G",
+    "solvedCount": 4407
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1348,
+    "index": "D",
+    "name": "Phoenix and Science",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1348,
+    "index": "D",
+    "solvedCount": 8497
+  }
+}

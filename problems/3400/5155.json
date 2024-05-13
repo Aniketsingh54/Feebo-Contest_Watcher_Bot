@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1012,
+    "index": "F",
+    "name": "Passports",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1012,
+    "index": "F",
+    "solvedCount": 152
+  }
+}

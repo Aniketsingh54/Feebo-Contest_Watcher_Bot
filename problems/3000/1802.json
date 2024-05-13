@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1667,
+    "index": "E",
+    "name": "Centroid Probabilities",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3000,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1667,
+    "index": "E",
+    "solvedCount": 625
+  }
+}

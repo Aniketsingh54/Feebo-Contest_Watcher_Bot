@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1618,
+    "index": "D",
+    "name": "Array and Operations",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1618,
+    "index": "D",
+    "solvedCount": 18302
+  }
+}

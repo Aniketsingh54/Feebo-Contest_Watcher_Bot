@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 961,
+    "index": "B",
+    "name": "Lecture Sleep",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 961,
+    "index": "B",
+    "solvedCount": 19262
+  }
+}

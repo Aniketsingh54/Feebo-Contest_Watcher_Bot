@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1648,
+    "index": "A",
+    "name": "Weird Sum",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "geometry",
+      "math",
+      "matrices",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1648,
+    "index": "A",
+    "solvedCount": 11768
+  }
+}

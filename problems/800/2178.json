@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1602,
+    "index": "A",
+    "name": "Two Subsequences",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1602,
+    "index": "A",
+    "solvedCount": 18756
+  }
+}

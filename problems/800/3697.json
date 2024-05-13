@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1305,
+    "index": "A",
+    "name": "Kuroni and the Gifts",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1305,
+    "index": "A",
+    "solvedCount": 13785
+  }
+}

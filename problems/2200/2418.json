@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1551,
+    "index": "F",
+    "name": "Equidistant Vertices",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1551,
+    "index": "F",
+    "solvedCount": 1748
+  }
+}

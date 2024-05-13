@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1256,
+    "index": "E",
+    "name": "Yet Another Division Into Teams",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1256,
+    "index": "E",
+    "solvedCount": 3877
+  }
+}

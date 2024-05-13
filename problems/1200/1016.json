@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1799,
+    "index": "B",
+    "name": "Equalize by Divide",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1799,
+    "index": "B",
+    "solvedCount": 10820
+  }
+}

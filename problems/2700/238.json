@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "F",
+    "name": "Maximize the Difference",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "F",
+    "solvedCount": 614
+  }
+}

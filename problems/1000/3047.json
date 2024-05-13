@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1430,
+    "index": "C",
+    "name": "Numbers on Whiteboard",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1430,
+    "index": "C",
+    "solvedCount": 23346
+  }
+}

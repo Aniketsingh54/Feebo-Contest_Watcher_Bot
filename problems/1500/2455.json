@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1545,
+    "index": "A",
+    "name": "AquaMoon and Strange Sort",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1545,
+    "index": "A",
+    "solvedCount": 13586
+  }
+}

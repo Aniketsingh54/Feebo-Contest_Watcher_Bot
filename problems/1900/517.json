@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1883,
+    "index": "G2",
+    "name": "Dances (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1883,
+    "index": "G2",
+    "solvedCount": 4882
+  }
+}

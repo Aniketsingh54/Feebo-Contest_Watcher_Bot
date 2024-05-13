@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1372,
+    "index": "C",
+    "name": "Omkar and Baseball",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1372,
+    "index": "C",
+    "solvedCount": 17377
+  }
+}

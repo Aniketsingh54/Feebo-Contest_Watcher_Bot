@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1650,
+    "index": "C",
+    "name": "Weight of the System of Nested Segments",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "hashing",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1650,
+    "index": "C",
+    "solvedCount": 16381
+  }
+}

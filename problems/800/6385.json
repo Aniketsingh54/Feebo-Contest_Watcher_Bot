@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 735,
+    "index": "A",
+    "name": "Ostap and Grasshopper",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 735,
+    "index": "A",
+    "solvedCount": 12301
+  }
+}

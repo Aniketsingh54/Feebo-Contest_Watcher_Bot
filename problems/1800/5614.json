@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 914,
+    "index": "C",
+    "name": "Travelling Salesman and Special Numbers",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 914,
+    "index": "C",
+    "solvedCount": 3598
+  }
+}

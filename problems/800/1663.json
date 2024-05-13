@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1692,
+    "index": "A",
+    "name": "Marathon",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1692,
+    "index": "A",
+    "solvedCount": 60090
+  }
+}

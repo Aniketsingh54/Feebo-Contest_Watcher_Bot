@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1788,
+    "index": "B",
+    "name": "Sum of Two Numbers",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1788,
+    "index": "B",
+    "solvedCount": 19265
+  }
+}

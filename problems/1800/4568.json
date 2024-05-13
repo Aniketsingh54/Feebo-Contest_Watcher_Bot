@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1138,
+    "index": "B",
+    "name": "Circus",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1138,
+    "index": "B",
+    "solvedCount": 3938
+  }
+}

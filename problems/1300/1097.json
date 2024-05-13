@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1786,
+    "index": "B",
+    "name": "Cake Assembly Line",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1786,
+    "index": "B",
+    "solvedCount": 8622
+  }
+}

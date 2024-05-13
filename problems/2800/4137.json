@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1214,
+    "index": "H",
+    "name": "Tiles Placement",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1214,
+    "index": "H",
+    "solvedCount": 373
+  }
+}

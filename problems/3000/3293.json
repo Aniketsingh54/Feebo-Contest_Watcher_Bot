@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1381,
+    "index": "D",
+    "name": "The Majestic Brown Tree Snake",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1381,
+    "index": "D",
+    "solvedCount": 447
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1846,
+    "index": "C",
+    "name": "Rudolf and the Another Competition",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1846,
+    "index": "C",
+    "solvedCount": 17956
+  }
+}

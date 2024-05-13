@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1553,
+    "index": "E",
+    "name": "Permutation Shift",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1553,
+    "index": "E",
+    "solvedCount": 3238
+  }
+}

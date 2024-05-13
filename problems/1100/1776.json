@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1672,
+    "index": "C",
+    "name": "Unequal Array",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1672,
+    "index": "C",
+    "solvedCount": 12924
+  }
+}

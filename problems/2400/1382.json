@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1739,
+    "index": "E",
+    "name": "Cleaning Robot",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1739,
+    "index": "E",
+    "solvedCount": 1169
+  }
+}

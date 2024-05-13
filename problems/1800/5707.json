@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 894,
+    "index": "B",
+    "name": "Ralph And His Magic Field",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 894,
+    "index": "B",
+    "solvedCount": 4377
+  }
+}

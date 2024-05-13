@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 912,
+    "index": "C",
+    "name": "Perun, Ult!",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 912,
+    "index": "C",
+    "solvedCount": 509
+  }
+}

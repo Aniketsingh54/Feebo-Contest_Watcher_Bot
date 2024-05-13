@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1393,
+    "index": "E2",
+    "name": "Twilight and Ancient Scroll (harder version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 3200,
+    "tags": [
+      "dp",
+      "hashing",
+      "implementation",
+      "string suffix structures",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1393,
+    "index": "E2",
+    "solvedCount": 347
+  }
+}

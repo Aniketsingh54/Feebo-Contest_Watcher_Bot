@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 717,
+    "index": "E",
+    "name": "Paint it really, really dark gray",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 717,
+    "index": "E",
+    "solvedCount": 1427
+  }
+}

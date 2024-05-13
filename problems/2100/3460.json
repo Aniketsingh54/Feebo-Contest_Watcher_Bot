@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1355,
+    "index": "E",
+    "name": "Restorer Distance",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1355,
+    "index": "E",
+    "solvedCount": 4721
+  }
+}

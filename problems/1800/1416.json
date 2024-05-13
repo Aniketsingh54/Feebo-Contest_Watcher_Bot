@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1734,
+    "index": "D",
+    "name": "Slime Escape",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1734,
+    "index": "D",
+    "solvedCount": 6027
+  }
+}

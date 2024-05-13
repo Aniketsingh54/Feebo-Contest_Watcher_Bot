@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1016,
+    "index": "G",
+    "name": "Appropriate Team",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1016,
+    "index": "G",
+    "solvedCount": 256
+  }
+}

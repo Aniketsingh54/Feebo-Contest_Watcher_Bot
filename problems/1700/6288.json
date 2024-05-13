@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 758,
+    "index": "C",
+    "name": "Unfair Poll",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 758,
+    "index": "C",
+    "solvedCount": 3822
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1037,
+    "index": "B",
+    "name": "Reach Median",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1037,
+    "index": "B",
+    "solvedCount": 10200
+  }
+}

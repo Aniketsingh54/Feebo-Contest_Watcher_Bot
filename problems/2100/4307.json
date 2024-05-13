@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1185,
+    "index": "F",
+    "name": "Two Pizzas",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1185,
+    "index": "F",
+    "solvedCount": 1802
+  }
+}

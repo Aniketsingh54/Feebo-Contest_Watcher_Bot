@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 773,
+    "index": "D",
+    "name": "Perishable Roads",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 773,
+    "index": "D",
+    "solvedCount": 565
+  }
+}

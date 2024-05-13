@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1142,
+    "index": "E",
+    "name": "Pink Floyd",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "graphs",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1142,
+    "index": "E",
+    "solvedCount": 486
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1033,
+    "index": "C",
+    "name": "Permutation Game",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "dp",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1033,
+    "index": "C",
+    "solvedCount": 5381
+  }
+}

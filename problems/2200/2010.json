@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1627,
+    "index": "E",
+    "name": "Not Escaping",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "shortest paths",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1627,
+    "index": "E",
+    "solvedCount": 2240
+  }
+}

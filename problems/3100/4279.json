@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1190,
+    "index": "E",
+    "name": "Tokitsukaze and Explosion",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3100,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1190,
+    "index": "E",
+    "solvedCount": 221
+  }
+}

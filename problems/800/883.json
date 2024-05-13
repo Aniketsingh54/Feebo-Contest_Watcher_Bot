@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1822,
+    "index": "B",
+    "name": "Karina and Array",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1822,
+    "index": "B",
+    "solvedCount": 24091
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1388,
+    "index": "D",
+    "name": "Captain Flint and Treasure",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1388,
+    "index": "D",
+    "solvedCount": 6123
+  }
+}

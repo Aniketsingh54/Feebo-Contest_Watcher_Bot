@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1705,
+    "index": "A",
+    "name": "Mark the Photographer",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1705,
+    "index": "A",
+    "solvedCount": 24819
+  }
+}

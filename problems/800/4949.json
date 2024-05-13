@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1060,
+    "index": "A",
+    "name": "Phone Numbers",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1060,
+    "index": "A",
+    "solvedCount": 13721
+  }
+}

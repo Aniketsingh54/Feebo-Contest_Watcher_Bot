@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1107,
+    "index": "E",
+    "name": "Vasya and Binary String",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1107,
+    "index": "E",
+    "solvedCount": 2149
+  }
+}

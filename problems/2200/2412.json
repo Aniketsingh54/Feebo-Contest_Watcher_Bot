@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1552,
+    "index": "F",
+    "name": "Telepanting",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1552,
+    "index": "F",
+    "solvedCount": 2785
+  }
+}

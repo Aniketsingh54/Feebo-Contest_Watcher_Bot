@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1060,
+    "index": "E",
+    "name": "Sergey and Subway",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1060,
+    "index": "E",
+    "solvedCount": 2980
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1742,
+    "index": "D",
+    "name": "Coprime",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1742,
+    "index": "D",
+    "solvedCount": 21716
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1163,
+    "index": "E",
+    "name": "Magical Permutation",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1163,
+    "index": "E",
+    "solvedCount": 646
+  }
+}

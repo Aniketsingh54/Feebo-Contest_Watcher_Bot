@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 998,
+    "index": "A",
+    "name": "Balloons",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 998,
+    "index": "A",
+    "solvedCount": 9188
+  }
+}

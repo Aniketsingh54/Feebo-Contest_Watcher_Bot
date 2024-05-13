@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "I",
+    "name": "Privatization of Roads in Berland",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "I",
+    "solvedCount": 532
+  }
+}

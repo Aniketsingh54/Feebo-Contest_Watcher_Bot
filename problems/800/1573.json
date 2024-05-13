@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1706,
+    "index": "A",
+    "name": "Another String Minimization Problem",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "greedy",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1706,
+    "index": "A",
+    "solvedCount": 22569
+  }
+}

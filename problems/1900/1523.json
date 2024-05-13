@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1715,
+    "index": "D",
+    "name": "2+ doors",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 1900,
+    "tags": [
+      "2-sat",
+      "bitmasks",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1715,
+    "index": "D",
+    "solvedCount": 4926
+  }
+}

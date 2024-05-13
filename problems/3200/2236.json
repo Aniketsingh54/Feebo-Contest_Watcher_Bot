@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1584,
+    "index": "G",
+    "name": "Eligible Segments",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3200,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1584,
+    "index": "G",
+    "solvedCount": 202
+  }
+}

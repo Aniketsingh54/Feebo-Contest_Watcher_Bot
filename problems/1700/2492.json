@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1537,
+    "index": "D",
+    "name": "Deleting Divisors",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "games",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1537,
+    "index": "D",
+    "solvedCount": 11867
+  }
+}

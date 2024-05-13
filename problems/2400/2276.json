@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1578,
+    "index": "L",
+    "name": "Labyrinth",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dsu",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1578,
+    "index": "L",
+    "solvedCount": 1053
+  }
+}

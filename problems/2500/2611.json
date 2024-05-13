@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1516,
+    "index": "E",
+    "name": "Baby Ehab Plays with Permutations",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1516,
+    "index": "E",
+    "solvedCount": 811
+  }
+}

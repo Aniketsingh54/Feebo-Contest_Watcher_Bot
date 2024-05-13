@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1236,
+    "index": "F",
+    "name": "Alice and the Cactus",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1236,
+    "index": "F",
+    "solvedCount": 168
+  }
+}

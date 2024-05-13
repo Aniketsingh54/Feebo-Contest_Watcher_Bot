@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1968,
+    "index": "F",
+    "name": "Equal XOR Segments",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1968,
+    "index": "F",
+    "solvedCount": 3618
+  }
+}

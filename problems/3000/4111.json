@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1218,
+    "index": "G",
+    "name": "Alpha planetary system",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1218,
+    "index": "G",
+    "solvedCount": 87
+  }
+}

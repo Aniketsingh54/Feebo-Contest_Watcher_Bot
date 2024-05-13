@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1487,
+    "index": "E",
+    "name": "Cheap Dinner",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1487,
+    "index": "E",
+    "solvedCount": 4369
+  }
+}

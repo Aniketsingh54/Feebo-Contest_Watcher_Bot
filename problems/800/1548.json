@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1711,
+    "index": "A",
+    "name": "Perfect Permutation",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1711,
+    "index": "A",
+    "solvedCount": 24812
+  }
+}

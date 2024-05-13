@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1608,
+    "index": "F",
+    "name": "MEX counting",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1608,
+    "index": "F",
+    "solvedCount": 518
+  }
+}

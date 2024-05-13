@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1100,
+    "index": "F",
+    "name": "Ivan and Burgers",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1100,
+    "index": "F",
+    "solvedCount": 2121
+  }
+}

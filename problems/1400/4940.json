@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1061,
+    "index": "B",
+    "name": "Views Matter",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1061,
+    "index": "B",
+    "solvedCount": 7223
+  }
+}

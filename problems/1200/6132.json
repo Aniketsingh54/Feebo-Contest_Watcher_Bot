@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 794,
+    "index": "B",
+    "name": "Cutting Carrot",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 794,
+    "index": "B",
+    "solvedCount": 6337
+  }
+}

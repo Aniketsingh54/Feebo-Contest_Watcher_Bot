@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1106,
+    "index": "E",
+    "name": "Lunar New Year and Red Envelopes",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1106,
+    "index": "E",
+    "solvedCount": 2316
+  }
+}

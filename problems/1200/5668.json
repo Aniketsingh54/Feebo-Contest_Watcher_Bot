@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 902,
+    "index": "B",
+    "name": "Coloring a Tree",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 902,
+    "index": "B",
+    "solvedCount": 10482
+  }
+}

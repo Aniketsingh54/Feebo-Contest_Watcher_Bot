@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1402,
+    "index": "C",
+    "name": "Star Trek",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "*special",
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "games",
+      "graphs",
+      "matrices",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1402,
+    "index": "C",
+    "solvedCount": 198
+  }
+}

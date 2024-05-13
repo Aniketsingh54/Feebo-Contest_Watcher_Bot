@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1810,
+    "index": "B",
+    "name": "Candies",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1810,
+    "index": "B",
+    "solvedCount": 17143
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1862,
+    "index": "A",
+    "name": "Gift Carpet",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1862,
+    "index": "A",
+    "solvedCount": 30768
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1841,
+    "index": "F",
+    "name": "Monocarp and a Strategic Game",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "geometry",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1841,
+    "index": "F",
+    "solvedCount": 471
+  }
+}

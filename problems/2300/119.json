@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1949,
+    "index": "G",
+    "name": "Scooter",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1949,
+    "index": "G",
+    "solvedCount": 638
+  }
+}

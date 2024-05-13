@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1503,
+    "index": "D",
+    "name": "Flip the Cards",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2600,
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1503,
+    "index": "D",
+    "solvedCount": 968
+  }
+}

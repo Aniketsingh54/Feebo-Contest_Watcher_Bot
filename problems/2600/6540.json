@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 703,
+    "index": "E",
+    "name": "Mishka and Divisors",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2600,
+    "tags": [
+      "dp",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 703,
+    "index": "E",
+    "solvedCount": 587
+  }
+}

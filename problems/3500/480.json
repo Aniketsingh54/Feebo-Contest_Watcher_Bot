@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1893,
+    "index": "E",
+    "name": "Cacti Symphony",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3500,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1893,
+    "index": "E",
+    "solvedCount": 179
+  }
+}

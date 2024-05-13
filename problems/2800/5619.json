@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 913,
+    "index": "F",
+    "name": "Strongly Connected Tournament",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "dp",
+      "graphs",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 913,
+    "index": "F",
+    "solvedCount": 604
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 863,
+    "index": "F",
+    "name": "Almost Permutation",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "flows"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 863,
+    "index": "F",
+    "solvedCount": 1188
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1526,
+    "index": "C1",
+    "name": "Potions (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1526,
+    "index": "C1",
+    "solvedCount": 21234
+  }
+}

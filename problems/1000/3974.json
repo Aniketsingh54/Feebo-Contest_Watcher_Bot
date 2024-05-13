@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1251,
+    "index": "A",
+    "name": "Broken Keyboard",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1251,
+    "index": "A",
+    "solvedCount": 18818
+  }
+}

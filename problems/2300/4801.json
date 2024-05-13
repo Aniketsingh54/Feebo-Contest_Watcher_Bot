@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1090,
+    "index": "E",
+    "name": "Horseback Riding",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1090,
+    "index": "E",
+    "solvedCount": 573
+  }
+}

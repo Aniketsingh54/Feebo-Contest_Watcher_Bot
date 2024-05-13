@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1702,
+    "index": "D",
+    "name": "Not a Cheap String",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1702,
+    "index": "D",
+    "solvedCount": 22978
+  }
+}

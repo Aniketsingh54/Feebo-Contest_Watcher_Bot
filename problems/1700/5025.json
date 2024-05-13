@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1041,
+    "index": "D",
+    "name": "Glider",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1041,
+    "index": "D",
+    "solvedCount": 5811
+  }
+}

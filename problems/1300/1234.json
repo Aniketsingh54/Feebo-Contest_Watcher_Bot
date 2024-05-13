@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1766,
+    "index": "C",
+    "name": "Hamiltonian Wall",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1766,
+    "index": "C",
+    "solvedCount": 13108
+  }
+}

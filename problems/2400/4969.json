@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1055,
+    "index": "D",
+    "name": "Refactoring",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1055,
+    "index": "D",
+    "solvedCount": 616
+  }
+}

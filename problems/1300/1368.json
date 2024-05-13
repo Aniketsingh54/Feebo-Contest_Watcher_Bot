@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1741,
+    "index": "D",
+    "name": "Masha and a Beautiful Tree",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dfs and similar",
+      "divide and conquer",
+      "graphs",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1741,
+    "index": "D",
+    "solvedCount": 14494
+  }
+}

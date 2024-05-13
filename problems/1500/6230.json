@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 771,
+    "index": "B",
+    "name": "Bear and Different Names",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 771,
+    "index": "B",
+    "solvedCount": 6629
+  }
+}

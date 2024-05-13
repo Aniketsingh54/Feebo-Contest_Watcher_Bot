@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1117,
+    "index": "A",
+    "name": "Best Subsegment",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1117,
+    "index": "A",
+    "solvedCount": 10904
+  }
+}

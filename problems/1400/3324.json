@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1374,
+    "index": "D",
+    "name": "Zero Remainder Array",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1374,
+    "index": "D",
+    "solvedCount": 22228
+  }
+}

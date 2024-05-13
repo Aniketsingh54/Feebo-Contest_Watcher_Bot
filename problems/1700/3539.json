@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1340,
+    "index": "B",
+    "name": "Nastya and Scoreboard",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1340,
+    "index": "B",
+    "solvedCount": 7573
+  }
+}

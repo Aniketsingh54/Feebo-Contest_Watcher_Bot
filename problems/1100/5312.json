@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 985,
+    "index": "A",
+    "name": "Chess Placing",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 985,
+    "index": "A",
+    "solvedCount": 8066
+  }
+}

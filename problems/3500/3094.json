@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1423,
+    "index": "C",
+    "name": "Dušan's Railway",
+    "type": "PROGRAMMING",
+    "rating": 3500,
+    "tags": [
+      "divide and conquer",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1423,
+    "index": "C",
+    "solvedCount": 130
+  }
+}

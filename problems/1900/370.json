@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1912,
+    "index": "A",
+    "name": "Accumulator Apex",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1912,
+    "index": "A",
+    "solvedCount": 1882
+  }
+}

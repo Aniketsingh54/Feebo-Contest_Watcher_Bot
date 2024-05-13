@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1819,
+    "index": "D",
+    "name": "Misha and Apples",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1819,
+    "index": "D",
+    "solvedCount": 597
+  }
+}

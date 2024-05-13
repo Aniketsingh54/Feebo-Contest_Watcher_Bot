@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 995,
+    "index": "C",
+    "name": "Leaving the Bar",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "data structures",
+      "geometry",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 995,
+    "index": "C",
+    "solvedCount": 1729
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1039,
+    "index": "B",
+    "name": "Subway Pursuit",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "interactive",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1039,
+    "index": "B",
+    "solvedCount": 2276
+  }
+}

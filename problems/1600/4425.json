@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1165,
+    "index": "E",
+    "name": "Two Arrays and Sum of Functions",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1165,
+    "index": "E",
+    "solvedCount": 7808
+  }
+}

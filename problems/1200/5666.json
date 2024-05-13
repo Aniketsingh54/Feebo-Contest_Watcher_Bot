@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 903,
+    "index": "B",
+    "name": "The Modcrab",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 903,
+    "index": "B",
+    "solvedCount": 7582
+  }
+}

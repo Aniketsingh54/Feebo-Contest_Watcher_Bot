@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1291,
+    "index": "B",
+    "name": "Array Sharpening",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1291,
+    "index": "B",
+    "solvedCount": 13816
+  }
+}

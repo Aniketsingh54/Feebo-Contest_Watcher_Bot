@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 955,
+    "index": "D",
+    "name": "Scissors",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 955,
+    "index": "D",
+    "solvedCount": 458
+  }
+}

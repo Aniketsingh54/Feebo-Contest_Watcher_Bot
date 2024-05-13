@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1672,
+    "index": "I",
+    "name": "PermutationForces",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3000,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1672,
+    "index": "I",
+    "solvedCount": 137
+  }
+}

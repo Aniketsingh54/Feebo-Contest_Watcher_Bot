@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1096,
+    "index": "G",
+    "name": "Lucky Tickets",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "fft"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1096,
+    "index": "G",
+    "solvedCount": 1379
+  }
+}

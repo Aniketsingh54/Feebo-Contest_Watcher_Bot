@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1208,
+    "index": "F",
+    "name": "Bits And Pieces",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1208,
+    "index": "F",
+    "solvedCount": 2108
+  }
+}

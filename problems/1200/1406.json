@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1736,
+    "index": "B",
+    "name": "Playing with GCD",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1736,
+    "index": "B",
+    "solvedCount": 17273
+  }
+}

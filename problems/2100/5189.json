@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1005,
+    "index": "F",
+    "name": "Berland and the Shortest Paths",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1005,
+    "index": "F",
+    "solvedCount": 1611
+  }
+}

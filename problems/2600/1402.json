@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1736,
+    "index": "E",
+    "name": "Swap and Take",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1736,
+    "index": "E",
+    "solvedCount": 639
+  }
+}

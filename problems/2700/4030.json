@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1238,
+    "index": "G",
+    "name": "Adilbek and the Watering System",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1238,
+    "index": "G",
+    "solvedCount": 392
+  }
+}

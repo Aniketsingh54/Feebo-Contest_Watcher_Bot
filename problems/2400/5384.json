@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 962,
+    "index": "F",
+    "name": "Simple Cycles Edges",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 962,
+    "index": "F",
+    "solvedCount": 1222
+  }
+}

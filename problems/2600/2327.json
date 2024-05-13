@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1569,
+    "index": "E",
+    "name": "Playoff Restoration",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "hashing",
+      "implementation",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1569,
+    "index": "E",
+    "solvedCount": 785
+  }
+}

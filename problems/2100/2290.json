@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1575,
+    "index": "L",
+    "name": "Longest Array Deconstruction",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1575,
+    "index": "L",
+    "solvedCount": 1274
+  }
+}

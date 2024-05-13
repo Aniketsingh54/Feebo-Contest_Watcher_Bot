@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 877,
+    "index": "A",
+    "name": "Alex and broken contest",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 877,
+    "index": "A",
+    "solvedCount": 10699
+  }
+}

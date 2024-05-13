@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "F",
+    "name": "Exotic Queries",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "F",
+    "solvedCount": 1314
+  }
+}

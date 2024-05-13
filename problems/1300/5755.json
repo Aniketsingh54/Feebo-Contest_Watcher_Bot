@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "F",
+    "name": "Lost in Transliteration",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "F",
+    "solvedCount": 2233
+  }
+}

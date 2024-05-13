@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 705,
+    "index": "A",
+    "name": "Hulk",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 705,
+    "index": "A",
+    "solvedCount": 99613
+  }
+}

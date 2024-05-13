@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1621,
+    "index": "D",
+    "name": "The Winter Hike",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1621,
+    "index": "D",
+    "solvedCount": 3964
+  }
+}

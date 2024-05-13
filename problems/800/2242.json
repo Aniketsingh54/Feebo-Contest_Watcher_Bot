@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1584,
+    "index": "A",
+    "name": "Mathematical Addition",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1584,
+    "index": "A",
+    "solvedCount": 14619
+  }
+}

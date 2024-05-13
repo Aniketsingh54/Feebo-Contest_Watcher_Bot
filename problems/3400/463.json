@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1896,
+    "index": "H1",
+    "name": "Cyclic Hamming (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3400,
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1896,
+    "index": "H1",
+    "solvedCount": 78
+  }
+}

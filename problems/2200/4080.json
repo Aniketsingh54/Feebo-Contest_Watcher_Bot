@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1225,
+    "index": "E",
+    "name": "Rock Is Push",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1225,
+    "index": "E",
+    "solvedCount": 1793
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1798,
+    "index": "E",
+    "name": "Multitest Generator",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1798,
+    "index": "E",
+    "solvedCount": 1520
+  }
+}

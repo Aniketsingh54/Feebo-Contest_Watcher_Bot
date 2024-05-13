@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 842,
+    "index": "E",
+    "name": "Nikita and game",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "divide and conquer",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 842,
+    "index": "E",
+    "solvedCount": 396
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1007,
+    "index": "D",
+    "name": "Ants",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "2-sat",
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1007,
+    "index": "D",
+    "solvedCount": 257
+  }
+}

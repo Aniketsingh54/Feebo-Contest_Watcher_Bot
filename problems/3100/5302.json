@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 986,
+    "index": "D",
+    "name": "Perfect Encoding",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 986,
+    "index": "D",
+    "solvedCount": 323
+  }
+}

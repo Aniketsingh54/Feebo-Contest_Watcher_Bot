@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 856,
+    "index": "B",
+    "name": "Similar Words",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "hashing",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 856,
+    "index": "B",
+    "solvedCount": 477
+  }
+}

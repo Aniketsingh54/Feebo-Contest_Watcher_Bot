@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1667,
+    "index": "D",
+    "name": "Edge Elimination",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1667,
+    "index": "D",
+    "solvedCount": 642
+  }
+}

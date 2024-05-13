@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1065,
+    "index": "D",
+    "name": "Three Pieces",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1065,
+    "index": "D",
+    "solvedCount": 1271
+  }
+}

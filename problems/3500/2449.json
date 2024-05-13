@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1545,
+    "index": "F",
+    "name": "AquaMoon and Potatoes",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1545,
+    "index": "F",
+    "solvedCount": 105
+  }
+}

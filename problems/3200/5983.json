@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 827,
+    "index": "F",
+    "name": "Dirty Arkady's Kitchen",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 827,
+    "index": "F",
+    "solvedCount": 385
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1154,
+    "index": "C",
+    "name": "Gourmet Cat",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1154,
+    "index": "C",
+    "solvedCount": 10229
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 915,
+    "index": "F",
+    "name": "Imbalance Value of a Tree",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 915,
+    "index": "F",
+    "solvedCount": 2312
+  }
+}

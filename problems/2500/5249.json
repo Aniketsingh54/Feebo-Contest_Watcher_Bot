@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 997,
+    "index": "C",
+    "name": "Sky Full of Stars",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 997,
+    "index": "C",
+    "solvedCount": 1636
+  }
+}

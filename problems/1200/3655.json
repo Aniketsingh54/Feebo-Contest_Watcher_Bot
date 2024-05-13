@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1315,
+    "index": "C",
+    "name": "Restoring Permutation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1315,
+    "index": "C",
+    "solvedCount": 9803
+  }
+}

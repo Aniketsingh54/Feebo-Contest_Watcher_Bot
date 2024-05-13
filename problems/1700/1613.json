@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1700,
+    "index": "C",
+    "name": "Helping the Nature",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1700,
+    "index": "C",
+    "solvedCount": 10466
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1131,
+    "index": "D",
+    "name": "Gourmet choice",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1131,
+    "index": "D",
+    "solvedCount": 3165
+  }
+}

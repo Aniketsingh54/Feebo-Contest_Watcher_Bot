@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1876,
+    "index": "B",
+    "name": "Effects of Anti Pimples",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1876,
+    "index": "B",
+    "solvedCount": 7528
+  }
+}

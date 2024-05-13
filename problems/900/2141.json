@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1609,
+    "index": "A",
+    "name": "Divide and Multiply",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1609,
+    "index": "A",
+    "solvedCount": 16679
+  }
+}

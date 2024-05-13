@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1237,
+    "index": "E",
+    "name": "Balanced Binary Search Trees",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1237,
+    "index": "E",
+    "solvedCount": 1263
+  }
+}

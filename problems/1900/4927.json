@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1063,
+    "index": "C",
+    "name": "Dwarves, Hats and Extrasensory Abilities",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "geometry",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1063,
+    "index": "C",
+    "solvedCount": 2791
+  }
+}

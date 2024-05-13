@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1034,
+    "index": "B",
+    "name": "Little C Loves 3 II",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "flows",
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1034,
+    "index": "B",
+    "solvedCount": 2074
+  }
+}

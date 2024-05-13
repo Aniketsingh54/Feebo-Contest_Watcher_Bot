@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 899,
+    "index": "F",
+    "name": "Letters Removing",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 899,
+    "index": "F",
+    "solvedCount": 1574
+  }
+}

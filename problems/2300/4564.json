@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1139,
+    "index": "D",
+    "name": "Steps to One",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1139,
+    "index": "D",
+    "solvedCount": 1990
+  }
+}

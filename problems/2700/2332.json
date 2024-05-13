@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1567,
+    "index": "F",
+    "name": "One-Four Overload",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1567,
+    "index": "F",
+    "solvedCount": 728
+  }
+}

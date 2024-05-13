@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1513,
+    "index": "B",
+    "name": "AND Sequences",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1513,
+    "index": "B",
+    "solvedCount": 13765
+  }
+}

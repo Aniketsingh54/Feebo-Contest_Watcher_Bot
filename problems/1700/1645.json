@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1695,
+    "index": "C",
+    "name": "Zero Path",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1695,
+    "index": "C",
+    "solvedCount": 10383
+  }
+}

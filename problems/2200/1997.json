@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1630,
+    "index": "C",
+    "name": "Paint the Middle",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1630,
+    "index": "C",
+    "solvedCount": 2835
+  }
+}

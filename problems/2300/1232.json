@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1766,
+    "index": "E",
+    "name": "Decomposition",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1766,
+    "index": "E",
+    "solvedCount": 1128
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1832,
+    "index": "B",
+    "name": "Maximum Sum",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1832,
+    "index": "B",
+    "solvedCount": 19671
+  }
+}

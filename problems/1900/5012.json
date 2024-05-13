@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1043,
+    "index": "E",
+    "name": "Train Hard, Win Easy",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1043,
+    "index": "E",
+    "solvedCount": 2688
+  }
+}

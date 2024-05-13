@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1313,
+    "index": "E",
+    "name": "Concatenation with intersection",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "hashing",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1313,
+    "index": "E",
+    "solvedCount": 514
+  }
+}

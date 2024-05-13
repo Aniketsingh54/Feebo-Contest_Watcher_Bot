@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1153,
+    "index": "E",
+    "name": "Serval and Snake",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1153,
+    "index": "E",
+    "solvedCount": 1449
+  }
+}

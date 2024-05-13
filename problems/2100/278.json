@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1924,
+    "index": "B",
+    "name": "Space Harbour",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1924,
+    "index": "B",
+    "solvedCount": 2279
+  }
+}

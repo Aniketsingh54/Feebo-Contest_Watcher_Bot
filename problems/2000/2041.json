@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1622,
+    "index": "D",
+    "name": "Shuffle",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1622,
+    "index": "D",
+    "solvedCount": 3873
+  }
+}

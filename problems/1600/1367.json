@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1741,
+    "index": "E",
+    "name": "Sending a Sequence Over the Network",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1741,
+    "index": "E",
+    "solvedCount": 10829
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1631,
+    "index": "A",
+    "name": "Min Max Swap",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1631,
+    "index": "A",
+    "solvedCount": 28641
+  }
+}

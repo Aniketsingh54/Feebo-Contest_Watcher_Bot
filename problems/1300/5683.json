@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 899,
+    "index": "C",
+    "name": "Dividing the numbers",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 899,
+    "index": "C",
+    "solvedCount": 8270
+  }
+}

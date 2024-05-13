@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "A",
+    "name": "Union of Doubly Linked Lists",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "A",
+    "solvedCount": 3298
+  }
+}

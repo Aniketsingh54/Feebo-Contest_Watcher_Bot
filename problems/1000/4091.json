@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1223,
+    "index": "B",
+    "name": "Strings Equalization",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1223,
+    "index": "B",
+    "solvedCount": 14435
+  }
+}

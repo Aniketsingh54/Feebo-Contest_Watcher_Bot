@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 727,
+    "index": "C",
+    "name": "Guess the Array",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 727,
+    "index": "C",
+    "solvedCount": 6918
+  }
+}

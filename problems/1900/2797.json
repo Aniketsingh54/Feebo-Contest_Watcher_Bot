@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1482,
+    "index": "D",
+    "name": "Playlist",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "dsu",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1482,
+    "index": "D",
+    "solvedCount": 3733
+  }
+}

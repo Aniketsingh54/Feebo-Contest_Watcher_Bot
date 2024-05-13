@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1098,
+    "index": "B",
+    "name": "Nice table",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1098,
+    "index": "B",
+    "solvedCount": 1465
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1956,
+    "index": "C",
+    "name": "Nene's Magical Matrix",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1956,
+    "index": "C",
+    "solvedCount": 10589
+  }
+}

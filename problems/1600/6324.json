@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 750,
+    "index": "C",
+    "name": "New Year and Rating",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 750,
+    "index": "C",
+    "solvedCount": 6491
+  }
+}

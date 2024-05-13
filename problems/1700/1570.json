@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1706,
+    "index": "D1",
+    "name": "Chopping Carrots (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1706,
+    "index": "D1",
+    "solvedCount": 6676
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1473,
+    "index": "G",
+    "name": "Tiles",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1473,
+    "index": "G",
+    "solvedCount": 382
+  }
+}

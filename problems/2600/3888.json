@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1267,
+    "index": "I",
+    "name": "Intriguing Selection",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1267,
+    "index": "I",
+    "solvedCount": 729
+  }
+}

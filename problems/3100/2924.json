@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1458,
+    "index": "D",
+    "name": "Flip and Reverse",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3100,
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1458,
+    "index": "D",
+    "solvedCount": 977
+  }
+}

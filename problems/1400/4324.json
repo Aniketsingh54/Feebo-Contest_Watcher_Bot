@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "B1",
+    "name": "The Doctor Meets Vader (Easy)",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "B1",
+    "solvedCount": 5107
+  }
+}

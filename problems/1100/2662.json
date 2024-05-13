@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1509,
+    "index": "B",
+    "name": "TMT Document",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1509,
+    "index": "B",
+    "solvedCount": 21127
+  }
+}

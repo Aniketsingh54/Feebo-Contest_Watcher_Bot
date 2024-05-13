@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1082,
+    "index": "G",
+    "name": "Petya and Graph",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1082,
+    "index": "G",
+    "solvedCount": 1943
+  }
+}

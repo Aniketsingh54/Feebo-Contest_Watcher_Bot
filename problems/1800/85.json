@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1954,
+    "index": "D",
+    "name": "Colored Balls",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1954,
+    "index": "D",
+    "solvedCount": 4877
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1276,
+    "index": "A",
+    "name": "As Simple as One and Two",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1276,
+    "index": "A",
+    "solvedCount": 12043
+  }
+}

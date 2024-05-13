@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1527,
+    "index": "B1",
+    "name": "Palindrome Game (easy version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1527,
+    "index": "B1",
+    "solvedCount": 24272
+  }
+}

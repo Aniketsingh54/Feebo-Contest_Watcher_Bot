@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 770,
+    "index": "A",
+    "name": "New Password",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 770,
+    "index": "A",
+    "solvedCount": 18787
+  }
+}

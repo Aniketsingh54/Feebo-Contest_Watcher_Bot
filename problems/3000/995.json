@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1801,
+    "index": "E",
+    "name": "Gasoline prices",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "hashing",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1801,
+    "index": "E",
+    "solvedCount": 432
+  }
+}

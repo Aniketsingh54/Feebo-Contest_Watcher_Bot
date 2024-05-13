@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 986,
+    "index": "E",
+    "name": "Prince's Problem",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 986,
+    "index": "E",
+    "solvedCount": 703
+  }
+}

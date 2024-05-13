@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1820,
+    "index": "B",
+    "name": "JoJo's Incredible Adventures",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "math",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1820,
+    "index": "B",
+    "solvedCount": 13408
+  }
+}

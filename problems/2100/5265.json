@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 993,
+    "index": "C",
+    "name": "Careful Maneuvering",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 993,
+    "index": "C",
+    "solvedCount": 1480
+  }
+}

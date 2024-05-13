@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1406,
+    "index": "D",
+    "name": "Three Sequences",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1406,
+    "index": "D",
+    "solvedCount": 3372
+  }
+}

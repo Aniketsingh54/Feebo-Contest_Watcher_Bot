@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1083,
+    "index": "E",
+    "name": "The Fair Nut and Rectangles",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dp",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1083,
+    "index": "E",
+    "solvedCount": 3812
+  }
+}

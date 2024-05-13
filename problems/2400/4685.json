@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1109,
+    "index": "D",
+    "name": "Sasha and Interesting Fact from Graph Theory",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1109,
+    "index": "D",
+    "solvedCount": 1270
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1156,
+    "index": "A",
+    "name": "Inscribed Figures",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1156,
+    "index": "A",
+    "solvedCount": 8104
+  }
+}

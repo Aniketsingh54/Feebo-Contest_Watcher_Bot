@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 900,
+    "index": "E",
+    "name": "Maximum Questions",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 900,
+    "index": "E",
+    "solvedCount": 1029
+  }
+}

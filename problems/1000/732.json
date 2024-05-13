@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1847,
+    "index": "B",
+    "name": "Hamon Odyssey",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1847,
+    "index": "B",
+    "solvedCount": 19104
+  }
+}

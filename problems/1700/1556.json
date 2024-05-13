@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1709,
+    "index": "D",
+    "name": "Rorororobot",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1709,
+    "index": "D",
+    "solvedCount": 8081
+  }
+}

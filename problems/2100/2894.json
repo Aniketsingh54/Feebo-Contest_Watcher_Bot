@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1466,
+    "index": "F",
+    "name": "Euclid's nightmare",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1466,
+    "index": "F",
+    "solvedCount": 2794
+  }
+}

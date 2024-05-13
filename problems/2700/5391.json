@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 961,
+    "index": "F",
+    "name": "k-substrings",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "hashing",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 961,
+    "index": "F",
+    "solvedCount": 656
+  }
+}

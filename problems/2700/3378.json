@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1366,
+    "index": "F",
+    "name": "Jog Around The Graph",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "dp",
+      "geometry",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1366,
+    "index": "F",
+    "solvedCount": 590
+  }
+}

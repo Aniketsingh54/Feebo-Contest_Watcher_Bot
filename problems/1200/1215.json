@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1769,
+    "index": "C1",
+    "name": "Подкрутка I",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "*special",
+      "brute force",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1769,
+    "index": "C1",
+    "solvedCount": 931
+  }
+}

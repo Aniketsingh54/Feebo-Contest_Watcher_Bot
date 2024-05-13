@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1239,
+    "index": "D",
+    "name": "Catowice City",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1239,
+    "index": "D",
+    "solvedCount": 1887
+  }
+}

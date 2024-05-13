@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1638,
+    "index": "C",
+    "name": "Inversion Graph",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1638,
+    "index": "C",
+    "solvedCount": 14377
+  }
+}

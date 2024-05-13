@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 906,
+    "index": "C",
+    "name": "Party",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 906,
+    "index": "C",
+    "solvedCount": 1182
+  }
+}

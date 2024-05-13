@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 946,
+    "index": "D",
+    "name": "Timetable",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 946,
+    "index": "D",
+    "solvedCount": 4270
+  }
+}

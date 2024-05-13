@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1583,
+    "index": "B",
+    "name": "Omkar and Heavenly Tree",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1583,
+    "index": "B",
+    "solvedCount": 11941
+  }
+}

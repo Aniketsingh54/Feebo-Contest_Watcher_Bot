@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1930,
+    "index": "I",
+    "name": "Counting Is Fun",
+    "type": "PROGRAMMING",
+    "points": 5000,
+    "rating": 3500,
+    "tags": [
+      "combinatorics"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1930,
+    "index": "I",
+    "solvedCount": 50
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1168,
+    "index": "B",
+    "name": "Good Triple",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1168,
+    "index": "B",
+    "solvedCount": 3447
+  }
+}

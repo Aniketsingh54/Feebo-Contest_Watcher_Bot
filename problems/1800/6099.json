@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "B",
+    "name": "Heidi and Library (medium)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "B",
+    "solvedCount": 1012
+  }
+}

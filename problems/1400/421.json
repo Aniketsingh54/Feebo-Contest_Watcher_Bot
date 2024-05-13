@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1904,
+    "index": "C",
+    "name": "Array Game",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1904,
+    "index": "C",
+    "solvedCount": 10652
+  }
+}

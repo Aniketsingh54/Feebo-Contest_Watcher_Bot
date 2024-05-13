@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1225,
+    "index": "B2",
+    "name": "TV Subscriptions (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1225,
+    "index": "B2",
+    "solvedCount": 10117
+  }
+}

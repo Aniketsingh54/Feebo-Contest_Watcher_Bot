@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 702,
+    "index": "E",
+    "name": "Analysis of Pathes in Functional Graph",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 702,
+    "index": "E",
+    "solvedCount": 2271
+  }
+}

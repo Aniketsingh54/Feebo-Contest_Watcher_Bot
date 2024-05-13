@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1383,
+    "index": "F",
+    "name": "Special Edges",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1383,
+    "index": "F",
+    "solvedCount": 320
+  }
+}

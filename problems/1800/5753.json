@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "H",
+    "name": "Palindromic Cut",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "H",
+    "solvedCount": 1565
+  }
+}

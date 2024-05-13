@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1950,
+    "index": "B",
+    "name": "Upscaling",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1950,
+    "index": "B",
+    "solvedCount": 33559
+  }
+}

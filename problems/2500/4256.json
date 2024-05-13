@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1195,
+    "index": "F",
+    "name": "Geometers Anonymous Club",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "geometry",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1195,
+    "index": "F",
+    "solvedCount": 695
+  }
+}

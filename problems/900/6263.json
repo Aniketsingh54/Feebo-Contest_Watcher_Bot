@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 765,
+    "index": "A",
+    "name": "Neverending competitions",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 765,
+    "index": "A",
+    "solvedCount": 8863
+  }
+}

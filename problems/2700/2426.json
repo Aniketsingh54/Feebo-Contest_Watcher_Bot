@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1550,
+    "index": "F",
+    "name": "Jumping Around",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1550,
+    "index": "F",
+    "solvedCount": 628
+  }
+}

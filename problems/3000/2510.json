@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1534,
+    "index": "F2",
+    "name": "Falling Sand (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 3000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1534,
+    "index": "F2",
+    "solvedCount": 515
+  }
+}

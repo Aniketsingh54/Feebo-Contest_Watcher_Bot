@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1329,
+    "index": "C",
+    "name": "Drazil Likes Heap",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1329,
+    "index": "C",
+    "solvedCount": 1525
+  }
+}

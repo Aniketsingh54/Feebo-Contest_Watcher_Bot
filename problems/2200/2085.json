@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1616,
+    "index": "E",
+    "name": "Lexicographically Small Enough",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1616,
+    "index": "E",
+    "solvedCount": 2384
+  }
+}

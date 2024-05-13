@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1165,
+    "index": "B",
+    "name": "Polycarp Training",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1165,
+    "index": "B",
+    "solvedCount": 20342
+  }
+}

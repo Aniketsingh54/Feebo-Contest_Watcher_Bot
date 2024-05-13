@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1893,
+    "index": "A",
+    "name": "Anonymous Informant",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1893,
+    "index": "A",
+    "solvedCount": 11280
+  }
+}

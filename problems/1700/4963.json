@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1056,
+    "index": "C",
+    "name": "Pick Heroes",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "greedy",
+      "implementation",
+      "interactive",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1056,
+    "index": "C",
+    "solvedCount": 2320
+  }
+}

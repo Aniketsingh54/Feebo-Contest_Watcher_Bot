@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1670,
+    "index": "C",
+    "name": "Where is the Pizza?",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1670,
+    "index": "C",
+    "solvedCount": 9521
+  }
+}

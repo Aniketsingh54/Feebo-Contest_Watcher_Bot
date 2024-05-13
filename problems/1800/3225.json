@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1396,
+    "index": "B",
+    "name": "Stoned Game",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1396,
+    "index": "B",
+    "solvedCount": 10884
+  }
+}

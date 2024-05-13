@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1798,
+    "index": "A",
+    "name": "Showstopper",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1798,
+    "index": "A",
+    "solvedCount": 19337
+  }
+}

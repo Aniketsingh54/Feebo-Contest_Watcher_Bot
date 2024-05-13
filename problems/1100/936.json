@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1811,
+    "index": "C",
+    "name": "Restore the Array",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1811,
+    "index": "C",
+    "solvedCount": 18915
+  }
+}

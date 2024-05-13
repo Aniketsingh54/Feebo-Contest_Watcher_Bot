@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1354,
+    "index": "E",
+    "name": "Graph Coloring",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1354,
+    "index": "E",
+    "solvedCount": 3061
+  }
+}

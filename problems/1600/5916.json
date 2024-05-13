@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 845,
+    "index": "B",
+    "name": "Luba And The Ticket",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 845,
+    "index": "B",
+    "solvedCount": 4936
+  }
+}

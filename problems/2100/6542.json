@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 703,
+    "index": "C",
+    "name": "Chris and Road",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "geometry",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 703,
+    "index": "C",
+    "solvedCount": 1585
+  }
+}

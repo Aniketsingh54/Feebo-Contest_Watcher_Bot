@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1176,
+    "index": "C",
+    "name": "Lose it!",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1176,
+    "index": "C",
+    "solvedCount": 13849
+  }
+}

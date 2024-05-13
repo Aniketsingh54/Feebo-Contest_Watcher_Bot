@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1684,
+    "index": "E",
+    "name": "MEX vs DIFF",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1684,
+    "index": "E",
+    "solvedCount": 3041
+  }
+}

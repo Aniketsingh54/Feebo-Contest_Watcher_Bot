@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 766,
+    "index": "D",
+    "name": "Mahmoud and a Dictionary",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 766,
+    "index": "D",
+    "solvedCount": 3265
+  }
+}

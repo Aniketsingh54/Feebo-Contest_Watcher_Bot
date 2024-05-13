@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1336,
+    "index": "A",
+    "name": "Linova and Kingdom",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1336,
+    "index": "A",
+    "solvedCount": 19362
+  }
+}

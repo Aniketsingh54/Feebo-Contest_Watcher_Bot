@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 715,
+    "index": "B",
+    "name": "Complete The Graph",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 715,
+    "index": "B",
+    "solvedCount": 2659
+  }
+}

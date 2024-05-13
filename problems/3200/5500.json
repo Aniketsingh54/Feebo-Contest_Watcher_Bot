@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 933,
+    "index": "E",
+    "name": "A Preponderant Reunion",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "constructive algorithms",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 933,
+    "index": "E",
+    "solvedCount": 185
+  }
+}

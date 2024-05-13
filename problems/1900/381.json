@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1909,
+    "index": "I",
+    "name": "Short Permutation Problem",
+    "type": "PROGRAMMING",
+    "points": 6000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1909,
+    "index": "I",
+    "solvedCount": 75
+  }
+}

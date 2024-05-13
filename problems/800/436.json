@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1902,
+    "index": "A",
+    "name": "Binary Imbalance",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1902,
+    "index": "A",
+    "solvedCount": 19804
+  }
+}

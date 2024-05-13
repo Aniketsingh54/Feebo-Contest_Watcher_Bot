@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1857,
+    "index": "D",
+    "name": "Strong Vertices",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "math",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1857,
+    "index": "D",
+    "solvedCount": 17749
+  }
+}

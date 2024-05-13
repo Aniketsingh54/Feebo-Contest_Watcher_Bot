@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1118,
+    "index": "F1",
+    "name": "Tree Cutting (Easy Version)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1118,
+    "index": "F1",
+    "solvedCount": 5691
+  }
+}

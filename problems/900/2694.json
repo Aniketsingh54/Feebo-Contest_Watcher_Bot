@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1501,
+    "index": "B",
+    "name": "Napoleon Cake",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "dp",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1501,
+    "index": "B",
+    "solvedCount": 18463
+  }
+}

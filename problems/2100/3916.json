@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1263,
+    "index": "E",
+    "name": "Editor",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1263,
+    "index": "E",
+    "solvedCount": 2595
+  }
+}

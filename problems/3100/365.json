@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1912,
+    "index": "F",
+    "name": "Fugitive Frenzy",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1912,
+    "index": "F",
+    "solvedCount": 105
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 727,
+    "index": "B",
+    "name": "Bill Total Value",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "expression parsing",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 727,
+    "index": "B",
+    "solvedCount": 1965
+  }
+}

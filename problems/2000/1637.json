@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1696,
+    "index": "E",
+    "name": "Placing Jinas",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1696,
+    "index": "E",
+    "solvedCount": 3839
+  }
+}

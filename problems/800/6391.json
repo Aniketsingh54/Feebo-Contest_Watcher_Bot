@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 734,
+    "index": "A",
+    "name": "Anton and Danik",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 734,
+    "index": "A",
+    "solvedCount": 140630
+  }
+}

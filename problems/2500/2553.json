@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1528,
+    "index": "D",
+    "name": "It's a bird! No, it's a plane! No, it's AaParsa!",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1528,
+    "index": "D",
+    "solvedCount": 1386
+  }
+}

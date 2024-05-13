@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1000,
+    "index": "B",
+    "name": "Light It Up",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1000,
+    "index": "B",
+    "solvedCount": 5591
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1276,
+    "index": "B",
+    "name": "Two Fairs",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1276,
+    "index": "B",
+    "solvedCount": 4668
+  }
+}

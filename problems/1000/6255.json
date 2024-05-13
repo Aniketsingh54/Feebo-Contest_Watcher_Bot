@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 766,
+    "index": "B",
+    "name": "Mahmoud and a Triangle",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 766,
+    "index": "B",
+    "solvedCount": 31160
+  }
+}

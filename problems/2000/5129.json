@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1019,
+    "index": "B",
+    "name": "The hat",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1019,
+    "index": "B",
+    "solvedCount": 1891
+  }
+}

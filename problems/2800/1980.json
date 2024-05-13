@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1633,
+    "index": "F",
+    "name": "Perfect Matching",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1633,
+    "index": "F",
+    "solvedCount": 308
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1181,
+    "index": "C",
+    "name": "Flag",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1181,
+    "index": "C",
+    "solvedCount": 3004
+  }
+}

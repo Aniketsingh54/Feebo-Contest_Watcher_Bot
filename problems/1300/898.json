@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1819,
+    "index": "A",
+    "name": "Constructive Problem",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1819,
+    "index": "A",
+    "solvedCount": 12072
+  }
+}

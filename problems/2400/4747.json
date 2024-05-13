@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1098,
+    "index": "C",
+    "name": "Construct a tree",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1098,
+    "index": "C",
+    "solvedCount": 865
+  }
+}

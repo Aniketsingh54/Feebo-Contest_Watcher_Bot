@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1821,
+    "index": "B",
+    "name": "Sort the Subarray",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1821,
+    "index": "B",
+    "solvedCount": 16947
+  }
+}

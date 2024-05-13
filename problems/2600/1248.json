@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "C",
+    "name": "Card Guessing",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "C",
+    "solvedCount": 367
+  }
+}

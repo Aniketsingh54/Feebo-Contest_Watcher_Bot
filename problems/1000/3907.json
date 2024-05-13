@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1265,
+    "index": "A",
+    "name": "Beautiful String",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1265,
+    "index": "A",
+    "solvedCount": 14770
+  }
+}

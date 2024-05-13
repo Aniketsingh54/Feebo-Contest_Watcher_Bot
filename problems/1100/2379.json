@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1557,
+    "index": "B",
+    "name": "Moamen and k-subarrays",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1557,
+    "index": "B",
+    "solvedCount": 22831
+  }
+}

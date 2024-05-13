@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1091,
+    "index": "E",
+    "name": "New Year and the Acquaintance Estimation",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1091,
+    "index": "E",
+    "solvedCount": 977
+  }
+}

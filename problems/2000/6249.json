@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 767,
+    "index": "C",
+    "name": "Garland",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 767,
+    "index": "C",
+    "solvedCount": 3978
+  }
+}

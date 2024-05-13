@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1016,
+    "index": "C",
+    "name": "Vasya And The Mushrooms",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1016,
+    "index": "C",
+    "solvedCount": 3639
+  }
+}

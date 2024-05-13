@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1944,
+    "index": "B",
+    "name": "Equal XOR",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1944,
+    "index": "B",
+    "solvedCount": 14255
+  }
+}

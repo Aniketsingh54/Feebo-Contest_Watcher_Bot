@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1422,
+    "index": "B",
+    "name": "Nice Matrix",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1422,
+    "index": "B",
+    "solvedCount": 14175
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1611,
+    "index": "D",
+    "name": "Weights Assignment For Tree Edges",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1611,
+    "index": "D",
+    "solvedCount": 9524
+  }
+}

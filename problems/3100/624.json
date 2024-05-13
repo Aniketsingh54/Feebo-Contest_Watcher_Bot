@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "G",
+    "name": "Magic Square",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3100,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "G",
+    "solvedCount": 252
+  }
+}

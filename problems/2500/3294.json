@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1381,
+    "index": "C",
+    "name": "Mastermind",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1381,
+    "index": "C",
+    "solvedCount": 1389
+  }
+}

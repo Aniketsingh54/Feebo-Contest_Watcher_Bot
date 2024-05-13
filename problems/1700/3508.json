@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1346,
+    "index": "E",
+    "name": "Magic Tricks",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "*special",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1346,
+    "index": "E",
+    "solvedCount": 369
+  }
+}

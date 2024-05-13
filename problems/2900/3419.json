@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1359,
+    "index": "F",
+    "name": "RC Kaboom Show",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1359,
+    "index": "F",
+    "solvedCount": 350
+  }
+}

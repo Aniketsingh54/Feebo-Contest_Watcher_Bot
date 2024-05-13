@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1635,
+    "index": "C",
+    "name": "Differential Sorting",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1635,
+    "index": "C",
+    "solvedCount": 16383
+  }
+}

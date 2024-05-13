@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1361,
+    "index": "A",
+    "name": "Johnny and Contribution",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1361,
+    "index": "A",
+    "solvedCount": 8156
+  }
+}

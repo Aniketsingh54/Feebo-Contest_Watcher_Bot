@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1561,
+    "index": "C",
+    "name": "Deep Down Below",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1561,
+    "index": "C",
+    "solvedCount": 13531
+  }
+}

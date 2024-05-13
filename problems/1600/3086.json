@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1423,
+    "index": "K",
+    "name": "Lonely Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1423,
+    "index": "K",
+    "solvedCount": 4674
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1384,
+    "index": "B2",
+    "name": "Koa and the Beach (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1384,
+    "index": "B2",
+    "solvedCount": 2459
+  }
+}

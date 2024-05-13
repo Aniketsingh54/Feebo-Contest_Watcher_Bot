@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1349,
+    "index": "C",
+    "name": "Orac and Game of Life",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1349,
+    "index": "C",
+    "solvedCount": 4231
+  }
+}

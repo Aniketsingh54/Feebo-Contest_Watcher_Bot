@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1857,
+    "index": "G",
+    "name": "Counting Graphs",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1857,
+    "index": "G",
+    "solvedCount": 4091
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 853,
+    "index": "D",
+    "name": "Michael and Charging Stations",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 853,
+    "index": "D",
+    "solvedCount": 653
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 919,
+    "index": "D",
+    "name": "Substring",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 919,
+    "index": "D",
+    "solvedCount": 9333
+  }
+}

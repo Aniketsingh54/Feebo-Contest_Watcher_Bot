@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1764,
+    "index": "G3",
+    "name": "Doremy's Perfect DS Class (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1764,
+    "index": "G3",
+    "solvedCount": 433
+  }
+}

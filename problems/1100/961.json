@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1807,
+    "index": "G2",
+    "name": "Subsequence Addition (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1807,
+    "index": "G2",
+    "solvedCount": 17723
+  }
+}

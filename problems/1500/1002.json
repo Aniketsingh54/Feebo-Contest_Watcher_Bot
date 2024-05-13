@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1800,
+    "index": "E2",
+    "name": "Unforgivable Curse (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1800,
+    "index": "E2",
+    "solvedCount": 12069
+  }
+}

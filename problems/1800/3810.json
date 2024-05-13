@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1283,
+    "index": "D",
+    "name": "Christmas Trees",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1283,
+    "index": "D",
+    "solvedCount": 7451
+  }
+}

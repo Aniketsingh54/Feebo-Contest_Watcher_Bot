@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 913,
+    "index": "B",
+    "name": "Christmas Spruce",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 913,
+    "index": "B",
+    "solvedCount": 15431
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1296,
+    "index": "D",
+    "name": "Fight with Monsters",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1296,
+    "index": "D",
+    "solvedCount": 13870
+  }
+}

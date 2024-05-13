@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1609,
+    "index": "C",
+    "name": "Complex Market Analysis",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "number theory",
+      "schedules",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1609,
+    "index": "C",
+    "solvedCount": 9491
+  }
+}

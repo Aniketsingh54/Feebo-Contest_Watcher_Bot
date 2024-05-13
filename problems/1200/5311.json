@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 985,
+    "index": "B",
+    "name": "Switches and Lamps",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 985,
+    "index": "B",
+    "solvedCount": 7301
+  }
+}

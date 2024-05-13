@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 914,
+    "index": "D",
+    "name": "Bash and a Tough Math Puzzle",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 914,
+    "index": "D",
+    "solvedCount": 5052
+  }
+}

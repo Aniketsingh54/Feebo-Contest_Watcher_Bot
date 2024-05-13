@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1673,
+    "index": "D",
+    "name": "Lost Arithmetic Progression",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1673,
+    "index": "D",
+    "solvedCount": 3196
+  }
+}

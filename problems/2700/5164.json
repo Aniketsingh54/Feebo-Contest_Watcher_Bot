@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1010,
+    "index": "E",
+    "name": "Store",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1010,
+    "index": "E",
+    "solvedCount": 321
+  }
+}

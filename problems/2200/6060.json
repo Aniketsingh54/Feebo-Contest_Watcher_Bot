@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 809,
+    "index": "B",
+    "name": "Glad to see you!",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 809,
+    "index": "B",
+    "solvedCount": 1438
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 832,
+    "index": "C",
+    "name": "Strange Radiation",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 832,
+    "index": "C",
+    "solvedCount": 427
+  }
+}

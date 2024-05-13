@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1077,
+    "index": "B",
+    "name": "Disturbed People",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1077,
+    "index": "B",
+    "solvedCount": 18296
+  }
+}

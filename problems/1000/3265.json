@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1388,
+    "index": "B",
+    "name": "Captain Flint and a Long Voyage",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1388,
+    "index": "B",
+    "solvedCount": 21905
+  }
+}

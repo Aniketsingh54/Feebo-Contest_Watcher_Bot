@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1426,
+    "index": "A",
+    "name": "Floor Number",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1426,
+    "index": "A",
+    "solvedCount": 45591
+  }
+}

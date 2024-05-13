@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1583,
+    "index": "E",
+    "name": "Moment of Bloom",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1583,
+    "index": "E",
+    "solvedCount": 2161
+  }
+}

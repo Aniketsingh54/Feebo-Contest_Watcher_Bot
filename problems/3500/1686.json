@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1687,
+    "index": "E",
+    "name": "Become Big For Me",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3500,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1687,
+    "index": "E",
+    "solvedCount": 215
+  }
+}

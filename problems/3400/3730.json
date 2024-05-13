@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1299,
+    "index": "E",
+    "name": "So Mean",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3400,
+    "tags": [
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1299,
+    "index": "E",
+    "solvedCount": 148
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1051,
+    "index": "G",
+    "name": "Distinctification",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1051,
+    "index": "G",
+    "solvedCount": 364
+  }
+}

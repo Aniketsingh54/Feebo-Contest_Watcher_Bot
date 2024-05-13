@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1550,
+    "index": "B",
+    "name": "Maximum Cost Deletion",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1550,
+    "index": "B",
+    "solvedCount": 25740
+  }
+}

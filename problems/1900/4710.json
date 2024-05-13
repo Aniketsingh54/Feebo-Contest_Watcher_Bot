@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1105,
+    "index": "D",
+    "name": "Kilani and the Game",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1105,
+    "index": "D",
+    "solvedCount": 3982
+  }
+}

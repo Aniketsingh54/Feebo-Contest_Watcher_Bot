@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 900,
+    "index": "D",
+    "name": "Unusual Sequences",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 900,
+    "index": "D",
+    "solvedCount": 2990
+  }
+}

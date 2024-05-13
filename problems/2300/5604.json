@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 915,
+    "index": "E",
+    "name": "Physical Education Lessons",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 915,
+    "index": "E",
+    "solvedCount": 4013
+  }
+}

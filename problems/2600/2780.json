@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1486,
+    "index": "F",
+    "name": "Pairs of Paths",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1486,
+    "index": "F",
+    "solvedCount": 621
+  }
+}

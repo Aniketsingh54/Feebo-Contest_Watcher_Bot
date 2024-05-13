@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1682,
+    "index": "A",
+    "name": "Palindromic Indices",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1682,
+    "index": "A",
+    "solvedCount": 19025
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1430,
+    "index": "D",
+    "name": "String Deletion",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1430,
+    "index": "D",
+    "solvedCount": 8668
+  }
+}

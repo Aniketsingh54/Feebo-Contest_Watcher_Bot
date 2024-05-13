@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1398,
+    "index": "D",
+    "name": "Colored Rectangles",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1398,
+    "index": "D",
+    "solvedCount": 11005
+  }
+}

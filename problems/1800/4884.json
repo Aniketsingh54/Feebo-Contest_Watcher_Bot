@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1073,
+    "index": "C",
+    "name": "Vasya and Robot",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1073,
+    "index": "C",
+    "solvedCount": 4552
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 983,
+    "index": "E",
+    "name": "NN country",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 983,
+    "index": "E",
+    "solvedCount": 876
+  }
+}

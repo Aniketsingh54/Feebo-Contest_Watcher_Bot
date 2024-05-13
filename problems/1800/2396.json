@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1554,
+    "index": "D",
+    "name": "Diane",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1554,
+    "index": "D",
+    "solvedCount": 9084
+  }
+}

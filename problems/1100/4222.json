@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1202,
+    "index": "A",
+    "name": "You Are Given Two Binary Strings...",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1202,
+    "index": "A",
+    "solvedCount": 8980
+  }
+}

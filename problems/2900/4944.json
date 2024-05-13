@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1060,
+    "index": "F",
+    "name": "Shrinking Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1060,
+    "index": "F",
+    "solvedCount": 542
+  }
+}

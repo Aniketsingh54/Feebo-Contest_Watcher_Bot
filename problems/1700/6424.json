@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 729,
+    "index": "D",
+    "name": "Sea Battle",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 729,
+    "index": "D",
+    "solvedCount": 3625
+  }
+}

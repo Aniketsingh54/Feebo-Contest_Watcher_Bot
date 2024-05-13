@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 916,
+    "index": "B",
+    "name": "Jamie and Binary Sequence (changed after round)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 916,
+    "index": "B",
+    "solvedCount": 1671
+  }
+}

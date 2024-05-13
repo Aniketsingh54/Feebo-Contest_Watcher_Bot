@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1088,
+    "index": "E",
+    "name": "Ehab and a component choosing problem",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1088,
+    "index": "E",
+    "solvedCount": 1400
+  }
+}

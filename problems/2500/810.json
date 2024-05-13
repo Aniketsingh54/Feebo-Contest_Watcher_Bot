@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1835,
+    "index": "B",
+    "name": "Lottery",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1835,
+    "index": "B",
+    "solvedCount": 903
+  }
+}

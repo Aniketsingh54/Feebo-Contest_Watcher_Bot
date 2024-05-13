@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "B",
+    "name": "Berland Army",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "B",
+    "solvedCount": 322
+  }
+}

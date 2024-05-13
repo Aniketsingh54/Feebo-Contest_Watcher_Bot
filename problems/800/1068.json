@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1791,
+    "index": "A",
+    "name": "Codeforces Checking",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1791,
+    "index": "A",
+    "solvedCount": 55166
+  }
+}

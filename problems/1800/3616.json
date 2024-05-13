@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1326,
+    "index": "D2",
+    "name": "Prefix-Suffix Palindrome (Hard version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "greedy",
+      "hashing",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1326,
+    "index": "D2",
+    "solvedCount": 9586
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1921,
+    "index": "G",
+    "name": "Mischievous Shooter",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1921,
+    "index": "G",
+    "solvedCount": 1127
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1874,
+    "index": "B",
+    "name": "Jellyfish and Math",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1874,
+    "index": "B",
+    "solvedCount": 1066
+  }
+}

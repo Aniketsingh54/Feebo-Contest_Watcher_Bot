@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 946,
+    "index": "G",
+    "name": "Almost Increasing Array",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 946,
+    "index": "G",
+    "solvedCount": 649
+  }
+}

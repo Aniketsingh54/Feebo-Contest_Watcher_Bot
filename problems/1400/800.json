@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1837,
+    "index": "D",
+    "name": "Bracket Coloring",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1837,
+    "index": "D",
+    "solvedCount": 13354
+  }
+}

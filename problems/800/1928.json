@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1646,
+    "index": "A",
+    "name": "Square Counting",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1646,
+    "index": "A",
+    "solvedCount": 23993
+  }
+}

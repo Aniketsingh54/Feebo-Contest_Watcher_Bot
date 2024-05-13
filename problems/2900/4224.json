@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1201,
+    "index": "E1",
+    "name": "Knightmare (easy)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "graphs",
+      "interactive",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1201,
+    "index": "E1",
+    "solvedCount": 125
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 787,
+    "index": "A",
+    "name": "The Monster",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 787,
+    "index": "A",
+    "solvedCount": 11051
+  }
+}

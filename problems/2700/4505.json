@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1148,
+    "index": "F",
+    "name": "Foo Fighters",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1148,
+    "index": "F",
+    "solvedCount": 970
+  }
+}

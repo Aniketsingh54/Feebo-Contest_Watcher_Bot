@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1382,
+    "index": "A",
+    "name": "Common Subsequence",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1382,
+    "index": "A",
+    "solvedCount": 26083
+  }
+}

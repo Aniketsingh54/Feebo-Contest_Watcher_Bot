@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1038,
+    "index": "A",
+    "name": "Equality",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1038,
+    "index": "A",
+    "solvedCount": 14419
+  }
+}

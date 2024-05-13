@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 868,
+    "index": "F",
+    "name": "Yet Another Minimization Problem",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "divide and conquer",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 868,
+    "index": "F",
+    "solvedCount": 3421
+  }
+}

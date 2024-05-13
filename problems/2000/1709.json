@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1682,
+    "index": "D",
+    "name": "Circular Spanning Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1682,
+    "index": "D",
+    "solvedCount": 3173
+  }
+}

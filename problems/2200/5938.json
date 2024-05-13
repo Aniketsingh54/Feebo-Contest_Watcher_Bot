@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 839,
+    "index": "D",
+    "name": "Winter is here",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 839,
+    "index": "D",
+    "solvedCount": 2689
+  }
+}

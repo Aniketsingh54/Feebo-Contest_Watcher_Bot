@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 814,
+    "index": "D",
+    "name": "An overnight dance in discotheque",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "geometry",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 814,
+    "index": "D",
+    "solvedCount": 2125
+  }
+}

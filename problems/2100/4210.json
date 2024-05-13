@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1203,
+    "index": "F1",
+    "name": "Complete the Projects (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1203,
+    "index": "F1",
+    "solvedCount": 3317
+  }
+}

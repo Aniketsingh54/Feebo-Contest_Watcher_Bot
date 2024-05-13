@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1219,
+    "index": "C",
+    "name": "Periodic integer number",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1219,
+    "index": "C",
+    "solvedCount": 1755
+  }
+}

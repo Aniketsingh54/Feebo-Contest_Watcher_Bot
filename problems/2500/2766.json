@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1488,
+    "index": "G",
+    "name": "Painting Numbers",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "*special",
+      "data structures",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1488,
+    "index": "G",
+    "solvedCount": 117
+  }
+}

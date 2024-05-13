@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1874,
+    "index": "F",
+    "name": "Jellyfish and OEIS",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1874,
+    "index": "F",
+    "solvedCount": 156
+  }
+}

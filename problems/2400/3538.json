@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1340,
+    "index": "C",
+    "name": "Nastya and Unexpected Guest",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1340,
+    "index": "C",
+    "solvedCount": 2021
+  }
+}

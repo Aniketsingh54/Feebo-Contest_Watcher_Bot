@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1277,
+    "index": "D",
+    "name": "Let's Play the Words?",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "hashing",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1277,
+    "index": "D",
+    "solvedCount": 2962
+  }
+}

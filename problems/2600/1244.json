@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "G",
+    "name": "Guess the String",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "G",
+    "solvedCount": 367
+  }
+}

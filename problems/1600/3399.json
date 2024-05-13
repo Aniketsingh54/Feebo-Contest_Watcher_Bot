@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1363,
+    "index": "C",
+    "name": "Game On Leaves",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "games",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1363,
+    "index": "C",
+    "solvedCount": 17844
+  }
+}

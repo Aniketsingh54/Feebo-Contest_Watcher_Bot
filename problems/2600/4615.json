@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1120,
+    "index": "E",
+    "name": "The very same Munchhausen",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1120,
+    "index": "E",
+    "solvedCount": 111
+  }
+}

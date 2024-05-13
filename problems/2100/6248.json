@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 767,
+    "index": "D",
+    "name": "Cartons of milk",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 767,
+    "index": "D",
+    "solvedCount": 2194
+  }
+}

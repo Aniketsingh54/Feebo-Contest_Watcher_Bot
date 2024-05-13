@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1748,
+    "index": "F",
+    "name": "Circular Xor Reversal",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3000,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1748,
+    "index": "F",
+    "solvedCount": 323
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1466,
+    "index": "G",
+    "name": "Song of the Sirens",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "hashing",
+      "math",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1466,
+    "index": "G",
+    "solvedCount": 848
+  }
+}

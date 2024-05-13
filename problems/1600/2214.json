@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1593,
+    "index": "E",
+    "name": "Gardener and Tree",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1593,
+    "index": "E",
+    "solvedCount": 11695
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1000,
+    "index": "D",
+    "name": "Yet Another Problem On a Subsequence",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1000,
+    "index": "D",
+    "solvedCount": 3970
+  }
+}

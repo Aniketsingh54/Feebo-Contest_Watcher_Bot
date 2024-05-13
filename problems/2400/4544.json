@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1142,
+    "index": "C",
+    "name": "U2",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1142,
+    "index": "C",
+    "solvedCount": 1302
+  }
+}

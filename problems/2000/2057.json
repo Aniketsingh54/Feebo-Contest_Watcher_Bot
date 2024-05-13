@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1620,
+    "index": "D",
+    "name": "Exact Change",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1620,
+    "index": "D",
+    "solvedCount": 4035
+  }
+}

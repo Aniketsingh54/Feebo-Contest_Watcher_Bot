@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "A1",
+    "name": "Heidi Learns Hashing (Easy)",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "A1",
+    "solvedCount": 5854
+  }
+}

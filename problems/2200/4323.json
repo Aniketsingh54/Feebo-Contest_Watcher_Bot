@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "B2",
+    "name": "The Doctor Meets Vader (Medium)",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "B2",
+    "solvedCount": 566
+  }
+}

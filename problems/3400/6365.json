@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 741,
+    "index": "E",
+    "name": "Arpa’s abnormal DNA and Mehrdad’s deep interest",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 741,
+    "index": "E",
+    "solvedCount": 174
+  }
+}

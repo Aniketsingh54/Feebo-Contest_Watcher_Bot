@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1685,
+    "index": "E",
+    "name": "The Ultimate LIS Problem",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1685,
+    "index": "E",
+    "solvedCount": 142
+  }
+}

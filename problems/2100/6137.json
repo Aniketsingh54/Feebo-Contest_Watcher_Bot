@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 793,
+    "index": "D",
+    "name": "Presents in Bankopolis",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 793,
+    "index": "D",
+    "solvedCount": 1576
+  }
+}

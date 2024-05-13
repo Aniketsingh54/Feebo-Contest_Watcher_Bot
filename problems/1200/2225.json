@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1592,
+    "index": "B",
+    "name": "Hemose Shopping",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1592,
+    "index": "B",
+    "solvedCount": 15590
+  }
+}

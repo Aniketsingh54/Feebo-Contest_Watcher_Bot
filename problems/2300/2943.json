@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1453,
+    "index": "E",
+    "name": "Dog Snacks",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1453,
+    "index": "E",
+    "solvedCount": 1969
+  }
+}

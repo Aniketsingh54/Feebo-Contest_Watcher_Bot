@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1348,
+    "index": "C",
+    "name": "Phoenix and Distribution",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1348,
+    "index": "C",
+    "solvedCount": 14191
+  }
+}

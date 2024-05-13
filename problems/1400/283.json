@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1923,
+    "index": "C",
+    "name": "Find B",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1923,
+    "index": "C",
+    "solvedCount": 13158
+  }
+}

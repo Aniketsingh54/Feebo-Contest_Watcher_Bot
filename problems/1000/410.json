@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "A",
+    "name": "Easy As ABC",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "A",
+    "solvedCount": 3538
+  }
+}

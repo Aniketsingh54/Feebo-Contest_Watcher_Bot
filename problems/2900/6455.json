@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 722,
+    "index": "E",
+    "name": "Research Rover",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 722,
+    "index": "E",
+    "solvedCount": 799
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1513,
+    "index": "F",
+    "name": "Swapping Problem",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1513,
+    "index": "F",
+    "solvedCount": 1201
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 924,
+    "index": "E",
+    "name": "Wardrobe",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 924,
+    "index": "E",
+    "solvedCount": 502
+  }
+}

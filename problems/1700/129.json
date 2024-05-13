@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1948,
+    "index": "D",
+    "name": "Tandem Repeats?",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1948,
+    "index": "D",
+    "solvedCount": 8198
+  }
+}

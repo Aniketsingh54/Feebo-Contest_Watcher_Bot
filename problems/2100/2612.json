@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1516,
+    "index": "D",
+    "name": "Cut",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "graphs",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1516,
+    "index": "D",
+    "solvedCount": 4096
+  }
+}

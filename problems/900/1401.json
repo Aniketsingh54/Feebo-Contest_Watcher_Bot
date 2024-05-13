@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1737,
+    "index": "A",
+    "name": "Ela Sorting Books",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1737,
+    "index": "A",
+    "solvedCount": 9953
+  }
+}

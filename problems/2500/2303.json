@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1574,
+    "index": "E",
+    "name": "Coloring",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1574,
+    "index": "E",
+    "solvedCount": 872
+  }
+}

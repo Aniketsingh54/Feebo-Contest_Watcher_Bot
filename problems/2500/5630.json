@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 911,
+    "index": "G",
+    "name": "Mass Change Queries",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 911,
+    "index": "G",
+    "solvedCount": 2614
+  }
+}

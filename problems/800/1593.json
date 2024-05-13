@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1703,
+    "index": "C",
+    "name": "Cypher",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1703,
+    "index": "C",
+    "solvedCount": 34209
+  }
+}

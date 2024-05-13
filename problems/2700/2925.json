@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1458,
+    "index": "C",
+    "name": "Latin Square",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2700,
+    "tags": [
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1458,
+    "index": "C",
+    "solvedCount": 1199
+  }
+}

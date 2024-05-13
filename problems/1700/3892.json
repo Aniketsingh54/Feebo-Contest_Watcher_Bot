@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1267,
+    "index": "E",
+    "name": "Elections",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1267,
+    "index": "E",
+    "solvedCount": 2989
+  }
+}

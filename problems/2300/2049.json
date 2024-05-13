@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1621,
+    "index": "E",
+    "name": "New School",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1621,
+    "index": "E",
+    "solvedCount": 1712
+  }
+}

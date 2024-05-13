@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 976,
+    "index": "C",
+    "name": "Nested Segments",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 976,
+    "index": "C",
+    "solvedCount": 6294
+  }
+}

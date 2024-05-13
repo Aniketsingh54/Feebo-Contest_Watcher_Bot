@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1936,
+    "index": "D",
+    "name": "Bitwise Paradox",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3100,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1936,
+    "index": "D",
+    "solvedCount": 416
+  }
+}

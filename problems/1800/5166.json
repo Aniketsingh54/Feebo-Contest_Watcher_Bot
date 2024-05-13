@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1010,
+    "index": "C",
+    "name": "Border",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1010,
+    "index": "C",
+    "solvedCount": 4665
+  }
+}

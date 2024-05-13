@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 914,
+    "index": "A",
+    "name": "Perfect Squares",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 914,
+    "index": "A",
+    "solvedCount": 13810
+  }
+}

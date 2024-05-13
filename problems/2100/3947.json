@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1254,
+    "index": "B2",
+    "name": "Send Boxes to Alice (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "ternary search",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1254,
+    "index": "B2",
+    "solvedCount": 2937
+  }
+}

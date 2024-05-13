@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1270,
+    "index": "C",
+    "name": "Make Good",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1270,
+    "index": "C",
+    "solvedCount": 13597
+  }
+}

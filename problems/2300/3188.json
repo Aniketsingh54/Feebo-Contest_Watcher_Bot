@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1403,
+    "index": "B",
+    "name": "Spring cleaning",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "*special",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1403,
+    "index": "B",
+    "solvedCount": 358
+  }
+}

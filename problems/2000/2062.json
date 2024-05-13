@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1619,
+    "index": "G",
+    "name": "Unusual Minesweeper",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1619,
+    "index": "G",
+    "solvedCount": 2272
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 793,
+    "index": "G",
+    "name": "Oleg and chess",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "flows",
+      "graph matchings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 793,
+    "index": "G",
+    "solvedCount": 358
+  }
+}

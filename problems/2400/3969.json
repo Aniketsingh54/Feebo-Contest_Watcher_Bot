@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1251,
+    "index": "E2",
+    "name": "Voting (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1251,
+    "index": "E2",
+    "solvedCount": 2378
+  }
+}

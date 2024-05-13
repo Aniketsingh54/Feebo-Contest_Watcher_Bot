@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1363,
+    "index": "E",
+    "name": "Tree Shuffling",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1363,
+    "index": "E",
+    "solvedCount": 6486
+  }
+}

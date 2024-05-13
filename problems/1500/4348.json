@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1180,
+    "index": "B",
+    "name": "Nick and Array",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1180,
+    "index": "B",
+    "solvedCount": 9423
+  }
+}

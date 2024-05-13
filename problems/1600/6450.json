@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 723,
+    "index": "D",
+    "name": "Lakes in Berland",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 723,
+    "index": "D",
+    "solvedCount": 6815
+  }
+}

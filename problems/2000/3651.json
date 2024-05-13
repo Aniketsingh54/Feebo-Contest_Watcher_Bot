@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1316,
+    "index": "D",
+    "name": "Nash Matrix",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1316,
+    "index": "D",
+    "solvedCount": 3206
+  }
+}

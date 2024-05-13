@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1934,
+    "index": "D2",
+    "name": "XOR Break --- Game Version",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "games",
+      "greedy",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1934,
+    "index": "D2",
+    "solvedCount": 1192
+  }
+}

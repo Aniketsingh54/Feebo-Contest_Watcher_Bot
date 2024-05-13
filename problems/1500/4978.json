@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1054,
+    "index": "C",
+    "name": "Candies Distribution",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1054,
+    "index": "C",
+    "solvedCount": 4229
+  }
+}

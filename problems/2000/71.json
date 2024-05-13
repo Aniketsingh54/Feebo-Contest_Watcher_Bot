@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1956,
+    "index": "D",
+    "name": "Nene and the Mex Operator",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1956,
+    "index": "D",
+    "solvedCount": 3189
+  }
+}

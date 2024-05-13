@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 888,
+    "index": "B",
+    "name": "Buggy Robot",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 888,
+    "index": "B",
+    "solvedCount": 9530
+  }
+}

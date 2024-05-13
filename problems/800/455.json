@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1899,
+    "index": "A",
+    "name": "Game with Integers",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "games",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1899,
+    "index": "A",
+    "solvedCount": 38034
+  }
+}

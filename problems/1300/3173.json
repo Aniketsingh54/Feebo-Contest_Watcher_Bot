@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1407,
+    "index": "B",
+    "name": "Big Vova",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1407,
+    "index": "B",
+    "solvedCount": 16684
+  }
+}

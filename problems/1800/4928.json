@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1063,
+    "index": "B",
+    "name": "Labyrinth",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1063,
+    "index": "B",
+    "solvedCount": 7073
+  }
+}

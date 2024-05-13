@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1677,
+    "index": "D",
+    "name": "Tokitsukaze and Permutations",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1677,
+    "index": "D",
+    "solvedCount": 1193
+  }
+}

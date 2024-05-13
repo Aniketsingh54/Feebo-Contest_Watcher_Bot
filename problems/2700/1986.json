@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1632,
+    "index": "E2",
+    "name": "Distance Tree (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1632,
+    "index": "E2",
+    "solvedCount": 928
+  }
+}

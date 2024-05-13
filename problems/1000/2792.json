@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1485,
+    "index": "A",
+    "name": "Add and Divide",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1485,
+    "index": "A",
+    "solvedCount": 20839
+  }
+}

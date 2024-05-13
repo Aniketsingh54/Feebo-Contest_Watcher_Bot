@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1695,
+    "index": "B",
+    "name": "Circle Game",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1695,
+    "index": "B",
+    "solvedCount": 18027
+  }
+}

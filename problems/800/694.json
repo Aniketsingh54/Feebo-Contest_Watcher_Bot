@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1853,
+    "index": "A",
+    "name": "Desorting",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1853,
+    "index": "A",
+    "solvedCount": 28033
+  }
+}

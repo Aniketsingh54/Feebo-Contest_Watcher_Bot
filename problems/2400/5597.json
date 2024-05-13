@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 916,
+    "index": "E",
+    "name": "Jamie and Tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 916,
+    "index": "E",
+    "solvedCount": 1580
+  }
+}

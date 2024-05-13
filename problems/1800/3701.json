@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1304,
+    "index": "D",
+    "name": "Shortest and Longest LIS",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1304,
+    "index": "D",
+    "solvedCount": 6071
+  }
+}

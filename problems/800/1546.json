@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1712,
+    "index": "A",
+    "name": "Wonderful Permutation",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1712,
+    "index": "A",
+    "solvedCount": 23739
+  }
+}

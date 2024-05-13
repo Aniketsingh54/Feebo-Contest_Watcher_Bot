@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1213,
+    "index": "G",
+    "name": "Path Queries",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "divide and conquer",
+      "dsu",
+      "graphs",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1213,
+    "index": "G",
+    "solvedCount": 6623
+  }
+}

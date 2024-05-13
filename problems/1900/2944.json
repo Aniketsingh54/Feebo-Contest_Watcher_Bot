@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1453,
+    "index": "D",
+    "name": "Checkpoints",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1453,
+    "index": "D",
+    "solvedCount": 4078
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 796,
+    "index": "D",
+    "name": "Police Stations",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 796,
+    "index": "D",
+    "solvedCount": 5127
+  }
+}

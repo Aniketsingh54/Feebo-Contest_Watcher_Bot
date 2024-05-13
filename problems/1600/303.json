@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1920,
+    "index": "C",
+    "name": "Partitioning the Array",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1920,
+    "index": "C",
+    "solvedCount": 11830
+  }
+}

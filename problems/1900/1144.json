@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1777,
+    "index": "D",
+    "name": "Score of a Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "math",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1777,
+    "index": "D",
+    "solvedCount": 3218
+  }
+}

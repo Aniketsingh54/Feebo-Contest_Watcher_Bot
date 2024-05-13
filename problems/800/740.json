@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1846,
+    "index": "B",
+    "name": "Rudolph and Tic-Tac-Toe",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1846,
+    "index": "B",
+    "solvedCount": 26107
+  }
+}

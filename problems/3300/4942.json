@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1060,
+    "index": "H",
+    "name": "Sophisticated Device",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3300,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1060,
+    "index": "H",
+    "solvedCount": 210
+  }
+}

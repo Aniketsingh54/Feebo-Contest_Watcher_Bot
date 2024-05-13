@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1557,
+    "index": "E",
+    "name": "Assiut Chess",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1557,
+    "index": "E",
+    "solvedCount": 691
+  }
+}

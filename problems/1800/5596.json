@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 917,
+    "index": "A",
+    "name": "The Monster",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 917,
+    "index": "A",
+    "solvedCount": 3427
+  }
+}

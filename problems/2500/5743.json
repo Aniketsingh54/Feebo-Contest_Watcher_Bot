@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 884,
+    "index": "E",
+    "name": "Binary Matrix",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 884,
+    "index": "E",
+    "solvedCount": 669
+  }
+}

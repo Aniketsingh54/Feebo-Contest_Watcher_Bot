@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1095,
+    "index": "F",
+    "name": "Make It Connected",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1095,
+    "index": "F",
+    "solvedCount": 5855
+  }
+}

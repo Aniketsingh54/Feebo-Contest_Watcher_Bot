@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1520,
+    "index": "F1",
+    "name": "Guess the K-th Zero (Easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1520,
+    "index": "F1",
+    "solvedCount": 10945
+  }
+}

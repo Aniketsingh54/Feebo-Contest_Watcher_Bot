@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 747,
+    "index": "A",
+    "name": "Display Size",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 747,
+    "index": "A",
+    "solvedCount": 10040
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1627,
+    "index": "A",
+    "name": "Not Shading",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1627,
+    "index": "A",
+    "solvedCount": 23807
+  }
+}

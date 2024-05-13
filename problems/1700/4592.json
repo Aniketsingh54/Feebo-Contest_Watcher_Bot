@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1132,
+    "index": "C",
+    "name": "Painting the Fence",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1132,
+    "index": "C",
+    "solvedCount": 5281
+  }
+}

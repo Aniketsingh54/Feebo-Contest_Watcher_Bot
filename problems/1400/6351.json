@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 745,
+    "index": "B",
+    "name": "Hongcow Solves A Puzzle",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 745,
+    "index": "B",
+    "solvedCount": 3703
+  }
+}

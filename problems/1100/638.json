@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1863,
+    "index": "B",
+    "name": "Split Sort",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1863,
+    "index": "B",
+    "solvedCount": 14591
+  }
+}

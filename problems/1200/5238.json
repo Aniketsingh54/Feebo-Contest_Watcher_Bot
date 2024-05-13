@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1000,
+    "index": "A",
+    "name": "Codehorses T-shirts",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1000,
+    "index": "A",
+    "solvedCount": 8584
+  }
+}

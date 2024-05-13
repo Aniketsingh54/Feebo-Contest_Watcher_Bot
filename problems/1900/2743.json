@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1492,
+    "index": "D",
+    "name": "Genius's Gambit",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1492,
+    "index": "D",
+    "solvedCount": 5932
+  }
+}

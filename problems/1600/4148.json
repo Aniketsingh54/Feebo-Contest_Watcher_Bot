@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1213,
+    "index": "D2",
+    "name": "Equalizing by Division (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1213,
+    "index": "D2",
+    "solvedCount": 11055
+  }
+}

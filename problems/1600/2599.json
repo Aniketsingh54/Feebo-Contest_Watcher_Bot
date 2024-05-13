@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1519,
+    "index": "D",
+    "name": "Maximum Sum of Products",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1519,
+    "index": "D",
+    "solvedCount": 14596
+  }
+}

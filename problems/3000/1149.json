@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "M",
+    "name": "Parmigiana With Seafood",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "M",
+    "solvedCount": 351
+  }
+}

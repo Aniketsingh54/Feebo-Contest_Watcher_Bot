@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1845,
+    "index": "D",
+    "name": "Rating System",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1845,
+    "index": "D",
+    "solvedCount": 7329
+  }
+}

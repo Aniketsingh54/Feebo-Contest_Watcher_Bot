@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 822,
+    "index": "E",
+    "name": "Liar",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dp",
+      "hashing",
+      "string suffix structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 822,
+    "index": "E",
+    "solvedCount": 762
+  }
+}

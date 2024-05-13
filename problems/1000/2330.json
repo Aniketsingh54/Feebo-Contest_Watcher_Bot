@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1569,
+    "index": "B",
+    "name": "Chess Tournament",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1569,
+    "index": "B",
+    "solvedCount": 18578
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1794,
+    "index": "E",
+    "name": "Labeling the Tree with Distances",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "hashing",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1794,
+    "index": "E",
+    "solvedCount": 1008
+  }
+}

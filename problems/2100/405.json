@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "F",
+    "name": "Maximize The Value",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "F",
+    "solvedCount": 938
+  }
+}

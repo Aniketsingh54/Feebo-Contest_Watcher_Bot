@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1594,
+    "index": "E2",
+    "name": "Rubik's Cube Coloring (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1594,
+    "index": "E2",
+    "solvedCount": 1447
+  }
+}

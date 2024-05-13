@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1140,
+    "index": "A",
+    "name": "Detective Book",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1140,
+    "index": "A",
+    "solvedCount": 12067
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1949,
+    "index": "I",
+    "name": "Disks",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "geometry",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1949,
+    "index": "I",
+    "solvedCount": 1150
+  }
+}

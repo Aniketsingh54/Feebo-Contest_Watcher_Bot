@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1616,
+    "index": "B",
+    "name": "Mirror in the String",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1616,
+    "index": "B",
+    "solvedCount": 19099
+  }
+}

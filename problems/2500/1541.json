@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1712,
+    "index": "E2",
+    "name": "LCM Sum (hard version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1712,
+    "index": "E2",
+    "solvedCount": 1183
+  }
+}

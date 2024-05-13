@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1167,
+    "index": "E",
+    "name": "Range Deleting",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1167,
+    "index": "E",
+    "solvedCount": 2533
+  }
+}

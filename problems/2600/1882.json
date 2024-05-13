@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1656,
+    "index": "F",
+    "name": "Parametric MST",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1656,
+    "index": "F",
+    "solvedCount": 987
+  }
+}

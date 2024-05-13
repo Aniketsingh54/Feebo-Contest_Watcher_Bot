@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 986,
+    "index": "A",
+    "name": "Fair",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "graphs",
+      "greedy",
+      "number theory",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 986,
+    "index": "A",
+    "solvedCount": 6524
+  }
+}

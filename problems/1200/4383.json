@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1174,
+    "index": "B",
+    "name": "Ehab Is an Odd Person",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1174,
+    "index": "B",
+    "solvedCount": 15132
+  }
+}

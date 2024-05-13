@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1454,
+    "index": "E",
+    "name": "Number of Simple Paths",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1454,
+    "index": "E",
+    "solvedCount": 5512
+  }
+}

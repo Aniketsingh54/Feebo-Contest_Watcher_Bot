@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1734,
+    "index": "E",
+    "name": "Rectangular Congruence",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1734,
+    "index": "E",
+    "solvedCount": 2764
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1537,
+    "index": "C",
+    "name": "Challenging Cliffs",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1537,
+    "index": "C",
+    "solvedCount": 26354
+  }
+}

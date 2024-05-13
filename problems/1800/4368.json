@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1176,
+    "index": "D",
+    "name": "Recover it!",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1176,
+    "index": "D",
+    "solvedCount": 5129
+  }
+}

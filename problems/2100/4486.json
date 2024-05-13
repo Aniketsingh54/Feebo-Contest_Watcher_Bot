@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1152,
+    "index": "D",
+    "name": "Neko and Aki's Prank",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1152,
+    "index": "D",
+    "solvedCount": 2372
+  }
+}

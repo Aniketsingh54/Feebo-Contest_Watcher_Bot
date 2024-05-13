@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1081,
+    "index": "G",
+    "name": "Mergesort Strikes Back",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3200,
+    "tags": [
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1081,
+    "index": "G",
+    "solvedCount": 340
+  }
+}

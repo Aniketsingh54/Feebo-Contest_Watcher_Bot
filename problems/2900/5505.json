@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 932,
+    "index": "G",
+    "name": "Palindrome Partition",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2900,
+    "tags": [
+      "dp",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 932,
+    "index": "G",
+    "solvedCount": 876
+  }
+}

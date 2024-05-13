@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1493,
+    "index": "F",
+    "name": "Enchanted Matrix",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "interactive",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1493,
+    "index": "F",
+    "solvedCount": 375
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 995,
+    "index": "F",
+    "name": "Cowmpany Cowmpensation",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 995,
+    "index": "F",
+    "solvedCount": 1123
+  }
+}

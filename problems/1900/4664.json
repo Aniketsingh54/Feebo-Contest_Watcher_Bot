@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1114,
+    "index": "D",
+    "name": "Flood Fill",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1114,
+    "index": "D",
+    "solvedCount": 6534
+  }
+}

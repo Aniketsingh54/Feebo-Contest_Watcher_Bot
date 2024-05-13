@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1367,
+    "index": "F1",
+    "name": "Flying Sort (Easy Version)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1367,
+    "index": "F1",
+    "solvedCount": 2985
+  }
+}

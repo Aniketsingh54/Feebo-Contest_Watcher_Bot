@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1477,
+    "index": "C",
+    "name": "Nezzar and Nice Beatmap",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1477,
+    "index": "C",
+    "solvedCount": 2210
+  }
+}

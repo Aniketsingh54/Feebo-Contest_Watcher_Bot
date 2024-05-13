@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1080,
+    "index": "C",
+    "name": "Masha and two friends",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1080,
+    "index": "C",
+    "solvedCount": 3986
+  }
+}

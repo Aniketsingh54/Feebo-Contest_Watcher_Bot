@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1153,
+    "index": "C",
+    "name": "Serval and Parenthesis Sequence",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1153,
+    "index": "C",
+    "solvedCount": 7265
+  }
+}

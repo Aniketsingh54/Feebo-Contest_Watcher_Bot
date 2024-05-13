@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1423,
+    "index": "I",
+    "name": "Lookup Tables",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "bitmasks"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1423,
+    "index": "I",
+    "solvedCount": 101
+  }
+}

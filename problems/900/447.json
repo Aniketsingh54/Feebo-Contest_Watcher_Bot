@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1900,
+    "index": "B",
+    "name": "Laura and Operations",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1900,
+    "index": "B",
+    "solvedCount": 16010
+  }
+}

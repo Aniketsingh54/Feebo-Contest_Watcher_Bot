@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1680,
+    "index": "C",
+    "name": "Binary String",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1680,
+    "index": "C",
+    "solvedCount": 9512
+  }
+}

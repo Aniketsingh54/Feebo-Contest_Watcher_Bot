@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1739,
+    "index": "D",
+    "name": "Reset K Edges",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1739,
+    "index": "D",
+    "solvedCount": 4873
+  }
+}

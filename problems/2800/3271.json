@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1386,
+    "index": "C",
+    "name": "Joker",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "*special",
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1386,
+    "index": "C",
+    "solvedCount": 430
+  }
+}

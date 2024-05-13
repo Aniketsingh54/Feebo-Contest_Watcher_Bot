@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1707,
+    "index": "C",
+    "name": "DFS Trees",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1707,
+    "index": "C",
+    "solvedCount": 1394
+  }
+}

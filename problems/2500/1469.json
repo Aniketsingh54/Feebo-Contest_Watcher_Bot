@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "K",
+    "name": "Kingdom of Criticism",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "K",
+    "solvedCount": 580
+  }
+}

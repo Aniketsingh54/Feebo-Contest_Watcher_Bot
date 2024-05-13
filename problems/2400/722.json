@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1848,
+    "index": "F",
+    "name": "Vika and Wiki",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1848,
+    "index": "F",
+    "solvedCount": 1451
+  }
+}

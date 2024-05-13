@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1656,
+    "index": "I",
+    "name": "Neighbour Ordering",
+    "type": "PROGRAMMING",
+    "points": 4500,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1656,
+    "index": "I",
+    "solvedCount": 96
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 835,
+    "index": "C",
+    "name": "Star sky",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 835,
+    "index": "C",
+    "solvedCount": 7644
+  }
+}

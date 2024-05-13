@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1427,
+    "index": "H",
+    "name": "Prison Break",
+    "type": "PROGRAMMING",
+    "points": 4500,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "games",
+      "geometry",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1427,
+    "index": "H",
+    "solvedCount": 69
+  }
+}

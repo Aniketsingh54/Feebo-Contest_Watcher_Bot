@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 739,
+    "index": "B",
+    "name": "Alyona and a tree",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 739,
+    "index": "B",
+    "solvedCount": 4425
+  }
+}

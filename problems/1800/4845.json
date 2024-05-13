@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1082,
+    "index": "D",
+    "name": "Maximum Diameter Graph",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1082,
+    "index": "D",
+    "solvedCount": 3544
+  }
+}

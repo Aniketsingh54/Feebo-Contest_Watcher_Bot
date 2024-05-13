@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1023,
+    "index": "D",
+    "name": "Array Restoration",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1023,
+    "index": "D",
+    "solvedCount": 3947
+  }
+}

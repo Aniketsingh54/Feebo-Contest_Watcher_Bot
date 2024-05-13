@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 925,
+    "index": "F",
+    "name": "Parametric Circulation",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3100,
+    "tags": [
+      "binary search",
+      "flows"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 925,
+    "index": "F",
+    "solvedCount": 94
+  }
+}

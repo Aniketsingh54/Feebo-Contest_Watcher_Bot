@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1665,
+    "index": "C",
+    "name": "Tree Infection",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1665,
+    "index": "C",
+    "solvedCount": 8046
+  }
+}

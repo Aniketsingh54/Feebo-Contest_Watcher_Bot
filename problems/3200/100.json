@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1951,
+    "index": "H",
+    "name": "Thanos Snap",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3200,
+    "tags": [
+      "binary search",
+      "dp",
+      "games",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1951,
+    "index": "H",
+    "solvedCount": 198
+  }
+}

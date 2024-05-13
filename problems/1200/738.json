@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1846,
+    "index": "D",
+    "name": "Rudolph and Christmas Tree",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1846,
+    "index": "D",
+    "solvedCount": 18351
+  }
+}

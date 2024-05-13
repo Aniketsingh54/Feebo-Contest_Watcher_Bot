@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1882,
+    "index": "A",
+    "name": "Increasing Sequence",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1882,
+    "index": "A",
+    "solvedCount": 24281
+  }
+}

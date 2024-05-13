@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1144,
+    "index": "G",
+    "name": "Two Merged Sequences",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1144,
+    "index": "G",
+    "solvedCount": 1872
+  }
+}

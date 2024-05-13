@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1701,
+    "index": "C",
+    "name": "Schedule Management",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1701,
+    "index": "C",
+    "solvedCount": 15771
+  }
+}

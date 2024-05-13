@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 893,
+    "index": "C",
+    "name": "Rumor",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 893,
+    "index": "C",
+    "solvedCount": 21699
+  }
+}

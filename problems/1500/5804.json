@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 868,
+    "index": "C",
+    "name": "Qualification Rounds",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 868,
+    "index": "C",
+    "solvedCount": 4525
+  }
+}

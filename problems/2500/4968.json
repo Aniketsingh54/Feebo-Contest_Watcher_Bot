@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1055,
+    "index": "E",
+    "name": "Segments on the Line",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1055,
+    "index": "E",
+    "solvedCount": 708
+  }
+}

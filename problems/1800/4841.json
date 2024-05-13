@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1083,
+    "index": "A",
+    "name": "The Fair Nut and the Best Path",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1083,
+    "index": "A",
+    "solvedCount": 5200
+  }
+}

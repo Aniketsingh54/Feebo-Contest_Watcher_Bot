@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1943,
+    "index": "D2",
+    "name": "Counting Is Fun (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2800,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1943,
+    "index": "D2",
+    "solvedCount": 595
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1519,
+    "index": "F",
+    "name": "Chests and Keys",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "flows"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1519,
+    "index": "F",
+    "solvedCount": 388
+  }
+}

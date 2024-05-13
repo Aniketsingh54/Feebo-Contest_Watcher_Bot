@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1016,
+    "index": "F",
+    "name": "Road Projects",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1016,
+    "index": "F",
+    "solvedCount": 779
+  }
+}

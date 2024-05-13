@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1571,
+    "index": "B",
+    "name": "Epic Novel",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1571,
+    "index": "B",
+    "solvedCount": 683
+  }
+}

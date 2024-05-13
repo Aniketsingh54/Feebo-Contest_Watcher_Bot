@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1675,
+    "index": "F",
+    "name": "Vlad and Unfinished Business",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1675,
+    "index": "F",
+    "solvedCount": 5026
+  }
+}

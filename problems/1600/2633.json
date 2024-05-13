@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1513,
+    "index": "C",
+    "name": "Add One",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1513,
+    "index": "C",
+    "solvedCount": 13237
+  }
+}

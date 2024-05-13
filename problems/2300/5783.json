@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 873,
+    "index": "E",
+    "name": "Awards For Contestants",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 873,
+    "index": "E",
+    "solvedCount": 490
+  }
+}

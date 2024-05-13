@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1425,
+    "index": "A",
+    "name": "Arena of Greed",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1425,
+    "index": "A",
+    "solvedCount": 6354
+  }
+}

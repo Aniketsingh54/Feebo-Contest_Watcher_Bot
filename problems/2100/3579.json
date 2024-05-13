@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1332,
+    "index": "E",
+    "name": "Height All the Same",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1332,
+    "index": "E",
+    "solvedCount": 3602
+  }
+}

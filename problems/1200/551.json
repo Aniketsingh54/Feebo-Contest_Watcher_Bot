@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1877,
+    "index": "C",
+    "name": "Joyboard",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1877,
+    "index": "C",
+    "solvedCount": 10070
+  }
+}

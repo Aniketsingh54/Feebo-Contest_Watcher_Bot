@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 852,
+    "index": "C",
+    "name": "Property",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 852,
+    "index": "C",
+    "solvedCount": 375
+  }
+}

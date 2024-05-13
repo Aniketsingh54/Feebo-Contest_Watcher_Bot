@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1863,
+    "index": "A",
+    "name": "Channel",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1863,
+    "index": "A",
+    "solvedCount": 17442
+  }
+}

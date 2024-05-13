@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1548,
+    "index": "D2",
+    "name": "Gregor and the Odd Cows (Hard)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 3300,
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1548,
+    "index": "D2",
+    "solvedCount": 238
+  }
+}

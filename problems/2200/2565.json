@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1526,
+    "index": "D",
+    "name": "Kill Anton",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1526,
+    "index": "D",
+    "solvedCount": 2356
+  }
+}

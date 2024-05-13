@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1063,
+    "index": "E",
+    "name": "Lasers and Mirrors",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1063,
+    "index": "E",
+    "solvedCount": 330
+  }
+}

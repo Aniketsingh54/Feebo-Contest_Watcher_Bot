@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1517,
+    "index": "G",
+    "name": "Starry Night Camping",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3300,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1517,
+    "index": "G",
+    "solvedCount": 412
+  }
+}

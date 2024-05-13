@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1693,
+    "index": "C",
+    "name": "Keshi in Search of AmShZ",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1693,
+    "index": "C",
+    "solvedCount": 2442
+  }
+}

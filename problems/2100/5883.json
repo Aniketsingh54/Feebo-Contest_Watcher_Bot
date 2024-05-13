@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 850,
+    "index": "B",
+    "name": "Arpa and a list of numbers",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "implementation",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 850,
+    "index": "B",
+    "solvedCount": 1976
+  }
+}

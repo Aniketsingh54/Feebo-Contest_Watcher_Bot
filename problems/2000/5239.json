@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 999,
+    "index": "F",
+    "name": "Cards and Joy",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 999,
+    "index": "F",
+    "solvedCount": 2527
+  }
+}

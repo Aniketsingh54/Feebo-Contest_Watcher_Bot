@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1353,
+    "index": "D",
+    "name": "Constructing the Array",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1353,
+    "index": "D",
+    "solvedCount": 17350
+  }
+}

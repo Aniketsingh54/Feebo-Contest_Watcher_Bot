@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1650,
+    "index": "F",
+    "name": "Vitaly and Advanced Useless Algorithms",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1650,
+    "index": "F",
+    "solvedCount": 1384
+  }
+}

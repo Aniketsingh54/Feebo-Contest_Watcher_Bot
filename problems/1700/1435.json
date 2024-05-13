@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1731,
+    "index": "D",
+    "name": "Valiant's New Map",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1731,
+    "index": "D",
+    "solvedCount": 6727
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1858,
+    "index": "B",
+    "name": "The Walkway",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1858,
+    "index": "B",
+    "solvedCount": 10648
+  }
+}

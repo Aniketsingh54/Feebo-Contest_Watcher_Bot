@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1016,
+    "index": "E",
+    "name": "Rest In The Shades",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1016,
+    "index": "E",
+    "solvedCount": 929
+  }
+}

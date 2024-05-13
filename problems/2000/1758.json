@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1674,
+    "index": "E",
+    "name": "Breaking the Wall",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1674,
+    "index": "E",
+    "solvedCount": 6167
+  }
+}

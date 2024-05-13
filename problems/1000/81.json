@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1955,
+    "index": "B",
+    "name": "Progressive Square",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1955,
+    "index": "B",
+    "solvedCount": 23748
+  }
+}

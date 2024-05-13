@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1779,
+    "index": "E",
+    "name": "Anya's Simultaneous Exhibition",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "interactive",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1779,
+    "index": "E",
+    "solvedCount": 1689
+  }
+}

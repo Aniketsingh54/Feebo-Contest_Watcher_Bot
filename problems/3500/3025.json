@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1434,
+    "index": "E",
+    "name": "A Convex Game",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3500,
+    "tags": [
+      "dsu",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1434,
+    "index": "E",
+    "solvedCount": 164
+  }
+}

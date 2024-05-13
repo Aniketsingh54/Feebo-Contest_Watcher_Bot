@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1750,
+    "index": "E",
+    "name": "Bracket Cost",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1750,
+    "index": "E",
+    "solvedCount": 1361
+  }
+}

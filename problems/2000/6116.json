@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 797,
+    "index": "E",
+    "name": "Array Queries",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 797,
+    "index": "E",
+    "solvedCount": 4074
+  }
+}

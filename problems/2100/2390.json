@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1555,
+    "index": "E",
+    "name": "Boring Segments",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "sortings",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1555,
+    "index": "E",
+    "solvedCount": 3864
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1787,
+    "index": "I",
+    "name": "Treasure Hunt",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1787,
+    "index": "I",
+    "solvedCount": 148
+  }
+}

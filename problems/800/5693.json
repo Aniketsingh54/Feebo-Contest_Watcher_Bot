@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 897,
+    "index": "A",
+    "name": "Scarborough Fair",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 897,
+    "index": "A",
+    "solvedCount": 13940
+  }
+}

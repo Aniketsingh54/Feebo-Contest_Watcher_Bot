@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1688,
+    "index": "B",
+    "name": "Patchouli's Magical Talisman",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1688,
+    "index": "B",
+    "solvedCount": 17859
+  }
+}

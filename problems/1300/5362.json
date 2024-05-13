@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 976,
+    "index": "B",
+    "name": "Lara Croft and the New Game",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 976,
+    "index": "B",
+    "solvedCount": 5665
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1615,
+    "index": "D",
+    "name": "X(or)-mas Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1615,
+    "index": "D",
+    "solvedCount": 1840
+  }
+}

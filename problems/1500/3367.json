@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1368,
+    "index": "C",
+    "name": "Even Picture",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1368,
+    "index": "C",
+    "solvedCount": 13001
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 911,
+    "index": "E",
+    "name": "Stack Sorting",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 911,
+    "index": "E",
+    "solvedCount": 2463
+  }
+}

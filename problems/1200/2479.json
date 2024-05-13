@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1539,
+    "index": "C",
+    "name": "Stable Groups",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1539,
+    "index": "C",
+    "solvedCount": 21251
+  }
+}

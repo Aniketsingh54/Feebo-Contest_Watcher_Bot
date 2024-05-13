@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1553,
+    "index": "H",
+    "name": "XOR and Distance",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 2900,
+    "tags": [
+      "bitmasks",
+      "divide and conquer",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1553,
+    "index": "H",
+    "solvedCount": 674
+  }
+}

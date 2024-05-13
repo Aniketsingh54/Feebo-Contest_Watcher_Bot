@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 740,
+    "index": "A",
+    "name": "Alyona and copybooks",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 740,
+    "index": "A",
+    "solvedCount": 8812
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1216,
+    "index": "B",
+    "name": "Shooting",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1216,
+    "index": "B",
+    "solvedCount": 18076
+  }
+}

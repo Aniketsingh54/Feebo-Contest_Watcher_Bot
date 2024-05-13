@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1495,
+    "index": "B",
+    "name": "Let's Go Hiking",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1495,
+    "index": "B",
+    "solvedCount": 5844
+  }
+}

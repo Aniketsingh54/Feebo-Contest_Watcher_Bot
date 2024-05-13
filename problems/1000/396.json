@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1907,
+    "index": "B",
+    "name": "YetnotherrokenKeoard",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "data structures",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1907,
+    "index": "B",
+    "solvedCount": 23307
+  }
+}

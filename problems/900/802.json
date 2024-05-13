@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1837,
+    "index": "B",
+    "name": "Comparison String",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1837,
+    "index": "B",
+    "solvedCount": 26606
+  }
+}

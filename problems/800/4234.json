@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1200,
+    "index": "A",
+    "name": "Hotelier",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1200,
+    "index": "A",
+    "solvedCount": 20046
+  }
+}

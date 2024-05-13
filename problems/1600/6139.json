@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 793,
+    "index": "B",
+    "name": "Igor and his way to work",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 793,
+    "index": "B",
+    "solvedCount": 4342
+  }
+}

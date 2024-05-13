@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1673,
+    "index": "C",
+    "name": "Palindrome Basis",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1673,
+    "index": "C",
+    "solvedCount": 11733
+  }
+}

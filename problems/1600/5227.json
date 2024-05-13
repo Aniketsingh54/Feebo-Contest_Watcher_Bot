@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1001,
+    "index": "E",
+    "name": "Distinguish Bell states",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1001,
+    "index": "E",
+    "solvedCount": 551
+  }
+}

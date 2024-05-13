@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1955,
+    "index": "C",
+    "name": "Inhabitant of the Deep Sea",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1955,
+    "index": "C",
+    "solvedCount": 17749
+  }
+}

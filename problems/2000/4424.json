@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1165,
+    "index": "F1",
+    "name": "Microtransactions (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1165,
+    "index": "F1",
+    "solvedCount": 1769
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 732,
+    "index": "F",
+    "name": "Tourist Reform",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 732,
+    "index": "F",
+    "solvedCount": 2244
+  }
+}

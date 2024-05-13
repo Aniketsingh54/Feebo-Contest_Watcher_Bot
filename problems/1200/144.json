@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1945,
+    "index": "C",
+    "name": "Left and Right Houses",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1945,
+    "index": "C",
+    "solvedCount": 12840
+  }
+}

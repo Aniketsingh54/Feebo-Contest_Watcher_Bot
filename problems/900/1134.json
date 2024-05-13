@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1779,
+    "index": "B",
+    "name": "MKnez's ConstructiveForces Task",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1779,
+    "index": "B",
+    "solvedCount": 23018
+  }
+}

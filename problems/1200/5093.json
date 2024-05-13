@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1029,
+    "index": "B",
+    "name": "Creating the Contest",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1029,
+    "index": "B",
+    "solvedCount": 16407
+  }
+}

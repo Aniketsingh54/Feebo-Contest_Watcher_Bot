@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 964,
+    "index": "B",
+    "name": "Messages",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 964,
+    "index": "B",
+    "solvedCount": 4304
+  }
+}

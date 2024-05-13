@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1789,
+    "index": "F",
+    "name": "Serval and Brain Power",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1789,
+    "index": "F",
+    "solvedCount": 518
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 958,
+    "index": "F2",
+    "name": "Lightsabers (medium)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 958,
+    "index": "F2",
+    "solvedCount": 1200
+  }
+}

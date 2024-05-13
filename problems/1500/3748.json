@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1296,
+    "index": "C",
+    "name": "Yet Another Walking Robot",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1296,
+    "index": "C",
+    "solvedCount": 14445
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 995,
+    "index": "A",
+    "name": "Tesla",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 995,
+    "index": "A",
+    "solvedCount": 1502
+  }
+}

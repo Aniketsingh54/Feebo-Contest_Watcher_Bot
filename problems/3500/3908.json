@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1264,
+    "index": "F",
+    "name": "Beautiful Fibonacci Problem",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1264,
+    "index": "F",
+    "solvedCount": 858
+  }
+}

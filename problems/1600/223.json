@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1932,
+    "index": "E",
+    "name": "Final Countdown",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1932,
+    "index": "E",
+    "solvedCount": 6806
+  }
+}

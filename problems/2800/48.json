@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1967,
+    "index": "D",
+    "name": "Long Way to be Non-decreasing",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1967,
+    "index": "D",
+    "solvedCount": 408
+  }
+}

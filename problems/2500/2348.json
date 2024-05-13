@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1562,
+    "index": "E",
+    "name": "Rescue Niwen!",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "greedy",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1562,
+    "index": "E",
+    "solvedCount": 1325
+  }
+}

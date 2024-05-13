@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1132,
+    "index": "E",
+    "name": "Knapsack",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1132,
+    "index": "E",
+    "solvedCount": 1398
+  }
+}

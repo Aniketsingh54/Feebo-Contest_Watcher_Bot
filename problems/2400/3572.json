@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1333,
+    "index": "E",
+    "name": "Road to 1600",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1333,
+    "index": "E",
+    "solvedCount": 1474
+  }
+}

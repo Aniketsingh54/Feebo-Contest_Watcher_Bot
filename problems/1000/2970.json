@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1450,
+    "index": "B",
+    "name": "Balls of Steel",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1450,
+    "index": "B",
+    "solvedCount": 14884
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 843,
+    "index": "B",
+    "name": "Interactive LowerBound",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "interactive",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 843,
+    "index": "B",
+    "solvedCount": 2143
+  }
+}

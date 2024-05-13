@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1494,
+    "index": "F",
+    "name": "Delete The Edges",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1494,
+    "index": "F",
+    "solvedCount": 330
+  }
+}

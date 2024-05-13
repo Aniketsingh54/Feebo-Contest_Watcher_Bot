@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1295,
+    "index": "F",
+    "name": "Good Contest",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1295,
+    "index": "F",
+    "solvedCount": 1018
+  }
+}

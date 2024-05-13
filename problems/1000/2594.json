@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1520,
+    "index": "C",
+    "name": "Not Adjacent Matrix",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1520,
+    "index": "C",
+    "solvedCount": 30653
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1152,
+    "index": "C",
+    "name": "Neko does Maths",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1152,
+    "index": "C",
+    "solvedCount": 6529
+  }
+}

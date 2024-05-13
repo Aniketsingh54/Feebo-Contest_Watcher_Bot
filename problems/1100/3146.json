@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1413,
+    "index": "B",
+    "name": "A New Technique",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1413,
+    "index": "B",
+    "solvedCount": 11608
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1393,
+    "index": "A",
+    "name": "Rainbow Dash, Fluttershy and Chess Coloring",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1393,
+    "index": "A",
+    "solvedCount": 20211
+  }
+}

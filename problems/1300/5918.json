@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 844,
+    "index": "B",
+    "name": "Rectangles",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 844,
+    "index": "B",
+    "solvedCount": 6992
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1619,
+    "index": "F",
+    "name": "Let's Play the Hat?",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1619,
+    "index": "F",
+    "solvedCount": 2018
+  }
+}

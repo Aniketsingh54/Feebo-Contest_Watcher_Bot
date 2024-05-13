@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1716,
+    "index": "C",
+    "name": "Robot in a Hallway",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1716,
+    "index": "C",
+    "solvedCount": 4013
+  }
+}

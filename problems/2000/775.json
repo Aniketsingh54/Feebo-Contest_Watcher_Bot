@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1841,
+    "index": "D",
+    "name": "Pairs of Segments",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1841,
+    "index": "D",
+    "solvedCount": 4136
+  }
+}

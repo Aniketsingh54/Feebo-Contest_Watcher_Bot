@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1789,
+    "index": "B",
+    "name": "Serval and Inversion Magic",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1789,
+    "index": "B",
+    "solvedCount": 15797
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1571,
+    "index": "D",
+    "name": "Sweepstake",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1571,
+    "index": "D",
+    "solvedCount": 320
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 804,
+    "index": "E",
+    "name": "The same permutation ",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 804,
+    "index": "E",
+    "solvedCount": 409
+  }
+}

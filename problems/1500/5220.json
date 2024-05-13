@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "A3",
+    "name": "Generate superposition of two basis states",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "A3",
+    "solvedCount": 469
+  }
+}

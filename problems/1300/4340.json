@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1182,
+    "index": "B",
+    "name": "Plus from Picture",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1182,
+    "index": "B",
+    "solvedCount": 10987
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1895,
+    "index": "B",
+    "name": "Points and Minimum Distance",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1895,
+    "index": "B",
+    "solvedCount": 19640
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1697,
+    "index": "A",
+    "name": "Parkway Walk",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1697,
+    "index": "A",
+    "solvedCount": 25415
+  }
+}

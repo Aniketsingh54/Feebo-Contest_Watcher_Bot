@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1097,
+    "index": "D",
+    "name": "Makoto and a Blackboard",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1097,
+    "index": "D",
+    "solvedCount": 2560
+  }
+}

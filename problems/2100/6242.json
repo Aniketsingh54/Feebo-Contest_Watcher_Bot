@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 768,
+    "index": "E",
+    "name": "Game of Stones",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 768,
+    "index": "E",
+    "solvedCount": 2645
+  }
+}

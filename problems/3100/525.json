@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1882,
+    "index": "E2",
+    "name": "Two Permutations (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1882,
+    "index": "E2",
+    "solvedCount": 282
+  }
+}

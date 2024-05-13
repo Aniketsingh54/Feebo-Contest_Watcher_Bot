@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1451,
+    "index": "C",
+    "name": "String Equality",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "dp",
+      "greedy",
+      "hashing",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1451,
+    "index": "C",
+    "solvedCount": 15215
+  }
+}

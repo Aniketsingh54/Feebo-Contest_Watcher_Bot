@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1965,
+    "index": "B",
+    "name": "Missing Subsequence Sum",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1965,
+    "index": "B",
+    "solvedCount": 4858
+  }
+}

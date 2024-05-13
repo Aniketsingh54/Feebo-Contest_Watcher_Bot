@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 819,
+    "index": "C",
+    "name": "Mister B and Beacons on Field",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2900,
+    "tags": [
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 819,
+    "index": "C",
+    "solvedCount": 205
+  }
+}

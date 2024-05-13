@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1541,
+    "index": "B",
+    "name": "Pleasant Pairs",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1541,
+    "index": "B",
+    "solvedCount": 26530
+  }
+}

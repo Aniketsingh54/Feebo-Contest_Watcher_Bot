@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1408,
+    "index": "G",
+    "name": "Clusterization Counting",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "dsu",
+      "fft",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1408,
+    "index": "G",
+    "solvedCount": 926
+  }
+}

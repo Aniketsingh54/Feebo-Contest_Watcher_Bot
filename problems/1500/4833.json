@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1084,
+    "index": "C",
+    "name": "The Fair Nut and String",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1084,
+    "index": "C",
+    "solvedCount": 7542
+  }
+}

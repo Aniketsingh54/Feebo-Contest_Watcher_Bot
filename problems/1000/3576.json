@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1333,
+    "index": "A",
+    "name": "Little Artem",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1333,
+    "index": "A",
+    "solvedCount": 24162
+  }
+}

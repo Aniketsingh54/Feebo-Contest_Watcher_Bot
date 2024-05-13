@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1443,
+    "index": "B",
+    "name": "Saving the City",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1443,
+    "index": "B",
+    "solvedCount": 15500
+  }
+}

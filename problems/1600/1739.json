@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1677,
+    "index": "A",
+    "name": "Tokitsukaze and Strange Inequality",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1677,
+    "index": "A",
+    "solvedCount": 8117
+  }
+}

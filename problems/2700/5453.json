@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 949,
+    "index": "E",
+    "name": "Binary Cards",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 949,
+    "index": "E",
+    "solvedCount": 601
+  }
+}

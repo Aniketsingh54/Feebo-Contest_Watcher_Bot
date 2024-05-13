@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1748,
+    "index": "E",
+    "name": "Yet Another Array Counting Problem",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "flows",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1748,
+    "index": "E",
+    "solvedCount": 1735
+  }
+}

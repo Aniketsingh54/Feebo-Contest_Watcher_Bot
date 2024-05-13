@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1781,
+    "index": "F",
+    "name": "Bracket Insertion",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1781,
+    "index": "F",
+    "solvedCount": 734
+  }
+}

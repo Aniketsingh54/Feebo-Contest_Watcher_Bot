@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 724,
+    "index": "B",
+    "name": "Batch Sort",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 724,
+    "index": "B",
+    "solvedCount": 3975
+  }
+}

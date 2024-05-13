@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1602,
+    "index": "B",
+    "name": "Divine Array",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1602,
+    "index": "B",
+    "solvedCount": 13849
+  }
+}

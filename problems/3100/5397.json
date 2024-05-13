@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 960,
+    "index": "H",
+    "name": "Santa's Gift",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3100,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 960,
+    "index": "H",
+    "solvedCount": 255
+  }
+}

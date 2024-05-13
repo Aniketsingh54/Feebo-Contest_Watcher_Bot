@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1874,
+    "index": "C",
+    "name": "Jellyfish and EVA",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1874,
+    "index": "C",
+    "solvedCount": 1505
+  }
+}

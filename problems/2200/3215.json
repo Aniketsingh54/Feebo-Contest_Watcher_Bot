@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1398,
+    "index": "E",
+    "name": "Two Types of Spells",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1398,
+    "index": "E",
+    "solvedCount": 2178
+  }
+}

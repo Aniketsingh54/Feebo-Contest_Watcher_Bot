@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 729,
+    "index": "E",
+    "name": "Subordinates",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 729,
+    "index": "E",
+    "solvedCount": 2150
+  }
+}

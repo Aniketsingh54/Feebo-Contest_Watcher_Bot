@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1630,
+    "index": "D",
+    "name": "Flipping Range",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1630,
+    "index": "D",
+    "solvedCount": 1509
+  }
+}

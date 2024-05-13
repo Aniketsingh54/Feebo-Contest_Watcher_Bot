@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1043,
+    "index": "B",
+    "name": "Lost Array",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1043,
+    "index": "B",
+    "solvedCount": 6203
+  }
+}

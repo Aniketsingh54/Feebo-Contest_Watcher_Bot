@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1534,
+    "index": "E",
+    "name": "Lost Array",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "graphs",
+      "greedy",
+      "interactive",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1534,
+    "index": "E",
+    "solvedCount": 1850
+  }
+}

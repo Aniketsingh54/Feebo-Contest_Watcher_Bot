@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 722,
+    "index": "F",
+    "name": "Cyclic Cipher",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "chinese remainder theorem",
+      "data structures",
+      "implementation",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 722,
+    "index": "F",
+    "solvedCount": 470
+  }
+}

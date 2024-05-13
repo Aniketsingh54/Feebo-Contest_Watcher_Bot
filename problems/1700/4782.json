@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1092,
+    "index": "C",
+    "name": "Prefixes and Suffixes",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1092,
+    "index": "C",
+    "solvedCount": 5780
+  }
+}

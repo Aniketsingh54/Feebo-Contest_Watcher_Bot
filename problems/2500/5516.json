@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 930,
+    "index": "D",
+    "name": "Game with Tokens",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "games",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 930,
+    "index": "D",
+    "solvedCount": 393
+  }
+}

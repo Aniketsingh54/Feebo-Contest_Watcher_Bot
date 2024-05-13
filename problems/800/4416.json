@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1167,
+    "index": "A",
+    "name": "Telephone Number",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1167,
+    "index": "A",
+    "solvedCount": 18790
+  }
+}

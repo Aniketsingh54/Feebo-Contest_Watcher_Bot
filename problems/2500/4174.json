@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1209,
+    "index": "E2",
+    "name": "Rotate Columns (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1209,
+    "index": "E2",
+    "solvedCount": 1847
+  }
+}

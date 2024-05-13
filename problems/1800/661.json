@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1859,
+    "index": "D",
+    "name": "Andrey and Escape from Capygrad",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1859,
+    "index": "D",
+    "solvedCount": 6557
+  }
+}

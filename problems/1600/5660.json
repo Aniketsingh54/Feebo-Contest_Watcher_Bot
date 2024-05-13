@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 906,
+    "index": "A",
+    "name": "Shockers",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 906,
+    "index": "A",
+    "solvedCount": 4094
+  }
+}

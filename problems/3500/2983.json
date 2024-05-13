@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1444,
+    "index": "E",
+    "name": "Finding the Vertex",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3500,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1444,
+    "index": "E",
+    "solvedCount": 130
+  }
+}

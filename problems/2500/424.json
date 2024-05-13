@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1903,
+    "index": "F",
+    "name": "Babysitting",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 2500,
+    "tags": [
+      "2-sat",
+      "binary search",
+      "data structures",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1903,
+    "index": "F",
+    "solvedCount": 557
+  }
+}

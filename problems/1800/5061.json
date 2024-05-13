@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1034,
+    "index": "A",
+    "name": "Enlarge GCD",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1800,
+    "tags": [
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1034,
+    "index": "A",
+    "solvedCount": 8306
+  }
+}

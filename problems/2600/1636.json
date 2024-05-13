@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1696,
+    "index": "F",
+    "name": "Tree Recovery",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1696,
+    "index": "F",
+    "solvedCount": 848
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1883,
+    "index": "C",
+    "name": "Raspberries",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1000,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1883,
+    "index": "C",
+    "solvedCount": 22731
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1808,
+    "index": "D",
+    "name": "Petya, Petya, Petr, and Palindromes",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1808,
+    "index": "D",
+    "solvedCount": 2168
+  }
+}

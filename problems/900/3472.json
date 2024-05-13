@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1354,
+    "index": "A",
+    "name": "Alarm Clock",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1354,
+    "index": "A",
+    "solvedCount": 23243
+  }
+}

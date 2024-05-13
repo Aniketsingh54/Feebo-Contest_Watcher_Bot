@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1143,
+    "index": "A",
+    "name": "The Doors",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1143,
+    "index": "A",
+    "solvedCount": 13084
+  }
+}

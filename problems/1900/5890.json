@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 848,
+    "index": "B",
+    "name": "Rooter's Song",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "geometry",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 848,
+    "index": "B",
+    "solvedCount": 1814
+  }
+}

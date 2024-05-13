@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1883,
+    "index": "B",
+    "name": "Chemistry",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1883,
+    "index": "B",
+    "solvedCount": 26933
+  }
+}

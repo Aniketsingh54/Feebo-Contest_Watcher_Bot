@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1906,
+    "index": "E",
+    "name": "Merge Not Sort",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1906,
+    "index": "E",
+    "solvedCount": 1304
+  }
+}

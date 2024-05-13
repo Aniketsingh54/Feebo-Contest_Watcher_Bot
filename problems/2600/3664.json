@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1312,
+    "index": "G",
+    "name": "Autocompletion",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1312,
+    "index": "G",
+    "solvedCount": 789
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1313,
+    "index": "C2",
+    "name": "Skyscrapers (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1313,
+    "index": "C2",
+    "solvedCount": 6166
+  }
+}

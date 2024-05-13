@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 801,
+    "index": "B",
+    "name": "Valued Keys",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 801,
+    "index": "B",
+    "solvedCount": 10016
+  }
+}

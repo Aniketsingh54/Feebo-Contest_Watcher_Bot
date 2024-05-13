@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1001,
+    "index": "B",
+    "name": "Generate Bell state",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1001,
+    "index": "B",
+    "solvedCount": 704
+  }
+}

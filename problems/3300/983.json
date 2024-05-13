@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1804,
+    "index": "H",
+    "name": "Code Lock",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3300,
+    "tags": [
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1804,
+    "index": "H",
+    "solvedCount": 169
+  }
+}

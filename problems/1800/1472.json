@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "H",
+    "name": "Hot Black Hot White",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "H",
+    "solvedCount": 2504
+  }
+}

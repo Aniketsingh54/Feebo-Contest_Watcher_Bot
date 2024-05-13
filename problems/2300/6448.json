@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 723,
+    "index": "F",
+    "name": "st-Spanning Tree",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2300,
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 723,
+    "index": "F",
+    "solvedCount": 1440
+  }
+}

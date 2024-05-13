@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1747,
+    "index": "C",
+    "name": "Swap Game",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1747,
+    "index": "C",
+    "solvedCount": 20349
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 853,
+    "index": "C",
+    "name": "Boredom",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 853,
+    "index": "C",
+    "solvedCount": 1387
+  }
+}

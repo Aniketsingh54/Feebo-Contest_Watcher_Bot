@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1726,
+    "index": "D",
+    "name": "Edge Split",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1726,
+    "index": "D",
+    "solvedCount": 3544
+  }
+}

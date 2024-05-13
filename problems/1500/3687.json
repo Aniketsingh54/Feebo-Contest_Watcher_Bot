@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1307,
+    "index": "C",
+    "name": "Cow and Message",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1307,
+    "index": "C",
+    "solvedCount": 11547
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1599,
+    "index": "G",
+    "name": "Shortest path",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1599,
+    "index": "G",
+    "solvedCount": 357
+  }
+}

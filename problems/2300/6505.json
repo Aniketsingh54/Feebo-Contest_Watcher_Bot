@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 711,
+    "index": "E",
+    "name": "ZS and The Birthday Paradox",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "math",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 711,
+    "index": "E",
+    "solvedCount": 1241
+  }
+}

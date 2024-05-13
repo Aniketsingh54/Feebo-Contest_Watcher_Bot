@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "H",
+    "name": "Hospital Queue",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "H",
+    "solvedCount": 1193
+  }
+}

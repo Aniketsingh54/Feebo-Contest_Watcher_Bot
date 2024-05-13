@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1324,
+    "index": "C",
+    "name": "Frog Jumps",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1324,
+    "index": "C",
+    "solvedCount": 26926
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1814,
+    "index": "C",
+    "name": "Search in Parallel",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1814,
+    "index": "C",
+    "solvedCount": 10197
+  }
+}

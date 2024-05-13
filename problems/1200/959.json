@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1808,
+    "index": "B",
+    "name": "Playing in a Casino",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1808,
+    "index": "B",
+    "solvedCount": 14689
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1837,
+    "index": "F",
+    "name": "Editorial for Two",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1837,
+    "index": "F",
+    "solvedCount": 2071
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 893,
+    "index": "A",
+    "name": "Chess For Three",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 893,
+    "index": "A",
+    "solvedCount": 10022
+  }
+}

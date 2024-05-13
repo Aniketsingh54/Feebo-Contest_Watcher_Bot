@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1942,
+    "index": "B",
+    "name": "Bessie and MEX",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1942,
+    "index": "B",
+    "solvedCount": 12239
+  }
+}

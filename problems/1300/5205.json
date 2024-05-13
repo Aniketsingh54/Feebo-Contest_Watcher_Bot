@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1003,
+    "index": "C",
+    "name": "Intense Heat",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1003,
+    "index": "C",
+    "solvedCount": 10341
+  }
+}

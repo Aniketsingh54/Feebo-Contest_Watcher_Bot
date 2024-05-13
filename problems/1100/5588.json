@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 919,
+    "index": "B",
+    "name": "Perfect Number",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "implementation",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 919,
+    "index": "B",
+    "solvedCount": 26910
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1071,
+    "index": "E",
+    "name": "Rain Protection",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1071,
+    "index": "E",
+    "solvedCount": 90
+  }
+}

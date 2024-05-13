@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 979,
+    "index": "A",
+    "name": "Pizza, Pizza, Pizza!!!",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 979,
+    "index": "A",
+    "solvedCount": 13437
+  }
+}

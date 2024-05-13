@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1671,
+    "index": "E",
+    "name": "Preorder",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "hashing",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1671,
+    "index": "E",
+    "solvedCount": 2645
+  }
+}

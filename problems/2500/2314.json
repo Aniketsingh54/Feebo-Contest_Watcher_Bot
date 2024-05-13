@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1572,
+    "index": "B",
+    "name": "Xor of 3",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1572,
+    "index": "B",
+    "solvedCount": 1743
+  }
+}

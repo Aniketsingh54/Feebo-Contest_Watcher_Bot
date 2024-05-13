@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 989,
+    "index": "A",
+    "name": "A Blend of Springtime",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 989,
+    "index": "A",
+    "solvedCount": 10158
+  }
+}

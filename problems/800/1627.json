@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1698,
+    "index": "A",
+    "name": "XOR Mixup",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1698,
+    "index": "A",
+    "solvedCount": 27868
+  }
+}

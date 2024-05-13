@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1155,
+    "index": "D",
+    "name": "Beautiful Array",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1155,
+    "index": "D",
+    "solvedCount": 6688
+  }
+}

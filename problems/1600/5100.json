@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1028,
+    "index": "C",
+    "name": "Rectangles",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "geometry",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1028,
+    "index": "C",
+    "solvedCount": 4360
+  }
+}

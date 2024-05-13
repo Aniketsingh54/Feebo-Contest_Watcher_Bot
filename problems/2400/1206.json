@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1770,
+    "index": "E",
+    "name": "Koxia and Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "math",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1770,
+    "index": "E",
+    "solvedCount": 1296
+  }
+}

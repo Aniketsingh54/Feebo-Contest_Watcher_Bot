@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1406,
+    "index": "B",
+    "name": "Maximum Product",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1406,
+    "index": "B",
+    "solvedCount": 22049
+  }
+}

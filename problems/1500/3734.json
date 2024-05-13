@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1299,
+    "index": "A",
+    "name": "Anu Has a Function",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1299,
+    "index": "A",
+    "solvedCount": 11758
+  }
+}

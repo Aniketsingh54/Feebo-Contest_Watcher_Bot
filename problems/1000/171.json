@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1941,
+    "index": "B",
+    "name": "Rudolf and 121",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1941,
+    "index": "B",
+    "solvedCount": 26441
+  }
+}

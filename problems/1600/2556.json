@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1528,
+    "index": "A",
+    "name": "Parsa's Humongous Tree",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1528,
+    "index": "A",
+    "solvedCount": 13885
+  }
+}

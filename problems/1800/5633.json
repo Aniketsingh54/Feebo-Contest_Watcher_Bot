@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 911,
+    "index": "D",
+    "name": "Inversion Counting",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 911,
+    "index": "D",
+    "solvedCount": 4457
+  }
+}

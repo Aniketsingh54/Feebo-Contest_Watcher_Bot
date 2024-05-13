@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1034,
+    "index": "E",
+    "name": "Little C Loves 3 III",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1034,
+    "index": "E",
+    "solvedCount": 600
+  }
+}

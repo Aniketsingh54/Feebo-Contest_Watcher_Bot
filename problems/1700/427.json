@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1903,
+    "index": "D1",
+    "name": "Maximum And Queries (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1903,
+    "index": "D1",
+    "solvedCount": 5086
+  }
+}

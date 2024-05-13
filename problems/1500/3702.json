@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1304,
+    "index": "C",
+    "name": "Air Conditioner",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1304,
+    "index": "C",
+    "solvedCount": 15778
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1731,
+    "index": "B",
+    "name": "Kill Demodogs",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1731,
+    "index": "B",
+    "solvedCount": 16780
+  }
+}

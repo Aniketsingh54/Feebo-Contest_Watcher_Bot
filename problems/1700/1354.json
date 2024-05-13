@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1743,
+    "index": "D",
+    "name": "Problem with Random Tests",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1743,
+    "index": "D",
+    "solvedCount": 7297
+  }
+}

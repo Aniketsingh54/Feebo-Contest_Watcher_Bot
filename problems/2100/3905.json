@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1265,
+    "index": "E",
+    "name": "Beautiful Mirrors",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1265,
+    "index": "E",
+    "solvedCount": 3322
+  }
+}

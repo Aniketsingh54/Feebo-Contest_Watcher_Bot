@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1943,
+    "index": "B",
+    "name": "Non-Palindromic Substring",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2000,
+    "tags": [
+      "hashing",
+      "implementation",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1943,
+    "index": "B",
+    "solvedCount": 3293
+  }
+}

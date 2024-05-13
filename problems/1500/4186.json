@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1208,
+    "index": "B",
+    "name": "Uniqueness",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1208,
+    "index": "B",
+    "solvedCount": 10078
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1609,
+    "index": "F",
+    "name": "Interesting Sections",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "meet-in-the-middle",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1609,
+    "index": "F",
+    "solvedCount": 729
+  }
+}

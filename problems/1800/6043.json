@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 813,
+    "index": "B",
+    "name": "The Golden Age",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 813,
+    "index": "B",
+    "solvedCount": 3786
+  }
+}

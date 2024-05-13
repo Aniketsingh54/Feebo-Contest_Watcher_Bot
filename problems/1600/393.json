@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1907,
+    "index": "E",
+    "name": "Good Triples",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1907,
+    "index": "E",
+    "solvedCount": 8817
+  }
+}

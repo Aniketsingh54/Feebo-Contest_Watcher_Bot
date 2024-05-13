@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1616,
+    "index": "H",
+    "name": "Keep XOR Low",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3000,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1616,
+    "index": "H",
+    "solvedCount": 789
+  }
+}

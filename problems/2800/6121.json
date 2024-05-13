@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 796,
+    "index": "F",
+    "name": "Sequence Recovery",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 796,
+    "index": "F",
+    "solvedCount": 169
+  }
+}

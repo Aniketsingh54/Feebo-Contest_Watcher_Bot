@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 912,
+    "index": "E",
+    "name": "Prime Gift",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "math",
+      "meet-in-the-middle",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 912,
+    "index": "E",
+    "solvedCount": 1487
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1089,
+    "index": "H",
+    "name": "Harder Satisfiability",
+    "type": "PROGRAMMING",
+    "rating": 3400,
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1089,
+    "index": "H",
+    "solvedCount": 106
+  }
+}

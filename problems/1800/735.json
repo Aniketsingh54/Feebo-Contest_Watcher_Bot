@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1846,
+    "index": "F",
+    "name": "Rudolph and Mimic",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1846,
+    "index": "F",
+    "solvedCount": 2877
+  }
+}

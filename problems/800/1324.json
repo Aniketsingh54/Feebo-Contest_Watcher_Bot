@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1749,
+    "index": "A",
+    "name": "Cowardly Rooks",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1749,
+    "index": "A",
+    "solvedCount": 21991
+  }
+}

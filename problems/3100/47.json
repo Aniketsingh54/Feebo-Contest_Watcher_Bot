@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1967,
+    "index": "E1",
+    "name": "Again Counting Arrays (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 3100,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1967,
+    "index": "E1",
+    "solvedCount": 116
+  }
+}

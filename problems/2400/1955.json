@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1638,
+    "index": "E",
+    "name": "Colorful Operations",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1638,
+    "index": "E",
+    "solvedCount": 1793
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1437,
+    "index": "F",
+    "name": "Emotional Fishermen",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1437,
+    "index": "F",
+    "solvedCount": 1165
+  }
+}

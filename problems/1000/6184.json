@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 779,
+    "index": "A",
+    "name": "Pupils Redistribution",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 779,
+    "index": "A",
+    "solvedCount": 9224
+  }
+}

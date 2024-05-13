@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 991,
+    "index": "D",
+    "name": "Bishwock",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 991,
+    "index": "D",
+    "solvedCount": 7005
+  }
+}

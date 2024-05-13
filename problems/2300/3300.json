@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1380,
+    "index": "E",
+    "name": "Merging Towers",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dsu",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1380,
+    "index": "E",
+    "solvedCount": 1915
+  }
+}

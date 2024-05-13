@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 817,
+    "index": "E",
+    "name": "Choosing The Commander",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 817,
+    "index": "E",
+    "solvedCount": 2695
+  }
+}

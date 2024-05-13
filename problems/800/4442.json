@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1159,
+    "index": "A",
+    "name": "A pile of stones",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1159,
+    "index": "A",
+    "solvedCount": 12338
+  }
+}

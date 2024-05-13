@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 813,
+    "index": "C",
+    "name": "The Tag Game",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 813,
+    "index": "C",
+    "solvedCount": 5657
+  }
+}

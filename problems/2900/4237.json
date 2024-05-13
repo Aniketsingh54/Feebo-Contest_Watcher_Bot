@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1198,
+    "index": "F",
+    "name": "GCD Groups 2",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2900,
+    "tags": [
+      "greedy",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1198,
+    "index": "F",
+    "solvedCount": 819
+  }
+}

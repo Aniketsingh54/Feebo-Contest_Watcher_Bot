@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1179,
+    "index": "B",
+    "name": "Tolik and His Uncle",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1179,
+    "index": "B",
+    "solvedCount": 4301
+  }
+}

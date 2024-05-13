@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1445,
+    "index": "A",
+    "name": "Array Rearrangment",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1445,
+    "index": "A",
+    "solvedCount": 18811
+  }
+}

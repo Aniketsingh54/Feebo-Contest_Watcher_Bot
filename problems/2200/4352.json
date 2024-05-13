@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1179,
+    "index": "C",
+    "name": "Serge and Dining Room",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "graph matchings",
+      "greedy",
+      "implementation",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1179,
+    "index": "C",
+    "solvedCount": 1957
+  }
+}

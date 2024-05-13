@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1444,
+    "index": "A",
+    "name": "Division",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1444,
+    "index": "A",
+    "solvedCount": 12566
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 744,
+    "index": "E",
+    "name": "Hongcow Masters the Cyclic Shift",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 744,
+    "index": "E",
+    "solvedCount": 133
+  }
+}

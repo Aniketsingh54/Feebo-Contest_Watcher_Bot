@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1614,
+    "index": "D1",
+    "name": "Divan and Kostomuksha (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1614,
+    "index": "D1",
+    "solvedCount": 3653
+  }
+}

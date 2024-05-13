@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 938,
+    "index": "B",
+    "name": "Run For Your Prize",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 938,
+    "index": "B",
+    "solvedCount": 8736
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "I",
+    "name": "Photo Processing",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "I",
+    "solvedCount": 1896
+  }
+}

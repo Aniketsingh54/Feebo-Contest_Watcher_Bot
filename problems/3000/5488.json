@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 936,
+    "index": "D",
+    "name": "World of Tank",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3000,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 936,
+    "index": "D",
+    "solvedCount": 323
+  }
+}

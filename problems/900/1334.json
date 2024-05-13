@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1747,
+    "index": "B",
+    "name": "BAN BAN",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1747,
+    "index": "B",
+    "solvedCount": 21608
+  }
+}

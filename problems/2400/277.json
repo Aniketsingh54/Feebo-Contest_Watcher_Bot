@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1924,
+    "index": "C",
+    "name": "Fractal Origami",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "geometry",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1924,
+    "index": "C",
+    "solvedCount": 1044
+  }
+}

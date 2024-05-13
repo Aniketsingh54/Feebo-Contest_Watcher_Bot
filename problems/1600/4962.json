@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1056,
+    "index": "D",
+    "name": "Decorate Apple Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1056,
+    "index": "D",
+    "solvedCount": 5634
+  }
+}

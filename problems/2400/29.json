@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "A2",
+    "name": "Balanced Unshuffle (Medium)",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "A2",
+    "solvedCount": 304
+  }
+}

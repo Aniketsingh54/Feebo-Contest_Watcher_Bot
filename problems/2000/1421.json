@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1733,
+    "index": "D2",
+    "name": "Zero-One (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1733,
+    "index": "D2",
+    "solvedCount": 3985
+  }
+}

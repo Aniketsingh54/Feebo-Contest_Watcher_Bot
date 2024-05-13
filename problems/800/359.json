@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1912,
+    "index": "L",
+    "name": "LOL Lovers",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1912,
+    "index": "L",
+    "solvedCount": 6329
+  }
+}

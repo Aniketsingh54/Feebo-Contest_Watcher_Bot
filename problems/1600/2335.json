@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1567,
+    "index": "C",
+    "name": "Carrying Conundrum",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1567,
+    "index": "C",
+    "solvedCount": 11849
+  }
+}

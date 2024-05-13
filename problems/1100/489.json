@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1891,
+    "index": "B",
+    "name": "Deja Vu",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1891,
+    "index": "B",
+    "solvedCount": 15808
+  }
+}

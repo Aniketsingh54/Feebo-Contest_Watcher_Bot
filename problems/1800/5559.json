@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 922,
+    "index": "D",
+    "name": "Robot Vacuum Cleaner",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 922,
+    "index": "D",
+    "solvedCount": 4237
+  }
+}

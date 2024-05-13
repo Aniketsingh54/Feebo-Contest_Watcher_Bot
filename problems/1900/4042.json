@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1237,
+    "index": "C2",
+    "name": "Balanced Removals (Harder)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "divide and conquer",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1237,
+    "index": "C2",
+    "solvedCount": 4133
+  }
+}

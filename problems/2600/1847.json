@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1661,
+    "index": "F",
+    "name": "Teleporters",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1661,
+    "index": "F",
+    "solvedCount": 553
+  }
+}

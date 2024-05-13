@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1475,
+    "index": "E",
+    "name": "Advertising Agency",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1475,
+    "index": "E",
+    "solvedCount": 12895
+  }
+}

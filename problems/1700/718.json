@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1849,
+    "index": "D",
+    "name": "Array Painting",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1849,
+    "index": "D",
+    "solvedCount": 7778
+  }
+}

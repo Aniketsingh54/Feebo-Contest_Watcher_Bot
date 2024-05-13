@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 737,
+    "index": "F",
+    "name": "Dirty plates",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 737,
+    "index": "F",
+    "solvedCount": 69
+  }
+}

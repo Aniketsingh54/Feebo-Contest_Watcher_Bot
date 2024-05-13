@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 785,
+    "index": "C",
+    "name": "Anton and Fairy Tale",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 785,
+    "index": "C",
+    "solvedCount": 7192
+  }
+}

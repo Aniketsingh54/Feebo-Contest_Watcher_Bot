@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1637,
+    "index": "D",
+    "name": "Yet Another Minimization Problem",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1637,
+    "index": "D",
+    "solvedCount": 7371
+  }
+}

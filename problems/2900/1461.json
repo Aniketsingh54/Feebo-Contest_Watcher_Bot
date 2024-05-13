@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1726,
+    "index": "F",
+    "name": "Late For Work (submissions are not allowed)",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "greedy",
+      "schedules",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1726,
+    "index": "F",
+    "solvedCount": 131
+  }
+}

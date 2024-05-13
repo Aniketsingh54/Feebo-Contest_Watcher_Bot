@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1001,
+    "index": "H",
+    "name": "Oracle for f(x) = parity of the number of 1s in x",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1001,
+    "index": "H",
+    "solvedCount": 525
+  }
+}

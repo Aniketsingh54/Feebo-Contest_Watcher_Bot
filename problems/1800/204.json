@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1935,
+    "index": "D",
+    "name": "Exam in MAC",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1935,
+    "index": "D",
+    "solvedCount": 7330
+  }
+}

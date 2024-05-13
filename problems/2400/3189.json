@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1403,
+    "index": "A",
+    "name": "The Potion of Great Power",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "*special",
+      "2-sat",
+      "binary search",
+      "data structures",
+      "graphs",
+      "interactive",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1403,
+    "index": "A",
+    "solvedCount": 286
+  }
+}

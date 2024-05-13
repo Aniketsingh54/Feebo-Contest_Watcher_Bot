@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1015,
+    "index": "D",
+    "name": "Walking Between Houses",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1015,
+    "index": "D",
+    "solvedCount": 7923
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1578,
+    "index": "M",
+    "name": "The Mind",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1578,
+    "index": "M",
+    "solvedCount": 436
+  }
+}

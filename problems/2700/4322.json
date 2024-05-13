@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "B3",
+    "name": "The Doctor Meets Vader (Hard)",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "flows",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "B3",
+    "solvedCount": 166
+  }
+}

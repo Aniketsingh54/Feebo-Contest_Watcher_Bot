@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1618,
+    "index": "A",
+    "name": "Polycarp and Sums of Subsequences",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1618,
+    "index": "A",
+    "solvedCount": 31583
+  }
+}

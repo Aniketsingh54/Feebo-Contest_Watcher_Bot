@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1225,
+    "index": "B1",
+    "name": "TV Subscriptions (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1225,
+    "index": "B1",
+    "solvedCount": 11603
+  }
+}

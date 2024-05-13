@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1749,
+    "index": "F",
+    "name": "Distance to the Path",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1749,
+    "index": "F",
+    "solvedCount": 471
+  }
+}

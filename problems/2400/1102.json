@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1784,
+    "index": "D",
+    "name": "Wooden Spoon",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1784,
+    "index": "D",
+    "solvedCount": 953
+  }
+}

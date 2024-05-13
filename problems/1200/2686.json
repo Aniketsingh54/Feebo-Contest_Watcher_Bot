@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1504,
+    "index": "B",
+    "name": "Flip the Bits",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1504,
+    "index": "B",
+    "solvedCount": 17295
+  }
+}

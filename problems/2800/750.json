@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1844,
+    "index": "F2",
+    "name": "Min Cost Permutation (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1844,
+    "index": "F2",
+    "solvedCount": 369
+  }
+}

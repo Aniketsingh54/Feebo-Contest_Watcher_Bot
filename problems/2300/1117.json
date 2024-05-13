@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1781,
+    "index": "E",
+    "name": "Rectangle Shrinking",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1781,
+    "index": "E",
+    "solvedCount": 1266
+  }
+}

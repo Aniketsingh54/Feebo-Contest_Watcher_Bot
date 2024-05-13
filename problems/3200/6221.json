@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 772,
+    "index": "E",
+    "name": "Verifying Kingdom",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "binary search",
+      "divide and conquer",
+      "interactive",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 772,
+    "index": "E",
+    "solvedCount": 122
+  }
+}

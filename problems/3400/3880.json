@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1268,
+    "index": "E",
+    "name": "Happy Cactus",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3400,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1268,
+    "index": "E",
+    "solvedCount": 221
+  }
+}

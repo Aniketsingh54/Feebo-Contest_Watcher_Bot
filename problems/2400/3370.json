@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1367,
+    "index": "F2",
+    "name": "Flying Sort (Hard Version)",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1367,
+    "index": "F2",
+    "solvedCount": 1443
+  }
+}

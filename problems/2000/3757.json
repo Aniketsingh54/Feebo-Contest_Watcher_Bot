@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1294,
+    "index": "F",
+    "name": "Three Paths on a Tree",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1294,
+    "index": "F",
+    "solvedCount": 5358
+  }
+}

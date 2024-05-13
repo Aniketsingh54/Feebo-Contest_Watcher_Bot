@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1156,
+    "index": "B",
+    "name": "Ugly Pairs",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1156,
+    "index": "B",
+    "solvedCount": 6130
+  }
+}

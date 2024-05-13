@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 933,
+    "index": "D",
+    "name": "A Creative Cutout",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2900,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 933,
+    "index": "D",
+    "solvedCount": 280
+  }
+}

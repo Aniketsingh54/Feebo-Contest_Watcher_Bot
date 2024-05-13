@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1669,
+    "index": "G",
+    "name": "Fall Down",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "dfs and similar",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1669,
+    "index": "G",
+    "solvedCount": 17365
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1313,
+    "index": "B",
+    "name": "Different Rules",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1313,
+    "index": "B",
+    "solvedCount": 6458
+  }
+}

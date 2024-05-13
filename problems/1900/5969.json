@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 832,
+    "index": "D",
+    "name": "Misha, Grisha and Underground",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 832,
+    "index": "D",
+    "solvedCount": 3607
+  }
+}

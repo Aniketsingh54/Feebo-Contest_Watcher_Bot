@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 817,
+    "index": "A",
+    "name": "Treasure Hunt",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 817,
+    "index": "A",
+    "solvedCount": 6067
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1646,
+    "index": "B",
+    "name": "Quality vs Quantity",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1646,
+    "index": "B",
+    "solvedCount": 20872
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1197,
+    "index": "E",
+    "name": "Culture Code",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1197,
+    "index": "E",
+    "solvedCount": 1505
+  }
+}

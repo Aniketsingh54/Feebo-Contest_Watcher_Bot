@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "G",
+    "name": "Orientation of Edges",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "G",
+    "solvedCount": 1384
+  }
+}

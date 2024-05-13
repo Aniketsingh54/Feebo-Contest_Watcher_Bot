@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 798,
+    "index": "A",
+    "name": "Mike and palindrome",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 798,
+    "index": "A",
+    "solvedCount": 21076
+  }
+}

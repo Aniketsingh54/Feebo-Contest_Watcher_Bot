@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 852,
+    "index": "F",
+    "name": "Product transformation",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 852,
+    "index": "F",
+    "solvedCount": 558
+  }
+}

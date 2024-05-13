@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 958,
+    "index": "C2",
+    "name": "Encryption (medium)",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 958,
+    "index": "C2",
+    "solvedCount": 1136
+  }
+}

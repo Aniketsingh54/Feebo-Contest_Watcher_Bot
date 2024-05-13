@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1196,
+    "index": "A",
+    "name": "Three Piles of Candies",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1196,
+    "index": "A",
+    "solvedCount": 27268
+  }
+}

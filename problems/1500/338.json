@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1915,
+    "index": "F",
+    "name": "Greetings",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1915,
+    "index": "F",
+    "solvedCount": 11632
+  }
+}

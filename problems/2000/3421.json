@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1359,
+    "index": "D",
+    "name": "Yet Another Yet Another Task",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1359,
+    "index": "D",
+    "solvedCount": 8955
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1582,
+    "index": "B",
+    "name": "Luntik and Subsequences",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1582,
+    "index": "B",
+    "solvedCount": 18857
+  }
+}

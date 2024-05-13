@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1515,
+    "index": "I",
+    "name": "Phoenix and Diamonds",
+    "type": "PROGRAMMING",
+    "points": 5000,
+    "rating": 3400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1515,
+    "index": "I",
+    "solvedCount": 225
+  }
+}

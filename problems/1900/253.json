@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1928,
+    "index": "D",
+    "name": "Lonely Mountain Dungeons",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1928,
+    "index": "D",
+    "solvedCount": 3749
+  }
+}

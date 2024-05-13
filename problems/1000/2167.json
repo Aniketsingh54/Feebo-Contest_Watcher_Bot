@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1605,
+    "index": "B",
+    "name": "Reverse Sort",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1605,
+    "index": "B",
+    "solvedCount": 17647
+  }
+}

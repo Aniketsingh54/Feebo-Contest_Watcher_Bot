@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1184,
+    "index": "D2",
+    "name": "Parallel Universes (Hard)",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1184,
+    "index": "D2",
+    "solvedCount": 102
+  }
+}

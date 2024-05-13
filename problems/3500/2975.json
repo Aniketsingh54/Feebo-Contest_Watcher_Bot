@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1446,
+    "index": "E",
+    "name": "Long Recovery",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1446,
+    "index": "E",
+    "solvedCount": 76
+  }
+}

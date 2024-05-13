@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1891,
+    "index": "F",
+    "name": "A Growing Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1891,
+    "index": "F",
+    "solvedCount": 3376
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 763,
+    "index": "C",
+    "name": "Timofey and remoduling",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 763,
+    "index": "C",
+    "solvedCount": 704
+  }
+}

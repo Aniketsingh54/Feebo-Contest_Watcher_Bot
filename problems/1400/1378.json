@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1740,
+    "index": "C",
+    "name": "Bricks and Bags",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1740,
+    "index": "C",
+    "solvedCount": 10584
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1007,
+    "index": "A",
+    "name": "Reorder the Array",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1007,
+    "index": "A",
+    "solvedCount": 11988
+  }
+}

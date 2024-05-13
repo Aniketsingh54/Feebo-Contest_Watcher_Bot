@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1485,
+    "index": "D",
+    "name": "Multiples and Power Differences",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1485,
+    "index": "D",
+    "solvedCount": 4942
+  }
+}

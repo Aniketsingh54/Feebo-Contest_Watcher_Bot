@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1926,
+    "index": "A",
+    "name": "Vlad and the Best of Five",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1926,
+    "index": "A",
+    "solvedCount": 42164
+  }
+}

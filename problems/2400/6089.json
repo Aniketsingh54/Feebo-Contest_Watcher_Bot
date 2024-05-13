@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "L",
+    "name": "Send the Fool Further! (hard)",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "L",
+    "solvedCount": 280
+  }
+}

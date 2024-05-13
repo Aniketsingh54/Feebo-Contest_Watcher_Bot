@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1230,
+    "index": "B",
+    "name": "Ania and Minimizing",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1230,
+    "index": "B",
+    "solvedCount": 18318
+  }
+}

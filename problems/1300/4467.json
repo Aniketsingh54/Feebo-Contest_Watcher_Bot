@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1155,
+    "index": "C",
+    "name": "Alarm Clocks Everywhere",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1155,
+    "index": "C",
+    "solvedCount": 9065
+  }
+}

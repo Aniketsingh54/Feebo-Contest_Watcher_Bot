@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1466,
+    "index": "B",
+    "name": "Last minute enhancements",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1466,
+    "index": "B",
+    "solvedCount": 22380
+  }
+}

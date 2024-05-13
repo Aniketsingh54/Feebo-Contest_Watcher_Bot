@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1060,
+    "index": "D",
+    "name": "Social Circles",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1060,
+    "index": "D",
+    "solvedCount": 3566
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1059,
+    "index": "B",
+    "name": "Forgery",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1059,
+    "index": "B",
+    "solvedCount": 6903
+  }
+}

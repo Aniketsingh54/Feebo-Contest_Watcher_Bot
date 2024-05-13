@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1592,
+    "index": "D",
+    "name": "Hemose in ICPC ?",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "implementation",
+      "interactive",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1592,
+    "index": "D",
+    "solvedCount": 2159
+  }
+}

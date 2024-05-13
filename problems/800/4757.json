@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1097,
+    "index": "A",
+    "name": "Gennady and a Card Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1097,
+    "index": "A",
+    "solvedCount": 37066
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "O",
+    "name": "April Fools' Problem (hard)",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "flows"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "O",
+    "solvedCount": 827
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1635,
+    "index": "D",
+    "name": "Infinite Set",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math",
+      "matrices",
+      "number theory",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1635,
+    "index": "D",
+    "solvedCount": 6001
+  }
+}

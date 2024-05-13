@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 865,
+    "index": "E",
+    "name": "Hex Dyslexia",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 865,
+    "index": "E",
+    "solvedCount": 119
+  }
+}

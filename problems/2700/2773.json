@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1487,
+    "index": "G",
+    "name": "String Counting",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1487,
+    "index": "G",
+    "solvedCount": 575
+  }
+}

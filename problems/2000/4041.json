@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1237,
+    "index": "D",
+    "name": "Balanced Playlist",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1237,
+    "index": "D",
+    "solvedCount": 3793
+  }
+}

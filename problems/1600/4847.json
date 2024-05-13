@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1082,
+    "index": "B",
+    "name": "Vova and Trophies",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1082,
+    "index": "B",
+    "solvedCount": 7409
+  }
+}

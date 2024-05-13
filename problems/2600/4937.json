@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1061,
+    "index": "E",
+    "name": "Politics",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1061,
+    "index": "E",
+    "solvedCount": 511
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1778,
+    "index": "B",
+    "name": "The Forbidden Permutation",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1778,
+    "index": "B",
+    "solvedCount": 12911
+  }
+}

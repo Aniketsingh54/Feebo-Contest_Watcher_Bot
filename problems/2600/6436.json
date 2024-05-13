@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 725,
+    "index": "E",
+    "name": "Too Much Money",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 725,
+    "index": "E",
+    "solvedCount": 641
+  }
+}

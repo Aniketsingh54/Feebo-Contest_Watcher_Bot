@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 873,
+    "index": "F",
+    "name": "Forbidden Indices",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dsu",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 873,
+    "index": "F",
+    "solvedCount": 1293
+  }
+}

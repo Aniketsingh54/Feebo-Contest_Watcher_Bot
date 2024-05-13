@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1426,
+    "index": "D",
+    "name": "Non-zero Segments",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1426,
+    "index": "D",
+    "solvedCount": 15483
+  }
+}

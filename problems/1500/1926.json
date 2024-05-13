@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1646,
+    "index": "C",
+    "name": "Factorials and Powers of Two",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1646,
+    "index": "C",
+    "solvedCount": 13205
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1455,
+    "index": "D",
+    "name": "Sequence and Swaps",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1455,
+    "index": "D",
+    "solvedCount": 11990
+  }
+}

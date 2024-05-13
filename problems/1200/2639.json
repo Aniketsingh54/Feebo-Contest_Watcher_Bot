@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1512,
+    "index": "D",
+    "name": "Corrupted Array",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1512,
+    "index": "D",
+    "solvedCount": 21708
+  }
+}

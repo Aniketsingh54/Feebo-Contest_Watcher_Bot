@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1439,
+    "index": "D",
+    "name": "INOI Final Contests",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1439,
+    "index": "D",
+    "solvedCount": 340
+  }
+}

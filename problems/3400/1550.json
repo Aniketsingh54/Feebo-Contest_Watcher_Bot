@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1710,
+    "index": "D",
+    "name": "Recover the Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3400,
+    "tags": [
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1710,
+    "index": "D",
+    "solvedCount": 407
+  }
+}

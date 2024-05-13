@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1868,
+    "index": "A",
+    "name": "Fill in the Matrix",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1868,
+    "index": "A",
+    "solvedCount": 11169
+  }
+}

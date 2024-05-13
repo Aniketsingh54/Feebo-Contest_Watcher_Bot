@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 817,
+    "index": "B",
+    "name": "Makes And The Product",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 817,
+    "index": "B",
+    "solvedCount": 5566
+  }
+}

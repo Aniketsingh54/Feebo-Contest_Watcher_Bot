@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1537,
+    "index": "E2",
+    "name": "Erase and Extend (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1537,
+    "index": "E2",
+    "solvedCount": 4987
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1656,
+    "index": "C",
+    "name": "Make Equal With Mod",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1656,
+    "index": "C",
+    "solvedCount": 18504
+  }
+}

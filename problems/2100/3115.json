@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1419,
+    "index": "E",
+    "name": "Decryption",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1419,
+    "index": "E",
+    "solvedCount": 3141
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1131,
+    "index": "E",
+    "name": "String Multiplication",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1131,
+    "index": "E",
+    "solvedCount": 1120
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 878,
+    "index": "E",
+    "name": "Numbers on the blackboard",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 878,
+    "index": "E",
+    "solvedCount": 472
+  }
+}

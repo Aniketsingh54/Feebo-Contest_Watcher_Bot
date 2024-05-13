@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1398,
+    "index": "G",
+    "name": "Running Competition",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "fft",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1398,
+    "index": "G",
+    "solvedCount": 773
+  }
+}

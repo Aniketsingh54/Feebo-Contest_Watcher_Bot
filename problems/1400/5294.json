@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 988,
+    "index": "C",
+    "name": "Equal Sums",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 988,
+    "index": "C",
+    "solvedCount": 9920
+  }
+}

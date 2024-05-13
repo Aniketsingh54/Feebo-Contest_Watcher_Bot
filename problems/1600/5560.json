@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 922,
+    "index": "C",
+    "name": "Cave Painting",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 922,
+    "index": "C",
+    "solvedCount": 6849
+  }
+}

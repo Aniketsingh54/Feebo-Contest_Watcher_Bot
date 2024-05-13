@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1827,
+    "index": "C",
+    "name": "Palindrome Partition",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "hashing",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1827,
+    "index": "C",
+    "solvedCount": 1143
+  }
+}

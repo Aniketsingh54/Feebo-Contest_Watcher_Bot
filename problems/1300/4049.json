@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1236,
+    "index": "C",
+    "name": "Labs",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1236,
+    "index": "C",
+    "solvedCount": 9866
+  }
+}

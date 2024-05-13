@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1575,
+    "index": "A",
+    "name": "Another Sorting Problem",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1575,
+    "index": "A",
+    "solvedCount": 4224
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1428,
+    "index": "F",
+    "name": "Fruit Sequences",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1428,
+    "index": "F",
+    "solvedCount": 2164
+  }
+}

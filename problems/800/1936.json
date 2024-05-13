@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1642,
+    "index": "A",
+    "name": "Hard Way",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1642,
+    "index": "A",
+    "solvedCount": 15985
+  }
+}

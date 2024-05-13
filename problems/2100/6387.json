@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 734,
+    "index": "E",
+    "name": "Anton and Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 734,
+    "index": "E",
+    "solvedCount": 3735
+  }
+}

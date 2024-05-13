@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 991,
+    "index": "E",
+    "name": "Bus Number",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 991,
+    "index": "E",
+    "solvedCount": 3406
+  }
+}

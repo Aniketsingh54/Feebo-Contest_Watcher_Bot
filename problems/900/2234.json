@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1585,
+    "index": "B",
+    "name": "Array Eversion",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1585,
+    "index": "B",
+    "solvedCount": 14807
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1753,
+    "index": "E",
+    "name": "N Machines",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1753,
+    "index": "E",
+    "solvedCount": 309
+  }
+}

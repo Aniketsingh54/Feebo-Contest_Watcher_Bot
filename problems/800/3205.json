@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1400,
+    "index": "A",
+    "name": "String Similarity",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1400,
+    "index": "A",
+    "solvedCount": 26554
+  }
+}

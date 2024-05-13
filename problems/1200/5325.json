@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 982,
+    "index": "A",
+    "name": "Row",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 982,
+    "index": "A",
+    "solvedCount": 8942
+  }
+}

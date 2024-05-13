@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1307,
+    "index": "E",
+    "name": "Cow and Treats",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1307,
+    "index": "E",
+    "solvedCount": 1119
+  }
+}

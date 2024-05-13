@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1542,
+    "index": "C",
+    "name": "Strange Function",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1542,
+    "index": "C",
+    "solvedCount": 13531
+  }
+}

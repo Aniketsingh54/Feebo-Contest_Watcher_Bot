@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1346,
+    "index": "I",
+    "name": "Pac-Man 2.0",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "*special",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1346,
+    "index": "I",
+    "solvedCount": 43
+  }
+}

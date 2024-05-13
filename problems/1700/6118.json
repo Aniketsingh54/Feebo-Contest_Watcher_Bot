@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 797,
+    "index": "C",
+    "name": "Minimal string",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 797,
+    "index": "C",
+    "solvedCount": 6277
+  }
+}

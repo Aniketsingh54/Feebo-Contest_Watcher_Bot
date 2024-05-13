@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1208,
+    "index": "D",
+    "name": "Restore Permutation",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1208,
+    "index": "D",
+    "solvedCount": 4664
+  }
+}

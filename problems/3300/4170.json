@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1209,
+    "index": "H",
+    "name": "Moving Walkways",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1209,
+    "index": "H",
+    "solvedCount": 136
+  }
+}

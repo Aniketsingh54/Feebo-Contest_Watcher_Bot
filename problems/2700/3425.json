@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1358,
+    "index": "F",
+    "name": "Tasty Cookie",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1358,
+    "index": "F",
+    "solvedCount": 436
+  }
+}

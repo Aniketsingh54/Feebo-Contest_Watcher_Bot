@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1467,
+    "index": "C",
+    "name": "Three Bags",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1467,
+    "index": "C",
+    "solvedCount": 6215
+  }
+}

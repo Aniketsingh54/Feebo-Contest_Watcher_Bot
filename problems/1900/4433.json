@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1163,
+    "index": "C2",
+    "name": "Power Transmission (Hard Edition)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "geometry",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1163,
+    "index": "C2",
+    "solvedCount": 3528
+  }
+}

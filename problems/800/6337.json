@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 748,
+    "index": "A",
+    "name": "Santa Claus and a Place in a Class",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 748,
+    "index": "A",
+    "solvedCount": 8650
+  }
+}

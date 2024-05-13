@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1383,
+    "index": "B",
+    "name": "GameGame",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "games",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1383,
+    "index": "B",
+    "solvedCount": 4767
+  }
+}

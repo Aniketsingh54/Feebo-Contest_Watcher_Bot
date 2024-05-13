@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1807,
+    "index": "C",
+    "name": "Find and Replace",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1807,
+    "index": "C",
+    "solvedCount": 29224
+  }
+}

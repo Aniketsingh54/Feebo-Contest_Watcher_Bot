@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 706,
+    "index": "B",
+    "name": "Interesting drink",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 706,
+    "index": "B",
+    "solvedCount": 58510
+  }
+}

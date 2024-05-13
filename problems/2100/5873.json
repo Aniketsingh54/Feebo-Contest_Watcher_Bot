@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 852,
+    "index": "D",
+    "name": "Exploration plan",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "flows",
+      "graph matchings",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 852,
+    "index": "D",
+    "solvedCount": 955
+  }
+}

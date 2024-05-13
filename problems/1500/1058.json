@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1792,
+    "index": "C",
+    "name": "Min Max Sort",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1792,
+    "index": "C",
+    "solvedCount": 13250
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "N",
+    "name": "April Fools' Problem (medium)",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "N",
+    "solvedCount": 1100
+  }
+}

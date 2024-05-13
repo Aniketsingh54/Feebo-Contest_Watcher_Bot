@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1909,
+    "index": "H",
+    "name": "Parallel Swaps Sort",
+    "type": "PROGRAMMING",
+    "points": 6000,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1909,
+    "index": "H",
+    "solvedCount": 61
+  }
+}

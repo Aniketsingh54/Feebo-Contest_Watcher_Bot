@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1374,
+    "index": "F",
+    "name": "Cyclic Shifts Sorting",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1374,
+    "index": "F",
+    "solvedCount": 1260
+  }
+}

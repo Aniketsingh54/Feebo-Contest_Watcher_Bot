@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1399,
+    "index": "F",
+    "name": "Yet Another Segments Subset",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1399,
+    "index": "F",
+    "solvedCount": 1561
+  }
+}

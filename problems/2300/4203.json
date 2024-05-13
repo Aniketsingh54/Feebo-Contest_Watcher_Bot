@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1204,
+    "index": "E",
+    "name": "Natasha, Sasha and the Prefix Sums",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1204,
+    "index": "E",
+    "solvedCount": 1595
+  }
+}

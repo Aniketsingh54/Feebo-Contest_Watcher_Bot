@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1661,
+    "index": "D",
+    "name": "Progressions Covering",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1661,
+    "index": "D",
+    "solvedCount": 4525
+  }
+}

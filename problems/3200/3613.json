@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1326,
+    "index": "F2",
+    "name": "Wise Men (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 3200,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1326,
+    "index": "F2",
+    "solvedCount": 470
+  }
+}

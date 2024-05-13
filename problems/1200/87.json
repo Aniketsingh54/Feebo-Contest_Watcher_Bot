@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1954,
+    "index": "B",
+    "name": "Make It Ugly",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1954,
+    "index": "B",
+    "solvedCount": 15400
+  }
+}

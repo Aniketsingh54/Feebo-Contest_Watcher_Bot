@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 804,
+    "index": "D",
+    "name": "Expected diameter of a tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 804,
+    "index": "D",
+    "solvedCount": 1257
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1685,
+    "index": "B",
+    "name": "Linguistics",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1685,
+    "index": "B",
+    "solvedCount": 3166
+  }
+}

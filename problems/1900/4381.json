@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1174,
+    "index": "D",
+    "name": "Ehab and the Expected XOR Problem",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1174,
+    "index": "D",
+    "solvedCount": 4601
+  }
+}

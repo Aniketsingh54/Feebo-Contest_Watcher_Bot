@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1624,
+    "index": "B",
+    "name": "Make AP",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1624,
+    "index": "B",
+    "solvedCount": 34300
+  }
+}

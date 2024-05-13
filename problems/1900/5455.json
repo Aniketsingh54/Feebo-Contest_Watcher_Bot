@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 949,
+    "index": "C",
+    "name": "Data Center Maintenance",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 949,
+    "index": "C",
+    "solvedCount": 1983
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1194,
+    "index": "F",
+    "name": "Crossword Expert",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "number theory",
+      "probabilities",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1194,
+    "index": "F",
+    "solvedCount": 969
+  }
+}

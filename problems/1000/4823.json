@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1088,
+    "index": "B",
+    "name": "Ehab and subtraction",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1088,
+    "index": "B",
+    "solvedCount": 12365
+  }
+}

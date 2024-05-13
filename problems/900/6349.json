@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 746,
+    "index": "B",
+    "name": "Decoding",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 746,
+    "index": "B",
+    "solvedCount": 26271
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1279,
+    "index": "D",
+    "name": "Santa's Bot",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1279,
+    "index": "D",
+    "solvedCount": 5913
+  }
+}

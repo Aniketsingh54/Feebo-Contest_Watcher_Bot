@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1512,
+    "index": "C",
+    "name": "A-B Palindrome",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1512,
+    "index": "C",
+    "solvedCount": 19466
+  }
+}

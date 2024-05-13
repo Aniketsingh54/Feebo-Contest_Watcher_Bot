@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1472,
+    "index": "F",
+    "name": "New Year's Puzzle",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1472,
+    "index": "F",
+    "solvedCount": 2938
+  }
+}

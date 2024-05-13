@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1487,
+    "index": "D",
+    "name": "Pythagorean Triples",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1487,
+    "index": "D",
+    "solvedCount": 17058
+  }
+}

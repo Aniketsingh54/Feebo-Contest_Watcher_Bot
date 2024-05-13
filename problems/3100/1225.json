@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1767,
+    "index": "F",
+    "name": "Two Subtrees",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1767,
+    "index": "F",
+    "solvedCount": 246
+  }
+}

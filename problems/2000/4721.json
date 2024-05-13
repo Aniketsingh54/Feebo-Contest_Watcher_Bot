@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1102,
+    "index": "F",
+    "name": "Elongated Matrix",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1102,
+    "index": "F",
+    "solvedCount": 1908
+  }
+}

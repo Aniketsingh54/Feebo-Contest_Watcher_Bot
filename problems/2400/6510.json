@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 710,
+    "index": "F",
+    "name": "String Set Queries",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "hashing",
+      "interactive",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 710,
+    "index": "F",
+    "solvedCount": 1674
+  }
+}

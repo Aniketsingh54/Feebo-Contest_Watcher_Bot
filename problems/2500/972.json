@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1806,
+    "index": "D",
+    "name": "DSU Master",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "dsu",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1806,
+    "index": "D",
+    "solvedCount": 849
+  }
+}

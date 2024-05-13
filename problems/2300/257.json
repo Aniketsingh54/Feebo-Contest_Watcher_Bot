@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1927,
+    "index": "G",
+    "name": "Paint Charges",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1927,
+    "index": "G",
+    "solvedCount": 1493
+  }
+}

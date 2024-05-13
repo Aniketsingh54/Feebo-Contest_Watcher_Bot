@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 985,
+    "index": "C",
+    "name": "Liebig's Barrels",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 985,
+    "index": "C",
+    "solvedCount": 5576
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 776,
+    "index": "C",
+    "name": "Molly's Chemicals",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 776,
+    "index": "C",
+    "solvedCount": 5743
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1732,
+    "index": "E",
+    "name": "Location",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1732,
+    "index": "E",
+    "solvedCount": 414
+  }
+}

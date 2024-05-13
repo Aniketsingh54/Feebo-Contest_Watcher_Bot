@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1606,
+    "index": "F",
+    "name": "Tree Queries",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1606,
+    "index": "F",
+    "solvedCount": 517
+  }
+}

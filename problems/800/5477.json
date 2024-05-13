@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 939,
+    "index": "A",
+    "name": "Love Triangle",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 939,
+    "index": "A",
+    "solvedCount": 24290
+  }
+}

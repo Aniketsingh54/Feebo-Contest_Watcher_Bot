@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1805,
+    "index": "E",
+    "name": "There Should Be a Lot of Maximums",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1805,
+    "index": "E",
+    "solvedCount": 1525
+  }
+}

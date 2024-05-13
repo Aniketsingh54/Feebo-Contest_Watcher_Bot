@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "J",
+    "name": "Italian Data Centers",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "J",
+    "solvedCount": 608
+  }
+}

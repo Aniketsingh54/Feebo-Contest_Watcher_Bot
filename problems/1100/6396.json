@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 733,
+    "index": "B",
+    "name": "Parade",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 733,
+    "index": "B",
+    "solvedCount": 10592
+  }
+}

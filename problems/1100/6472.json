@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 719,
+    "index": "A",
+    "name": "Vitya in the Countryside",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 719,
+    "index": "A",
+    "solvedCount": 15407
+  }
+}

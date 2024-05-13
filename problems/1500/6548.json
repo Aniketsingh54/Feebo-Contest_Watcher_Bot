@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 702,
+    "index": "C",
+    "name": "Cellular Network",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 702,
+    "index": "C",
+    "solvedCount": 13173
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1656,
+    "index": "B",
+    "name": "Subtract Operation",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1656,
+    "index": "B",
+    "solvedCount": 17673
+  }
+}

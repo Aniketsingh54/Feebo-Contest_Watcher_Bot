@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1560,
+    "index": "F1",
+    "name": "Nearest Beautiful Number (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1560,
+    "index": "F1",
+    "solvedCount": 5916
+  }
+}

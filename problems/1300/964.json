@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1807,
+    "index": "E",
+    "name": "Interview",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "implementation",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1807,
+    "index": "E",
+    "solvedCount": 11898
+  }
+}

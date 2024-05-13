@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1863,
+    "index": "I",
+    "name": "Redundant Routes",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1863,
+    "index": "I",
+    "solvedCount": 70
+  }
+}

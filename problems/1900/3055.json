@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1428,
+    "index": "D",
+    "name": "Bouncing Boomerangs",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1428,
+    "index": "D",
+    "solvedCount": 4409
+  }
+}

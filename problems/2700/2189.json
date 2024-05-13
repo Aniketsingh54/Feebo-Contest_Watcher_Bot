@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1599,
+    "index": "I",
+    "name": "Desert",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1599,
+    "index": "I",
+    "solvedCount": 112
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "A",
+    "name": "Toda 2",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "A",
+    "solvedCount": 1551
+  }
+}

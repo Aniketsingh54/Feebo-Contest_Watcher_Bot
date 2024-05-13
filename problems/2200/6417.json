@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "E",
+    "name": "Award Ceremony",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "E",
+    "solvedCount": 708
+  }
+}

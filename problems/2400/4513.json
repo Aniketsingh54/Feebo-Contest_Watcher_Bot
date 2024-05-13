@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1147,
+    "index": "D",
+    "name": "Palindrome XOR",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1147,
+    "index": "D",
+    "solvedCount": 729
+  }
+}

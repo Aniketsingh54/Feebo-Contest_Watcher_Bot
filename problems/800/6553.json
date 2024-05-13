@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 701,
+    "index": "A",
+    "name": "Cards",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 701,
+    "index": "A",
+    "solvedCount": 18884
+  }
+}

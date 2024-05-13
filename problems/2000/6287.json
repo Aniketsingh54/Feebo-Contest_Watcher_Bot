@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 758,
+    "index": "D",
+    "name": "Ability To Convert",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 758,
+    "index": "D",
+    "solvedCount": 2688
+  }
+}

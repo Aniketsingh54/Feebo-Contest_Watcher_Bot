@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1867,
+    "index": "A",
+    "name": "green_gold_dog, array and permutation",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1867,
+    "index": "A",
+    "solvedCount": 19208
+  }
+}

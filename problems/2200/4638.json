@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1117,
+    "index": "E",
+    "name": "Decypher the String",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "chinese remainder theorem",
+      "constructive algorithms",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1117,
+    "index": "E",
+    "solvedCount": 1452
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 749,
+    "index": "D",
+    "name": "Leaving Auction",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 749,
+    "index": "D",
+    "solvedCount": 2524
+  }
+}

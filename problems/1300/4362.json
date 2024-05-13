@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1178,
+    "index": "B",
+    "name": "WOW Factor",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1178,
+    "index": "B",
+    "solvedCount": 13989
+  }
+}

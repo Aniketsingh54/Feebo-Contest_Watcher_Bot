@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1214,
+    "index": "E",
+    "name": "Petya and Construction Set",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1214,
+    "index": "E",
+    "solvedCount": 2507
+  }
+}

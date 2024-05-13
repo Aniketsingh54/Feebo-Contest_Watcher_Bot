@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1234,
+    "index": "C",
+    "name": "Pipes",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1234,
+    "index": "C",
+    "solvedCount": 12206
+  }
+}

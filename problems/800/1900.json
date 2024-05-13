@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1651,
+    "index": "B",
+    "name": "Prove Him Wrong",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1651,
+    "index": "B",
+    "solvedCount": 19354
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1099,
+    "index": "C",
+    "name": "Postcard",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1099,
+    "index": "C",
+    "solvedCount": 9404
+  }
+}

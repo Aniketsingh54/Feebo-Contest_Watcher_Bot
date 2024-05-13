@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1730,
+    "index": "C",
+    "name": "Minimum Notation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1730,
+    "index": "C",
+    "solvedCount": 16068
+  }
+}

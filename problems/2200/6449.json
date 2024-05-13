@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 723,
+    "index": "E",
+    "name": "One-Way Reform",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "flows",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 723,
+    "index": "E",
+    "solvedCount": 1883
+  }
+}

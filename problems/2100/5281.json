@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 990,
+    "index": "E",
+    "name": "Post Lamps",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 990,
+    "index": "E",
+    "solvedCount": 1974
+  }
+}

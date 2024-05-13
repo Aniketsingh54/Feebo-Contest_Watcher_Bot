@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1722,
+    "index": "E",
+    "name": "Counting Rectangles",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1722,
+    "index": "E",
+    "solvedCount": 10076
+  }
+}

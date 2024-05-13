@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1949,
+    "index": "C",
+    "name": "Annual Ants' Gathering",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1949,
+    "index": "C",
+    "solvedCount": 1201
+  }
+}

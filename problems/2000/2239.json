@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1584,
+    "index": "D",
+    "name": "Guess the Permutation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1584,
+    "index": "D",
+    "solvedCount": 3524
+  }
+}

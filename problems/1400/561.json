@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1875,
+    "index": "C",
+    "name": "Jellyfish and Green Apple",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1875,
+    "index": "C",
+    "solvedCount": 10787
+  }
+}

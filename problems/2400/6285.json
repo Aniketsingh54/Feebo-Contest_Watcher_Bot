@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 758,
+    "index": "F",
+    "name": "Geometrical Progression",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 758,
+    "index": "F",
+    "solvedCount": 620
+  }
+}

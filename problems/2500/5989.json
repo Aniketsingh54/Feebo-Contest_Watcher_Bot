@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 825,
+    "index": "G",
+    "name": "Tree Queries",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 825,
+    "index": "G",
+    "solvedCount": 1145
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 891,
+    "index": "E",
+    "name": "Lust",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "combinatorics",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 891,
+    "index": "E",
+    "solvedCount": 859
+  }
+}

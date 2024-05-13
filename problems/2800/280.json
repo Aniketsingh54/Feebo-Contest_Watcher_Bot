@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1923,
+    "index": "F",
+    "name": "Shrink-Reverse",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "hashing",
+      "implementation",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1923,
+    "index": "F",
+    "solvedCount": 332
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1141,
+    "index": "F1",
+    "name": "Same Sum Blocks (Easy)",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1141,
+    "index": "F1",
+    "solvedCount": 3737
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1837,
+    "index": "A",
+    "name": "Grasshopper on a Line",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1837,
+    "index": "A",
+    "solvedCount": 29164
+  }
+}

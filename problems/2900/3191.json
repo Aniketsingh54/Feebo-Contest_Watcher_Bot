@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1402,
+    "index": "B",
+    "name": "Roads",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "*special",
+      "geometry",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1402,
+    "index": "B",
+    "solvedCount": 103
+  }
+}

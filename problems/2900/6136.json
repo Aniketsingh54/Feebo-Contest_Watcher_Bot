@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 793,
+    "index": "E",
+    "name": "Problem of offices",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 793,
+    "index": "E",
+    "solvedCount": 241
+  }
+}

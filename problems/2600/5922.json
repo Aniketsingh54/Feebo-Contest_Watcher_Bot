@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 843,
+    "index": "C",
+    "name": "Upgrading Tree",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 843,
+    "index": "C",
+    "solvedCount": 346
+  }
+}

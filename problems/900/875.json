@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1823,
+    "index": "B",
+    "name": "Sort with Step",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1823,
+    "index": "B",
+    "solvedCount": 15331
+  }
+}

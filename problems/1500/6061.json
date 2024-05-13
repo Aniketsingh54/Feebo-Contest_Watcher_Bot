@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 809,
+    "index": "A",
+    "name": "Do you want a date?",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 809,
+    "index": "A",
+    "solvedCount": 4658
+  }
+}

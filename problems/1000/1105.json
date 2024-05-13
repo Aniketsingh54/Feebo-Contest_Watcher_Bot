@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1784,
+    "index": "A",
+    "name": "Monsters (easy version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1784,
+    "index": "A",
+    "solvedCount": 14512
+  }
+}

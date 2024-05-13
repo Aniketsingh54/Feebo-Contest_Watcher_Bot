@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1539,
+    "index": "A",
+    "name": "Contest Start",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "combinatorics",
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1539,
+    "index": "A",
+    "solvedCount": 19605
+  }
+}

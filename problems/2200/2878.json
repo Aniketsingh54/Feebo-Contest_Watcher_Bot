@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "H",
+    "name": "K and Medians",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "H",
+    "solvedCount": 1706
+  }
+}

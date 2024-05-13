@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1117,
+    "index": "G",
+    "name": "Recursive Queries",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1117,
+    "index": "G",
+    "solvedCount": 645
+  }
+}

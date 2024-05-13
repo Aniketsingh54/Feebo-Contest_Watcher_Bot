@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1718,
+    "index": "D",
+    "name": "Permutation for Burenka",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3300,
+    "tags": [
+      "data structures",
+      "graph matchings",
+      "greedy",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1718,
+    "index": "D",
+    "solvedCount": 288
+  }
+}

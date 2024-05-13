@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1066,
+    "index": "B",
+    "name": "Heaters",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1066,
+    "index": "B",
+    "solvedCount": 8080
+  }
+}

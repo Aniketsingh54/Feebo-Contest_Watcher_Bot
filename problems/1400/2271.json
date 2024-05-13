@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1579,
+    "index": "D",
+    "name": "Productive Meeting",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1579,
+    "index": "D",
+    "solvedCount": 15416
+  }
+}

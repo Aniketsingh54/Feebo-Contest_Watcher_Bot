@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1421,
+    "index": "B",
+    "name": "Putting Bricks in the Wall",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1421,
+    "index": "B",
+    "solvedCount": 12880
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1322,
+    "index": "B",
+    "name": "Present",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "data structures",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1322,
+    "index": "B",
+    "solvedCount": 3948
+  }
+}

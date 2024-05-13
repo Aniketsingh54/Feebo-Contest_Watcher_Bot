@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1368,
+    "index": "G",
+    "name": "Shifting Dominoes",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "geometry",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1368,
+    "index": "G",
+    "solvedCount": 398
+  }
+}

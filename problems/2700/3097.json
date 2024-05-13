@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1422,
+    "index": "F",
+    "name": "Boring Queries",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1422,
+    "index": "F",
+    "solvedCount": 971
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1879,
+    "index": "A",
+    "name": "Rigged!",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1879,
+    "index": "A",
+    "solvedCount": 22078
+  }
+}

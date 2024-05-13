@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1835,
+    "index": "E",
+    "name": "Old Mobile",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1835,
+    "index": "E",
+    "solvedCount": 202
+  }
+}

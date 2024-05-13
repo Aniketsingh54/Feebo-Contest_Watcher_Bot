@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1634,
+    "index": "D",
+    "name": "Finding Zero",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1634,
+    "index": "D",
+    "solvedCount": 4234
+  }
+}

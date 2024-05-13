@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1817,
+    "index": "C",
+    "name": "Similar Polynomials",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1817,
+    "index": "C",
+    "solvedCount": 926
+  }
+}

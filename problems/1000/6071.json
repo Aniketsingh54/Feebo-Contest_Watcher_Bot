@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 805,
+    "index": "B",
+    "name": "3-palindrome",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 805,
+    "index": "B",
+    "solvedCount": 16214
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1924,
+    "index": "F",
+    "name": "Anti-Proxy Attendance",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "interactive",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1924,
+    "index": "F",
+    "solvedCount": 129
+  }
+}

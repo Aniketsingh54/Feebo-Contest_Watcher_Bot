@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1210,
+    "index": "C",
+    "name": "Kamil and Making a Stream",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1210,
+    "index": "C",
+    "solvedCount": 3204
+  }
+}

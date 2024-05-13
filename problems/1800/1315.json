@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1750,
+    "index": "D",
+    "name": "Count GCD",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1750,
+    "index": "D",
+    "solvedCount": 5571
+  }
+}

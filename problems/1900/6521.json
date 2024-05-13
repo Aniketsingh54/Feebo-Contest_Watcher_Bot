@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 708,
+    "index": "B",
+    "name": "Recover the String",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 708,
+    "index": "B",
+    "solvedCount": 3197
+  }
+}

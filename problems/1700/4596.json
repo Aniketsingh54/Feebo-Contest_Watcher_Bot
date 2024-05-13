@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1131,
+    "index": "F",
+    "name": "Asya And Kittens",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "dsu"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1131,
+    "index": "F",
+    "solvedCount": 6392
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1114,
+    "index": "C",
+    "name": "Trailing Loves (or L'oeufs?)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1114,
+    "index": "C",
+    "solvedCount": 7251
+  }
+}

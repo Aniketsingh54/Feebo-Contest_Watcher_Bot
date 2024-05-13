@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1626,
+    "index": "E",
+    "name": "Black and White Tree",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1626,
+    "index": "E",
+    "solvedCount": 1520
+  }
+}

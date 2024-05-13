@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 909,
+    "index": "D",
+    "name": "Colorful Points",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 909,
+    "index": "D",
+    "solvedCount": 1679
+  }
+}

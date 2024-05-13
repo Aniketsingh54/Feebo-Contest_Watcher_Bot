@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1717,
+    "index": "D",
+    "name": "Madoka and The Corruption Scheme",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1717,
+    "index": "D",
+    "solvedCount": 4260
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1003,
+    "index": "A",
+    "name": "Polycarp's Pockets",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1003,
+    "index": "A",
+    "solvedCount": 26458
+  }
+}

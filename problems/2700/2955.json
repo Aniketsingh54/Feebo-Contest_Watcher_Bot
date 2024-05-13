@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1451,
+    "index": "F",
+    "name": "Nullify The Matrix",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1451,
+    "index": "F",
+    "solvedCount": 901
+  }
+}

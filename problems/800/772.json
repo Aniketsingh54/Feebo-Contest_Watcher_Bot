@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1842,
+    "index": "A",
+    "name": "Tenzing and Tsondu",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 800,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1842,
+    "index": "A",
+    "solvedCount": 19466
+  }
+}

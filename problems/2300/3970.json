@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1251,
+    "index": "E1",
+    "name": "Voting (Easy Version)",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1251,
+    "index": "E1",
+    "solvedCount": 2101
+  }
+}

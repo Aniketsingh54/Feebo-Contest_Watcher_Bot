@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1931,
+    "index": "E",
+    "name": "Anna and the Valentine's Day Gift",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1931,
+    "index": "E",
+    "solvedCount": 13365
+  }
+}

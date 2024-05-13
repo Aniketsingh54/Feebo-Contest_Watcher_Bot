@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1382,
+    "index": "B",
+    "name": "Sequential Nim",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1382,
+    "index": "B",
+    "solvedCount": 23907
+  }
+}

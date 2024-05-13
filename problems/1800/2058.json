@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1620,
+    "index": "C",
+    "name": "BA-String",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1620,
+    "index": "C",
+    "solvedCount": 6356
+  }
+}

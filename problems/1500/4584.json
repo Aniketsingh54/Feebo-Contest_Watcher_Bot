@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1133,
+    "index": "D",
+    "name": "Zero Quantity Maximization",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "hashing",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1133,
+    "index": "D",
+    "solvedCount": 10952
+  }
+}

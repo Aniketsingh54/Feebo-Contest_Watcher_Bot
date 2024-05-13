@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1530,
+    "index": "G",
+    "name": "What a Reversal",
+    "type": "PROGRAMMING",
+    "points": 3750,
+    "rating": 3300,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1530,
+    "index": "G",
+    "solvedCount": 133
+  }
+}

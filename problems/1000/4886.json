@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1073,
+    "index": "A",
+    "name": "Diverse Substring",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1073,
+    "index": "A",
+    "solvedCount": 14904
+  }
+}

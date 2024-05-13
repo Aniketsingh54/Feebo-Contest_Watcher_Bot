@@ -1,0 +1,28 @@
+{
+  "problem": {
+    "contestId": 979,
+    "index": "D",
+    "name": "Kuro and GCD and XOR and SUM",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "math",
+      "number theory",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 979,
+    "index": "D",
+    "solvedCount": 1685
+  }
+}

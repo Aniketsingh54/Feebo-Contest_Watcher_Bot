@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1764,
+    "index": "A",
+    "name": "Doremy's Paint",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1764,
+    "index": "A",
+    "solvedCount": 16196
+  }
+}

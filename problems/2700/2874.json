@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1468,
+    "index": "L",
+    "name": "Prime Divisors Selection",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1468,
+    "index": "L",
+    "solvedCount": 313
+  }
+}

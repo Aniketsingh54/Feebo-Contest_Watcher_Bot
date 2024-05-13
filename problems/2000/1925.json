@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1646,
+    "index": "D",
+    "name": "Weight the Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1646,
+    "index": "D",
+    "solvedCount": 3546
+  }
+}

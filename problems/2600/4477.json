@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1153,
+    "index": "F",
+    "name": "Serval and Bonus Problem",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1153,
+    "index": "F",
+    "solvedCount": 761
+  }
+}

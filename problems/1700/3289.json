@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1383,
+    "index": "A",
+    "name": "String Transformation 1",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "strings",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1383,
+    "index": "A",
+    "solvedCount": 10237
+  }
+}

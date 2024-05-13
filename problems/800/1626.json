@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1698,
+    "index": "B",
+    "name": "Rising Sand",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1698,
+    "index": "B",
+    "solvedCount": 20649
+  }
+}

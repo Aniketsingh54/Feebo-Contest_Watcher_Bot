@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1030,
+    "index": "D",
+    "name": "Vasya and Triangle",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "geometry",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1030,
+    "index": "D",
+    "solvedCount": 5680
+  }
+}

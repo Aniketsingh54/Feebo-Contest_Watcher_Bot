@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1056,
+    "index": "E",
+    "name": "Check Transcription",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "hashing",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1056,
+    "index": "E",
+    "solvedCount": 1981
+  }
+}

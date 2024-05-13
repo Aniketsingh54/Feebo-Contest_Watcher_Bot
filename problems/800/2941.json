@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1454,
+    "index": "A",
+    "name": "Special Permutation",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1454,
+    "index": "A",
+    "solvedCount": 39316
+  }
+}

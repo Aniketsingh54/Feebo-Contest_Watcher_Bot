@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 978,
+    "index": "G",
+    "name": "Petya's Exams",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 978,
+    "index": "G",
+    "solvedCount": 4204
+  }
+}

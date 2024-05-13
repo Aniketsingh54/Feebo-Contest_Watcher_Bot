@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1431,
+    "index": "H",
+    "name": "Rogue-like Game",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "*special",
+      "brute force",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1431,
+    "index": "H",
+    "solvedCount": 64
+  }
+}

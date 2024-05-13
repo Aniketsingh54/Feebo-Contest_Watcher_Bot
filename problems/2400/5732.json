@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 887,
+    "index": "D",
+    "name": "Ratings and Reality Shows",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 887,
+    "index": "D",
+    "solvedCount": 471
+  }
+}

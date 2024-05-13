@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1878,
+    "index": "E",
+    "name": "Iva & Pav",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1878,
+    "index": "E",
+    "solvedCount": 11105
+  }
+}

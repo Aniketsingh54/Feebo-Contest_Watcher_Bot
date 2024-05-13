@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 981,
+    "index": "E",
+    "name": "Addition on Segments",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 981,
+    "index": "E",
+    "solvedCount": 1998
+  }
+}

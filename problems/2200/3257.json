@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1389,
+    "index": "E",
+    "name": "Calendar Ambiguity",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1389,
+    "index": "E",
+    "solvedCount": 3113
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1089,
+    "index": "I",
+    "name": "Interval-Free Permutations",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "combinatorics"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1089,
+    "index": "I",
+    "solvedCount": 367
+  }
+}

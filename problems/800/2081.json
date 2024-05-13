@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1617,
+    "index": "A",
+    "name": "Forbidden Subsequence",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1617,
+    "index": "A",
+    "solvedCount": 16093
+  }
+}

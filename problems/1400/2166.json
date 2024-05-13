@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1605,
+    "index": "C",
+    "name": "Dominant Character",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1605,
+    "index": "C",
+    "solvedCount": 16345
+  }
+}

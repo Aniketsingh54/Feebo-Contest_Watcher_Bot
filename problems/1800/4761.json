@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1096,
+    "index": "D",
+    "name": "Easy Problem",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1096,
+    "index": "D",
+    "solvedCount": 7703
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1450,
+    "index": "C1",
+    "name": "Errich-Tac-Toe (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1450,
+    "index": "C1",
+    "solvedCount": 5306
+  }
+}

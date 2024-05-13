@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1575,
+    "index": "G",
+    "name": "GCD Festival",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1575,
+    "index": "G",
+    "solvedCount": 641
+  }
+}

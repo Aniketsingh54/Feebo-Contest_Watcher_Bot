@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1603,
+    "index": "D",
+    "name": "Artistic Partition",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3000,
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1603,
+    "index": "D",
+    "solvedCount": 610
+  }
+}

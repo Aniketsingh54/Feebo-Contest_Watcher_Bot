@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 858,
+    "index": "E",
+    "name": "Tests Renumeration",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 858,
+    "index": "E",
+    "solvedCount": 497
+  }
+}

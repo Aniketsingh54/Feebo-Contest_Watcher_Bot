@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 831,
+    "index": "C",
+    "name": "Jury Marks",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 831,
+    "index": "C",
+    "solvedCount": 4379
+  }
+}

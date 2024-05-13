@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1400,
+    "index": "E",
+    "name": "Clear the Multiset",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1400,
+    "index": "E",
+    "solvedCount": 5019
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1284,
+    "index": "E",
+    "name": "New Year and Castle Construction",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "geometry",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1284,
+    "index": "E",
+    "solvedCount": 1095
+  }
+}

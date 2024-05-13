@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1028,
+    "index": "D",
+    "name": "Order book",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1028,
+    "index": "D",
+    "solvedCount": 1710
+  }
+}

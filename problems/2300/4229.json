@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1200,
+    "index": "F",
+    "name": "Graph Traveler",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1200,
+    "index": "F",
+    "solvedCount": 1001
+  }
+}

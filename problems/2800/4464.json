@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1155,
+    "index": "F",
+    "name": "Delivery Oligopoly",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1155,
+    "index": "F",
+    "solvedCount": 402
+  }
+}

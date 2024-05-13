@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1369,
+    "index": "C",
+    "name": "RationalLee",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1369,
+    "index": "C",
+    "solvedCount": 19066
+  }
+}

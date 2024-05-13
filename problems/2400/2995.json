@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1442,
+    "index": "C",
+    "name": "Graph Transpositions",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1442,
+    "index": "C",
+    "solvedCount": 1580
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1851,
+    "index": "E",
+    "name": "Nastya and Potions",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1851,
+    "index": "E",
+    "solvedCount": 9451
+  }
+}

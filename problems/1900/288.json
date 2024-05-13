@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1922,
+    "index": "D",
+    "name": "Berserk Monsters",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dsu",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1922,
+    "index": "D",
+    "solvedCount": 5229
+  }
+}

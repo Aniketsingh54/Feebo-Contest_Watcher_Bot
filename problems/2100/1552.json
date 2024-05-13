@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1710,
+    "index": "B",
+    "name": "Rain",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1710,
+    "index": "B",
+    "solvedCount": 2355
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1227,
+    "index": "F2",
+    "name": "Wrong Answer on test 233 (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1227,
+    "index": "F2",
+    "solvedCount": 1461
+  }
+}

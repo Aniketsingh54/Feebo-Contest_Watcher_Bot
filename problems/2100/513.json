@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1884,
+    "index": "D",
+    "name": "Counting Rhyme",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1884,
+    "index": "D",
+    "solvedCount": 2808
+  }
+}

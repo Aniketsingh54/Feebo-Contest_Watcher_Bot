@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1707,
+    "index": "B",
+    "name": "Difference Array",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1707,
+    "index": "B",
+    "solvedCount": 5545
+  }
+}

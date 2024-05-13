@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1176,
+    "index": "A",
+    "name": "Divide it!",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1176,
+    "index": "A",
+    "solvedCount": 21915
+  }
+}

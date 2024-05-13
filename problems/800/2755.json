@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1491,
+    "index": "A",
+    "name": "K-th Largest Value",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1491,
+    "index": "A",
+    "solvedCount": 18041
+  }
+}

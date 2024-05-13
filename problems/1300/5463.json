@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 946,
+    "index": "C",
+    "name": "String Transformation",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 946,
+    "index": "C",
+    "solvedCount": 8766
+  }
+}

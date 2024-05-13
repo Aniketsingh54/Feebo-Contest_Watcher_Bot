@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1366,
+    "index": "E",
+    "name": "Two Arrays",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1366,
+    "index": "E",
+    "solvedCount": 3961
+  }
+}

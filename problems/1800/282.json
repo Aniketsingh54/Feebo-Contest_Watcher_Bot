@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1923,
+    "index": "D",
+    "name": "Slimes",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1923,
+    "index": "D",
+    "solvedCount": 5909
+  }
+}

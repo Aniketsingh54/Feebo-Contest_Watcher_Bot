@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1001,
+    "index": "I",
+    "name": "Deutsch-Jozsa algorithm",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1001,
+    "index": "I",
+    "solvedCount": 396
+  }
+}

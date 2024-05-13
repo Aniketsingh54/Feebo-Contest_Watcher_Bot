@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1121,
+    "index": "C",
+    "name": "System Testing",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1121,
+    "index": "C",
+    "solvedCount": 1937
+  }
+}

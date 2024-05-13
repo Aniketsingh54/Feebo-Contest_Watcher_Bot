@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1301,
+    "index": "A",
+    "name": "Three Strings",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1301,
+    "index": "A",
+    "solvedCount": 19060
+  }
+}

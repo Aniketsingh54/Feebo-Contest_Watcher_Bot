@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1553,
+    "index": "D",
+    "name": "Backspace",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1553,
+    "index": "D",
+    "solvedCount": 13347
+  }
+}

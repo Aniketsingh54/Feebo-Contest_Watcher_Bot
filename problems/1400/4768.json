@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1095,
+    "index": "C",
+    "name": "Powers Of Two",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1095,
+    "index": "C",
+    "solvedCount": 15795
+  }
+}

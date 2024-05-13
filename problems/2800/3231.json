@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1394,
+    "index": "D",
+    "name": "Boboniu and Jianghu",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2800,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1394,
+    "index": "D",
+    "solvedCount": 806
+  }
+}

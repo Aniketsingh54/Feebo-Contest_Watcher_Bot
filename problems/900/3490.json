@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1350,
+    "index": "A",
+    "name": "Orac and Factors",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1350,
+    "index": "A",
+    "solvedCount": 25572
+  }
+}

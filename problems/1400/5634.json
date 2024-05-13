@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 911,
+    "index": "C",
+    "name": "Three Garlands",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 911,
+    "index": "C",
+    "solvedCount": 6960
+  }
+}

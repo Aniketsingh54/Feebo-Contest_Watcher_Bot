@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1118,
+    "index": "C",
+    "name": "Palindromic Matrix",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1118,
+    "index": "C",
+    "solvedCount": 5649
+  }
+}

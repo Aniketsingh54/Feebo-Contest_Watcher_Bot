@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1336,
+    "index": "B",
+    "name": "Xenia and Colorful Gems",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1336,
+    "index": "B",
+    "solvedCount": 11010
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1842,
+    "index": "I",
+    "name": "Tenzing and Necklace",
+    "type": "PROGRAMMING",
+    "points": 5000,
+    "rating": 3500,
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1842,
+    "index": "I",
+    "solvedCount": 108
+  }
+}

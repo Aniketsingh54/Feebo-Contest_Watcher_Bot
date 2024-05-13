@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1423,
+    "index": "H",
+    "name": "Virus",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1423,
+    "index": "H",
+    "solvedCount": 509
+  }
+}

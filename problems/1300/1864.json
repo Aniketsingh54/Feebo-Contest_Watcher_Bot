@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1659,
+    "index": "B",
+    "name": "Bit Flipping",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1659,
+    "index": "B",
+    "solvedCount": 10623
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1478,
+    "index": "C",
+    "name": "Nezzar and Symmetric Array",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1478,
+    "index": "C",
+    "solvedCount": 9494
+  }
+}

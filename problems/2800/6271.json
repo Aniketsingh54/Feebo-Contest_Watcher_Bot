@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 762,
+    "index": "F",
+    "name": "Tree nesting",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 762,
+    "index": "F",
+    "solvedCount": 345
+  }
+}

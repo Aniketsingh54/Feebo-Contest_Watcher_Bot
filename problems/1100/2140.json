@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1609,
+    "index": "B",
+    "name": "William the Vigilant",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1609,
+    "index": "B",
+    "solvedCount": 11507
+  }
+}

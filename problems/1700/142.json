@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1945,
+    "index": "E",
+    "name": "Binary Search",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1945,
+    "index": "E",
+    "solvedCount": 6937
+  }
+}

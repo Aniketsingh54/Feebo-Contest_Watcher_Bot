@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1178,
+    "index": "F2",
+    "name": "Long Colorful Strip",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2600,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1178,
+    "index": "F2",
+    "solvedCount": 850
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1443,
+    "index": "C",
+    "name": "The Delivery Dilemma",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1443,
+    "index": "C",
+    "solvedCount": 14955
+  }
+}

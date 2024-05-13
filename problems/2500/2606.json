@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1517,
+    "index": "E",
+    "name": "Group Photo",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1517,
+    "index": "E",
+    "solvedCount": 945
+  }
+}

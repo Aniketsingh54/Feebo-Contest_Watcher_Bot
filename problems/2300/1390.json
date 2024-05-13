@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1738,
+    "index": "E",
+    "name": "Balance Addicts",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1738,
+    "index": "E",
+    "solvedCount": 1457
+  }
+}

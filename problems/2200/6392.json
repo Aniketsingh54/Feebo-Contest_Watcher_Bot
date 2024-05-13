@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 733,
+    "index": "F",
+    "name": "Drivers Dissatisfaction",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 733,
+    "index": "F",
+    "solvedCount": 1088
+  }
+}

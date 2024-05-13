@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1490,
+    "index": "D",
+    "name": "Permutation Transformation",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "dfs and similar",
+      "divide and conquer",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1490,
+    "index": "D",
+    "solvedCount": 18840
+  }
+}

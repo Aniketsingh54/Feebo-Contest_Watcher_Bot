@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1954,
+    "index": "C",
+    "name": "Long Multiplication",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1954,
+    "index": "C",
+    "solvedCount": 15652
+  }
+}

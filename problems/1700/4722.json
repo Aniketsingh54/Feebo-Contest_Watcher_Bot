@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1102,
+    "index": "E",
+    "name": "Monotonic Renumeration",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "combinatorics",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1102,
+    "index": "E",
+    "solvedCount": 5661
+  }
+}

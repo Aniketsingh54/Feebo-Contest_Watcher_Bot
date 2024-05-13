@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 785,
+    "index": "D",
+    "name": "Anton and School - 2",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 785,
+    "index": "D",
+    "solvedCount": 2647
+  }
+}

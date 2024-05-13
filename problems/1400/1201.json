@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1771,
+    "index": "B",
+    "name": "Hossam and Friends",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1771,
+    "index": "B",
+    "solvedCount": 12859
+  }
+}

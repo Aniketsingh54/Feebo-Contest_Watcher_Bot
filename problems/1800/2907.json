@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1462,
+    "index": "F",
+    "name": "The Treasure of The Segments",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1462,
+    "index": "F",
+    "solvedCount": 6679
+  }
+}

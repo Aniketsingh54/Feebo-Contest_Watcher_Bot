@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1616,
+    "index": "F",
+    "name": "Tricolor Triangles",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2900,
+    "tags": [
+      "brute force",
+      "graphs",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1616,
+    "index": "F",
+    "solvedCount": 584
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 899,
+    "index": "D",
+    "name": "Shovel Sale",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 899,
+    "index": "D",
+    "solvedCount": 2684
+  }
+}

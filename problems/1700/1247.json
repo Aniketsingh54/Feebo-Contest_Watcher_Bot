@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "D",
+    "name": "Watch the Videos",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "D",
+    "solvedCount": 3912
+  }
+}

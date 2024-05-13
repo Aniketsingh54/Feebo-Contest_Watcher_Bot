@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1628,
+    "index": "A",
+    "name": "Meximum Array",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1628,
+    "index": "A",
+    "solvedCount": 15208
+  }
+}

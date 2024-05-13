@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1957,
+    "index": "E",
+    "name": "Carousel of Combinations",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1957,
+    "index": "E",
+    "solvedCount": 989
+  }
+}

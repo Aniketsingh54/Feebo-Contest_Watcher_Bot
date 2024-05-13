@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1510,
+    "index": "I",
+    "name": "Is It Rated?",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "greedy",
+      "interactive",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1510,
+    "index": "I",
+    "solvedCount": 449
+  }
+}

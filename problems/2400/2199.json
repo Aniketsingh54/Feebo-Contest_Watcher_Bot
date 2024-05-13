@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1598,
+    "index": "F",
+    "name": "RBS",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1598,
+    "index": "F",
+    "solvedCount": 1324
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1511,
+    "index": "D",
+    "name": "Min Cost String",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1511,
+    "index": "D",
+    "solvedCount": 11049
+  }
+}

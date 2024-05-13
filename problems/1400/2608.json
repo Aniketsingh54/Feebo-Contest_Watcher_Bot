@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1517,
+    "index": "C",
+    "name": "Fillomino 2",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1517,
+    "index": "C",
+    "solvedCount": 13068
+  }
+}

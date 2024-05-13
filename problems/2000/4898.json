@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "C",
+    "name": "Cloud Computing",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "C",
+    "solvedCount": 1996
+  }
+}

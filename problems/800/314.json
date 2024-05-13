@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1919,
+    "index": "A",
+    "name": "Wallet Exchange",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 800,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1919,
+    "index": "A",
+    "solvedCount": 31756
+  }
+}

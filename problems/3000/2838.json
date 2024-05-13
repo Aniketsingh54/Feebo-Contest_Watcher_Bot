@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1474,
+    "index": "F",
+    "name": "1 2 3 4 ...",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3000,
+    "tags": [
+      "dp",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1474,
+    "index": "F",
+    "solvedCount": 241
+  }
+}

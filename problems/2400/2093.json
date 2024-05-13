@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1615,
+    "index": "E",
+    "name": "Purple Crayon",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "games",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1615,
+    "index": "E",
+    "solvedCount": 1405
+  }
+}

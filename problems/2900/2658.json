@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1510,
+    "index": "C",
+    "name": "Cactus Not Enough",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "dfs and similar",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1510,
+    "index": "C",
+    "solvedCount": 205
+  }
+}

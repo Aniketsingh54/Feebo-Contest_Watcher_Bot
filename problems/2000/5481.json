@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 938,
+    "index": "D",
+    "name": "Buy a Ticket",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 938,
+    "index": "D",
+    "solvedCount": 5190
+  }
+}

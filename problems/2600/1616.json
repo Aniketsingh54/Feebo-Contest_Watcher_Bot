@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1699,
+    "index": "E",
+    "name": "Three Days Grace",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1699,
+    "index": "E",
+    "solvedCount": 1086
+  }
+}

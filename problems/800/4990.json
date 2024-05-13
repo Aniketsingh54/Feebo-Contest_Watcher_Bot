@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1047,
+    "index": "A",
+    "name": "Little C Loves 3 I",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1047,
+    "index": "A",
+    "solvedCount": 19564
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 908,
+    "index": "B",
+    "name": "New Year and Buggy Bot",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 908,
+    "index": "B",
+    "solvedCount": 7577
+  }
+}

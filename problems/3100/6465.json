@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 720,
+    "index": "F",
+    "name": "Array Covering",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 720,
+    "index": "F",
+    "solvedCount": 144
+  }
+}

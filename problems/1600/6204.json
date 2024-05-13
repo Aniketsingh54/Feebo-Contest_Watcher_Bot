@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 774,
+    "index": "K",
+    "name": "Stepan and Vowels",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "*special",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 774,
+    "index": "K",
+    "solvedCount": 1256
+  }
+}

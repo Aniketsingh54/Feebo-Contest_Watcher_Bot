@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 778,
+    "index": "A",
+    "name": "String Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 778,
+    "index": "A",
+    "solvedCount": 11114
+  }
+}

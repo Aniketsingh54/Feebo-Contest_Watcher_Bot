@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1426,
+    "index": "F",
+    "name": "Number of Subsequences",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1426,
+    "index": "F",
+    "solvedCount": 5115
+  }
+}

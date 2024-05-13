@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1860,
+    "index": "E",
+    "name": "Fast Travel Text Editor",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1860,
+    "index": "E",
+    "solvedCount": 1305
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 897,
+    "index": "B",
+    "name": "Chtholly's request",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 897,
+    "index": "B",
+    "solvedCount": 7082
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 920,
+    "index": "G",
+    "name": "List Of Integers",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 920,
+    "index": "G",
+    "solvedCount": 1680
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1201,
+    "index": "C",
+    "name": "Maximum Median",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1201,
+    "index": "C",
+    "solvedCount": 21580
+  }
+}

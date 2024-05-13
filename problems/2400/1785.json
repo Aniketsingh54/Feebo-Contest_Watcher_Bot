@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1670,
+    "index": "F",
+    "name": "Jee, You See?",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1670,
+    "index": "F",
+    "solvedCount": 919
+  }
+}

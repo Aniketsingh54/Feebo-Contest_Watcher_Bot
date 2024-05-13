@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 748,
+    "index": "D",
+    "name": "Santa Claus and a Palindrome",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 748,
+    "index": "D",
+    "solvedCount": 1812
+  }
+}

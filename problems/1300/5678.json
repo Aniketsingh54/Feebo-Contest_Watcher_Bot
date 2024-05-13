@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 900,
+    "index": "B",
+    "name": "Position in Fraction",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 900,
+    "index": "B",
+    "solvedCount": 7631
+  }
+}

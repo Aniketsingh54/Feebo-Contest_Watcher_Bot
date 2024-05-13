@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1089,
+    "index": "D",
+    "name": "Distance Sum",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1089,
+    "index": "D",
+    "solvedCount": 98
+  }
+}

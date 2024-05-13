@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1469,
+    "index": "D",
+    "name": "Ceil Divisions",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1469,
+    "index": "D",
+    "solvedCount": 9161
+  }
+}

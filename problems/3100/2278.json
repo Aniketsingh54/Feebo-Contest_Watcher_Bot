@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1578,
+    "index": "J",
+    "name": "Just Kingdom",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1578,
+    "index": "J",
+    "solvedCount": 217
+  }
+}

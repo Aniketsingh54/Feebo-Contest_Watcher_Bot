@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1012,
+    "index": "C",
+    "name": "Hills",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1012,
+    "index": "C",
+    "solvedCount": 3221
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1080,
+    "index": "D",
+    "name": "Olya and magical square",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1080,
+    "index": "D",
+    "solvedCount": 1521
+  }
+}

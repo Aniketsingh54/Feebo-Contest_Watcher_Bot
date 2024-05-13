@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1647,
+    "index": "C",
+    "name": "Madoka and Childish Pranks",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1647,
+    "index": "C",
+    "solvedCount": 12375
+  }
+}

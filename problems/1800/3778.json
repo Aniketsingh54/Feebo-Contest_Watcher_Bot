@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1290,
+    "index": "B",
+    "name": "Irreducible Anagrams",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1290,
+    "index": "B",
+    "solvedCount": 4928
+  }
+}

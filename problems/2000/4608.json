@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1129,
+    "index": "B",
+    "name": "Wrong Answer",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1129,
+    "index": "B",
+    "solvedCount": 2152
+  }
+}

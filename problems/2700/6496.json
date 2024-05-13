@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 713,
+    "index": "D",
+    "name": "Animals and Puzzle",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 713,
+    "index": "D",
+    "solvedCount": 1077
+  }
+}

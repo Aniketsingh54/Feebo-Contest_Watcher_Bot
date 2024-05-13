@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1707,
+    "index": "A",
+    "name": "Doremy's IQ",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1707,
+    "index": "A",
+    "solvedCount": 12855
+  }
+}

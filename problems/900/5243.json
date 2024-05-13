@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 999,
+    "index": "B",
+    "name": "Reversing Encryption",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 999,
+    "index": "B",
+    "solvedCount": 17122
+  }
+}

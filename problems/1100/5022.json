@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1042,
+    "index": "A",
+    "name": "Benches",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1042,
+    "index": "A",
+    "solvedCount": 12510
+  }
+}

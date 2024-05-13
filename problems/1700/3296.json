@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1381,
+    "index": "A2",
+    "name": "Prefix Flip (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1381,
+    "index": "A2",
+    "solvedCount": 12756
+  }
+}

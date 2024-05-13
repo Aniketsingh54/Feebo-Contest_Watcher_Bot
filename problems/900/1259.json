@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1764,
+    "index": "B",
+    "name": "Doremy's Perfect Math Class",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1764,
+    "index": "B",
+    "solvedCount": 15269
+  }
+}

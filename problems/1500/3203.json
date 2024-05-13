@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1400,
+    "index": "C",
+    "name": "Binary String Reconstruction",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "2-sat",
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1400,
+    "index": "C",
+    "solvedCount": 16757
+  }
+}

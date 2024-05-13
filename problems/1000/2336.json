@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1567,
+    "index": "B",
+    "name": "MEXor Mixup",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1567,
+    "index": "B",
+    "solvedCount": 21512
+  }
+}

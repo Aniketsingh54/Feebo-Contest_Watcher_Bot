@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1642,
+    "index": "B",
+    "name": "Power Walking",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1642,
+    "index": "B",
+    "solvedCount": 16606
+  }
+}

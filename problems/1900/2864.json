@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1470,
+    "index": "B",
+    "name": "Strange Definition",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "graphs",
+      "hashing",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1470,
+    "index": "B",
+    "solvedCount": 6150
+  }
+}

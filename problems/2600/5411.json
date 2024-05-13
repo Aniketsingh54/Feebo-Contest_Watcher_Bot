@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 958,
+    "index": "F3",
+    "name": "Lightsabers (hard)",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "fft"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 958,
+    "index": "F3",
+    "solvedCount": 665
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1874,
+    "index": "D",
+    "name": "Jellyfish and Miku",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1874,
+    "index": "D",
+    "solvedCount": 653
+  }
+}

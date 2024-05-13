@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "E",
+    "name": "Electrical Efficiency",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "E",
+    "solvedCount": 432
+  }
+}

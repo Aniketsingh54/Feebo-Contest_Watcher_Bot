@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1574,
+    "index": "F",
+    "name": "Occurrences",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "fft",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1574,
+    "index": "F",
+    "solvedCount": 585
+  }
+}

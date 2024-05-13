@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1185,
+    "index": "B",
+    "name": "Email from Polycarp",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1185,
+    "index": "B",
+    "solvedCount": 12890
+  }
+}

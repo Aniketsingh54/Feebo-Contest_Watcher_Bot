@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 773,
+    "index": "A",
+    "name": "Success Rate",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 773,
+    "index": "A",
+    "solvedCount": 4371
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 985,
+    "index": "D",
+    "name": "Sand Fortress",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 985,
+    "index": "D",
+    "solvedCount": 2255
+  }
+}

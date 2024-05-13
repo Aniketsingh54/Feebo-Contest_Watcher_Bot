@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1684,
+    "index": "B",
+    "name": "Z mod X = C",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1684,
+    "index": "B",
+    "solvedCount": 20607
+  }
+}

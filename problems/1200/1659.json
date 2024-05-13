@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1692,
+    "index": "E",
+    "name": "Binary Deque",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1692,
+    "index": "E",
+    "solvedCount": 19993
+  }
+}

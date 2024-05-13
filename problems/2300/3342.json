@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1371,
+    "index": "E2",
+    "name": "Asterism (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1371,
+    "index": "E2",
+    "solvedCount": 2296
+  }
+}

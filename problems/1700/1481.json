@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1722,
+    "index": "F",
+    "name": "L-shapes",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1722,
+    "index": "F",
+    "solvedCount": 6553
+  }
+}

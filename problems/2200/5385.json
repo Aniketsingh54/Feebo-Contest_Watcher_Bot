@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 962,
+    "index": "E",
+    "name": "Byteland, Berland and Disputed Cities",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 962,
+    "index": "E",
+    "solvedCount": 1044
+  }
+}

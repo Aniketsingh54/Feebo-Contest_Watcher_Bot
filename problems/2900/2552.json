@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1528,
+    "index": "E",
+    "name": "Mashtali and Hagh Trees",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1528,
+    "index": "E",
+    "solvedCount": 503
+  }
+}

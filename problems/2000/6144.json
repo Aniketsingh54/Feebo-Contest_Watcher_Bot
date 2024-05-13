@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 792,
+    "index": "C",
+    "name": "Divide by Three",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 792,
+    "index": "C",
+    "solvedCount": 4212
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1661,
+    "index": "E",
+    "name": "Narrow Components",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "dsu",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1661,
+    "index": "E",
+    "solvedCount": 911
+  }
+}

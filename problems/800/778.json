@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1841,
+    "index": "A",
+    "name": "Game with Board",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1841,
+    "index": "A",
+    "solvedCount": 24231
+  }
+}

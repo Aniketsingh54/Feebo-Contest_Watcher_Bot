@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 982,
+    "index": "D",
+    "name": "Shark",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dsu",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 982,
+    "index": "D",
+    "solvedCount": 2244
+  }
+}

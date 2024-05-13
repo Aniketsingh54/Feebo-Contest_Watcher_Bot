@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 745,
+    "index": "A",
+    "name": "Hongcow Learns the Cyclic Shift",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 745,
+    "index": "A",
+    "solvedCount": 10300
+  }
+}

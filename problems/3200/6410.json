@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 730,
+    "index": "L",
+    "name": "Expression Queries",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 730,
+    "index": "L",
+    "solvedCount": 84
+  }
+}

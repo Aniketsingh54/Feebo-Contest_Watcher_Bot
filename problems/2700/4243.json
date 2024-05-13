@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1197,
+    "index": "F",
+    "name": "Coloring Game",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "games",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1197,
+    "index": "F",
+    "solvedCount": 238
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 934,
+    "index": "B",
+    "name": "A Prosperous Lot",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 934,
+    "index": "B",
+    "solvedCount": 8521
+  }
+}

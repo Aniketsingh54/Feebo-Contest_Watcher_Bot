@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 914,
+    "index": "E",
+    "name": "Palindromes in a Tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 914,
+    "index": "E",
+    "solvedCount": 1388
+  }
+}

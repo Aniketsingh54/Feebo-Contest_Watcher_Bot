@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 797,
+    "index": "A",
+    "name": "k-Factorization",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 797,
+    "index": "A",
+    "solvedCount": 14018
+  }
+}

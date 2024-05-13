@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1677,
+    "index": "C",
+    "name": "Tokitsukaze and Two Colorful Tapes",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1677,
+    "index": "C",
+    "solvedCount": 3406
+  }
+}

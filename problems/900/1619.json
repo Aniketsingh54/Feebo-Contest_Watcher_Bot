@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1699,
+    "index": "B",
+    "name": "Almost Ternary Matrix",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1699,
+    "index": "B",
+    "solvedCount": 19186
+  }
+}

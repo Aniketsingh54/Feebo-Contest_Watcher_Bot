@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1166,
+    "index": "E",
+    "name": "The LCMs Must be Large",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1166,
+    "index": "E",
+    "solvedCount": 2783
+  }
+}

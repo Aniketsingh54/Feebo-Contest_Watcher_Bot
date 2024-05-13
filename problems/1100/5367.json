@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 975,
+    "index": "B",
+    "name": "Mancala",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 975,
+    "index": "B",
+    "solvedCount": 6744
+  }
+}

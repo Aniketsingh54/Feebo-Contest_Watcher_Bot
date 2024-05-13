@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1726,
+    "index": "C",
+    "name": "Jatayu's Balanced Bracket Sequence",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1726,
+    "index": "C",
+    "solvedCount": 12075
+  }
+}

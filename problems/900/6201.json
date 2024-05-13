@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 776,
+    "index": "A",
+    "name": "A Serial Killer",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 776,
+    "index": "A",
+    "solvedCount": 11840
+  }
+}

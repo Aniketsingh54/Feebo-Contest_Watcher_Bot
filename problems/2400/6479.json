@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 717,
+    "index": "G",
+    "name": "Underfail",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "flows"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 717,
+    "index": "G",
+    "solvedCount": 620
+  }
+}

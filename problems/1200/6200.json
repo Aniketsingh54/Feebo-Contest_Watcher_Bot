@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 776,
+    "index": "B",
+    "name": "Sherlock and his girlfriend",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 776,
+    "index": "B",
+    "solvedCount": 19333
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1935,
+    "index": "E",
+    "name": "Distance Learning Courses in MAC",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1935,
+    "index": "E",
+    "solvedCount": 1170
+  }
+}

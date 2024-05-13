@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 937,
+    "index": "A",
+    "name": "Olympiad",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 937,
+    "index": "A",
+    "solvedCount": 14841
+  }
+}

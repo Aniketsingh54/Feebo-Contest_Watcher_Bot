@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1452,
+    "index": "E",
+    "name": "Two Editorials",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1452,
+    "index": "E",
+    "solvedCount": 1486
+  }
+}

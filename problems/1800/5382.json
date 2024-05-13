@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 963,
+    "index": "A",
+    "name": "Alternating Sum",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 963,
+    "index": "A",
+    "solvedCount": 3223
+  }
+}

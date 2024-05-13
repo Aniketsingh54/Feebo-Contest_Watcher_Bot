@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1266,
+    "index": "A",
+    "name": "Competitive Programmer",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "chinese remainder theorem",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1266,
+    "index": "A",
+    "solvedCount": 14996
+  }
+}

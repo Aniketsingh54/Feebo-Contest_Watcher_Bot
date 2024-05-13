@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 708,
+    "index": "C",
+    "name": "Centroids",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 708,
+    "index": "C",
+    "solvedCount": 2995
+  }
+}

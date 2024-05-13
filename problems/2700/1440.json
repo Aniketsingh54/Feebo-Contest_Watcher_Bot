@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1730,
+    "index": "E",
+    "name": "Maximums and Minimums",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "divide and conquer",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1730,
+    "index": "E",
+    "solvedCount": 615
+  }
+}

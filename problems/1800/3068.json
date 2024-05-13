@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1426,
+    "index": "E",
+    "name": "Rock, Paper, Scissors",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "flows",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1426,
+    "index": "E",
+    "solvedCount": 7223
+  }
+}

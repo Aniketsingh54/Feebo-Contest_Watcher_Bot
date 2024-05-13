@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1454,
+    "index": "B",
+    "name": "Unique Bid Auction",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1454,
+    "index": "B",
+    "solvedCount": 27596
+  }
+}

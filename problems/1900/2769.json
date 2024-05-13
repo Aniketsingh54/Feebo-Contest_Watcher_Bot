@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1488,
+    "index": "D",
+    "name": "Problemsolving Marathon",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "*special",
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1488,
+    "index": "D",
+    "solvedCount": 330
+  }
+}

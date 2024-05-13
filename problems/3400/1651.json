@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1693,
+    "index": "E",
+    "name": "Outermost Maximums",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1693,
+    "index": "E",
+    "solvedCount": 371
+  }
+}

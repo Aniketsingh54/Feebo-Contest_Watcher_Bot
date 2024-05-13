@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1270,
+    "index": "F",
+    "name": "Awesome Substrings",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2600,
+    "tags": [
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1270,
+    "index": "F",
+    "solvedCount": 1102
+  }
+}

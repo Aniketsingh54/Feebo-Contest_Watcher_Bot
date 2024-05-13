@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1237,
+    "index": "C1",
+    "name": "Balanced Removals (Easier)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1237,
+    "index": "C1",
+    "solvedCount": 5863
+  }
+}

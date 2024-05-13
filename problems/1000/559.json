@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1876,
+    "index": "A",
+    "name": "Helmets in Night Light",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1876,
+    "index": "A",
+    "solvedCount": 14847
+  }
+}

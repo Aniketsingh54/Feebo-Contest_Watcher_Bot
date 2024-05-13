@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1174,
+    "index": "E",
+    "name": "Ehab and the Expected GCD Problem",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1174,
+    "index": "E",
+    "solvedCount": 1351
+  }
+}

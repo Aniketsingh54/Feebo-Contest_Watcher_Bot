@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1454,
+    "index": "F",
+    "name": "Array Partition",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1454,
+    "index": "F",
+    "solvedCount": 3803
+  }
+}

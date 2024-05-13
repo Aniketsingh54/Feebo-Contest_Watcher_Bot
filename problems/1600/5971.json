@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 832,
+    "index": "B",
+    "name": "Petya and Exam",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 832,
+    "index": "B",
+    "solvedCount": 4328
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 995,
+    "index": "B",
+    "name": "Suit and Tie",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 995,
+    "index": "B",
+    "solvedCount": 7016
+  }
+}

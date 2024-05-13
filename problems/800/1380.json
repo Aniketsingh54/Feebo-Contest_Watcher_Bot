@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1740,
+    "index": "A",
+    "name": "Factorise N+M",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1740,
+    "index": "A",
+    "solvedCount": 19616
+  }
+}

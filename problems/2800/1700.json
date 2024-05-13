@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1684,
+    "index": "G",
+    "name": "Euclid Guess",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graph matchings",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1684,
+    "index": "G",
+    "solvedCount": 579
+  }
+}

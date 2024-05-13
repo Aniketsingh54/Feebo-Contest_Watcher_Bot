@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1278,
+    "index": "F",
+    "name": "Cards",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1278,
+    "index": "F",
+    "solvedCount": 1740
+  }
+}

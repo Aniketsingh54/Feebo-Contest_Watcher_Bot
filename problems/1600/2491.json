@@ -1,0 +1,26 @@
+{
+  "problem": {
+    "contestId": 1537,
+    "index": "E1",
+    "name": "Erase and Extend (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "hashing",
+      "implementation",
+      "string suffix structures",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1537,
+    "index": "E1",
+    "solvedCount": 12271
+  }
+}

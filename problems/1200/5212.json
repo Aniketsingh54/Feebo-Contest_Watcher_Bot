@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "D1",
+    "name": "Oracle for f(x) = b * x mod 2",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "D1",
+    "solvedCount": 397
+  }
+}

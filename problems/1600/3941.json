@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1255,
+    "index": "C",
+    "name": "League of Leesins",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1255,
+    "index": "C",
+    "solvedCount": 6503
+  }
+}

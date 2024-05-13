@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1767,
+    "index": "E",
+    "name": "Algebra Flash",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "graphs",
+      "math",
+      "meet-in-the-middle",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1767,
+    "index": "E",
+    "solvedCount": 840
+  }
+}

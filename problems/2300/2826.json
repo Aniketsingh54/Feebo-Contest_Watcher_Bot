@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1476,
+    "index": "E",
+    "name": "Pattern Matching",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "hashing",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1476,
+    "index": "E",
+    "solvedCount": 2243
+  }
+}

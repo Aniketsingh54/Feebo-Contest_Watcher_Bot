@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1033,
+    "index": "A",
+    "name": "King Escape",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1033,
+    "index": "A",
+    "solvedCount": 12976
+  }
+}

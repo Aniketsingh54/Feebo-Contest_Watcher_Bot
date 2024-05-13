@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 743,
+    "index": "A",
+    "name": "Vladik and flights",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 743,
+    "index": "A",
+    "solvedCount": 10850
+  }
+}

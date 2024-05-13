@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1844,
+    "index": "F1",
+    "name": "Min Cost Permutation (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1844,
+    "index": "F1",
+    "solvedCount": 737
+  }
+}

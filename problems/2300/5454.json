@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 949,
+    "index": "D",
+    "name": "Curfew",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 949,
+    "index": "D",
+    "solvedCount": 811
+  }
+}

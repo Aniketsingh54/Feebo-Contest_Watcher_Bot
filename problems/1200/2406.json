@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1553,
+    "index": "C",
+    "name": "Penalty",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1553,
+    "index": "C",
+    "solvedCount": 17326
+  }
+}

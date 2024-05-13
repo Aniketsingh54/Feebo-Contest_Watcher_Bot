@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1681,
+    "index": "E",
+    "name": "Labyrinth Adventures",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "dp",
+      "matrices",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1681,
+    "index": "E",
+    "solvedCount": 698
+  }
+}

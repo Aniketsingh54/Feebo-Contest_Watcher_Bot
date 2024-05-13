@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1780,
+    "index": "F",
+    "name": "Three Chairs",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1780,
+    "index": "F",
+    "solvedCount": 1375
+  }
+}

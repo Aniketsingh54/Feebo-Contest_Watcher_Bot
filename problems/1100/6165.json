@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 785,
+    "index": "B",
+    "name": "Anton and Classes",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 785,
+    "index": "B",
+    "solvedCount": 10138
+  }
+}

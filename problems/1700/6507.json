@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 711,
+    "index": "C",
+    "name": "Coloring Trees",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 711,
+    "index": "C",
+    "solvedCount": 7805
+  }
+}

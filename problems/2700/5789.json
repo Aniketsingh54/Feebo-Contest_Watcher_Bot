@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 870,
+    "index": "F",
+    "name": "Paths",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 870,
+    "index": "F",
+    "solvedCount": 593
+  }
+}

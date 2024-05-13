@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1329,
+    "index": "A",
+    "name": "Dreamoon Likes Coloring",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1329,
+    "index": "A",
+    "solvedCount": 8830
+  }
+}

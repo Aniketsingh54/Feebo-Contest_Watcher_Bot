@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1290,
+    "index": "A",
+    "name": "Mind Control",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1290,
+    "index": "A",
+    "solvedCount": 8312
+  }
+}

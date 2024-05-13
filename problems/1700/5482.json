@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 938,
+    "index": "C",
+    "name": "Constructing Tests",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 938,
+    "index": "C",
+    "solvedCount": 3276
+  }
+}

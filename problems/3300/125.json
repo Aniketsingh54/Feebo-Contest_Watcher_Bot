@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1949,
+    "index": "A",
+    "name": "Grove",
+    "type": "PROGRAMMING",
+    "rating": 3300,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "geometry",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1949,
+    "index": "A",
+    "solvedCount": 80
+  }
+}

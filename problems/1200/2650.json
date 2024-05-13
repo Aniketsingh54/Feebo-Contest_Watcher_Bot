@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1510,
+    "index": "K",
+    "name": "King's Task",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1510,
+    "index": "K",
+    "solvedCount": 5276
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1133,
+    "index": "E",
+    "name": "K Balanced Teams",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1133,
+    "index": "E",
+    "solvedCount": 5212
+  }
+}

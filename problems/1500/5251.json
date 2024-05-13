@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 997,
+    "index": "A",
+    "name": "Convert to Ones",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 997,
+    "index": "A",
+    "solvedCount": 8166
+  }
+}

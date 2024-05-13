@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1674,
+    "index": "F",
+    "name": "Desktop Rearrangement",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1674,
+    "index": "F",
+    "solvedCount": 4874
+  }
+}

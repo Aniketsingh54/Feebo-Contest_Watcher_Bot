@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1158,
+    "index": "E",
+    "name": "Strange device",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3400,
+    "tags": [
+      "binary search",
+      "interactive",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1158,
+    "index": "E",
+    "solvedCount": 147
+  }
+}

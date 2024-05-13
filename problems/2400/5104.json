@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1027,
+    "index": "F",
+    "name": "Session in BSU",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dsu",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1027,
+    "index": "F",
+    "solvedCount": 1506
+  }
+}

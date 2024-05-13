@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1244,
+    "index": "G",
+    "name": "Running in Pairs",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1244,
+    "index": "G",
+    "solvedCount": 1262
+  }
+}

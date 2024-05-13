@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1942,
+    "index": "D",
+    "name": "Learning to Paint",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1942,
+    "index": "D",
+    "solvedCount": 2422
+  }
+}

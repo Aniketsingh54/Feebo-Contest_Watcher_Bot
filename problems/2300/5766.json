@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 878,
+    "index": "B",
+    "name": "Teams Formation",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 878,
+    "index": "B",
+    "solvedCount": 1030
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "N",
+    "name": "Number Reduction",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "N",
+    "solvedCount": 4428
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1251,
+    "index": "F",
+    "name": "Red-White Fence",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "fft"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1251,
+    "index": "F",
+    "solvedCount": 800
+  }
+}

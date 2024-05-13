@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1717,
+    "index": "F",
+    "name": "Madoka and The First Session",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1717,
+    "index": "F",
+    "solvedCount": 511
+  }
+}

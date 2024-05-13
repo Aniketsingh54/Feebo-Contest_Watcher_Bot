@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1657,
+    "index": "D",
+    "name": "For Gamers. By Gamers.",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1657,
+    "index": "D",
+    "solvedCount": 4709
+  }
+}

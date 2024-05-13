@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 907,
+    "index": "A",
+    "name": "Masha and Bears",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 907,
+    "index": "A",
+    "solvedCount": 5561
+  }
+}

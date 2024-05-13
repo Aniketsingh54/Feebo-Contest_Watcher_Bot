@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1654,
+    "index": "D",
+    "name": "Potion Brewing Class",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1654,
+    "index": "D",
+    "solvedCount": 2780
+  }
+}

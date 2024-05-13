@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1503,
+    "index": "B",
+    "name": "3-Coloring",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1503,
+    "index": "B",
+    "solvedCount": 6842
+  }
+}

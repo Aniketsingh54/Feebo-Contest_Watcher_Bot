@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1887,
+    "index": "F",
+    "name": "Minimum Segments",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3400,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1887,
+    "index": "F",
+    "solvedCount": 112
+  }
+}

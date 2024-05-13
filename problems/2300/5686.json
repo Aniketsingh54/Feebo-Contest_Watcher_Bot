@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 898,
+    "index": "F",
+    "name": "Restoring the Expression",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "hashing",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 898,
+    "index": "F",
+    "solvedCount": 1122
+  }
+}

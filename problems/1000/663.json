@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1859,
+    "index": "B",
+    "name": "Olya and Game with Arrays",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1859,
+    "index": "B",
+    "solvedCount": 24348
+  }
+}

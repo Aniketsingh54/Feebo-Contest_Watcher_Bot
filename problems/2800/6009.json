@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 819,
+    "index": "E",
+    "name": "Mister B and Flight to the Moon",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 819,
+    "index": "E",
+    "solvedCount": 499
+  }
+}

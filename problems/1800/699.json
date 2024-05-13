@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1852,
+    "index": "B",
+    "name": "Imbalanced Arrays",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1852,
+    "index": "B",
+    "solvedCount": 4144
+  }
+}

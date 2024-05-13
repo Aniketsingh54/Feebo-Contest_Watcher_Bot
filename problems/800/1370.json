@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1741,
+    "index": "B",
+    "name": "Funny Permutation",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1741,
+    "index": "B",
+    "solvedCount": 24796
+  }
+}

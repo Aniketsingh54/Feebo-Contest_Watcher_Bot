@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1862,
+    "index": "E",
+    "name": "Kolya and Movie Theatre",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1862,
+    "index": "E",
+    "solvedCount": 9606
+  }
+}

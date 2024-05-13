@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1841,
+    "index": "C",
+    "name": "Ranom Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1841,
+    "index": "C",
+    "solvedCount": 7315
+  }
+}

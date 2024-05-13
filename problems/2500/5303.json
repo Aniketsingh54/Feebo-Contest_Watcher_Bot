@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 986,
+    "index": "C",
+    "name": "AND Graph",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 986,
+    "index": "C",
+    "solvedCount": 2193
+  }
+}

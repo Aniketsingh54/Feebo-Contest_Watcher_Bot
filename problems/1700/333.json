@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1916,
+    "index": "D",
+    "name": "Mathematical Problem",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1916,
+    "index": "D",
+    "solvedCount": 7900
+  }
+}

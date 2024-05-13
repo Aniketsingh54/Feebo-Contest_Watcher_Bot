@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 788,
+    "index": "C",
+    "name": "The Great Mixing",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 788,
+    "index": "C",
+    "solvedCount": 2014
+  }
+}

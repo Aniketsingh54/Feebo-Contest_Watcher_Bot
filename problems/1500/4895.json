@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "F",
+    "name": "Debate",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "F",
+    "solvedCount": 3569
+  }
+}

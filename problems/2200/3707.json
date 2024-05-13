@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1303,
+    "index": "E",
+    "name": "Erase Subsequences",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1303,
+    "index": "E",
+    "solvedCount": 2567
+  }
+}

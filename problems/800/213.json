@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1934,
+    "index": "A",
+    "name": "Too Min Too Max",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1934,
+    "index": "A",
+    "solvedCount": 23394
+  }
+}

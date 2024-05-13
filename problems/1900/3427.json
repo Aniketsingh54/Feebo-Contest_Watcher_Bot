@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1358,
+    "index": "D",
+    "name": "The Best Vacation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1358,
+    "index": "D",
+    "solvedCount": 8024
+  }
+}

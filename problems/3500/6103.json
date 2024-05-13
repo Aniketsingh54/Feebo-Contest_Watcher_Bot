@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 799,
+    "index": "G",
+    "name": "Cut the pie",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 799,
+    "index": "G",
+    "solvedCount": 107
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1793,
+    "index": "D",
+    "name": "Moscow Gorillas",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1793,
+    "index": "D",
+    "solvedCount": 5770
+  }
+}

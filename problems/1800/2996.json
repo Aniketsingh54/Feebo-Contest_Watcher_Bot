@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1442,
+    "index": "B",
+    "name": "Identify the Operations",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dsu",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1442,
+    "index": "B",
+    "solvedCount": 4311
+  }
+}

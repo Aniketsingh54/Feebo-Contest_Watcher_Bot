@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1360,
+    "index": "E",
+    "name": "Polygon",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1360,
+    "index": "E",
+    "solvedCount": 24436
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1097,
+    "index": "E",
+    "name": "Egor and an RPG game",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3400,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1097,
+    "index": "E",
+    "solvedCount": 465
+  }
+}

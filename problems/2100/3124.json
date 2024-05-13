@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1418,
+    "index": "D",
+    "name": "Trash Problem",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1418,
+    "index": "D",
+    "solvedCount": 4182
+  }
+}

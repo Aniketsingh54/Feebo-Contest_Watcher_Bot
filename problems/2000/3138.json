@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1415,
+    "index": "D",
+    "name": "XOR-gun",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1415,
+    "index": "D",
+    "solvedCount": 5177
+  }
+}

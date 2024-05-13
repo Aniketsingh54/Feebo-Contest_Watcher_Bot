@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1084,
+    "index": "A",
+    "name": "The Fair Nut and Elevator",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1084,
+    "index": "A",
+    "solvedCount": 7818
+  }
+}

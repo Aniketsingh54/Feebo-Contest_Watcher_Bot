@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1227,
+    "index": "E",
+    "name": "Arson In Berland Forest",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "graphs",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1227,
+    "index": "E",
+    "solvedCount": 1444
+  }
+}

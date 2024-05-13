@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1327,
+    "index": "B",
+    "name": "Princesses and Princes",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1327,
+    "index": "B",
+    "solvedCount": 18316
+  }
+}

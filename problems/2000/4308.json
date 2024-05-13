@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1185,
+    "index": "E",
+    "name": "Polycarp and Snakes",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1185,
+    "index": "E",
+    "solvedCount": 2443
+  }
+}

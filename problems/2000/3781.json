@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1288,
+    "index": "E",
+    "name": "Messenger Simulator",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1288,
+    "index": "E",
+    "solvedCount": 3335
+  }
+}

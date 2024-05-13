@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1114,
+    "index": "E",
+    "name": "Arithmetic Progression",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "interactive",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1114,
+    "index": "E",
+    "solvedCount": 2771
+  }
+}

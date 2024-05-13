@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1860,
+    "index": "D",
+    "name": "Balanced String",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1860,
+    "index": "D",
+    "solvedCount": 2792
+  }
+}

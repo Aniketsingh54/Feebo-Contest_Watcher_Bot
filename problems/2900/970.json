@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1806,
+    "index": "F1",
+    "name": "GCD Master (easy version)",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1806,
+    "index": "F1",
+    "solvedCount": 328
+  }
+}

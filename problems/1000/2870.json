@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1469,
+    "index": "B",
+    "name": "Red and Blue",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1469,
+    "index": "B",
+    "solvedCount": 26068
+  }
+}

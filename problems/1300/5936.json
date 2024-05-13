@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 840,
+    "index": "A",
+    "name": "Leha and Function",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 840,
+    "index": "A",
+    "solvedCount": 6953
+  }
+}

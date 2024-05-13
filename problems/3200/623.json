@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "H",
+    "name": "Asterism Stream",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3200,
+    "tags": [
+      "dp",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "H",
+    "solvedCount": 270
+  }
+}

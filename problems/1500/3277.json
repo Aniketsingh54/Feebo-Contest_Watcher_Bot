@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1385,
+    "index": "D",
+    "name": "a-Good String",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "divide and conquer",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1385,
+    "index": "D",
+    "solvedCount": 18377
+  }
+}

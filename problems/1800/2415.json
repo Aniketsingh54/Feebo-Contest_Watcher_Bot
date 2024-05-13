@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1552,
+    "index": "C",
+    "name": "Maximize the Intersections",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1552,
+    "index": "C",
+    "solvedCount": 5773
+  }
+}

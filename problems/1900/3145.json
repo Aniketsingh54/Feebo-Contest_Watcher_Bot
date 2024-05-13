@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1413,
+    "index": "C",
+    "name": "Perform Easily",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1413,
+    "index": "C",
+    "solvedCount": 5540
+  }
+}

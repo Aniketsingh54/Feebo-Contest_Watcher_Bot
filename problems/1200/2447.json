@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1546,
+    "index": "B",
+    "name": "AquaMoon and Stolen String",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1546,
+    "index": "B",
+    "solvedCount": 12851
+  }
+}

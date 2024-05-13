@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1165,
+    "index": "F2",
+    "name": "Microtransactions (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1165,
+    "index": "F2",
+    "solvedCount": 2025
+  }
+}

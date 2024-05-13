@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1901,
+    "index": "F",
+    "name": "Landscaping",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "geometry",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1901,
+    "index": "F",
+    "solvedCount": 143
+  }
+}

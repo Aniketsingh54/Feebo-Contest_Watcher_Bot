@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1129,
+    "index": "A1",
+    "name": "Toy Train (Simplified)",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1129,
+    "index": "A1",
+    "solvedCount": 3769
+  }
+}

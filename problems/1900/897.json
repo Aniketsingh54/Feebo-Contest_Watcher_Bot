@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1819,
+    "index": "B",
+    "name": "The Butcher",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1900,
+    "tags": [
+      "geometry",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1819,
+    "index": "B",
+    "solvedCount": 3433
+  }
+}

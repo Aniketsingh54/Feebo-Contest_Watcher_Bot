@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 720,
+    "index": "B",
+    "name": "Cactusophobia",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dfs and similar",
+      "flows"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 720,
+    "index": "B",
+    "solvedCount": 392
+  }
+}

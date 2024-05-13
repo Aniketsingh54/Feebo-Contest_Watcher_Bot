@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 773,
+    "index": "B",
+    "name": "Dynamic Problem Scoring",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 773,
+    "index": "B",
+    "solvedCount": 1143
+  }
+}

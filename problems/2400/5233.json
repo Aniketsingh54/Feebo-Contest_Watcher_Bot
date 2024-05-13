@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1000,
+    "index": "F",
+    "name": "One Occurrence",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1000,
+    "index": "F",
+    "solvedCount": 3521
+  }
+}

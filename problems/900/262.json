@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1927,
+    "index": "B",
+    "name": "Following the String",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1927,
+    "index": "B",
+    "solvedCount": 30414
+  }
+}

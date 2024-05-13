@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1744,
+    "index": "C",
+    "name": "Traffic Light",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1744,
+    "index": "C",
+    "solvedCount": 24302
+  }
+}

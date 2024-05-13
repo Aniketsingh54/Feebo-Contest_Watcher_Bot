@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1101,
+    "index": "C",
+    "name": "Division and Union",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1101,
+    "index": "C",
+    "solvedCount": 7580
+  }
+}

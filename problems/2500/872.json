@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1823,
+    "index": "E",
+    "name": "Removing Graph",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "dp",
+      "games",
+      "graphs",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1823,
+    "index": "E",
+    "solvedCount": 1199
+  }
+}

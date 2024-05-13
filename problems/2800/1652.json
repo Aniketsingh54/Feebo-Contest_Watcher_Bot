@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1693,
+    "index": "D",
+    "name": "Decinc Dividing",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1693,
+    "index": "D",
+    "solvedCount": 773
+  }
+}

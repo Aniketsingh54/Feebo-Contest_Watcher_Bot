@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1835,
+    "index": "D",
+    "name": "Doctor's Brown Hypothesis",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2900,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1835,
+    "index": "D",
+    "solvedCount": 449
+  }
+}

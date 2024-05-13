@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 771,
+    "index": "C",
+    "name": "Bear and Tree Jumps",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 771,
+    "index": "C",
+    "solvedCount": 2792
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 998,
+    "index": "B",
+    "name": "Cutting",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 998,
+    "index": "B",
+    "solvedCount": 12753
+  }
+}

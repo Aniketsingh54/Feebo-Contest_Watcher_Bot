@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1056,
+    "index": "B",
+    "name": "Divide Candies",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1056,
+    "index": "B",
+    "solvedCount": 4073
+  }
+}

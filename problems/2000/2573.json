@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1525,
+    "index": "C",
+    "name": "Robot Collisions",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1525,
+    "index": "C",
+    "solvedCount": 4332
+  }
+}

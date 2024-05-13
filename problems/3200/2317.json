@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1571,
+    "index": "I",
+    "name": "Physical Examination",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "*special",
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1571,
+    "index": "I",
+    "solvedCount": 54
+  }
+}

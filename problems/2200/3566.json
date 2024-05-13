@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1334,
+    "index": "E",
+    "name": "Divisor Paths",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1334,
+    "index": "E",
+    "solvedCount": 2627
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1361,
+    "index": "E",
+    "name": "James and the Chase",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "probabilities",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1361,
+    "index": "E",
+    "solvedCount": 627
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 721,
+    "index": "B",
+    "name": "Passwords",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 721,
+    "index": "B",
+    "solvedCount": 11978
+  }
+}

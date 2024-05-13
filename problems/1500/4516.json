@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1147,
+    "index": "A",
+    "name": "Hide and Seek",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1147,
+    "index": "A",
+    "solvedCount": 5144
+  }
+}

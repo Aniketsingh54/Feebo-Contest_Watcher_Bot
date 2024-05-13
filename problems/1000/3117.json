@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1419,
+    "index": "D1",
+    "name": "Sage's Birthday (easy version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1419,
+    "index": "D1",
+    "solvedCount": 23622
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1598,
+    "index": "B",
+    "name": "Groups",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1598,
+    "index": "B",
+    "solvedCount": 15787
+  }
+}

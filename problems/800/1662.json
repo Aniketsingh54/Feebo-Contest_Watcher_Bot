@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1692,
+    "index": "B",
+    "name": "All Distinct",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1692,
+    "index": "B",
+    "solvedCount": 32844
+  }
+}

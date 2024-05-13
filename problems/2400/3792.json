@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1286,
+    "index": "C1",
+    "name": "Madhouse (Easy version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1286,
+    "index": "C1",
+    "solvedCount": 1260
+  }
+}

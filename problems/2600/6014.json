@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 818,
+    "index": "G",
+    "name": "Four Melodies",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 818,
+    "index": "G",
+    "solvedCount": 625
+  }
+}

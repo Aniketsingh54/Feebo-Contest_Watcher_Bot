@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 802,
+    "index": "K",
+    "name": "Send the Fool Further! (medium)",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 802,
+    "index": "K",
+    "solvedCount": 578
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1915,
+    "index": "G",
+    "name": "Bicycles",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1915,
+    "index": "G",
+    "solvedCount": 5433
+  }
+}

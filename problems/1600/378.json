@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1910,
+    "index": "C",
+    "name": "Poisonous Swamp",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "*special",
+      "*special",
+      "implementation",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1910,
+    "index": "C",
+    "solvedCount": 583
+  }
+}

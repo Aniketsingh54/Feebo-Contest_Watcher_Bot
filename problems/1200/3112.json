@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1420,
+    "index": "B",
+    "name": "Rock and Lever",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1420,
+    "index": "B",
+    "solvedCount": 23709
+  }
+}

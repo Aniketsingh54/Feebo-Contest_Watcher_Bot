@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1185,
+    "index": "A",
+    "name": "Ropewalkers",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1185,
+    "index": "A",
+    "solvedCount": 14532
+  }
+}

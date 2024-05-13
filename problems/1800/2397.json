@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1554,
+    "index": "C",
+    "name": "Mikasa",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1554,
+    "index": "C",
+    "solvedCount": 8537
+  }
+}

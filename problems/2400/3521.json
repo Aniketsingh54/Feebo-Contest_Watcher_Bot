@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1343,
+    "index": "F",
+    "name": "Restore the Permutation by Sorted Segments",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1343,
+    "index": "F",
+    "solvedCount": 1232
+  }
+}

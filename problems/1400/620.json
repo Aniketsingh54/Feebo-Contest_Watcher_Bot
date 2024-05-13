@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1866,
+    "index": "B",
+    "name": "Battling with Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1866,
+    "index": "B",
+    "solvedCount": 7211
+  }
+}

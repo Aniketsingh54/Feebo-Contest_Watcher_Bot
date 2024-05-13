@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 830,
+    "index": "D",
+    "name": "Singer House",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 830,
+    "index": "D",
+    "solvedCount": 808
+  }
+}

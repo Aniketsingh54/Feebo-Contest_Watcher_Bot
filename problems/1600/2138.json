@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1609,
+    "index": "D",
+    "name": "Social Network",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1600,
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1609,
+    "index": "D",
+    "solvedCount": 6975
+  }
+}

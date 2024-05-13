@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 772,
+    "index": "D",
+    "name": "Varying Kibibits",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "bitmasks",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 772,
+    "index": "D",
+    "solvedCount": 572
+  }
+}

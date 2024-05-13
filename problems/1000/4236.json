@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1199,
+    "index": "A",
+    "name": "City Day",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1199,
+    "index": "A",
+    "solvedCount": 14147
+  }
+}

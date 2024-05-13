@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1481,
+    "index": "E",
+    "name": "Sorting Books",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1481,
+    "index": "E",
+    "solvedCount": 2000
+  }
+}

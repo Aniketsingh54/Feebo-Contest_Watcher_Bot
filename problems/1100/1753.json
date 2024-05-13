@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1675,
+    "index": "C",
+    "name": "Detective Task",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1675,
+    "index": "C",
+    "solvedCount": 17748
+  }
+}

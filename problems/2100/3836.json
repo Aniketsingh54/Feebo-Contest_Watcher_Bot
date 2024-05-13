@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1278,
+    "index": "D",
+    "name": "Segment Tree",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1278,
+    "index": "D",
+    "solvedCount": 3727
+  }
+}

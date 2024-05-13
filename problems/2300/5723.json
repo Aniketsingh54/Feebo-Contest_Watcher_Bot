@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 888,
+    "index": "G",
+    "name": "Xor-MST",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 888,
+    "index": "G",
+    "solvedCount": 3888
+  }
+}

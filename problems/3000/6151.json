@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 788,
+    "index": "D",
+    "name": "Finding lines",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3000,
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 788,
+    "index": "D",
+    "solvedCount": 356
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1051,
+    "index": "A",
+    "name": "Vasya And Password",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1051,
+    "index": "A",
+    "solvedCount": 8315
+  }
+}

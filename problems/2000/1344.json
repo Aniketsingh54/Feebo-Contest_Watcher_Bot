@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1744,
+    "index": "F",
+    "name": "MEX vs MED",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1744,
+    "index": "F",
+    "solvedCount": 2896
+  }
+}

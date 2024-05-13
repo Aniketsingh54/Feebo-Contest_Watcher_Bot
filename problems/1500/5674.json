@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 901,
+    "index": "A",
+    "name": "Hashing Trees",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 901,
+    "index": "A",
+    "solvedCount": 5011
+  }
+}

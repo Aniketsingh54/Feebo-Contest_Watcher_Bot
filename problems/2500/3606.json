@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1327,
+    "index": "F",
+    "name": "AND Segments",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1327,
+    "index": "F",
+    "solvedCount": 1606
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1514,
+    "index": "C",
+    "name": "Product 1 Modulo N",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1514,
+    "index": "C",
+    "solvedCount": 14320
+  }
+}

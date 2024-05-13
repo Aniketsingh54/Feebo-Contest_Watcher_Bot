@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1121,
+    "index": "B",
+    "name": "Mike and Children",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1121,
+    "index": "B",
+    "solvedCount": 8631
+  }
+}

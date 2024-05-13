@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1712,
+    "index": "D",
+    "name": "Empty Graph",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1712,
+    "index": "D",
+    "solvedCount": 4271
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1704,
+    "index": "H1",
+    "name": "Game of AI (easy version)",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3200,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1704,
+    "index": "H1",
+    "solvedCount": 170
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1421,
+    "index": "D",
+    "name": "Hexagons",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1421,
+    "index": "D",
+    "solvedCount": 4049
+  }
+}

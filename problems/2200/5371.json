@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 965,
+    "index": "E",
+    "name": "Short Code",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 965,
+    "index": "E",
+    "solvedCount": 1327
+  }
+}

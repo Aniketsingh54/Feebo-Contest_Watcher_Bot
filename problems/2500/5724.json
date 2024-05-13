@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 888,
+    "index": "F",
+    "name": "Connecting Vertices",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 888,
+    "index": "F",
+    "solvedCount": 749
+  }
+}

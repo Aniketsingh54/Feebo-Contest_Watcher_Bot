@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 771,
+    "index": "E",
+    "name": "Bear and Rectangle Strips",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3000,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 771,
+    "index": "E",
+    "solvedCount": 441
+  }
+}

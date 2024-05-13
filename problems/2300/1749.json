@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1675,
+    "index": "G",
+    "name": "Sorting Pancakes",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1675,
+    "index": "G",
+    "solvedCount": 1602
+  }
+}

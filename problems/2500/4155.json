@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1211,
+    "index": "G",
+    "name": "King's Path",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "*special",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1211,
+    "index": "G",
+    "solvedCount": 66
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1684,
+    "index": "F",
+    "name": "Diverse Segments",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1684,
+    "index": "F",
+    "solvedCount": 842
+  }
+}

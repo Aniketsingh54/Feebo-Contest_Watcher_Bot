@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1266,
+    "index": "E",
+    "name": "Spaceship Solitaire",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1266,
+    "index": "E",
+    "solvedCount": 2070
+  }
+}

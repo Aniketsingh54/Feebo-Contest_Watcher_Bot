@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1769,
+    "index": "D1",
+    "name": "Игра в Девятку I",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "brute force",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1769,
+    "index": "D1",
+    "solvedCount": 368
+  }
+}

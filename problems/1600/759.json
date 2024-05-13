@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1843,
+    "index": "E",
+    "name": "Tracking Segments",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1843,
+    "index": "E",
+    "solvedCount": 10989
+  }
+}

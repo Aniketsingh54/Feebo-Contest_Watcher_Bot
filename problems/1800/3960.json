@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1252,
+    "index": "H",
+    "name": "Twin Buildings",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1252,
+    "index": "H",
+    "solvedCount": 2589
+  }
+}

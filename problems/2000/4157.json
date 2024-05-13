@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1211,
+    "index": "E",
+    "name": "Double Permutation Inc.",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "*special",
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1211,
+    "index": "E",
+    "solvedCount": 188
+  }
+}

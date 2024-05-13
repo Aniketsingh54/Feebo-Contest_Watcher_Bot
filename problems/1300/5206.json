@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1003,
+    "index": "B",
+    "name": "Binary String Constructing",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1003,
+    "index": "B",
+    "solvedCount": 11048
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1922,
+    "index": "C",
+    "name": "Closest Cities",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1922,
+    "index": "C",
+    "solvedCount": 16879
+  }
+}

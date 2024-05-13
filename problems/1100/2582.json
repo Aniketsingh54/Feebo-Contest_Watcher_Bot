@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1523,
+    "index": "B",
+    "name": "Lord of the Values",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1523,
+    "index": "B",
+    "solvedCount": 11967
+  }
+}

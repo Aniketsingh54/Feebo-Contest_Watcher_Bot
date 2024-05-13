@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1840,
+    "index": "B",
+    "name": "Binary Cafe",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1840,
+    "index": "B",
+    "solvedCount": 21526
+  }
+}

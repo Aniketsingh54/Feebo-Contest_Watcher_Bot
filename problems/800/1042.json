@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1795,
+    "index": "A",
+    "name": "Two Towers",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1795,
+    "index": "A",
+    "solvedCount": 23243
+  }
+}

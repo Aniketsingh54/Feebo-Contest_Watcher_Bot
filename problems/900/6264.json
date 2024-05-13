@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 764,
+    "index": "B",
+    "name": "Timofey and cubes",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 764,
+    "index": "B",
+    "solvedCount": 11619
+  }
+}

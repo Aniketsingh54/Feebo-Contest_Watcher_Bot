@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1399,
+    "index": "C",
+    "name": "Boats Competition",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1399,
+    "index": "C",
+    "solvedCount": 27792
+  }
+}

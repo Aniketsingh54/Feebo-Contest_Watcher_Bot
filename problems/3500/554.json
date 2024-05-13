@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1876,
+    "index": "F",
+    "name": "Indefinite Clownfish",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1876,
+    "index": "F",
+    "solvedCount": 111
+  }
+}

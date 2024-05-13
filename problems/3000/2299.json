@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1575,
+    "index": "C",
+    "name": "Cyclic Sum",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "data structures",
+      "fft",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1575,
+    "index": "C",
+    "solvedCount": 155
+  }
+}

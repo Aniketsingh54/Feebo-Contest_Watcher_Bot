@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1031,
+    "index": "C",
+    "name": "Cram Time",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1031,
+    "index": "C",
+    "solvedCount": 5163
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1411,
+    "index": "F",
+    "name": "The Thorny Path",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1411,
+    "index": "F",
+    "solvedCount": 320
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 848,
+    "index": "D",
+    "name": "Shake It!",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 848,
+    "index": "D",
+    "solvedCount": 365
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "M",
+    "name": "Minimum LCM",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "M",
+    "solvedCount": 12688
+  }
+}

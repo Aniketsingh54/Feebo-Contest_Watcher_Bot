@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1607,
+    "index": "A",
+    "name": "Linear Keyboard",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1607,
+    "index": "A",
+    "solvedCount": 36101
+  }
+}

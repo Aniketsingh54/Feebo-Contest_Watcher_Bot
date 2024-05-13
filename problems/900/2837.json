@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1475,
+    "index": "A",
+    "name": "Odd Divisor",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1475,
+    "index": "A",
+    "solvedCount": 55350
+  }
+}

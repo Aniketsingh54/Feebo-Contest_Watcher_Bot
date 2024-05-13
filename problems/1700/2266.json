@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1580,
+    "index": "A",
+    "name": "Portal",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1580,
+    "index": "A",
+    "solvedCount": 3547
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1191,
+    "index": "A",
+    "name": "Tokitsukaze and Enhancement",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1191,
+    "index": "A",
+    "solvedCount": 17851
+  }
+}

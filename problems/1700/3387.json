@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1365,
+    "index": "D",
+    "name": "Solve The Maze",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1365,
+    "index": "D",
+    "solvedCount": 16167
+  }
+}

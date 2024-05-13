@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1253,
+    "index": "F",
+    "name": "Cheap Robot",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "dsu",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1253,
+    "index": "F",
+    "solvedCount": 1581
+  }
+}

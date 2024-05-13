@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1332,
+    "index": "B",
+    "name": "Composite Coloring",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1332,
+    "index": "B",
+    "solvedCount": 17085
+  }
+}

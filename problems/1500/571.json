@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1873,
+    "index": "G",
+    "name": "ABBC or BACB",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1873,
+    "index": "G",
+    "solvedCount": 11728
+  }
+}

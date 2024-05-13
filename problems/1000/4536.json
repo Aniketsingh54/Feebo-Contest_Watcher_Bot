@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1144,
+    "index": "C",
+    "name": "Two Shuffled Sequences",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1144,
+    "index": "C",
+    "solvedCount": 14961
+  }
+}

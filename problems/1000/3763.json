@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1293,
+    "index": "B",
+    "name": "JOE is on TV!",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1293,
+    "index": "B",
+    "solvedCount": 20798
+  }
+}

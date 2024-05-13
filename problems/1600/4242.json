@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1198,
+    "index": "A",
+    "name": "MP3",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1600,
+    "tags": [
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1198,
+    "index": "A",
+    "solvedCount": 8886
+  }
+}

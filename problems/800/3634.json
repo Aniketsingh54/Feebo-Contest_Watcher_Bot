@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1323,
+    "index": "A",
+    "name": "Even Subset Sum Problem",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1323,
+    "index": "A",
+    "solvedCount": 19377
+  }
+}

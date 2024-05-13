@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 917,
+    "index": "B",
+    "name": "MADMAX",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 917,
+    "index": "B",
+    "solvedCount": 3488
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1742,
+    "index": "G",
+    "name": "Orray",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1742,
+    "index": "G",
+    "solvedCount": 9884
+  }
+}

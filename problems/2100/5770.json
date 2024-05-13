@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 877,
+    "index": "D",
+    "name": "Olya and Energy Drinks",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 877,
+    "index": "D",
+    "solvedCount": 3951
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "K",
+    "name": "Projectors",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "flows",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "K",
+    "solvedCount": 152
+  }
+}

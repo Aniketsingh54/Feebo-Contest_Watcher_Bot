@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1343,
+    "index": "B",
+    "name": "Balanced Array",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1343,
+    "index": "B",
+    "solvedCount": 53755
+  }
+}

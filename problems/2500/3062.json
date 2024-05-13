@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1427,
+    "index": "E",
+    "name": "Xum",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "matrices",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1427,
+    "index": "E",
+    "solvedCount": 1265
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1696,
+    "index": "H",
+    "name": "Maximum Product?",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1696,
+    "index": "H",
+    "solvedCount": 153
+  }
+}

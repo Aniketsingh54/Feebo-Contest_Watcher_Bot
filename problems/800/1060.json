@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1792,
+    "index": "A",
+    "name": "GamingForces",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1792,
+    "index": "A",
+    "solvedCount": 27137
+  }
+}

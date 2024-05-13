@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 757,
+    "index": "E",
+    "name": "Bash Plays with Functions",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 757,
+    "index": "E",
+    "solvedCount": 1267
+  }
+}

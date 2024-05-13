@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1133,
+    "index": "F1",
+    "name": "Spanning Tree with Maximum Degree",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1133,
+    "index": "F1",
+    "solvedCount": 7375
+  }
+}

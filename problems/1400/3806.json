@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1284,
+    "index": "B",
+    "name": "New Year and Ascent Sequence",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1284,
+    "index": "B",
+    "solvedCount": 10590
+  }
+}

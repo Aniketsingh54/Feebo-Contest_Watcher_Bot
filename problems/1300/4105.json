@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1220,
+    "index": "B",
+    "name": "Multiplication Table",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1220,
+    "index": "B",
+    "solvedCount": 11338
+  }
+}

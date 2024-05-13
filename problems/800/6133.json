@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 794,
+    "index": "A",
+    "name": "Bank Robbery",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 794,
+    "index": "A",
+    "solvedCount": 6918
+  }
+}

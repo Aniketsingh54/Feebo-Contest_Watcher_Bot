@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1506,
+    "index": "B",
+    "name": "Partial Replacement",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1506,
+    "index": "B",
+    "solvedCount": 19903
+  }
+}

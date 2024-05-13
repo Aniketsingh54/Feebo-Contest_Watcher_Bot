@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 711,
+    "index": "A",
+    "name": "Bus to Udayland",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 711,
+    "index": "A",
+    "solvedCount": 28824
+  }
+}

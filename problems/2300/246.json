@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1929,
+    "index": "E",
+    "name": "Sasha and the Happy Tree Cutting",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1929,
+    "index": "E",
+    "solvedCount": 1512
+  }
+}

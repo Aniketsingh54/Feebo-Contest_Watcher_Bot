@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1207,
+    "index": "F",
+    "name": "Remainder Problem",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1207,
+    "index": "F",
+    "solvedCount": 4744
+  }
+}

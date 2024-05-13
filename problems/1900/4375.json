@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1175,
+    "index": "D",
+    "name": "Array Splitting",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1175,
+    "index": "D",
+    "solvedCount": 5696
+  }
+}

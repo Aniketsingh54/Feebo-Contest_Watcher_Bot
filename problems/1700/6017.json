@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 818,
+    "index": "D",
+    "name": "Multicolored Cars",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 818,
+    "index": "D",
+    "solvedCount": 3388
+  }
+}

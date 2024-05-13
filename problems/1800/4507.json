@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1148,
+    "index": "D",
+    "name": "Dirty Deeds Done Dirt Cheap",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1148,
+    "index": "D",
+    "solvedCount": 4862
+  }
+}

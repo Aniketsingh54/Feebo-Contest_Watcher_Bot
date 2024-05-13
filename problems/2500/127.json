@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1948,
+    "index": "F",
+    "name": "Rare Coins",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1948,
+    "index": "F",
+    "solvedCount": 1146
+  }
+}

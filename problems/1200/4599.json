@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1131,
+    "index": "C",
+    "name": "Birthday",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1131,
+    "index": "C",
+    "solvedCount": 14547
+  }
+}

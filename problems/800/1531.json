@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1714,
+    "index": "C",
+    "name": "Minimum  Varied Number",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1714,
+    "index": "C",
+    "solvedCount": 30012
+  }
+}

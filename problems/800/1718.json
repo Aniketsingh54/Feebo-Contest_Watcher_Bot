@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1681,
+    "index": "A",
+    "name": "Game with Cards",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1681,
+    "index": "A",
+    "solvedCount": 20734
+  }
+}

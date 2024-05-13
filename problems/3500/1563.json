@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1707,
+    "index": "E",
+    "name": "Replace",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1707,
+    "index": "E",
+    "solvedCount": 560
+  }
+}

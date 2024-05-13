@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1784,
+    "index": "E",
+    "name": "Infinite Game",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3100,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "games",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1784,
+    "index": "E",
+    "solvedCount": 302
+  }
+}

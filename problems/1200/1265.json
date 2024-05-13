@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1763,
+    "index": "B",
+    "name": "Incinerate",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1763,
+    "index": "B",
+    "solvedCount": 13914
+  }
+}

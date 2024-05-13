@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 908,
+    "index": "C",
+    "name": "New Year and Curling",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "geometry",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 908,
+    "index": "C",
+    "solvedCount": 6668
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 990,
+    "index": "G",
+    "name": "GCD Counting",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 990,
+    "index": "G",
+    "solvedCount": 1730
+  }
+}

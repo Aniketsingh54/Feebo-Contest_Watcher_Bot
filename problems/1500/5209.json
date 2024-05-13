@@ -1,0 +1,15 @@
+{
+  "problem": {
+    "contestId": 1002,
+    "index": "E1",
+    "name": "Bernstein-Vazirani algorithm",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": []
+  },
+  "problemStatistics": {
+    "contestId": 1002,
+    "index": "E1",
+    "solvedCount": 317
+  }
+}

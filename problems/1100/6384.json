@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 735,
+    "index": "B",
+    "name": "Urbanization",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 735,
+    "index": "B",
+    "solvedCount": 8303
+  }
+}

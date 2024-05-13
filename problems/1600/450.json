@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1899,
+    "index": "F",
+    "name": "Alex's whims",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1899,
+    "index": "F",
+    "solvedCount": 6668
+  }
+}

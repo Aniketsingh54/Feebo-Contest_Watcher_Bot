@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1710,
+    "index": "C",
+    "name": "XOR Triangle",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1710,
+    "index": "C",
+    "solvedCount": 1275
+  }
+}

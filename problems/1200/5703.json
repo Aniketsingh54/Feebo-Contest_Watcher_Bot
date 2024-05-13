@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 895,
+    "index": "A",
+    "name": "Pizza Separation",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 895,
+    "index": "A",
+    "solvedCount": 6456
+  }
+}

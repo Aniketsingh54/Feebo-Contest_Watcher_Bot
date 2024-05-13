@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1917,
+    "index": "A",
+    "name": "Least Product",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1917,
+    "index": "A",
+    "solvedCount": 24209
+  }
+}

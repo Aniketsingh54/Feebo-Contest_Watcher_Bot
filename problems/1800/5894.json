@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "K",
+    "name": "Travel Cards",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "K",
+    "solvedCount": 1495
+  }
+}

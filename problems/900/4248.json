@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1197,
+    "index": "A",
+    "name": "DIY Wooden Ladder",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1197,
+    "index": "A",
+    "solvedCount": 13383
+  }
+}

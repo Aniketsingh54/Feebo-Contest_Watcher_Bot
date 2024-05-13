@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1401,
+    "index": "F",
+    "name": "Reverse and Swap",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1401,
+    "index": "F",
+    "solvedCount": 1528
+  }
+}

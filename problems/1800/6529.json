@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 706,
+    "index": "D",
+    "name": "Vasiliy's Multiset",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 706,
+    "index": "D",
+    "solvedCount": 9292
+  }
+}

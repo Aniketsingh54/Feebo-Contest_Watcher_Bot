@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 832,
+    "index": "E",
+    "name": "Vasya and Shifts",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 832,
+    "index": "E",
+    "solvedCount": 279
+  }
+}

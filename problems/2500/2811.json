@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1479,
+    "index": "C",
+    "name": "Continuous City",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1479,
+    "index": "C",
+    "solvedCount": 1256
+  }
+}

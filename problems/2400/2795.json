@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1482,
+    "index": "F",
+    "name": "Useful Edges",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1482,
+    "index": "F",
+    "solvedCount": 1472
+  }
+}

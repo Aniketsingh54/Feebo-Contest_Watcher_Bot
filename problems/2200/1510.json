@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1717,
+    "index": "E",
+    "name": "Madoka and The Best University",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1717,
+    "index": "E",
+    "solvedCount": 2479
+  }
+}

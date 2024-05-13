@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1559,
+    "index": "B",
+    "name": "Mocha and Red and Blue",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1559,
+    "index": "B",
+    "solvedCount": 22003
+  }
+}

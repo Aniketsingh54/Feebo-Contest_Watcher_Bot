@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1670,
+    "index": "E",
+    "name": "Hemose on the Tree",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1670,
+    "index": "E",
+    "solvedCount": 1671
+  }
+}

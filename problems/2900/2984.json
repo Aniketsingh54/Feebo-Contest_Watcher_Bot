@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1444,
+    "index": "D",
+    "name": "Rectangular Polyline",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1444,
+    "index": "D",
+    "solvedCount": 536
+  }
+}

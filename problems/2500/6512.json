@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 710,
+    "index": "D",
+    "name": "Two Arithmetic Progressions",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 710,
+    "index": "D",
+    "solvedCount": 1159
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1107,
+    "index": "D",
+    "name": "Compression",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1107,
+    "index": "D",
+    "solvedCount": 3682
+  }
+}

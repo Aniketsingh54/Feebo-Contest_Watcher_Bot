@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1551,
+    "index": "B1",
+    "name": "Wonderful Coloring - 1",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1551,
+    "index": "B1",
+    "solvedCount": 28650
+  }
+}

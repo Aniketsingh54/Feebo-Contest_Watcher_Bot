@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1678,
+    "index": "B1",
+    "name": "Tokitsukaze and Good 01-String (easy version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1678,
+    "index": "B1",
+    "solvedCount": 15684
+  }
+}

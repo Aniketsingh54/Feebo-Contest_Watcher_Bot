@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 840,
+    "index": "B",
+    "name": "Leha and another game about graph",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 840,
+    "index": "B",
+    "solvedCount": 2245
+  }
+}

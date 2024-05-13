@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 846,
+    "index": "E",
+    "name": "Chemistry in Berland",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 846,
+    "index": "E",
+    "solvedCount": 851
+  }
+}

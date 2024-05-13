@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1809,
+    "index": "F",
+    "name": "Traveling in Berland",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1809,
+    "index": "F",
+    "solvedCount": 708
+  }
+}

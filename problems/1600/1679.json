@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1689,
+    "index": "C",
+    "name": "Infected Tree",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1689,
+    "index": "C",
+    "solvedCount": 10501
+  }
+}

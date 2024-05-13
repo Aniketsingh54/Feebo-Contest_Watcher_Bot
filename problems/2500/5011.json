@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1043,
+    "index": "F",
+    "name": "Make It One",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1043,
+    "index": "F",
+    "solvedCount": 2188
+  }
+}

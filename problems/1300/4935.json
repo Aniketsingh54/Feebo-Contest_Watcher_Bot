@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1062,
+    "index": "A",
+    "name": "A Prank",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1062,
+    "index": "A",
+    "solvedCount": 8668
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 714,
+    "index": "A",
+    "name": "Meeting of Old Friends",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 714,
+    "index": "A",
+    "solvedCount": 10682
+  }
+}

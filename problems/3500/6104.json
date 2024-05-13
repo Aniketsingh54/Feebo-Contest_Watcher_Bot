@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 799,
+    "index": "F",
+    "name": "Beautiful fountains rows",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3500,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 799,
+    "index": "F",
+    "solvedCount": 418
+  }
+}

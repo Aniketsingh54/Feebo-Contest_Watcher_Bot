@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1253,
+    "index": "A",
+    "name": "Single Push",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1253,
+    "index": "A",
+    "solvedCount": 17658
+  }
+}

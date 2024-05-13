@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 749,
+    "index": "E",
+    "name": "Inversions After Shuffle",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 749,
+    "index": "E",
+    "solvedCount": 1027
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1735,
+    "index": "F",
+    "name": "Pebbles and Beads",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1735,
+    "index": "F",
+    "solvedCount": 218
+  }
+}

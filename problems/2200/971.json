@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1806,
+    "index": "E",
+    "name": "Tree Master",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1806,
+    "index": "E",
+    "solvedCount": 2687
+  }
+}

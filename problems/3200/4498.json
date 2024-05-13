@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1149,
+    "index": "E",
+    "name": "Election Promises",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3200,
+    "tags": [
+      "games",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1149,
+    "index": "E",
+    "solvedCount": 477
+  }
+}

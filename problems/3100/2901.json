@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1463,
+    "index": "F",
+    "name": "Max Correct Set",
+    "type": "PROGRAMMING",
+    "rating": 3100,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1463,
+    "index": "F",
+    "solvedCount": 552
+  }
+}

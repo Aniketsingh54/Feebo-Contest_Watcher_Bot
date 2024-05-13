@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1773,
+    "index": "I",
+    "name": "Interactive Factorial Guessing",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "games",
+      "implementation",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1773,
+    "index": "I",
+    "solvedCount": 455
+  }
+}

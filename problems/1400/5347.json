@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 978,
+    "index": "E",
+    "name": "Bus Video System",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 978,
+    "index": "E",
+    "solvedCount": 9236
+  }
+}

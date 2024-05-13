@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1287,
+    "index": "A",
+    "name": "Angry Students",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1287,
+    "index": "A",
+    "solvedCount": 20200
+  }
+}

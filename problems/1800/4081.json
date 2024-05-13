@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1225,
+    "index": "D",
+    "name": "Power Products",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "hashing",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1225,
+    "index": "D",
+    "solvedCount": 7393
+  }
+}

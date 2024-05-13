@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1656,
+    "index": "E",
+    "name": "Equal Tree Sums",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1656,
+    "index": "E",
+    "solvedCount": 3298
+  }
+}

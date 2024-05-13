@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 852,
+    "index": "H",
+    "name": "Bob and stages",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "dp",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 852,
+    "index": "H",
+    "solvedCount": 148
+  }
+}

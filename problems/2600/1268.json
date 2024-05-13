@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1762,
+    "index": "F",
+    "name": "Good Pairs ",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1762,
+    "index": "F",
+    "solvedCount": 561
+  }
+}

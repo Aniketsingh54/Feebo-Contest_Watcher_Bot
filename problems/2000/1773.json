@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1672,
+    "index": "F1",
+    "name": "Array Shuffling",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1672,
+    "index": "F1",
+    "solvedCount": 2968
+  }
+}

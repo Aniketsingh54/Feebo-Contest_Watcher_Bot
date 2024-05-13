@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1849,
+    "index": "E",
+    "name": "Max to the Right of Min",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1849,
+    "index": "E",
+    "solvedCount": 1512
+  }
+}

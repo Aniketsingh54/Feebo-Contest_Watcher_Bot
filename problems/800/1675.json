@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1690,
+    "index": "B",
+    "name": "Array Decrements",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1690,
+    "index": "B",
+    "solvedCount": 24772
+  }
+}

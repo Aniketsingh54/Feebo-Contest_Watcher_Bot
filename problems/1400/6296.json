@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 757,
+    "index": "B",
+    "name": "Bash's Big Day",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 757,
+    "index": "B",
+    "solvedCount": 9839
+  }
+}

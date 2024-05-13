@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1704,
+    "index": "E",
+    "name": "Count Seconds",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1704,
+    "index": "E",
+    "solvedCount": 2224
+  }
+}

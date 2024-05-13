@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1181,
+    "index": "E2",
+    "name": "A Story of One Country (Hard)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 3000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1181,
+    "index": "E2",
+    "solvedCount": 264
+  }
+}

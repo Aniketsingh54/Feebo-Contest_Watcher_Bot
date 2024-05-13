@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1399,
+    "index": "E2",
+    "name": "Weights Division (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "greedy",
+      "sortings",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1399,
+    "index": "E2",
+    "solvedCount": 2220
+  }
+}

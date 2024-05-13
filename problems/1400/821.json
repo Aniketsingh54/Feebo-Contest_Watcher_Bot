@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1833,
+    "index": "D",
+    "name": "Flipper",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1833,
+    "index": "D",
+    "solvedCount": 12696
+  }
+}

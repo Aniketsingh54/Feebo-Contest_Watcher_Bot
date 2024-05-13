@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1332,
+    "index": "C",
+    "name": "K-Complete Word",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1332,
+    "index": "C",
+    "solvedCount": 15683
+  }
+}

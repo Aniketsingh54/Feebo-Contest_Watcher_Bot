@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1271,
+    "index": "B",
+    "name": "Blocks",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1271,
+    "index": "B",
+    "solvedCount": 11102
+  }
+}

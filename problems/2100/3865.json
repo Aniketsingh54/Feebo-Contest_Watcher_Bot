@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1271,
+    "index": "D",
+    "name": "Portals",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1271,
+    "index": "D",
+    "solvedCount": 2754
+  }
+}

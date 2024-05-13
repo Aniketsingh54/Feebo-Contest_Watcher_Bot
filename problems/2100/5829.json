@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 862,
+    "index": "E",
+    "name": "Mahmoud and Ehab and the function",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 862,
+    "index": "E",
+    "solvedCount": 1390
+  }
+}

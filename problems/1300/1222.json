@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1768,
+    "index": "C",
+    "name": "Elemental Decompress",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1768,
+    "index": "C",
+    "solvedCount": 13563
+  }
+}

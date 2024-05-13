@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1310,
+    "index": "B",
+    "name": "Double Elimination",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1310,
+    "index": "B",
+    "solvedCount": 488
+  }
+}

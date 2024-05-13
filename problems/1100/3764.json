@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1293,
+    "index": "A",
+    "name": "ConneR and the A.R.C. Markland-N",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1293,
+    "index": "A",
+    "solvedCount": 14977
+  }
+}

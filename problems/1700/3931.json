@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1257,
+    "index": "D",
+    "name": "Yet Another Monster Killing Problem",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1257,
+    "index": "D",
+    "solvedCount": 7207
+  }
+}

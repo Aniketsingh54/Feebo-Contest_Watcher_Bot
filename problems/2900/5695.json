@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 896,
+    "index": "D",
+    "name": "Nephren Runs a Cinema",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "chinese remainder theorem",
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 896,
+    "index": "D",
+    "solvedCount": 517
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1730,
+    "index": "D",
+    "name": "Prefixes and Suffixes",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1730,
+    "index": "D",
+    "solvedCount": 2596
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1634,
+    "index": "E",
+    "name": "Fair Share",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1634,
+    "index": "E",
+    "solvedCount": 1598
+  }
+}

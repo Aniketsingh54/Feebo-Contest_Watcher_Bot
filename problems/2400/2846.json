@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1473,
+    "index": "E",
+    "name": "Minimum Path",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1473,
+    "index": "E",
+    "solvedCount": 3311
+  }
+}

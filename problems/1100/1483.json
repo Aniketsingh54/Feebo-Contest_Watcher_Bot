@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1722,
+    "index": "D",
+    "name": "Line",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1722,
+    "index": "D",
+    "solvedCount": 22300
+  }
+}

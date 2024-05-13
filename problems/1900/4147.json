@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1213,
+    "index": "E",
+    "name": "Two Small Strings",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1213,
+    "index": "E",
+    "solvedCount": 4915
+  }
+}

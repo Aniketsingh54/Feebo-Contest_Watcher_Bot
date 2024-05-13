@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1497,
+    "index": "E2",
+    "name": "Square-free division (hard version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1497,
+    "index": "E2",
+    "solvedCount": 1566
+  }
+}

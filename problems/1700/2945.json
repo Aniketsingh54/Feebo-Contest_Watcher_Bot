@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1453,
+    "index": "C",
+    "name": "Triangles",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1453,
+    "index": "C",
+    "solvedCount": 5979
+  }
+}

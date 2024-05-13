@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1143,
+    "index": "C",
+    "name": "Queen",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1143,
+    "index": "C",
+    "solvedCount": 11389
+  }
+}

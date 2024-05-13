@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1185,
+    "index": "C2",
+    "name": "Exam in BerSU (hard version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1185,
+    "index": "C2",
+    "solvedCount": 7145
+  }
+}

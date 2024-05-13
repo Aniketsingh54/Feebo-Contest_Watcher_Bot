@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1666,
+    "index": "H",
+    "name": "Heroes of Might",
+    "type": "PROGRAMMING",
+    "rating": 3500,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1666,
+    "index": "H",
+    "solvedCount": 60
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1765,
+    "index": "J",
+    "name": "Hero to Zero",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "graph matchings",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1765,
+    "index": "J",
+    "solvedCount": 187
+  }
+}

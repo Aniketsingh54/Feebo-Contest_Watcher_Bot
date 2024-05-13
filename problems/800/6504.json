@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 712,
+    "index": "A",
+    "name": "Memory and Crow",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 712,
+    "index": "A",
+    "solvedCount": 11523
+  }
+}

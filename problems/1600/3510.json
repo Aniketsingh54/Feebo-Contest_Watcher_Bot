@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1346,
+    "index": "C",
+    "name": "Spring Cleaning",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "*special",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1346,
+    "index": "C",
+    "solvedCount": 581
+  }
+}

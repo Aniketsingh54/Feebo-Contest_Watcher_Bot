@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1450,
+    "index": "D",
+    "name": "Rating Compression",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1450,
+    "index": "D",
+    "solvedCount": 5307
+  }
+}

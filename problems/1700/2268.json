@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1579,
+    "index": "F",
+    "name": "Array Stabilization (AND version)",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "graphs",
+      "math",
+      "number theory",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1579,
+    "index": "F",
+    "solvedCount": 4567
+  }
+}

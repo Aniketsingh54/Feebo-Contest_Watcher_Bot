@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 761,
+    "index": "A",
+    "name": "Dasha and Stairs",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 761,
+    "index": "A",
+    "solvedCount": 14333
+  }
+}

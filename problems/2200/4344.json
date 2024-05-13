@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1181,
+    "index": "D",
+    "name": "Irrigation",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "sortings",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1181,
+    "index": "D",
+    "solvedCount": 2030
+  }
+}

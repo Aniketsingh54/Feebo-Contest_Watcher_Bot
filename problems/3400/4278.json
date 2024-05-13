@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1190,
+    "index": "F",
+    "name": "Tokitsukaze and Powers",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3400,
+    "tags": [
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1190,
+    "index": "F",
+    "solvedCount": 87
+  }
+}

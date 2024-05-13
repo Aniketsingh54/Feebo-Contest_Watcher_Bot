@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1681,
+    "index": "D",
+    "name": "Required Length",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "hashing",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1681,
+    "index": "D",
+    "solvedCount": 9274
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1208,
+    "index": "C",
+    "name": "Magic Grid",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1208,
+    "index": "C",
+    "solvedCount": 5783
+  }
+}

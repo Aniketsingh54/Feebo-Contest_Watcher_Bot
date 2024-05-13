@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1789,
+    "index": "C",
+    "name": "Serval and Toxel's Arrays",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1789,
+    "index": "C",
+    "solvedCount": 8094
+  }
+}

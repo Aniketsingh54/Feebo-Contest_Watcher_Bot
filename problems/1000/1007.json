@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1800,
+    "index": "B",
+    "name": "Count the Number of Pairs",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1800,
+    "index": "B",
+    "solvedCount": 23964
+  }
+}

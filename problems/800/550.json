@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1878,
+    "index": "A",
+    "name": "How Much Does Daytona Cost?",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1878,
+    "index": "A",
+    "solvedCount": 38901
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1599,
+    "index": "F",
+    "name": "Mars",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "hashing"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1599,
+    "index": "F",
+    "solvedCount": 303
+  }
+}

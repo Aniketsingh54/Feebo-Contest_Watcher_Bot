@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1368,
+    "index": "E",
+    "name": "Ski Accidents",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1368,
+    "index": "E",
+    "solvedCount": 1940
+  }
+}

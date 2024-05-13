@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1439,
+    "index": "E",
+    "name": "Cheat and Win",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3500,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "games",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1439,
+    "index": "E",
+    "solvedCount": 214
+  }
+}

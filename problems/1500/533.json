@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1881,
+    "index": "E",
+    "name": "Block Sequence",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1881,
+    "index": "E",
+    "solvedCount": 11742
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1303,
+    "index": "C",
+    "name": "Perfect Keyboard",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1303,
+    "index": "C",
+    "solvedCount": 11830
+  }
+}

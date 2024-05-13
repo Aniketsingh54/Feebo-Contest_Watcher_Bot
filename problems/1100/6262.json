@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 765,
+    "index": "B",
+    "name": "Code obfuscation",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 765,
+    "index": "B",
+    "solvedCount": 7023
+  }
+}

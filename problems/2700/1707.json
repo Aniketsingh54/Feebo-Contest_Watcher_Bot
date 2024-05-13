@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1682,
+    "index": "F",
+    "name": "MCMF?",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "flows",
+      "graphs",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1682,
+    "index": "F",
+    "solvedCount": 285
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 903,
+    "index": "C",
+    "name": "Boxes Packing",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 903,
+    "index": "C",
+    "solvedCount": 16413
+  }
+}

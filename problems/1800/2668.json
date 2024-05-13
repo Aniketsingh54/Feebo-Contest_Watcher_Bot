@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1508,
+    "index": "B",
+    "name": "Almost Sorted",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1508,
+    "index": "B",
+    "solvedCount": 3843
+  }
+}

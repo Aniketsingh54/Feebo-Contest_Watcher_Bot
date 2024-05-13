@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1156,
+    "index": "C",
+    "name": "Match Points",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "ternary search",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1156,
+    "index": "C",
+    "solvedCount": 5896
+  }
+}

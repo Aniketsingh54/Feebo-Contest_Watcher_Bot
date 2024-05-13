@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1517,
+    "index": "D",
+    "name": "Explorer Space",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1517,
+    "index": "D",
+    "solvedCount": 7328
+  }
+}

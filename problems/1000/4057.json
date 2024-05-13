@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1234,
+    "index": "B1",
+    "name": "Social Network (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1234,
+    "index": "B1",
+    "solvedCount": 18333
+  }
+}

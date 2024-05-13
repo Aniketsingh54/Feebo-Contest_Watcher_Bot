@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1687,
+    "index": "F",
+    "name": "Koishi's Unconscious Permutation",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3500,
+    "tags": [
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1687,
+    "index": "F",
+    "solvedCount": 77
+  }
+}

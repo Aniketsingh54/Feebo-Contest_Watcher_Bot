@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1113,
+    "index": "A",
+    "name": "Sasha and His Trip",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1113,
+    "index": "A",
+    "solvedCount": 16986
+  }
+}

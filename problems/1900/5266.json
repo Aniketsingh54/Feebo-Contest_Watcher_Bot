@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 993,
+    "index": "B",
+    "name": "Open Communication",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 993,
+    "index": "B",
+    "solvedCount": 1929
+  }
+}

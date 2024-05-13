@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1466,
+    "index": "C",
+    "name": "Canine poetry",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1466,
+    "index": "C",
+    "solvedCount": 17312
+  }
+}

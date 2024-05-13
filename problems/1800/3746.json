@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1296,
+    "index": "E1",
+    "name": "String Coloring (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1296,
+    "index": "E1",
+    "solvedCount": 7107
+  }
+}

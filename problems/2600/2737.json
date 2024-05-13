@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1493,
+    "index": "E",
+    "name": "Enormous XOR",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1493,
+    "index": "E",
+    "solvedCount": 864
+  }
+}

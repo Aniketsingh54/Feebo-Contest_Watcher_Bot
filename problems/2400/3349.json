@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1370,
+    "index": "F1",
+    "name": "The Hidden Pair (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "interactive",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1370,
+    "index": "F1",
+    "solvedCount": 1367
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1607,
+    "index": "F",
+    "name": "Robot on the Board 2",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1607,
+    "index": "F",
+    "solvedCount": 1890
+  }
+}

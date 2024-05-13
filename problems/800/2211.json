@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1594,
+    "index": "A",
+    "name": "Consecutive Sum Riddle",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1594,
+    "index": "A",
+    "solvedCount": 23845
+  }
+}

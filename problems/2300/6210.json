@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 774,
+    "index": "E",
+    "name": "Big Number and Remainder",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "*special",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 774,
+    "index": "E",
+    "solvedCount": 206
+  }
+}

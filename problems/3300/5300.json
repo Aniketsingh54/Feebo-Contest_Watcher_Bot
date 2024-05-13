@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 986,
+    "index": "F",
+    "name": "Oppa Funcan Style Remastered",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3300,
+    "tags": [
+      "graphs",
+      "math",
+      "number theory",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 986,
+    "index": "F",
+    "solvedCount": 564
+  }
+}

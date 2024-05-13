@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1044,
+    "index": "F",
+    "name": "DFS",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2700,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1044,
+    "index": "F",
+    "solvedCount": 502
+  }
+}

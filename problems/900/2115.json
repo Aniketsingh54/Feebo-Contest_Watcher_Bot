@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1612,
+    "index": "B",
+    "name": "Special Permutation",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1612,
+    "index": "B",
+    "solvedCount": 16882
+  }
+}

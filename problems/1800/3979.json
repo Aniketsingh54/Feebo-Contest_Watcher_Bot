@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "J",
+    "name": "The Parade",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "J",
+    "solvedCount": 2852
+  }
+}

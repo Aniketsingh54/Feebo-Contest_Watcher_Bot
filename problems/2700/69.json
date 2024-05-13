@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1956,
+    "index": "E2",
+    "name": "Nene vs. Monsters (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1956,
+    "index": "E2",
+    "solvedCount": 657
+  }
+}

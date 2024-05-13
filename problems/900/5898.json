@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 847,
+    "index": "G",
+    "name": "University Classes",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 847,
+    "index": "G",
+    "solvedCount": 6521
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1703,
+    "index": "G",
+    "name": "Good Key, Bad Key",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1703,
+    "index": "G",
+    "solvedCount": 10029
+  }
+}

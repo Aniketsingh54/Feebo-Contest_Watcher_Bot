@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1343,
+    "index": "D",
+    "name": "Constant Palindrome Sum",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1343,
+    "index": "D",
+    "solvedCount": 12206
+  }
+}

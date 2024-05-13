@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1056,
+    "index": "A",
+    "name": "Determine Line",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1056,
+    "index": "A",
+    "solvedCount": 6538
+  }
+}

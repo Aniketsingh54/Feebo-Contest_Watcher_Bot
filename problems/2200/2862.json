@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1470,
+    "index": "D",
+    "name": "Strange Housing",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graph matchings",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1470,
+    "index": "D",
+    "solvedCount": 3578
+  }
+}

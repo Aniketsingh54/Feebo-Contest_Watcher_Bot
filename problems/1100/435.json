@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1902,
+    "index": "B",
+    "name": "Getting Points",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1902,
+    "index": "B",
+    "solvedCount": 13328
+  }
+}

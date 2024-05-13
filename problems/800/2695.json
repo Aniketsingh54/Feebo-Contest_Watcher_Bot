@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1501,
+    "index": "A",
+    "name": "Alexey and Train",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1501,
+    "index": "A",
+    "solvedCount": 11528
+  }
+}

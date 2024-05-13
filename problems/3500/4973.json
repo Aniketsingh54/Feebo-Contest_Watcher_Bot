@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1054,
+    "index": "H",
+    "name": "Epic Convolution",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "chinese remainder theorem",
+      "fft",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1054,
+    "index": "H",
+    "solvedCount": 173
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1276,
+    "index": "E",
+    "name": "Four Stones",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3500,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1276,
+    "index": "E",
+    "solvedCount": 80
+  }
+}

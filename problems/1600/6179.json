@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 780,
+    "index": "C",
+    "name": "Andryusha and Colored Balloons",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 780,
+    "index": "C",
+    "solvedCount": 8854
+  }
+}

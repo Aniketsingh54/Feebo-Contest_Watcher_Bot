@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1955,
+    "index": "G",
+    "name": "GCD on a grid",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1955,
+    "index": "G",
+    "solvedCount": 3439
+  }
+}

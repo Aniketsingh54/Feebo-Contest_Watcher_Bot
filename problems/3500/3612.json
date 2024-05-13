@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1326,
+    "index": "G",
+    "name": "Spiderweb Trees",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "dp",
+      "geometry",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1326,
+    "index": "G",
+    "solvedCount": 70
+  }
+}

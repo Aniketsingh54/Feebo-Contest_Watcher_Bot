@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1773,
+    "index": "H",
+    "name": "Hot and Cold",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1773,
+    "index": "H",
+    "solvedCount": 340
+  }
+}

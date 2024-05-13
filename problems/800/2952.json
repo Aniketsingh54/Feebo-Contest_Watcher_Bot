@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1452,
+    "index": "C",
+    "name": "Two Brackets",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1452,
+    "index": "C",
+    "solvedCount": 19027
+  }
+}

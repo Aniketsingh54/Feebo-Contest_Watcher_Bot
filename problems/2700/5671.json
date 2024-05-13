@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 901,
+    "index": "D",
+    "name": "Weighting a Tree",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 901,
+    "index": "D",
+    "solvedCount": 429
+  }
+}

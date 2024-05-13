@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1155,
+    "index": "E",
+    "name": "Guess the Root",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1155,
+    "index": "E",
+    "solvedCount": 1390
+  }
+}

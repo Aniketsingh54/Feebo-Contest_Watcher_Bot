@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1688,
+    "index": "C",
+    "name": "Manipulating History",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1688,
+    "index": "C",
+    "solvedCount": 7904
+  }
+}

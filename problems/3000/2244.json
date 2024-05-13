@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1583,
+    "index": "G",
+    "name": "Omkar and Time Travel",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3000,
+    "tags": [
+      "data structures",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1583,
+    "index": "G",
+    "solvedCount": 401
+  }
+}

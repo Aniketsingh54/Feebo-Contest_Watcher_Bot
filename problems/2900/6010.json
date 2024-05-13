@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 819,
+    "index": "D",
+    "name": "Mister B and Astronomers",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 819,
+    "index": "D",
+    "solvedCount": 216
+  }
+}

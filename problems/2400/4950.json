@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1059,
+    "index": "E",
+    "name": "Split the Tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1059,
+    "index": "E",
+    "solvedCount": 1354
+  }
+}

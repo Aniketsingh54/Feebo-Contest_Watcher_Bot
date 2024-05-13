@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1779,
+    "index": "H",
+    "name": "Olympic Team Building",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "brute force",
+      "meet-in-the-middle"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1779,
+    "index": "H",
+    "solvedCount": 131
+  }
+}

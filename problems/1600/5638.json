@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 910,
+    "index": "B",
+    "name": "Door Frames",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 910,
+    "index": "B",
+    "solvedCount": 1676
+  }
+}

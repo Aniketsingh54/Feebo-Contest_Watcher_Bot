@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1186,
+    "index": "C",
+    "name": "Vus the Cossack and Strings",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1186,
+    "index": "C",
+    "solvedCount": 5882
+  }
+}

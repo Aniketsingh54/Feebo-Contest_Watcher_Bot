@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 734,
+    "index": "C",
+    "name": "Anton and Making Potions",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 734,
+    "index": "C",
+    "solvedCount": 5288
+  }
+}

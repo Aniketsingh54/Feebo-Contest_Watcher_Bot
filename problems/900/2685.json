@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1505,
+    "index": "A",
+    "name": "Is it rated - 2",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "*special",
+      "implementation",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1505,
+    "index": "A",
+    "solvedCount": 14014
+  }
+}

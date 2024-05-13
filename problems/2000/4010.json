@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1244,
+    "index": "E",
+    "name": "Minimizing Difference",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "ternary search",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1244,
+    "index": "E",
+    "solvedCount": 4825
+  }
+}

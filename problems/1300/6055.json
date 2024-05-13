@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 810,
+    "index": "B",
+    "name": "Summer sell-off",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 810,
+    "index": "B",
+    "solvedCount": 10912
+  }
+}

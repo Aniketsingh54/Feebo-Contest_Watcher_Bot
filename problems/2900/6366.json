@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 741,
+    "index": "D",
+    "name": "Arpa’s letter-marked tree and Mehrdad’s Dokhtar-kosh paths",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 741,
+    "index": "D",
+    "solvedCount": 2452
+  }
+}

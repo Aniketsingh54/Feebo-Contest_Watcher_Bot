@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1030,
+    "index": "A",
+    "name": "In Search of an Easy Problem",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1030,
+    "index": "A",
+    "solvedCount": 120301
+  }
+}

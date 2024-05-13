@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 704,
+    "index": "D",
+    "name": "Captain America",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3100,
+    "tags": [
+      "flows",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 704,
+    "index": "D",
+    "solvedCount": 776
+  }
+}

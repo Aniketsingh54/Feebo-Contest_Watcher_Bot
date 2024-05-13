@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1453,
+    "index": "A",
+    "name": "Cancel the Trains",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1453,
+    "index": "A",
+    "solvedCount": 22265
+  }
+}

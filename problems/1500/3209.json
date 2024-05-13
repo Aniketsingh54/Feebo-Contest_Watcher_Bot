@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1399,
+    "index": "D",
+    "name": "Binary String To Subsequences",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1399,
+    "index": "D",
+    "solvedCount": 17688
+  }
+}

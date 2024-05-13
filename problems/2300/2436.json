@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1548,
+    "index": "D1",
+    "name": "Gregor and the Odd Cows (Easy)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "bitmasks",
+      "geometry",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1548,
+    "index": "D1",
+    "solvedCount": 1428
+  }
+}

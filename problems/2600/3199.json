@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1400,
+    "index": "G",
+    "name": "Mercenaries",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "dsu",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1400,
+    "index": "G",
+    "solvedCount": 902
+  }
+}

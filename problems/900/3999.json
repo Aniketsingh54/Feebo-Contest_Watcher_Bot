@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1248,
+    "index": "B",
+    "name": "Grow The Tree",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1248,
+    "index": "B",
+    "solvedCount": 16469
+  }
+}

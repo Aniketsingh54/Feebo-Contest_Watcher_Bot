@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1153,
+    "index": "B",
+    "name": "Serval and Toy Bricks",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1153,
+    "index": "B",
+    "solvedCount": 8956
+  }
+}

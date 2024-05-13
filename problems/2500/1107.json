@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1783,
+    "index": "F",
+    "name": "Double Sort II",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "dfs and similar",
+      "flows",
+      "graph matchings",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1783,
+    "index": "F",
+    "solvedCount": 966
+  }
+}

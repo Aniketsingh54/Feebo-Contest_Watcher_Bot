@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1743,
+    "index": "C",
+    "name": "Save the Magazines",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1743,
+    "index": "C",
+    "solvedCount": 18656
+  }
+}

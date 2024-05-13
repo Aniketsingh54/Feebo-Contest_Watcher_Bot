@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1575,
+    "index": "J",
+    "name": "Jeopardy of Dropped Balls",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "dsu",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1575,
+    "index": "J",
+    "solvedCount": 3649
+  }
+}

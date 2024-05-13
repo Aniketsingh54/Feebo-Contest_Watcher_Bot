@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1179,
+    "index": "A",
+    "name": "Valeriy and Deque",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1179,
+    "index": "A",
+    "solvedCount": 10129
+  }
+}

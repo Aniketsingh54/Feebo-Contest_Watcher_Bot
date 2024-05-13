@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1217,
+    "index": "B",
+    "name": "Zmei Gorynich",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1217,
+    "index": "B",
+    "solvedCount": 10904
+  }
+}

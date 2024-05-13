@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1017,
+    "index": "C",
+    "name": "The Phone Number",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1017,
+    "index": "C",
+    "solvedCount": 5906
+  }
+}

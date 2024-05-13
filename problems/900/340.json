@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1915,
+    "index": "D",
+    "name": "Unnatural Language Processing",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1915,
+    "index": "D",
+    "solvedCount": 27757
+  }
+}

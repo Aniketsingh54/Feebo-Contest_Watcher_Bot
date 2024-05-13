@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1115,
+    "index": "G1",
+    "name": "AND oracle",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "*special"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1115,
+    "index": "G1",
+    "solvedCount": 381
+  }
+}

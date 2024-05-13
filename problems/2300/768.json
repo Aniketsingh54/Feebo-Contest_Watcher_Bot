@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1842,
+    "index": "E",
+    "name": "Tenzing and Triangle",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dp",
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1842,
+    "index": "E",
+    "solvedCount": 1538
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 793,
+    "index": "C",
+    "name": "Mice problem",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 793,
+    "index": "C",
+    "solvedCount": 1230
+  }
+}

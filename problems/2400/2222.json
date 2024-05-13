@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1592,
+    "index": "E",
+    "name": "Bored Bakry",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1592,
+    "index": "E",
+    "solvedCount": 1544
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1493,
+    "index": "A",
+    "name": "Anti-knapsack",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1493,
+    "index": "A",
+    "solvedCount": 19109
+  }
+}

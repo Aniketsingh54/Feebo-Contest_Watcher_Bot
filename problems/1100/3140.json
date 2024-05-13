@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1415,
+    "index": "B",
+    "name": "Repainting Street",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1415,
+    "index": "B",
+    "solvedCount": 12001
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1260,
+    "index": "F",
+    "name": "Colored Tree",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1260,
+    "index": "F",
+    "solvedCount": 481
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 883,
+    "index": "C",
+    "name": "Downloading B++",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "binary search",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 883,
+    "index": "C",
+    "solvedCount": 614
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1771,
+    "index": "E",
+    "name": "Hossam and a Letter",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1771,
+    "index": "E",
+    "solvedCount": 662
+  }
+}

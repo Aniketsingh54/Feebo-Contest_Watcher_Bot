@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1296,
+    "index": "A",
+    "name": "Array with Odd Sum",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1296,
+    "index": "A",
+    "solvedCount": 39537
+  }
+}

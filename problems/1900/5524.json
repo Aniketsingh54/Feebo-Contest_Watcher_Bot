@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 928,
+    "index": "D",
+    "name": "Autocompletion",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 1900,
+    "tags": [
+      "*special",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 928,
+    "index": "D",
+    "solvedCount": 801
+  }
+}

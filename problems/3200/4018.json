@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1242,
+    "index": "E",
+    "name": "Planar Perimeter",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "constructive algorithms",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1242,
+    "index": "E",
+    "solvedCount": 128
+  }
+}

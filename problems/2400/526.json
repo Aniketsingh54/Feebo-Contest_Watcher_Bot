@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1882,
+    "index": "E1",
+    "name": "Two Permutations (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1882,
+    "index": "E1",
+    "solvedCount": 959
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1413,
+    "index": "E",
+    "name": "Solo mid Oracle",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "greedy",
+      "math",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1413,
+    "index": "E",
+    "solvedCount": 1912
+  }
+}

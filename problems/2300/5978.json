@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 830,
+    "index": "C",
+    "name": "Bamboo Partition",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2300,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 830,
+    "index": "C",
+    "solvedCount": 1185
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1454,
+    "index": "C",
+    "name": "Sequence Transformation",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1454,
+    "index": "C",
+    "solvedCount": 20998
+  }
+}

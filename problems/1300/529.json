@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1882,
+    "index": "B",
+    "name": "Sets and Union",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1882,
+    "index": "B",
+    "solvedCount": 14277
+  }
+}

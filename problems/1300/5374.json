@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 965,
+    "index": "B",
+    "name": "Battleship",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 965,
+    "index": "B",
+    "solvedCount": 4484
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1325,
+    "index": "F",
+    "name": "Ehab's Last Theorem",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1325,
+    "index": "F",
+    "solvedCount": 1734
+  }
+}

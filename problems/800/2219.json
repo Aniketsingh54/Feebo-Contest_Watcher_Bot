@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1593,
+    "index": "A",
+    "name": "Elections",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1593,
+    "index": "A",
+    "solvedCount": 35559
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1666,
+    "index": "C",
+    "name": "Connect the Points",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1666,
+    "index": "C",
+    "solvedCount": 3085
+  }
+}

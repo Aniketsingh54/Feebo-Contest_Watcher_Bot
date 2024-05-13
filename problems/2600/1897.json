@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1651,
+    "index": "E",
+    "name": "Sum of Matchings",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "graph matchings",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1651,
+    "index": "E",
+    "solvedCount": 494
+  }
+}

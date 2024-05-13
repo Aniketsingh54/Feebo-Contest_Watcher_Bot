@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 846,
+    "index": "F",
+    "name": "Random Query",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "math",
+      "probabilities",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 846,
+    "index": "F",
+    "solvedCount": 2205
+  }
+}

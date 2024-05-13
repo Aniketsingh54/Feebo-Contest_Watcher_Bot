@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1559,
+    "index": "C",
+    "name": "Mocha and Hiking",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1559,
+    "index": "C",
+    "solvedCount": 19729
+  }
+}

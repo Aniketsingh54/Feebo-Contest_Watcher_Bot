@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1926,
+    "index": "C",
+    "name": "Vlad and a Sum of Sum of Digits",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1926,
+    "index": "C",
+    "solvedCount": 23237
+  }
+}

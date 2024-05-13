@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1810,
+    "index": "F",
+    "name": "M-tree",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "data structures",
+      "math",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1810,
+    "index": "F",
+    "solvedCount": 541
+  }
+}

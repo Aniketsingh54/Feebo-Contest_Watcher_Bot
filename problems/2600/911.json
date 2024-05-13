@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1815,
+    "index": "D",
+    "name": "XOR Counting",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1815,
+    "index": "D",
+    "solvedCount": 1037
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1702,
+    "index": "E",
+    "name": "Split Into Two Sets",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1702,
+    "index": "E",
+    "solvedCount": 12363
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1155,
+    "index": "B",
+    "name": "Game with Telephone Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "games",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1155,
+    "index": "B",
+    "solvedCount": 11725
+  }
+}

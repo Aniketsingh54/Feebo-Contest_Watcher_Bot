@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1763,
+    "index": "C",
+    "name": "Another Array Problem",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1763,
+    "index": "C",
+    "solvedCount": 6288
+  }
+}

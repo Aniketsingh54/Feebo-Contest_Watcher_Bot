@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1696,
+    "index": "C",
+    "name": "Fishingprince Plays With Array",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1696,
+    "index": "C",
+    "solvedCount": 11312
+  }
+}

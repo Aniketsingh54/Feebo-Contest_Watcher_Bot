@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1721,
+    "index": "A",
+    "name": "Image",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1721,
+    "index": "A",
+    "solvedCount": 26612
+  }
+}

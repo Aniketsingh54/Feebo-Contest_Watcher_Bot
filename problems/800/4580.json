@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1136,
+    "index": "A",
+    "name": "Nastya Is Reading a Book",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1136,
+    "index": "A",
+    "solvedCount": 16126
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1519,
+    "index": "B",
+    "name": "The Cake Is a Lie",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1519,
+    "index": "B",
+    "solvedCount": 29787
+  }
+}

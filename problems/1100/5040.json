@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1038,
+    "index": "B",
+    "name": "Non-Coprime Partition",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1038,
+    "index": "B",
+    "solvedCount": 13111
+  }
+}

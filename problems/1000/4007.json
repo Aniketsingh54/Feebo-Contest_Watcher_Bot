@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1245,
+    "index": "A",
+    "name": "Good ol' Numbers Coloring",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1000,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1245,
+    "index": "A",
+    "solvedCount": 13891
+  }
+}

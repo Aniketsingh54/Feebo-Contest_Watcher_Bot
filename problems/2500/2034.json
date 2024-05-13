@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1623,
+    "index": "E",
+    "name": "Middle Duplication",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1623,
+    "index": "E",
+    "solvedCount": 1076
+  }
+}

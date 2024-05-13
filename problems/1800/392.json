@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1907,
+    "index": "F",
+    "name": "Shift and Reverse",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1907,
+    "index": "F",
+    "solvedCount": 4386
+  }
+}

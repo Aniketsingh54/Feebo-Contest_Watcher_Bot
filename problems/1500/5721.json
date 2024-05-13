@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 891,
+    "index": "A",
+    "name": "Pride",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 891,
+    "index": "A",
+    "solvedCount": 9616
+  }
+}

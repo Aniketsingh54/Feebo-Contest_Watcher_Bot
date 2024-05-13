@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 869,
+    "index": "D",
+    "name": "The Overdosing Ubiquity",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 869,
+    "index": "D",
+    "solvedCount": 235
+  }
+}

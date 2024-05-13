@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1621,
+    "index": "B",
+    "name": "Integers Shop",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1621,
+    "index": "B",
+    "solvedCount": 13106
+  }
+}

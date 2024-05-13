@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 796,
+    "index": "C",
+    "name": "Bank Hacking",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 796,
+    "index": "C",
+    "solvedCount": 2969
+  }
+}

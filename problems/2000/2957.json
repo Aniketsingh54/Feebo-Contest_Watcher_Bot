@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1451,
+    "index": "E1",
+    "name": "Bitwise Queries (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1451,
+    "index": "E1",
+    "solvedCount": 4197
+  }
+}

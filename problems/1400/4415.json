@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1167,
+    "index": "B",
+    "name": "Lost Numbers",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1167,
+    "index": "B",
+    "solvedCount": 10690
+  }
+}

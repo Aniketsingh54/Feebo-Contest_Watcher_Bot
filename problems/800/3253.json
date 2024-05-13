@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1391,
+    "index": "B",
+    "name": "Fix You",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1391,
+    "index": "B",
+    "solvedCount": 26069
+  }
+}

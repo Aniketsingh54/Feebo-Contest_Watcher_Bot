@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1852,
+    "index": "E",
+    "name": "Rivalries",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1852,
+    "index": "E",
+    "solvedCount": 157
+  }
+}

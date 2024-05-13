@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1551,
+    "index": "C",
+    "name": "Interesting Story",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1551,
+    "index": "C",
+    "solvedCount": 12895
+  }
+}

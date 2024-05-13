@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 925,
+    "index": "D",
+    "name": "Aztec Catacombs",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 925,
+    "index": "D",
+    "solvedCount": 479
+  }
+}

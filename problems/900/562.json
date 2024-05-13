@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1875,
+    "index": "A",
+    "name": "Jellyfish and Undertale",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1875,
+    "index": "A",
+    "solvedCount": 21830
+  }
+}

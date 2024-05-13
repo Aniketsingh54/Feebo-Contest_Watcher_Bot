@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1354,
+    "index": "B",
+    "name": "Ternary String",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1354,
+    "index": "B",
+    "solvedCount": 29166
+  }
+}

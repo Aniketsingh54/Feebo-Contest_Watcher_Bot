@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1917,
+    "index": "F",
+    "name": "Construct Tree",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1917,
+    "index": "F",
+    "solvedCount": 897
+  }
+}

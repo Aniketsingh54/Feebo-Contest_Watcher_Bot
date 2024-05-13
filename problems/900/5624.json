@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 913,
+    "index": "A",
+    "name": "Modular Exponentiation",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 913,
+    "index": "A",
+    "solvedCount": 20605
+  }
+}

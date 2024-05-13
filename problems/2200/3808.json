@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1283,
+    "index": "F",
+    "name": "DIY Garland",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1283,
+    "index": "F",
+    "solvedCount": 1647
+  }
+}

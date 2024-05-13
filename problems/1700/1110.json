@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1783,
+    "index": "C",
+    "name": "Yet Another Tournament",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1783,
+    "index": "C",
+    "solvedCount": 8829
+  }
+}

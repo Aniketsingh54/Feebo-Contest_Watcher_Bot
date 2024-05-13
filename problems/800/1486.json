@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1722,
+    "index": "A",
+    "name": "Spell Check",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1722,
+    "index": "A",
+    "solvedCount": 47043
+  }
+}

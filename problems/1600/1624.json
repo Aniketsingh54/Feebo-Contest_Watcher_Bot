@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1698,
+    "index": "D",
+    "name": "Fixed Point Guessing",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1698,
+    "index": "D",
+    "solvedCount": 8699
+  }
+}

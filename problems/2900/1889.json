@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1654,
+    "index": "G",
+    "name": "Snowy Mountain",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 2900,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1654,
+    "index": "G",
+    "solvedCount": 356
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1223,
+    "index": "E",
+    "name": "Paint the Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "sortings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1223,
+    "index": "E",
+    "solvedCount": 2522
+  }
+}

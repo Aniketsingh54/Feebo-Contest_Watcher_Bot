@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1946,
+    "index": "F",
+    "name": "Nobody is needed",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2500,
+    "tags": [
+      "2-sat",
+      "data structures",
+      "dfs and similar",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1946,
+    "index": "F",
+    "solvedCount": 775
+  }
+}

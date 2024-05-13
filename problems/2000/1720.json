@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1680,
+    "index": "E",
+    "name": "Moving Chips",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1680,
+    "index": "E",
+    "solvedCount": 3633
+  }
+}

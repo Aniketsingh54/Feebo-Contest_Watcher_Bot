@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 860,
+    "index": "E",
+    "name": "Arkady and a Nobody-men",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 860,
+    "index": "E",
+    "solvedCount": 421
+  }
+}

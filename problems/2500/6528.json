@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 706,
+    "index": "E",
+    "name": "Working routine",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 706,
+    "index": "E",
+    "solvedCount": 1117
+  }
+}

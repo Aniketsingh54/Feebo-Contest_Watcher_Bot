@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 763,
+    "index": "B",
+    "name": "Timofey and rectangles",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2100,
+    "tags": [
+      "constructive algorithms",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 763,
+    "index": "B",
+    "solvedCount": 2576
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1462,
+    "index": "C",
+    "name": "Unique Number",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1462,
+    "index": "C",
+    "solvedCount": 31281
+  }
+}

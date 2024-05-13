@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1375,
+    "index": "F",
+    "name": "Integer Game",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "interactive",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1375,
+    "index": "F",
+    "solvedCount": 1930
+  }
+}

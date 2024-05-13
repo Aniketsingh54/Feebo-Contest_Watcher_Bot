@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1494,
+    "index": "A",
+    "name": "ABC String",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1494,
+    "index": "A",
+    "solvedCount": 20417
+  }
+}

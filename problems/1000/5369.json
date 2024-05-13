@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 967,
+    "index": "B",
+    "name": "Watering System",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 967,
+    "index": "B",
+    "solvedCount": 6837
+  }
+}

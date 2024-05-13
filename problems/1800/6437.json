@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 725,
+    "index": "D",
+    "name": "Contest Balloons",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 725,
+    "index": "D",
+    "solvedCount": 2676
+  }
+}

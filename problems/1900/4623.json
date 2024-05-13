@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1119,
+    "index": "E",
+    "name": "Pavel and Triangles",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "dp",
+      "fft",
+      "greedy",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1119,
+    "index": "E",
+    "solvedCount": 4890
+  }
+}

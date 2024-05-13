@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 754,
+    "index": "C",
+    "name": "Vladik and chat",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 754,
+    "index": "C",
+    "solvedCount": 907
+  }
+}

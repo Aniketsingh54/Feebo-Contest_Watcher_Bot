@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1760,
+    "index": "D",
+    "name": "Challenging Valleys",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1760,
+    "index": "D",
+    "solvedCount": 22419
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1659,
+    "index": "E",
+    "name": "AND-MEX Walk",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1659,
+    "index": "E",
+    "solvedCount": 1467
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1294,
+    "index": "B",
+    "name": "Collecting Packages",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1294,
+    "index": "B",
+    "solvedCount": 21219
+  }
+}

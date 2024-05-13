@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 884,
+    "index": "C",
+    "name": "Bertown Subway",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 884,
+    "index": "C",
+    "solvedCount": 4616
+  }
+}

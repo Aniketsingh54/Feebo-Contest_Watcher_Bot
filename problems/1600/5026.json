@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1041,
+    "index": "C",
+    "name": "Coffee Break",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1041,
+    "index": "C",
+    "solvedCount": 9259
+  }
+}

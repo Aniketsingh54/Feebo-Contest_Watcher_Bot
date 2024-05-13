@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 981,
+    "index": "D",
+    "name": "Bookshelves",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1900,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 981,
+    "index": "D",
+    "solvedCount": 3172
+  }
+}

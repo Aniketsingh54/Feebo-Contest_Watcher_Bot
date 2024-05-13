@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1676,
+    "index": "G",
+    "name": "White-Black Balanced Subtrees",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1676,
+    "index": "G",
+    "solvedCount": 14235
+  }
+}

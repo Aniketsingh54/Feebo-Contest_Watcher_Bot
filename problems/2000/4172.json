@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1209,
+    "index": "G1",
+    "name": "Into Blocks (easy version)",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1209,
+    "index": "G1",
+    "solvedCount": 2869
+  }
+}

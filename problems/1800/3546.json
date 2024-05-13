@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1338,
+    "index": "B",
+    "name": "Edge Weight Assignment",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1338,
+    "index": "B",
+    "solvedCount": 8090
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1566,
+    "index": "C",
+    "name": "MAX-MEX Cut",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1566,
+    "index": "C",
+    "solvedCount": 17024
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 928,
+    "index": "A",
+    "name": "Login Verification",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1200,
+    "tags": [
+      "*special",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 928,
+    "index": "A",
+    "solvedCount": 3335
+  }
+}

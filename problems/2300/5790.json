@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 870,
+    "index": "E",
+    "name": "Points, Lines and Ready-made Titles",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2300,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 870,
+    "index": "E",
+    "solvedCount": 975
+  }
+}

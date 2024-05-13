@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "C2",
+    "name": "Game on Tree (Medium)",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "C2",
+    "solvedCount": 961
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1493,
+    "index": "B",
+    "name": "Planet Lapituletti",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1493,
+    "index": "B",
+    "solvedCount": 11626
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1838,
+    "index": "F",
+    "name": "Stuck Conveyor",
+    "type": "PROGRAMMING",
+    "points": 3000,
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1838,
+    "index": "F",
+    "solvedCount": 302
+  }
+}

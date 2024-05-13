@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 900,
+    "index": "A",
+    "name": "Find Extra One",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 900,
+    "index": "A",
+    "solvedCount": 13378
+  }
+}

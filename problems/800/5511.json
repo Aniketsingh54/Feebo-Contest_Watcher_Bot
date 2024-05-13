@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 932,
+    "index": "A",
+    "name": "Palindromic Supersequence",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 932,
+    "index": "A",
+    "solvedCount": 10136
+  }
+}

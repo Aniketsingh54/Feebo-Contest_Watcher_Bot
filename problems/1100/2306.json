@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1574,
+    "index": "B",
+    "name": "Combinatorics Homework",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1574,
+    "index": "B",
+    "solvedCount": 17032
+  }
+}

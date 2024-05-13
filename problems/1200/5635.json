@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 911,
+    "index": "B",
+    "name": "Two Cakes",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 911,
+    "index": "B",
+    "solvedCount": 10995
+  }
+}

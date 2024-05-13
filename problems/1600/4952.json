@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1059,
+    "index": "C",
+    "name": "Sequence Transformation",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1059,
+    "index": "C",
+    "solvedCount": 6977
+  }
+}

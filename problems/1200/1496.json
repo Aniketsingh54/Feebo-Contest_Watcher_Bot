@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1720,
+    "index": "C",
+    "name": "Corners",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1720,
+    "index": "C",
+    "solvedCount": 16332
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1436,
+    "index": "C",
+    "name": "Binary Search",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "combinatorics"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1436,
+    "index": "C",
+    "solvedCount": 10531
+  }
+}

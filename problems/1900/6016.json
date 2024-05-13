@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 818,
+    "index": "E",
+    "name": "Card Game Again",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 818,
+    "index": "E",
+    "solvedCount": 1875
+  }
+}

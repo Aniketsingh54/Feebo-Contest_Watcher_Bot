@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 859,
+    "index": "E",
+    "name": "Desk Disorder",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 859,
+    "index": "E",
+    "solvedCount": 1647
+  }
+}

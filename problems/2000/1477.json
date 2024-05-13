@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1725,
+    "index": "C",
+    "name": "Circular Mirror",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "geometry",
+      "math",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1725,
+    "index": "C",
+    "solvedCount": 1542
+  }
+}

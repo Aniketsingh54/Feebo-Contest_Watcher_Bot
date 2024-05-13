@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1631,
+    "index": "B",
+    "name": "Fun with Even Subarrays",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1631,
+    "index": "B",
+    "solvedCount": 19328
+  }
+}

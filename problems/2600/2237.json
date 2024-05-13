@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1584,
+    "index": "F",
+    "name": "Strange LCS",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2600,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "greedy",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1584,
+    "index": "F",
+    "solvedCount": 846
+  }
+}

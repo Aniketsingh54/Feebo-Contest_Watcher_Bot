@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1455,
+    "index": "F",
+    "name": "String and Operations",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1455,
+    "index": "F",
+    "solvedCount": 418
+  }
+}

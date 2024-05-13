@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1549,
+    "index": "A",
+    "name": "Gregor and Cryptography",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1549,
+    "index": "A",
+    "solvedCount": 31360
+  }
+}

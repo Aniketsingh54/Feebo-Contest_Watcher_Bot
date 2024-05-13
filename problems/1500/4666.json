@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1114,
+    "index": "B",
+    "name": "Yet Another Array Partitioning Task",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1114,
+    "index": "B",
+    "solvedCount": 8850
+  }
+}

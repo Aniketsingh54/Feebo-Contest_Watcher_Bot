@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1375,
+    "index": "H",
+    "name": "Set Merging",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3300,
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1375,
+    "index": "H",
+    "solvedCount": 395
+  }
+}

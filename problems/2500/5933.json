@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 840,
+    "index": "D",
+    "name": "Destiny",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 840,
+    "index": "D",
+    "solvedCount": 2788
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1333,
+    "index": "F",
+    "name": "Kate and imperfection",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1333,
+    "index": "F",
+    "solvedCount": 3975
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1068,
+    "index": "C",
+    "name": "Colored Rooks",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1068,
+    "index": "C",
+    "solvedCount": 3117
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1770,
+    "index": "F",
+    "name": "Koxia and Sequence",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1770,
+    "index": "F",
+    "solvedCount": 616
+  }
+}

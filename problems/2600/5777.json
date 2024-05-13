@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 875,
+    "index": "E",
+    "name": "Delivery Club",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 875,
+    "index": "E",
+    "solvedCount": 852
+  }
+}

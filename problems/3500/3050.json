@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1428,
+    "index": "H",
+    "name": "Rotary Laser Lock",
+    "type": "PROGRAMMING",
+    "points": 4000,
+    "rating": 3500,
+    "tags": [
+      "binary search",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1428,
+    "index": "H",
+    "solvedCount": 88
+  }
+}

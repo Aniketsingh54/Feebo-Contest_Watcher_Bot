@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1809,
+    "index": "C",
+    "name": "Sum on Subarrays",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1809,
+    "index": "C",
+    "solvedCount": 11934
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1336,
+    "index": "C",
+    "name": "Kaavi and Magic Spell",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1336,
+    "index": "C",
+    "solvedCount": 3334
+  }
+}

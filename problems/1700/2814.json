@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1479,
+    "index": "A",
+    "name": "Searching Local Minimum",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "interactive",
+      "ternary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1479,
+    "index": "A",
+    "solvedCount": 11115
+  }
+}

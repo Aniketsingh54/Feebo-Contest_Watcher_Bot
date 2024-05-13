@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1389,
+    "index": "B",
+    "name": "Array Walk",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1389,
+    "index": "B",
+    "solvedCount": 15822
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1422,
+    "index": "A",
+    "name": "Fence",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1422,
+    "index": "A",
+    "solvedCount": 20638
+  }
+}

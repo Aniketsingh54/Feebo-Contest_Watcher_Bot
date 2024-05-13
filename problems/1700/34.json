@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1969,
+    "index": "C",
+    "name": "Minimizing the Sum",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1969,
+    "index": "C",
+    "solvedCount": 5803
+  }
+}

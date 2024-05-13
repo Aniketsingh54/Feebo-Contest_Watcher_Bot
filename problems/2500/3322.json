@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1374,
+    "index": "E2",
+    "name": "Reading Books (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "ternary search",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1374,
+    "index": "E2",
+    "solvedCount": 901
+  }
+}

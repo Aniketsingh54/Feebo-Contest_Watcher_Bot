@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1371,
+    "index": "B",
+    "name": "Magical Calendar",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1371,
+    "index": "B",
+    "solvedCount": 19004
+  }
+}

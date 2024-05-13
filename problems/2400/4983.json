@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1051,
+    "index": "F",
+    "name": "The Shortest Statement",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1051,
+    "index": "F",
+    "solvedCount": 2676
+  }
+}

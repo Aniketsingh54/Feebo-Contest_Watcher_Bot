@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1936,
+    "index": "C",
+    "name": "Pokémon Arena",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1936,
+    "index": "C",
+    "solvedCount": 1091
+  }
+}

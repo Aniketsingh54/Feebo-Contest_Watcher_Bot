@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1092,
+    "index": "B",
+    "name": "Teams Forming",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1092,
+    "index": "B",
+    "solvedCount": 25658
+  }
+}

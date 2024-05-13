@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1077,
+    "index": "D",
+    "name": "Cutting Out",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1077,
+    "index": "D",
+    "solvedCount": 8324
+  }
+}

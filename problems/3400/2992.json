@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1442,
+    "index": "F",
+    "name": "Differentiating Games",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3400,
+    "tags": [
+      "games",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1442,
+    "index": "F",
+    "solvedCount": 129
+  }
+}

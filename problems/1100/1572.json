@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1706,
+    "index": "B",
+    "name": "Making Towers",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1706,
+    "index": "B",
+    "solvedCount": 16222
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1067,
+    "index": "E",
+    "name": "Random Forest Rank",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "dp",
+      "graph matchings",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1067,
+    "index": "E",
+    "solvedCount": 421
+  }
+}

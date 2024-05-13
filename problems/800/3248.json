@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1392,
+    "index": "B",
+    "name": "Omkar and Infinity Clock",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1392,
+    "index": "B",
+    "solvedCount": 18378
+  }
+}

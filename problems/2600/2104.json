@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1613,
+    "index": "F",
+    "name": "Tree Coloring",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "fft"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1613,
+    "index": "F",
+    "solvedCount": 667
+  }
+}

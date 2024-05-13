@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1028,
+    "index": "G",
+    "name": "Guess the number",
+    "type": "PROGRAMMING",
+    "points": 3250,
+    "rating": 3000,
+    "tags": [
+      "dp",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1028,
+    "index": "G",
+    "solvedCount": 529
+  }
+}

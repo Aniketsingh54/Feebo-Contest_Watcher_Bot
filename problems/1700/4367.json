@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1176,
+    "index": "E",
+    "name": "Cover it!",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1176,
+    "index": "E",
+    "solvedCount": 10446
+  }
+}

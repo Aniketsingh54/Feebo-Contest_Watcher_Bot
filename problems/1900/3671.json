@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1311,
+    "index": "F",
+    "name": "Moving Points",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1311,
+    "index": "F",
+    "solvedCount": 3949
+  }
+}

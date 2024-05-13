@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1628,
+    "index": "E",
+    "name": "Groceries in Meteor Town",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 3100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dsu",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1628,
+    "index": "E",
+    "solvedCount": 830
+  }
+}

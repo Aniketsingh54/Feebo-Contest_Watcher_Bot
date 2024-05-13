@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1830,
+    "index": "B",
+    "name": "The BOSS Can Count Pairs",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1830,
+    "index": "B",
+    "solvedCount": 4601
+  }
+}

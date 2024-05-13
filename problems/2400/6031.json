@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 815,
+    "index": "C",
+    "name": "Karen and Supermarket",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 815,
+    "index": "C",
+    "solvedCount": 2466
+  }
+}

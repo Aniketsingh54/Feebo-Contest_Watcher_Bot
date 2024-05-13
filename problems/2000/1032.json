@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1796,
+    "index": "D",
+    "name": "Maximum Subarray",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1796,
+    "index": "D",
+    "solvedCount": 3895
+  }
+}

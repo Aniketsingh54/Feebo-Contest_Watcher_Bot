@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1731,
+    "index": "C",
+    "name": "Even Subarrays",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "hashing",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1731,
+    "index": "C",
+    "solvedCount": 8955
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1903,
+    "index": "B",
+    "name": "StORage room",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1903,
+    "index": "B",
+    "solvedCount": 11361
+  }
+}

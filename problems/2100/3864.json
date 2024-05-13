@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1271,
+    "index": "E",
+    "name": "Common Number",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1271,
+    "index": "E",
+    "solvedCount": 3117
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1141,
+    "index": "D",
+    "name": "Colored Boots",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1141,
+    "index": "D",
+    "solvedCount": 8379
+  }
+}

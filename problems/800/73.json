@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1956,
+    "index": "B",
+    "name": "Nene and the Card Game",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "games",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1956,
+    "index": "B",
+    "solvedCount": 18748
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1857,
+    "index": "A",
+    "name": "Array Coloring",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1857,
+    "index": "A",
+    "solvedCount": 43641
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1327,
+    "index": "C",
+    "name": "Game with Chips",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1327,
+    "index": "C",
+    "solvedCount": 13087
+  }
+}

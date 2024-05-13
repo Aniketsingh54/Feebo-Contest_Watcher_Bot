@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 729,
+    "index": "F",
+    "name": "Financiers Game",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 729,
+    "index": "F",
+    "solvedCount": 934
+  }
+}

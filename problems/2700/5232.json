@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1000,
+    "index": "G",
+    "name": "Two-Paths",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1000,
+    "index": "G",
+    "solvedCount": 556
+  }
+}

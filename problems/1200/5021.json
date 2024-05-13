@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1042,
+    "index": "B",
+    "name": "Vitamins",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1042,
+    "index": "B",
+    "solvedCount": 15210
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1492,
+    "index": "C",
+    "name": "Maximum width",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1492,
+    "index": "C",
+    "solvedCount": 15584
+  }
+}

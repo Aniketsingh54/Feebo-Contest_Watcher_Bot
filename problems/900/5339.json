@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 980,
+    "index": "A",
+    "name": "Links and Pearls",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 980,
+    "index": "A",
+    "solvedCount": 10260
+  }
+}

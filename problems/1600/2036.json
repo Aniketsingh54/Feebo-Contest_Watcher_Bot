@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1623,
+    "index": "C",
+    "name": "Balanced Stone Heaps",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1623,
+    "index": "C",
+    "solvedCount": 11340
+  }
+}

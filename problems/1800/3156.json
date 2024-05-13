@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1409,
+    "index": "E",
+    "name": "Two Platforms",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "binary search",
+      "dp",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1409,
+    "index": "E",
+    "solvedCount": 7566
+  }
+}

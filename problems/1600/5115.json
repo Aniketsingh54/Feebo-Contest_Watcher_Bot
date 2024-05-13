@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1025,
+    "index": "B",
+    "name": "Weakened Common Divisor",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1025,
+    "index": "B",
+    "solvedCount": 7758
+  }
+}

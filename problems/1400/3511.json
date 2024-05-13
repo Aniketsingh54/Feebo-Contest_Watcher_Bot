@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1346,
+    "index": "B",
+    "name": "Boot Camp",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+      "*special",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1346,
+    "index": "B",
+    "solvedCount": 1181
+  }
+}

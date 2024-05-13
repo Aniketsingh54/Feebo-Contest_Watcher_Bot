@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1172,
+    "index": "C2",
+    "name": "Nauuo and Pictures (hard version)",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 2600,
+    "tags": [
+      "dp",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1172,
+    "index": "C2",
+    "solvedCount": 812
+  }
+}

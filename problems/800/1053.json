@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1793,
+    "index": "A",
+    "name": "Yet Another Promotion",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1793,
+    "index": "A",
+    "solvedCount": 17717
+  }
+}

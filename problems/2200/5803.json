@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 868,
+    "index": "D",
+    "name": "Huge Strings",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 868,
+    "index": "D",
+    "solvedCount": 890
+  }
+}

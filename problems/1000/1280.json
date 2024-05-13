@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1761,
+    "index": "B",
+    "name": "Elimination of a Ring",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1761,
+    "index": "B",
+    "solvedCount": 13011
+  }
+}

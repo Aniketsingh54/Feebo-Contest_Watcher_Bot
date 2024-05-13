@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 864,
+    "index": "A",
+    "name": "Fair Game",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 864,
+    "index": "A",
+    "solvedCount": 11535
+  }
+}

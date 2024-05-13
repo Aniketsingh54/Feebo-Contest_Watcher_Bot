@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1902,
+    "index": "E",
+    "name": "Collapsing Strings",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "data structures",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1902,
+    "index": "E",
+    "solvedCount": 3761
+  }
+}

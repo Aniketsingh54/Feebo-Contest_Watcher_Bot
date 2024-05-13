@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "C",
+    "name": "Divisor Chain",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "C",
+    "solvedCount": 12603
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1665,
+    "index": "B",
+    "name": "Array Cloning Technique",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1665,
+    "index": "B",
+    "solvedCount": 18756
+  }
+}

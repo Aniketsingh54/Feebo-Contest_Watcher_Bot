@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 842,
+    "index": "C",
+    "name": "Ilya And The Tree",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 842,
+    "index": "C",
+    "solvedCount": 3412
+  }
+}

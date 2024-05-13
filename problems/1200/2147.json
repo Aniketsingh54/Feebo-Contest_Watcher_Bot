@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1608,
+    "index": "B",
+    "name": "Build the Permutation",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1608,
+    "index": "B",
+    "solvedCount": 11444
+  }
+}

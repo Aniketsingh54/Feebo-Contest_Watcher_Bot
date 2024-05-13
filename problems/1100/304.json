@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1920,
+    "index": "B",
+    "name": "Summation Game",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1920,
+    "index": "B",
+    "solvedCount": 19283
+  }
+}

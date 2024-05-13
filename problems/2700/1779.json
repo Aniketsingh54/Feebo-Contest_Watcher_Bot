@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1671,
+    "index": "F",
+    "name": "Permutation Counting",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1671,
+    "index": "F",
+    "solvedCount": 316
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1205,
+    "index": "D",
+    "name": "Almost All",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1205,
+    "index": "D",
+    "solvedCount": 618
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 982,
+    "index": "B",
+    "name": "Bus of Characters",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 982,
+    "index": "B",
+    "solvedCount": 8177
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1619,
+    "index": "H",
+    "name": "Permutation and Queries",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1619,
+    "index": "H",
+    "solvedCount": 1074
+  }
+}

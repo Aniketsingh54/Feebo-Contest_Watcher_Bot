@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1830,
+    "index": "D",
+    "name": "Mex Tree",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2800,
+    "tags": [
+      "brute force",
+      "dp",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1830,
+    "index": "D",
+    "solvedCount": 604
+  }
+}

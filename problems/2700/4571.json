@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1137,
+    "index": "E",
+    "name": "Train Car Selection",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2700,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1137,
+    "index": "E",
+    "solvedCount": 491
+  }
+}

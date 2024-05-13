@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 768,
+    "index": "G",
+    "name": "The Winds of Winter",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 3300,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 768,
+    "index": "G",
+    "solvedCount": 353
+  }
+}

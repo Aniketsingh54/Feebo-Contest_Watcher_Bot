@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 717,
+    "index": "B",
+    "name": "R3D3’s Summer Adventure",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 717,
+    "index": "B",
+    "solvedCount": 137
+  }
+}

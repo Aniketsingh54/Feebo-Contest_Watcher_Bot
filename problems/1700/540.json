@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1879,
+    "index": "D",
+    "name": "Sum of XOR Functions",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1879,
+    "index": "D",
+    "solvedCount": 6596
+  }
+}

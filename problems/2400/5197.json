@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1004,
+    "index": "E",
+    "name": "Sonya and Ice Cream",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1004,
+    "index": "E",
+    "solvedCount": 1010
+  }
+}

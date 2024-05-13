@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1227,
+    "index": "B",
+    "name": "Box",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1227,
+    "index": "B",
+    "solvedCount": 9234
+  }
+}

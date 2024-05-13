@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 982,
+    "index": "C",
+    "name": "Cut 'em all!",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1500,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 982,
+    "index": "C",
+    "solvedCount": 10840
+  }
+}

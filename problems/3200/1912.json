@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1648,
+    "index": "E",
+    "name": "Air Reform",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3200,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "graphs",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1648,
+    "index": "E",
+    "solvedCount": 384
+  }
+}

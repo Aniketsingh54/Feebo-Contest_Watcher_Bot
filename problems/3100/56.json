@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1965,
+    "index": "E",
+    "name": "Connected Cubes",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1965,
+    "index": "E",
+    "solvedCount": 169
+  }
+}

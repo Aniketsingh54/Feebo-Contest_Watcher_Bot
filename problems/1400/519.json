@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1883,
+    "index": "F",
+    "name": "You Are So Beautiful",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 1400,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1883,
+    "index": "F",
+    "solvedCount": 8234
+  }
+}

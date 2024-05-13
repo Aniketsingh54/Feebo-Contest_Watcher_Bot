@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 825,
+    "index": "A",
+    "name": "Binary Protocol",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 825,
+    "index": "A",
+    "solvedCount": 7537
+  }
+}

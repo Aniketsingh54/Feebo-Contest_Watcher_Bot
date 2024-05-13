@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1547,
+    "index": "C",
+    "name": "Pair Programming",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1547,
+    "index": "C",
+    "solvedCount": 22034
+  }
+}

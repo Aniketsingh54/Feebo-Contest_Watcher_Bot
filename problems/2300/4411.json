@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1167,
+    "index": "F",
+    "name": "Scalar Queries",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1167,
+    "index": "F",
+    "solvedCount": 1573
+  }
+}

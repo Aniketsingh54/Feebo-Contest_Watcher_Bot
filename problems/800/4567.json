@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1139,
+    "index": "A",
+    "name": "Even Substrings",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1139,
+    "index": "A",
+    "solvedCount": 16459
+  }
+}

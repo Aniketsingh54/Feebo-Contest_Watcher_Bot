@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 894,
+    "index": "E",
+    "name": "Ralph and Mushrooms",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2100,
+    "tags": [
+      "dp",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 894,
+    "index": "E",
+    "solvedCount": 2144
+  }
+}

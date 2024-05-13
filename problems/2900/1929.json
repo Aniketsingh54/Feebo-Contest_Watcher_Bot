@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1644,
+    "index": "F",
+    "name": "Basis",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1644,
+    "index": "F",
+    "solvedCount": 313
+  }
+}

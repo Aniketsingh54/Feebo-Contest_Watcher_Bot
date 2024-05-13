@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 869,
+    "index": "A",
+    "name": "The Artful Expedient",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 869,
+    "index": "A",
+    "solvedCount": 9362
+  }
+}

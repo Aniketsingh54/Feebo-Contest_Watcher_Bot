@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1480,
+    "index": "B",
+    "name": "The Great Hero",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1480,
+    "index": "B",
+    "solvedCount": 16929
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1090,
+    "index": "H",
+    "name": "Linearization",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1090,
+    "index": "H",
+    "solvedCount": 88
+  }
+}

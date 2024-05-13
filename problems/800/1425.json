@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1733,
+    "index": "A",
+    "name": "Consecutive Sum",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1733,
+    "index": "A",
+    "solvedCount": 20665
+  }
+}

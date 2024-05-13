@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 865,
+    "index": "C",
+    "name": "Gotta Go Fast",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 865,
+    "index": "C",
+    "solvedCount": 813
+  }
+}

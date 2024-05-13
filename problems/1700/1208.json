@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1770,
+    "index": "C",
+    "name": "Koxia and Number Theory",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1700,
+    "tags": [
+      "brute force",
+      "chinese remainder theorem",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1770,
+    "index": "C",
+    "solvedCount": 8276
+  }
+}

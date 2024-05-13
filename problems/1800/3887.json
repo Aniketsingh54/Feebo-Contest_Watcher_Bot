@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1267,
+    "index": "J",
+    "name": "Just Arrange the Icons",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1267,
+    "index": "J",
+    "solvedCount": 2622
+  }
+}

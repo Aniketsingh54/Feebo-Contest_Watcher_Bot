@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1515,
+    "index": "A",
+    "name": "Phoenix and Gold",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1515,
+    "index": "A",
+    "solvedCount": 20012
+  }
+}

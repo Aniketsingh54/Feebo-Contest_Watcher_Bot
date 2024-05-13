@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1203,
+    "index": "A",
+    "name": "Circle of Students",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1203,
+    "index": "A",
+    "solvedCount": 16454
+  }
+}

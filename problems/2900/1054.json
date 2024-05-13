@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1792,
+    "index": "F2",
+    "name": "Graph Coloring (hard version)",
+    "type": "PROGRAMMING",
+    "rating": 2900,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1792,
+    "index": "F2",
+    "solvedCount": 373
+  }
+}

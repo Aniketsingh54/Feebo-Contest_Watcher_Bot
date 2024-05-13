@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1895,
+    "index": "F",
+    "name": "Fancy Arrays",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1895,
+    "index": "F",
+    "solvedCount": 627
+  }
+}

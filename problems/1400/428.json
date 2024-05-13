@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1903,
+    "index": "C",
+    "name": "Theofanis' Nightmare",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1903,
+    "index": "C",
+    "solvedCount": 10396
+  }
+}

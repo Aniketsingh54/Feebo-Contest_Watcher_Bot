@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1530,
+    "index": "B",
+    "name": "Putting Plates",
+    "type": "PROGRAMMING",
+    "points": 750,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1530,
+    "index": "B",
+    "solvedCount": 15603
+  }
+}

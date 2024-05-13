@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1943,
+    "index": "E1",
+    "name": "MEX Game 2 (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2900,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1943,
+    "index": "E1",
+    "solvedCount": 362
+  }
+}

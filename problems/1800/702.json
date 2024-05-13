@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1851,
+    "index": "F",
+    "name": "Lisa and the Martians",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "strings",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1851,
+    "index": "F",
+    "solvedCount": 5312
+  }
+}

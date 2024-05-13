@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1334,
+    "index": "A",
+    "name": "Level Statistics",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1334,
+    "index": "A",
+    "solvedCount": 22669
+  }
+}

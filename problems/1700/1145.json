@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1777,
+    "index": "C",
+    "name": "Quiz Master",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1777,
+    "index": "C",
+    "solvedCount": 7831
+  }
+}

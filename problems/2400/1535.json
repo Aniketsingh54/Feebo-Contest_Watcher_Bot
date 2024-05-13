@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1713,
+    "index": "E",
+    "name": "Cross Swapping",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2400,
+    "tags": [
+      "2-sat",
+      "data structures",
+      "dsu",
+      "greedy",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1713,
+    "index": "E",
+    "solvedCount": 1517
+  }
+}

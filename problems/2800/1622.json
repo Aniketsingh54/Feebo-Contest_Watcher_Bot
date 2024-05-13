@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1698,
+    "index": "F",
+    "name": "Equal Reversal",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1698,
+    "index": "F",
+    "solvedCount": 583
+  }
+}

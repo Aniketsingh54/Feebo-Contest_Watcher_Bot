@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1592,
+    "index": "F1",
+    "name": "Alice and Recoloring 1",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2600,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1592,
+    "index": "F1",
+    "solvedCount": 760
+  }
+}

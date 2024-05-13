@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1205,
+    "index": "C",
+    "name": "Palindromic Paths",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "implementation",
+      "interactive"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1205,
+    "index": "C",
+    "solvedCount": 1125
+  }
+}

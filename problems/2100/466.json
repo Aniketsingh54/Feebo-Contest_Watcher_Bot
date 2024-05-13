@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1896,
+    "index": "E",
+    "name": "Permutation Sorting",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2100,
+    "tags": [
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1896,
+    "index": "E",
+    "solvedCount": 2019
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1137,
+    "index": "C",
+    "name": "Museums Tour",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1137,
+    "index": "C",
+    "solvedCount": 1157
+  }
+}

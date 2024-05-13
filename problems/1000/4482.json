@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1153,
+    "index": "A",
+    "name": "Serval and Bus",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1153,
+    "index": "A",
+    "solvedCount": 11328
+  }
+}

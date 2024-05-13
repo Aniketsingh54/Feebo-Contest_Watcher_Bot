@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1720,
+    "index": "B",
+    "name": "Interesting Sum",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1720,
+    "index": "B",
+    "solvedCount": 20765
+  }
+}

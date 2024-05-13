@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 955,
+    "index": "C",
+    "name": "Sad powers",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 955,
+    "index": "C",
+    "solvedCount": 2462
+  }
+}

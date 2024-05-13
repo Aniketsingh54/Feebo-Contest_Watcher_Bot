@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1510,
+    "index": "H",
+    "name": "Hard Optimization",
+    "type": "PROGRAMMING",
+    "rating": 3200,
+    "tags": [
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1510,
+    "index": "H",
+    "solvedCount": 97
+  }
+}

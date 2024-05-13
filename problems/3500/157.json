@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1942,
+    "index": "H",
+    "name": "Farmer John's Favorite Intern",
+    "type": "PROGRAMMING",
+    "points": 4500,
+    "rating": 3500,
+    "tags": [
+      "data structures",
+      "dp",
+      "flows",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1942,
+    "index": "H",
+    "solvedCount": 59
+  }
+}

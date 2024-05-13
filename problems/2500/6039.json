@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 813,
+    "index": "F",
+    "name": "Bipartite Checking",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 813,
+    "index": "F",
+    "solvedCount": 1219
+  }
+}

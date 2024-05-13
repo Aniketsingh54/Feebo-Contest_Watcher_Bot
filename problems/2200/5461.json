@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 946,
+    "index": "E",
+    "name": "Largest Beautiful Number",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 946,
+    "index": "E",
+    "solvedCount": 1074
+  }
+}

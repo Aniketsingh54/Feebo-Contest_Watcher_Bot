@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1202,
+    "index": "F",
+    "name": "You Are Given Some Letters...",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1202,
+    "index": "F",
+    "solvedCount": 371
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1253,
+    "index": "B",
+    "name": "Silly Mistake",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1253,
+    "index": "B",
+    "solvedCount": 10907
+  }
+}

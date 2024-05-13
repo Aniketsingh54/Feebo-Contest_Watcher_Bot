@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 992,
+    "index": "E",
+    "name": "Nastya and King-Shamans",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 992,
+    "index": "E",
+    "solvedCount": 1267
+  }
+}

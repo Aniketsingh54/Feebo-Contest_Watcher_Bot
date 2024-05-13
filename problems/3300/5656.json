@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 906,
+    "index": "E",
+    "name": "Reverses",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 3300,
+    "tags": [
+      "dp",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 906,
+    "index": "E",
+    "solvedCount": 429
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1711,
+    "index": "B",
+    "name": "Party",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1711,
+    "index": "B",
+    "solvedCount": 13112
+  }
+}

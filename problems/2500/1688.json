@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1687,
+    "index": "C",
+    "name": "Sanae and Giant Robot",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dsu",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1687,
+    "index": "C",
+    "solvedCount": 1338
+  }
+}

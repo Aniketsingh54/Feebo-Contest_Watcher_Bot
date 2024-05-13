@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 845,
+    "index": "A",
+    "name": "Chess Tourney",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 845,
+    "index": "A",
+    "solvedCount": 7633
+  }
+}

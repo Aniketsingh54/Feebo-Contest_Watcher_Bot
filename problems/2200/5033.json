@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1039,
+    "index": "C",
+    "name": "Network Safety",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1039,
+    "index": "C",
+    "solvedCount": 1312
+  }
+}

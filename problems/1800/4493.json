@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1151,
+    "index": "C",
+    "name": "Problem for Nazar",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1151,
+    "index": "C",
+    "solvedCount": 5257
+  }
+}

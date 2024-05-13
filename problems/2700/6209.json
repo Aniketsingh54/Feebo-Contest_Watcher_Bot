@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 774,
+    "index": "F",
+    "name": "Pens And Days Of Week",
+    "type": "PROGRAMMING",
+    "rating": 2700,
+    "tags": [
+      "*special",
+      "binary search",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 774,
+    "index": "F",
+    "solvedCount": 104
+  }
+}

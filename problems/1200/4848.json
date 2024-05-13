@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1082,
+    "index": "A",
+    "name": "Vasya and Book",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1082,
+    "index": "A",
+    "solvedCount": 8424
+  }
+}

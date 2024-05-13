@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1915,
+    "index": "B",
+    "name": "Not Quite Latin Square",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1915,
+    "index": "B",
+    "solvedCount": 38628
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 845,
+    "index": "E",
+    "name": "Fire in the City",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 845,
+    "index": "E",
+    "solvedCount": 579
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1872,
+    "index": "C",
+    "name": "Non-coprime Split",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1872,
+    "index": "C",
+    "solvedCount": 22011
+  }
+}

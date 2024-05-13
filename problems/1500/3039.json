@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1431,
+    "index": "D",
+    "name": "Used Markers",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "*special",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1431,
+    "index": "D",
+    "solvedCount": 447
+  }
+}

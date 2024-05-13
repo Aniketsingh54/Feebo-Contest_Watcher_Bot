@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 939,
+    "index": "F",
+    "name": "Cutlet",
+    "type": "PROGRAMMING",
+    "points": 2750,
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 939,
+    "index": "F",
+    "solvedCount": 884
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1610,
+    "index": "D",
+    "name": "Not Quite Lee",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2000,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1610,
+    "index": "D",
+    "solvedCount": 2579
+  }
+}

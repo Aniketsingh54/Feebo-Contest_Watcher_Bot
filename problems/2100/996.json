@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1801,
+    "index": "D",
+    "name": "The way home",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 2100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1801,
+    "index": "D",
+    "solvedCount": 2046
+  }
+}

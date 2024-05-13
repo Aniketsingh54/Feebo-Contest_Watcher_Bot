@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 903,
+    "index": "E",
+    "name": "Swapping Characters",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "hashing",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 903,
+    "index": "E",
+    "solvedCount": 1256
+  }
+}

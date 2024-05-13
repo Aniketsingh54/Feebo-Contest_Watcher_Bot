@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1506,
+    "index": "F",
+    "name": "Triangular Paths",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "shortest paths",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1506,
+    "index": "F",
+    "solvedCount": 3103
+  }
+}

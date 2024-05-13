@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1236,
+    "index": "B",
+    "name": "Alice and the List of Presents",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1236,
+    "index": "B",
+    "solvedCount": 10670
+  }
+}

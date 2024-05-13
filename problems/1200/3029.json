@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1433,
+    "index": "D",
+    "name": "Districts Connection",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1433,
+    "index": "D",
+    "solvedCount": 21774
+  }
+}

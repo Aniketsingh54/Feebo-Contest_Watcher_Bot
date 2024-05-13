@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1553,
+    "index": "I",
+    "name": "Stairs",
+    "type": "PROGRAMMING",
+    "points": 5250,
+    "rating": 3400,
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1553,
+    "index": "I",
+    "solvedCount": 195
+  }
+}

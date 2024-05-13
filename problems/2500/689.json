@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1854,
+    "index": "C",
+    "name": "Expected Destruction",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2500,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1854,
+    "index": "C",
+    "solvedCount": 1402
+  }
+}

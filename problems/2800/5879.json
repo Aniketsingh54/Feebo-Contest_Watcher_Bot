@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 850,
+    "index": "F",
+    "name": "Rainbow Balls",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2800,
+    "tags": [
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 850,
+    "index": "F",
+    "solvedCount": 598
+  }
+}

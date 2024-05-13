@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1514,
+    "index": "A",
+    "name": "Perfectly Imperfect Array",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1514,
+    "index": "A",
+    "solvedCount": 23802
+  }
+}

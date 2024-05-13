@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1558,
+    "index": "C",
+    "name": "Bottom-Tier Reversals",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1558,
+    "index": "C",
+    "solvedCount": 3152
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1515,
+    "index": "H",
+    "name": "Phoenix and Bits",
+    "type": "PROGRAMMING",
+    "points": 4250,
+    "rating": 3500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1515,
+    "index": "H",
+    "solvedCount": 212
+  }
+}

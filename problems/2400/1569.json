@@ -1,0 +1,25 @@
+{
+  "problem": {
+    "contestId": 1706,
+    "index": "D2",
+    "name": "Chopping Carrots (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1706,
+    "index": "D2",
+    "solvedCount": 1653
+  }
+}

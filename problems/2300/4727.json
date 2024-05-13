@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1101,
+    "index": "G",
+    "name": "(Zero XOR Subset)-less",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "math",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1101,
+    "index": "G",
+    "solvedCount": 1607
+  }
+}

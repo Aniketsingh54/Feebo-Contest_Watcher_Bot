@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1250,
+    "index": "L",
+    "name": "Divide The Students",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1250,
+    "index": "L",
+    "solvedCount": 4022
+  }
+}

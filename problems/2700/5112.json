@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1025,
+    "index": "E",
+    "name": "Colored Cubes",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2700,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "matrices"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1025,
+    "index": "E",
+    "solvedCount": 548
+  }
+}

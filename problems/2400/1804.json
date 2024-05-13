@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1667,
+    "index": "C",
+    "name": "Half Queen Cover",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2400,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1667,
+    "index": "C",
+    "solvedCount": 1518
+  }
+}

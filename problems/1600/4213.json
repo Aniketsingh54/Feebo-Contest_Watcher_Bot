@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1203,
+    "index": "D1",
+    "name": "Remove the Substring (easy version)",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1203,
+    "index": "D1",
+    "solvedCount": 8504
+  }
+}

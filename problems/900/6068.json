@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 808,
+    "index": "A",
+    "name": "Lucky Year",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 808,
+    "index": "A",
+    "solvedCount": 9081
+  }
+}

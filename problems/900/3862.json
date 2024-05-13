@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1272,
+    "index": "A",
+    "name": "Three Friends",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1272,
+    "index": "A",
+    "solvedCount": 20046
+  }
+}

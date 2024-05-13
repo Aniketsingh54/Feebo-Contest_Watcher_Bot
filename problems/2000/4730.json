@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1101,
+    "index": "D",
+    "name": "GCD Counting",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "number theory",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1101,
+    "index": "D",
+    "solvedCount": 4416
+  }
+}

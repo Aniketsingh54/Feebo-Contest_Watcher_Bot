@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 780,
+    "index": "B",
+    "name": "The Meeting Place Cannot Be Changed",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1600,
+    "tags": [
+      "binary search"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 780,
+    "index": "B",
+    "solvedCount": 8966
+  }
+}

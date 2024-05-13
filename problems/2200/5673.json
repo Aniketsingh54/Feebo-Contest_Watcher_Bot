@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 901,
+    "index": "B",
+    "name": "GCD of Polynomials",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 2200,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 901,
+    "index": "B",
+    "solvedCount": 1373
+  }
+}

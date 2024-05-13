@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1887,
+    "index": "D",
+    "name": "Split",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "math",
+      "trees",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1887,
+    "index": "D",
+    "solvedCount": 817
+  }
+}

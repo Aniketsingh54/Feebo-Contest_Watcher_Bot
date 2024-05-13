@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1970,
+    "index": "F1",
+    "name": "Playing Quidditch (Easy)",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1970,
+    "index": "F1",
+    "solvedCount": 288
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1933,
+    "index": "B",
+    "name": "Turtle Math: Fast Three Task",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1933,
+    "index": "B",
+    "solvedCount": 29955
+  }
+}

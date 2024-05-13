@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1469,
+    "index": "F",
+    "name": "Power Sockets",
+    "type": "PROGRAMMING",
+    "rating": 2600,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1469,
+    "index": "F",
+    "solvedCount": 824
+  }
+}

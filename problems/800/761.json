@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1843,
+    "index": "C",
+    "name": "Sum in Binary Tree",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1843,
+    "index": "C",
+    "solvedCount": 31120
+  }
+}

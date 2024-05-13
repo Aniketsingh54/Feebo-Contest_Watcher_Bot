@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1581,
+    "index": "B",
+    "name": "Diameter of Graph",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1581,
+    "index": "B",
+    "solvedCount": 11030
+  }
+}

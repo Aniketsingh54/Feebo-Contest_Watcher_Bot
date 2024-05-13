@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1387,
+    "index": "B2",
+    "name": "Village (Maximum)",
+    "type": "PROGRAMMING",
+    "rating": 2500,
+    "tags": [
+      "*special",
+      "dfs and similar",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1387,
+    "index": "B2",
+    "solvedCount": 801
+  }
+}

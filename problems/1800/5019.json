@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1042,
+    "index": "D",
+    "name": "Petya and Array",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1042,
+    "index": "D",
+    "solvedCount": 5727
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1670,
+    "index": "D",
+    "name": "Very Suspicious",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1670,
+    "index": "D",
+    "solvedCount": 4956
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1582,
+    "index": "C",
+    "name": "Grandma Capa Knits a Scarf",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1582,
+    "index": "C",
+    "solvedCount": 14429
+  }
+}

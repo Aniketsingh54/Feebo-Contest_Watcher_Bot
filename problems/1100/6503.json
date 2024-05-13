@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 712,
+    "index": "B",
+    "name": "Memory and Trident",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 712,
+    "index": "B",
+    "solvedCount": 9631
+  }
+}

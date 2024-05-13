@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "A",
+    "name": "Find a Number",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "dp",
+      "graphs",
+      "number theory",
+      "shortest paths"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "A",
+    "solvedCount": 2262
+  }
+}

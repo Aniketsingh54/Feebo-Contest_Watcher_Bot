@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1070,
+    "index": "B",
+    "name": "Berkomnadzor",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1070,
+    "index": "B",
+    "solvedCount": 469
+  }
+}

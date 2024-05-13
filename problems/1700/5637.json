@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 910,
+    "index": "C",
+    "name": "Minimum Sum",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 910,
+    "index": "C",
+    "solvedCount": 1740
+  }
+}

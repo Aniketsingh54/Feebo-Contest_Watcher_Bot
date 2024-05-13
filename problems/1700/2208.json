@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1594,
+    "index": "D",
+    "name": "The Number of Imposters",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1594,
+    "index": "D",
+    "solvedCount": 7107
+  }
+}

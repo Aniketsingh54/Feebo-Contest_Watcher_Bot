@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 868,
+    "index": "A",
+    "name": "Bark to Unlock",
+    "type": "PROGRAMMING",
+    "points": 250,
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 868,
+    "index": "A",
+    "solvedCount": 8522
+  }
+}

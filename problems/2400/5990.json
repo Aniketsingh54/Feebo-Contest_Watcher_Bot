@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 825,
+    "index": "F",
+    "name": "String Compression",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "dp",
+      "hashing",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 825,
+    "index": "F",
+    "solvedCount": 1328
+  }
+}

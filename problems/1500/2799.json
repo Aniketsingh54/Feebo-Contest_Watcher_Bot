@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1482,
+    "index": "B",
+    "name": "Restore Modulo",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1500,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1482,
+    "index": "B",
+    "solvedCount": 9050
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1266,
+    "index": "F",
+    "name": "Almost Same Distance",
+    "type": "PROGRAMMING",
+    "points": 2500,
+    "rating": 2900,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1266,
+    "index": "F",
+    "solvedCount": 331
+  }
+}

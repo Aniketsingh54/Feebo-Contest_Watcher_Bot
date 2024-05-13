@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1776,
+    "index": "F",
+    "name": "Train Splitting",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1776,
+    "index": "F",
+    "solvedCount": 3235
+  }
+}

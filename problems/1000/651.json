@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1861,
+    "index": "B",
+    "name": "Two Binary Strings",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1861,
+    "index": "B",
+    "solvedCount": 20104
+  }
+}

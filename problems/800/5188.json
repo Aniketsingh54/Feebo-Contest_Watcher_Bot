@@ -1,0 +1,17 @@
+{
+  "problem": {
+    "contestId": 1006,
+    "index": "A",
+    "name": "Adjacent Replacements",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1006,
+    "index": "A",
+    "solvedCount": 21179
+  }
+}

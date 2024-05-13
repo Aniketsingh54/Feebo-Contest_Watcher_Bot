@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 855,
+    "index": "G",
+    "name": "Harry Vs Voldemort",
+    "type": "PROGRAMMING",
+    "points": 3500,
+    "rating": 3300,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 855,
+    "index": "G",
+    "solvedCount": 199
+  }
+}

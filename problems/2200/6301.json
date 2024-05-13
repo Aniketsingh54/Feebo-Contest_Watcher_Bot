@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 756,
+    "index": "C",
+    "name": "Nikita and stack",
+    "type": "PROGRAMMING",
+    "points": 1500,
+    "rating": 2200,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 756,
+    "index": "C",
+    "solvedCount": 1279
+  }
+}

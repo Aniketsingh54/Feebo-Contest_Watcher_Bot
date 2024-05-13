@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1594,
+    "index": "B",
+    "name": "Special Numbers",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1594,
+    "index": "B",
+    "solvedCount": 18912
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1681,
+    "index": "F",
+    "name": "Unique Occurrences",
+    "type": "PROGRAMMING",
+    "rating": 2300,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1681,
+    "index": "F",
+    "solvedCount": 1540
+  }
+}

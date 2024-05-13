@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1085,
+    "index": "C",
+    "name": "Connect Three",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 1600,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1085,
+    "index": "C",
+    "solvedCount": 5364
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1213,
+    "index": "B",
+    "name": "Bad Prices",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1213,
+    "index": "B",
+    "solvedCount": 25648
+  }
+}

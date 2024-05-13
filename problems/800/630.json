@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1864,
+    "index": "A",
+    "name": "Increasing and Decreasing",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1864,
+    "index": "A",
+    "solvedCount": 19771
+  }
+}

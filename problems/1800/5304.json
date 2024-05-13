@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 986,
+    "index": "B",
+    "name": "Petr and Permutations",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 986,
+    "index": "B",
+    "solvedCount": 4560
+  }
+}

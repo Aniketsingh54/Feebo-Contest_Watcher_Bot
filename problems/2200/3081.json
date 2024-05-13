@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1424,
+    "index": "M",
+    "name": "Ancient Language",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+      "graphs",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1424,
+    "index": "M",
+    "solvedCount": 521
+  }
+}

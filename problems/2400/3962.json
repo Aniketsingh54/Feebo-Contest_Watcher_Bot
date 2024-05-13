@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1252,
+    "index": "F",
+    "name": "Regular Forestation",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "hashing",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1252,
+    "index": "F",
+    "solvedCount": 868
+  }
+}

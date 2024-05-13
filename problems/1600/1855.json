@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1660,
+    "index": "E",
+    "name": "Matrix and Shifts",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1660,
+    "index": "E",
+    "solvedCount": 6981
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1943,
+    "index": "D1",
+    "name": "Counting Is Fun (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 1250,
+    "rating": 2400,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1943,
+    "index": "D1",
+    "solvedCount": 1254
+  }
+}

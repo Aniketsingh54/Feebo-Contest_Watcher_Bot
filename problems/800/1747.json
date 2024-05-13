@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1676,
+    "index": "B",
+    "name": "Equal Candies",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1676,
+    "index": "B",
+    "solvedCount": 45265
+  }
+}

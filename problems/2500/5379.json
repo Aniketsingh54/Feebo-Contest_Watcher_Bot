@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 963,
+    "index": "D",
+    "name": "Frequency of String",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2500,
+    "tags": [
+      "hashing",
+      "string suffix structures",
+      "strings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 963,
+    "index": "D",
+    "solvedCount": 1806
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1352,
+    "index": "F",
+    "name": "Binary String Reconstruction",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1352,
+    "index": "F",
+    "solvedCount": 16264
+  }
+}

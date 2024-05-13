@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 846,
+    "index": "B",
+    "name": "Math Show",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 846,
+    "index": "B",
+    "solvedCount": 2454
+  }
+}

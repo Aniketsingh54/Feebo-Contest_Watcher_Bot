@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1329,
+    "index": "D",
+    "name": "Dreamoon Likes Strings",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 3100,
+    "tags": [
+      "constructive algorithms",
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1329,
+    "index": "D",
+    "solvedCount": 367
+  }
+}

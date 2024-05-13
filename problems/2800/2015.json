@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1626,
+    "index": "F",
+    "name": "A Random Code Problem",
+    "type": "PROGRAMMING",
+    "rating": 2800,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "probabilities"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1626,
+    "index": "F",
+    "solvedCount": 707
+  }
+}

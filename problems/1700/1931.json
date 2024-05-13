@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1644,
+    "index": "D",
+    "name": "Cross Coloring",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1644,
+    "index": "D",
+    "solvedCount": 6994
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "contestId": 1705,
+    "index": "D",
+    "name": "Mark and Lightbulbs",
+    "type": "PROGRAMMING",
+    "points": 1750,
+    "rating": 1800,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1705,
+    "index": "D",
+    "solvedCount": 6106
+  }
+}

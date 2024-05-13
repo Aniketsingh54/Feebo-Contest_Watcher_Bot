@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1861,
+    "index": "D",
+    "name": "Sorting By Multiplication",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1861,
+    "index": "D",
+    "solvedCount": 6278
+  }
+}

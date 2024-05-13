@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 703,
+    "index": "D",
+    "name": "Mishka and Interesting sum",
+    "type": "PROGRAMMING",
+    "points": 2000,
+    "rating": 2100,
+    "tags": [
+      "data structures"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 703,
+    "index": "D",
+    "solvedCount": 3330
+  }
+}

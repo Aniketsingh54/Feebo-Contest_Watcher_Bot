@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1717,
+    "index": "B",
+    "name": "Madoka and Underground Competitions",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1717,
+    "index": "B",
+    "solvedCount": 14490
+  }
+}

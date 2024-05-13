@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1741,
+    "index": "F",
+    "name": "Multi-Colored Segments",
+    "type": "PROGRAMMING",
+    "rating": 2000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1741,
+    "index": "F",
+    "solvedCount": 2232
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 803,
+    "index": "D",
+    "name": "Magazine Ad",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "greedy"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 803,
+    "index": "D",
+    "solvedCount": 3076
+  }
+}

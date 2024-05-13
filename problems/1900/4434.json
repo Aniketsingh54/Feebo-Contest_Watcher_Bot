@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1163,
+    "index": "C1",
+    "name": "Power Transmission (Easy Edition)",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1163,
+    "index": "C1",
+    "solvedCount": 3262
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1575,
+    "index": "M",
+    "name": "Managing Telephone Poles",
+    "type": "PROGRAMMING",
+    "rating": 2400,
+    "tags": [
+      "data structures",
+      "geometry"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1575,
+    "index": "M",
+    "solvedCount": 239
+  }
+}

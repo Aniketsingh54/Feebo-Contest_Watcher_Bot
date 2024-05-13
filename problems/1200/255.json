@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1928,
+    "index": "B",
+    "name": "Equalize",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1928,
+    "index": "B",
+    "solvedCount": 15294
+  }
+}

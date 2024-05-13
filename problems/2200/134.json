@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1946,
+    "index": "E",
+    "name": "Girl Permutation",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2200,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1946,
+    "index": "E",
+    "solvedCount": 2094
+  }
+}

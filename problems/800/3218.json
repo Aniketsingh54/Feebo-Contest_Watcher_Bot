@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1398,
+    "index": "B",
+    "name": "Substring Removal Game",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "games",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1398,
+    "index": "B",
+    "solvedCount": 24081
+  }
+}

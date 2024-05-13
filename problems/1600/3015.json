@@ -1,0 +1,20 @@
+{
+  "problem": {
+    "contestId": 1437,
+    "index": "D",
+    "name": "Minimal Height Tree",
+    "type": "PROGRAMMING",
+    "rating": 1600,
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1437,
+    "index": "D",
+    "solvedCount": 12314
+  }
+}

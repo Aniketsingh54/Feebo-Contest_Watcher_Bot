@@ -1,0 +1,23 @@
+{
+  "problem": {
+    "contestId": 1833,
+    "index": "G",
+    "name": "Ksyusha and Chinchilla",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "greedy",
+      "implementation",
+      "trees"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1833,
+    "index": "G",
+    "solvedCount": 4950
+  }
+}

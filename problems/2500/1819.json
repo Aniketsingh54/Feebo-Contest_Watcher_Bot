@@ -1,0 +1,24 @@
+{
+  "problem": {
+    "contestId": 1665,
+    "index": "E",
+    "name": "MinimizOR",
+    "type": "PROGRAMMING",
+    "points": 2250,
+    "rating": 2500,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1665,
+    "index": "E",
+    "solvedCount": 1425
+  }
+}

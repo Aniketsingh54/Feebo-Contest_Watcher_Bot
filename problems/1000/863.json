@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1825,
+    "index": "B",
+    "name": "LuoTianyi and the Table",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1825,
+    "index": "B",
+    "solvedCount": 14176
+  }
+}

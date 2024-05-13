@@ -1,0 +1,21 @@
+{
+  "problem": {
+    "contestId": 1472,
+    "index": "E",
+    "name": "Correct Placement",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1472,
+    "index": "E",
+    "solvedCount": 7725
+  }
+}

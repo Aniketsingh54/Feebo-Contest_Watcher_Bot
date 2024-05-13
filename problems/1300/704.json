@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1851,
+    "index": "D",
+    "name": "Prefix Permutation Sums",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1851,
+    "index": "D",
+    "solvedCount": 14371
+  }
+}

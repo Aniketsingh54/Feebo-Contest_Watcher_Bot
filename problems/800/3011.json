@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1438,
+    "index": "A",
+    "name": "Specific Tastes of Andre ",
+    "type": "PROGRAMMING",
+    "points": 500,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1438,
+    "index": "A",
+    "solvedCount": 19106
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1733,
+    "index": "B",
+    "name": "Rule of League",
+    "type": "PROGRAMMING",
+    "points": 1000,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1733,
+    "index": "B",
+    "solvedCount": 19293
+  }
+}

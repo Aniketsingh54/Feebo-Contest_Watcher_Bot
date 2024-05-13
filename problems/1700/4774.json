@@ -1,0 +1,18 @@
+{
+  "problem": {
+    "contestId": 1093,
+    "index": "D",
+    "name": "Beautiful Graph",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1093,
+    "index": "D",
+    "solvedCount": 8482
+  }
+}

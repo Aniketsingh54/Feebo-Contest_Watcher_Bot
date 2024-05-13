@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1476,
+    "index": "F",
+    "name": "Lanterns",
+    "type": "PROGRAMMING",
+    "rating": 3000,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1476,
+    "index": "F",
+    "solvedCount": 624
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "problem": {
+    "contestId": 1027,
+    "index": "E",
+    "name": "Inverse Coloring",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ]
+  },
+  "problemStatistics": {
+    "contestId": 1027,
+    "index": "E",
+    "solvedCount": 1862
+  }
+}
