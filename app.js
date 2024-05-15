@@ -212,10 +212,15 @@ async function connectToWhatsApp() {
 
   // if message upserted
   sock.ev.on("messages.upsert", async ({ messages, type }) => {
-    console.log(messages);
+    // console.log(messages);
+    
+    const chalk = require('chalk');
+    let name = messages[0]?.pushName;
+    const Message = messages[0]?.message;
+    console.log(chalk.blue.bold(name)+" : ");
+    console.log(Message);
     try {
       if (type === "notify") {
-        const Message = messages[0]?.message;
         let captureMessage;
         if (Message.hasOwnProperty("conversation"))
           captureMessage = Message.conversation;
@@ -225,15 +230,11 @@ async function connectToWhatsApp() {
         )
           captureMessage = Message.extendedTextMessage.text;
         else return;
-        console.log("text : ", captureMessage);
-        if (captureMessage == undefined) {
-          console.log("help");
-        }
+
         const numberWa = messages[0]?.key?.remoteJid;
         const compareMessage = captureMessage.toLocaleLowerCase();
         const reply = messages[0];
         let UID = messages[0]?.key?.participant;
-        let name = messages[0]?.pushName;
 
         if (UID == undefined) {
           UID = messages[0]?.key?.remoteJid;
