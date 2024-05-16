@@ -6,6 +6,7 @@ const {
 
 // Import the Express module
 const express = require('express');
+const chalk = require('chalk');
 
 // Create an Express application
 const app = express();
@@ -214,7 +215,6 @@ async function connectToWhatsApp() {
   sock.ev.on("messages.upsert", async ({ messages, type }) => {
     // console.log(messages);
     
-    const chalk = require('chalk');
     let name = messages[0]?.pushName;
     const Message = messages[0]?.message;
     console.log(chalk.blue.bold(name)+" : ");
