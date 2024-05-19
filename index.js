@@ -26,7 +26,7 @@ app.listen(PORT, () => {
 // functions
 
 const fs = require("fs");
-
+const jsdom = require('jsdom')
 // Get random questions of specified rating
 
 async function getQuestions(sock, numberWa, reply, rating, count) {
@@ -86,8 +86,8 @@ async function loadContests(sock, numberWa, reply) {
   const contests = usrJSON?.result;
   const contestsize = usrJSON?.result.length;
 
-  let upcoming_contests = "*Upcoming Contests*\n\n";
-
+  let upcoming_contests = "*Upcoming Contests*\n";
+  upcoming_contests+="*Codeforces*\n\n";
   for (let i = contestsize - 1; i >= 0; i--) {
     if (usrJSON?.result[i]?.relativeTimeSeconds <= 0) {
       var myDate = new Date(usrJSON?.result[i]?.startTimeSeconds * 1000);
@@ -102,6 +102,40 @@ async function loadContests(sock, numberWa, reply) {
         "\n\n";
     }
   }
+  upcoming_contests+="*Atcoder*\n\n";
+  // jsdom.env("https://atcoder.jp/contest",["http://code.jquery.com/jquery.js"],(error, window) => {
+  //       if (error) {
+  //         console.log(error);
+  //         return;
+  //       }
+  //       const $ = window.$;
+  //       var contests = $(':header:contains("Active Contests"), :header:contains("Upcoming Contests") + div').children('table').children('tbody').children('tr');
+  //       contests.each(function ()
+  //       {
+  //         const row = $(this).children('td');
+  //         const name = row.eq(1).find('a').text();
+
+  //         /* There's always this practice contest */
+  //         if(name == 'practice contest') return;
+
+  //         const start = moment.tz(row.eq(0).find('a').text(), 'YYYY/MM/DD HH:mm', 'Asia/Kolkata');
+  //         const url = row.eq(1).find('a').attr('href');
+  //         if(!start.isValid()) {
+  //           console.log(error);
+  //           return;
+  //         }
+  //         upcoming.push({
+  //           judge: 'atcoder',
+  //           name: name,
+  //           url: url,
+  //           time: start.toDate(),
+  //           duration: duration[0] * 3600 + duration[1] * 60
+  //         });
+  //         upcoming_contests +="name : " + name +
+  //                       "\nTime and date : " +start.toDate()
+  //                          +"\n\n";
+  //       });
+  //     });
   send(sock, numberWa, reply, upcoming_contests);
 }
 
