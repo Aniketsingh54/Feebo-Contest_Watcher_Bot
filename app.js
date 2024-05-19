@@ -203,10 +203,21 @@ async function connectToWhatsApp() {
       const shouldReconnect =
         lastDisconnect?.error?.statusCode !== DisconnectReason.loggedOut;
       if (shouldReconnect) {
+        await sleep(3000);
         connectToWhatsApp();
       }
     } else if (connection === "open") {
-      console.log("open connection");
+      await sleep(5000)
+      console.clear();
+      console.log("              ('-.     ('-. .-. .-')                     ")
+      console.log("            _(  OO)  _(  OO)\\  ( OO )                    ")
+      console.log("   ,------.(,------.(,------.;-----.\\  .-'),-----.       ")
+      console.log("('-| _.---' |  .---' |  .---'| .-.  | ( OO'  .-.  '      ")
+      console.log("(OO|(_\\     |  |     |  |    | '-' /_)/   |  | |  |      ")
+      console.log("/  |  '--. (|  '--. (|  '--. | .-. `. \\_) |  |\\|  |      ")
+      console.log("\\_)|  .--'  |  .--'  |  .--' | |  \\  |  \\ |  | |  |      ")
+      console.log("  \\|  |_)   |  `---. |  `---.| '--'  /   `'  '-'  '      ")
+      console.log("   `--'     `------' `------'`------'      `-----'       ")
       return;
     }
   });
@@ -217,20 +228,24 @@ async function connectToWhatsApp() {
     
     let name = messages[0]?.pushName;
     const Message = messages[0]?.message;
-    console.log(chalk.blue.bold(name)+" : ");
-    console.log(Message);
+    // console.log(Message,type);
     try {
       if (type === "notify") {
-        let captureMessage;
+        let captureMessage; console.log(chalk.blue.bold(name)+" : ");
         if (Message.hasOwnProperty("conversation"))
           captureMessage = Message.conversation;
-        else if (
-          Message.hasOwnProperty("extendedTextMessage") &&
-          Message.extendedTextMessage.hasOwnProperty("text")
-        )
+        else if (Message.hasOwnProperty("extendedTextMessage") && Message.extendedTextMessage.hasOwnProperty("text"))
           captureMessage = Message.extendedTextMessage.text;
+        else if(Message.hasOwnProperty("reactionMessage") && Message.reactionMessage.hasOwnProperty("text"))
+          captureMessage = "Reacted " + Message.reactionMessage.text;
+        else if(Message.hasOwnProperty("stickerMessage"))
+          captureMessage = "sent a sticker"
+        else if(Message.hasOwnProperty("imageMessage"))
+          captureMessage = "sent an image";
+        else if(Message.hasOwnProperty("documentMessage"))
+          captureMessage = "sent a document";
         else return;
-
+        console.log(captureMessage);
         const numberWa = messages[0]?.key?.remoteJid;
         const compareMessage = captureMessage.toLocaleLowerCase();
         const reply = messages[0];
@@ -277,6 +292,12 @@ async function connectToWhatsApp() {
           }
         }
       }
+      else if(type==="append")
+      {
+        console.log(chalk.blue.bold("Feebo")+" : ")
+        console.log(Message?.extendedTextMessage?.text);
+
+      }
     } catch (error) {
       console.log("error ", error);
     }
@@ -286,3 +307,8 @@ async function connectToWhatsApp() {
 }
 
 connectToWhatsApp().catch((err) => console.log("unexpected error: " + err)); // catch any errors
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
