@@ -6,8 +6,11 @@ const {
 
 // Import the Express module
 const express = require('express');
-const chalk = require('chalk');
-
+let chalk;
+(async () => {
+  chalk = (await import('chalk')).default;
+  // console.log(chalk.green('Hello world!'));
+})();
 // Create an Express application
 const app = express();
 
@@ -26,7 +29,7 @@ app.listen(PORT, () => {
 // functions
 
 const fs = require("fs");
-const jsdom = require('jsdom')
+// const jsdom = require('jsdom')
 // Get random questions of specified rating
 
 async function getQuestions(sock, numberWa, reply, rating, count) {
