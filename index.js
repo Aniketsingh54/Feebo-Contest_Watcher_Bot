@@ -9,7 +9,6 @@ const express = require('express');
 let chalk;
 (async () => {
   chalk = (await import('chalk')).default;
-  // console.log(chalk.green('Hello world!'));
 })();
 // Create an Express application
 const app = express();
@@ -29,7 +28,10 @@ app.listen(PORT, () => {
 // functions
 
 const fs = require("fs");
-// const jsdom = require('jsdom')
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+const jquery = require("jquery");
+const moment = require('moment-timezone');
 // Get random questions of specified rating
 
 async function getQuestions(sock, numberWa, reply, rating, count) {
@@ -105,40 +107,24 @@ async function loadContests(sock, numberWa, reply) {
         "\n\n";
     }
   }
-  upcoming_contests+="*Atcoder*\n\n";
-  // jsdom.env("https://atcoder.jp/contest",["http://code.jquery.com/jquery.js"],(error, window) => {
-  //       if (error) {
-  //         console.log(error);
-  //         return;
-  //       }
-  //       const $ = window.$;
-  //       var contests = $(':header:contains("Active Contests"), :header:contains("Upcoming Contests") + div').children('table').children('tbody').children('tr');
-  //       contests.each(function ()
-  //       {
-  //         const row = $(this).children('td');
-  //         const name = row.eq(1).find('a').text();
+  // const request = require('request-promise');
+  // const cheerio = require('cheerio');
 
-  //         /* There's always this practice contest */
-  //         if(name == 'practice contest') return;
-
-  //         const start = moment.tz(row.eq(0).find('a').text(), 'YYYY/MM/DD HH:mm', 'Asia/Kolkata');
-  //         const url = row.eq(1).find('a').attr('href');
-  //         if(!start.isValid()) {
-  //           console.log(error);
-  //           return;
-  //         }
-  //         upcoming.push({
-  //           judge: 'atcoder',
-  //           name: name,
-  //           url: url,
-  //           time: start.toDate(),
-  //           duration: duration[0] * 3600 + duration[1] * 60
-  //         });
-  //         upcoming_contests +="name : " + name +
-  //                       "\nTime and date : " +start.toDate()
-  //                          +"\n\n";
-  //       });
-  //     });
+  // upcoming_contests+="*Atcoder*\n\n";
+  // // div class = contest-table-upcoming > div>table>tbody >tr>td>small> a>
+  // try {
+  //   const atcoder = "https://atcoder.jp/";
+  //   (async ()=>{
+  //     const response = await request(atcoder);
+  //     let $ = cheerio.load(response);
+  //     let text = $('div[class="contest-table-upcoming" > div > table > tbody > tr>td>small>a>time');
+  //     console.log(text); 
+  //   })() 
+  // }
+  // catch(error)
+  // {
+  //   console.log(error);
+  // }
   send(sock, numberWa, reply, upcoming_contests);
 }
 
@@ -237,14 +223,14 @@ async function connectToWhatsApp() {
       console.log(qr);
     }
     if (connection === "close") {
-      const shouldReconnect =
-        lastDisconnect?.error?.statusCode !== DisconnectReason.loggedOut;
+      const shouldReconnect = (lastDisconnect.error)?.output?.statusCode !== DisconnectReason.loggedOut;
+      console.log('Connection closed due to', lastDisconnect.error, ', reconnecting', shouldReconnect);
       if (shouldReconnect) {
-        await sleep(3000);
+        await sleep(10000);
         connectToWhatsApp();
       }
     } else if (connection === "open") {
-      await sleep(5000)
+      await sleep(10000)
       console.clear();
       console.log("              ('-.     ('-. .-. .-')                     ")
       console.log("            _(  OO)  _(  OO)\\  ( OO )                    ")
@@ -308,7 +294,11 @@ async function connectToWhatsApp() {
           const getquesText =
             "Write your demand as 'feebo get rating count',this will provide you 'count' no. of questions of 'rating' rating.\n\n for eg : feebo get 1500 4";
           send(sock, numberWa, reply, getquesText);
-        } else {
+        } 
+        else if(compareMessage === "feebo link"){
+          send(sock,numberWa,reply,"https://codeforces.com/contests?filterTypes=div2&filterTypes=div1div2&filterTypes=educational&filterTypes=ton&filterRated=yes&filterTried=&filterSubstring=");
+        }
+        else {
           try {
             let newmessage = compareMessage.split(" ");
             if (newmessage[0] === "feebo") {
