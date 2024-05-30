@@ -85,13 +85,16 @@ async function getQuestions(sock, numberWa, reply, rating, count) {
 //Load upcoming contests
 
 async function loadContests(sock, numberWa, reply) {
+  let upcoming_contests = "*Upcoming Contests*\n\n";
+
+  //codeforces
+
   const url = "https://codeforces.com/api/contest.list?gym=false";
   const response = await fetch(url);
   const usrJSON = await response.json();
   const contests = usrJSON?.result;
   const contestsize = usrJSON?.result.length;
 
-  let upcoming_contests = "*Upcoming Contests*\n\n";
   upcoming_contests+="*Codeforces*\n\n";
   let c=0;
   for (let i = contestsize - 1; i >= 0; i--) {
@@ -109,34 +112,30 @@ async function loadContests(sock, numberWa, reply) {
       c+=1
     }
   }
+
   const request = require('request-promise');
   const cheerio = require('cheerio');
-  // div class = contest-table-upcoming > div>table>tbody >tr>td>small> a>
-  try {
-    c=0;
-    const atcoder = "https://atcoder.jp/";
-    let ATCODER_contests="*Atcoder*\n\n";
-    const response = await request(atcoder);
-    let $ = cheerio.load(response);
-    let text = $(':header:contains("Active Contests"), :header:contains("Upcoming Contests") + div').children('table').children('tbody').children('tr');
-    text.each(function (){
-      if(c==3) return false;
-      const row = $(this).children('td');
-      const time = row.eq(0).find('a').text();
-      const name = row.eq(1).find('a').text();
-      const momentJST = moment.tz(time, 'Asia/Tokyo');
-      const momentIST = momentJST.tz('Asia/Kolkata');
-      const dateTimeIST = momentIST.format('DD/MM/YYYY HH:mm:ss');
-      ATCODER_contests +=  "name : "+name+"\nTime and date : "+dateTimeIST+"\n\n";
-      c+=1;
-      return true;
-    });
-    upcoming_contests+=ATCODER_contests;
-  }
-  catch(error)
-  {
-    console.log(error);
-  }
+  
+  // atcoder
+  c=0;
+  const atcoder = "https://atcoder.jp/";
+  upcoming_contests+="*Atcoder*\n\n";
+  const response = await request(atcoder);
+  let $ = cheerio.load(response);
+  let text = $(':header:contains("Active Contests"), :header:contains("Upcoming Contests") + div').children('table').children('tbody').children('tr');
+  text.each(function (){
+    if(c==3) return false;
+    const row = $(this).children('td');
+    const time = row.eq(0).find('a').text();
+    const name = row.eq(1).find('a').text();
+    const momentJST = moment.tz(time, 'Asia/Tokyo');
+    const momentIST = momentJST.tz('Asia/Kolkata');
+    const dateTimeIST = momentIST.format('DD/MM/YYYY HH:mm:ss');
+    upcoming_contests +=  "name : "+name+"\nTime and date : "+dateTimeIST+"\n\n";
+    c+=1;
+    return true;
+  });
+  
   send(sock, numberWa, reply, upcoming_contests);
 }
 
