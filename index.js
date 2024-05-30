@@ -91,10 +91,11 @@ async function loadContests(sock, numberWa, reply) {
   const contests = usrJSON?.result;
   const contestsize = usrJSON?.result.length;
 
-  let upcoming_contests = "*Upcoming Contests*\n";
+  let upcoming_contests = "*Upcoming Contests*\n\n";
   upcoming_contests+="*Codeforces*\n\n";
+  let c=0;
   for (let i = contestsize - 1; i >= 0; i--) {
-    if (usrJSON?.result[i]?.relativeTimeSeconds <= 0) {
+    if (usrJSON?.result[i]?.relativeTimeSeconds <= 0 && c<3) {
       var myDate = new Date(usrJSON?.result[i]?.startTimeSeconds * 1000);
       const date = myDate.toLocaleString(undefined, {
         timeZone: "Asia/Kolkata",
@@ -105,26 +106,37 @@ async function loadContests(sock, numberWa, reply) {
         "\nTime and date : " +
         date +
         "\n\n";
+      c+=1
     }
   }
-  // const request = require('request-promise');
-  // const cheerio = require('cheerio');
-
-  // upcoming_contests+="*Atcoder*\n\n";
-  // // div class = contest-table-upcoming > div>table>tbody >tr>td>small> a>
-  // try {
-  //   const atcoder = "https://atcoder.jp/";
-  //   (async ()=>{
-  //     const response = await request(atcoder);
-  //     let $ = cheerio.load(response);
-  //     let text = $('div[class="contest-table-upcoming" > div > table > tbody > tr>td>small>a>time');
-  //     console.log(text); 
-  //   })() 
-  // }
-  // catch(error)
-  // {
-  //   console.log(error);
-  // }
+  const request = require('request-promise');
+  const cheerio = require('cheerio');
+  // div class = contest-table-upcoming > div>table>tbody >tr>td>small> a>
+  try {
+    c=0;
+    const atcoder = "https://atcoder.jp/";
+    let ATCODER_contests="*Atcoder*\n\n";
+    const response = await request(atcoder);
+    let $ = cheerio.load(response);
+    let text = $(':header:contains("Active Contests"), :header:contains("Upcoming Contests") + div').children('table').children('tbody').children('tr');
+    text.each(function (){
+      if(c==3) return false;
+      const row = $(this).children('td');
+      const time = row.eq(0).find('a').text();
+      const name = row.eq(1).find('a').text();
+      const momentJST = moment.tz(time, 'Asia/Tokyo');
+      const momentIST = momentJST.tz('Asia/Kolkata');
+      const dateTimeIST = momentIST.format('DD/MM/YYYY HH:mm:ss');
+      ATCODER_contests +=  "name : "+name+"\nTime and date : "+dateTimeIST+"\n\n";
+      c+=1;
+      return true;
+    });
+    upcoming_contests+=ATCODER_contests;
+  }
+  catch(error)
+  {
+    console.log(error);
+  }
   send(sock, numberWa, reply, upcoming_contests);
 }
 
@@ -215,6 +227,7 @@ async function connectToWhatsApp() {
   sock = makeWASocket({
     printQRInTerminal: true,
     auth: state,
+    version: [2, 2413, 1],
   });
 
   sock.ev.on("connection.update", async (update) => {

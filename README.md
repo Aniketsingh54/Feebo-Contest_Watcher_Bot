@@ -8,16 +8,16 @@ Hi! I'm Aniket Singh, the developer of **feebo**. I wanted to make my competitiv
 
     npm install
 
-### Step 3: Run the app.js
+### Step 3: Run the bot
 
-    node index.js
+    npm start
 ### Step 4: Scan the Qr,which is displayed in your terminal through your whatsapp > link devices
 - This will open a web client of your WhatsApp in your terminal. Some authentication files will get installed. If you delete the 'auth_info_baileys' folder, you'll have to re-login through the QR code when you run 'index.js' next time, or else it will not ask for login again. 
 ### Step 5: Enjoy your bot - Basically you and bot share the same account.
 - Your system should be connected to internet where the bot is running ,and you can stop the bot using ctrl+c in the terminal. 
 # What does Feebo do?
 
-Currently feebo is only supported for **codeforces**.
+Currently feebo supports **codeforces** , **atcoder**.
 ### User Can put the following commands through whatsapp chat.
 >feebo
 ```
