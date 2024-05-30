@@ -90,8 +90,8 @@ async function loadContests(sock, numberWa, reply) {
   //codeforces
 
   const url = "https://codeforces.com/api/contest.list?gym=false";
-  const response = await fetch(url);
-  const usrJSON = await response.json();
+  const responsecf = await fetch(url);
+  const usrJSON = await responsecf.json();
   const contests = usrJSON?.result;
   const contestsize = usrJSON?.result.length;
 
