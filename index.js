@@ -293,7 +293,21 @@ async function send(sock, numberWa, reply, message) {
     },
   );
 }
-
+// quotes to be motivated 
+function getRandomQuoteFromFile() {
+  try {
+    // Read the JSON file synchronously
+    const data = fs.readFileSync('./motivational_quotes.json', 'utf8');
+    // Parse the JSON data
+    const quotes = JSON.parse(data).quotes;
+    // Get a random quote
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    return quotes[randomIndex];
+  } catch (err) {
+    console.error('Error reading or parsing the file:', err);
+    return null;
+  }
+}
 //constants
 
 let sock;
@@ -433,6 +447,16 @@ async function connectToWhatsApp() {
                   send(sock,numberWa,reply,text);
                   sleep(200);
                 }
+              }
+              else if(newmessage[1] === "virtual")
+              {
+                let clink = "https://codeforces.com/contest/" + (Math.floor(Math.random() * 100) + 1900);
+                clink += "\n\n"+ getRandomQuoteFromFile()
+                send(sock,numberWa,reply,clink);
+              }
+              else if(newmessage[1] === "quote")
+              {
+                send(sock,numberWa,reply,getRandomQuoteFromFile());
               }
             }
           } catch (error) {
