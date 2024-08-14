@@ -344,7 +344,7 @@ async function connectToWhatsApp() {
         connectToWhatsApp();
       }
     } else if (connection === "open") {
-      await sleep(10000)
+      await sleep(15000)
       console.clear();
       console.log("              ('-.     ('-. .-. .-')                     ")
       console.log("            _(  OO)  _(  OO)\\  ( OO )                    ")
