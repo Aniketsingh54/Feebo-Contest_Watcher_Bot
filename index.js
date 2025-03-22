@@ -229,7 +229,6 @@ async function addhandle(UID, id, type)
   try {
     usr = JSON.parse(fs.readFileSync(filePath));
   } catch (error) {
-    console.log(error);
       usr = new Object();
   }
 
@@ -317,6 +316,9 @@ let Welcome =
             2) Show rating\n\n\
             3) Show upcoming contests\n\n\
             4) Get new questions\n\n\
+            5) Get some motivation\
+            6) start a virtual contest\
+            7) wanna spam someone?\
             for eg : feebo 1";
 
 //main source code
@@ -412,6 +414,18 @@ async function connectToWhatsApp() {
           const getquesText =
             "Write your demand as 'feebo get rating count',this will provide you 'count' no. of questions of 'rating' rating.\n\n for eg : feebo get 1500 4";
           send(sock, numberWa, reply, getquesText);
+        }
+        else if (compareMessage === "feebo 5") {
+          const getMotivationText =  `Write "feebo quote" to get some motivation`;
+          send(sock,numberWa,reply,getMotivationText);
+        } 
+        else if (compareMessage === "feebo 6") {
+          const getContestText = `Write "feebo virtual" to start a virtual contest`;
+          send(sock,numberWa,reply,getContestText);
+        } 
+        else if (compareMessage === "feebo 7") {
+          const getSpamText = `if you want to spam someone your command should be \nfeebo spam count message\nfor eg: feebo spam 10 I am feebo`
+          send(sock,numberWa,reply,getSpamText);
         } 
         else if(compareMessage === "feebo link"){
           send(sock,numberWa,reply,"https://codeforces.com/contests?filterTypes=div2&filterTypes=div1div2&filterTypes=educational&filterTypes=ton&filterRated=yes&filterTried=&filterSubstring=");
