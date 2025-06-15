@@ -316,9 +316,9 @@ let Welcome =
             2) Show rating\n\n\
             3) Show upcoming contests\n\n\
             4) Get new questions\n\n\
-            5) Get some motivation\
-            6) start a virtual contest\
-            7) wanna spam someone?\
+            5) Get some motivation\n\n\
+            6) start a virtual contest\n\n\
+            7) wanna spam someone?\n\n\
             for eg : feebo 1";
 
 //main source code
