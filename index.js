@@ -2,7 +2,9 @@ const {
   default: makeWASocket,
   DisconnectReason,
   useMultiFileAuthState,
+  fetchLatestBaileysVersion // IMPORTED THIS TO FIX ERROR 405
 } = require("@whiskeysockets/baileys");
+const qrcode = require('qrcode-terminal');
 
 // Import the Express module
 const express = require('express');
@@ -10,6 +12,7 @@ let chalk;
 (async () => {
   chalk = (await import('chalk')).default;
 })();
+
 // Create an Express application
 const app = express();
 
@@ -26,15 +29,13 @@ app.listen(PORT, () => {
 
 
 // functions
-
-
 const request = require('request-promise');
 const cheerio = require('cheerio');
 const fs = require("fs");
 const flatted = require('flatted');
 const moment = require('moment-timezone');
-// Get random questions of specified rating
 
+// Get random questions of specified rating
 async function getQuestions(sock, numberWa, reply, rating, count) {
   let folder, files;
   try {
@@ -49,7 +50,7 @@ async function getQuestions(sock, numberWa, reply, rating, count) {
     );
     return;
   }
-  // console.log(files);
+  
   const link = "https://codeforces.com/problemset/problem/";
   let text = "*Questions*\n\n";
   const MIN_LIMIT = 0,
@@ -84,7 +85,6 @@ async function getQuestions(sock, numberWa, reply, rating, count) {
 }
 
 //Load upcoming contests
-
 async function loadContests(sock, numberWa, reply) {
   let upcoming_contests = "*Upcoming Contests*\n\n";
 
@@ -148,7 +148,6 @@ async function loadContests(sock, numberWa, reply) {
 }
 
 // Check rating of a user using their UID.json file
-
 async function checkRating(sock, numberWa, reply, UID) {
   const filePath = "contests/" + UID + ".json";
   try {
@@ -176,19 +175,7 @@ async function checkRating(sock, numberWa, reply, UID) {
       text += "Codeforces Handle invalid !!!\n\n";
     }
   }
-  // if(data.hasOwnProperty("atcoder"))
-  // {
-  //   text+= "*Atcoder :*\n\n";    
-  //   const url = "https://www.codechef.com/users/" + data.atcoder.handle;
-  //   const response = await request(url);
-  //   let $ = cheerio.load(response);
-  //   let rating = $('table[class="dl-table mt-2]').children('tr').children('td').eq(1).children('span').eq(0).text();
-  //   let rank = $('div[class="col-md-3 col-sm-12"]').children('h3').children('b');
-  //   console.log(rank);
-  //   data.atcoder.rating = 0;
-  //   data.atcoder.rank = rank.text();
-  //   text += "User : " + data.atcoder.handle + "\nRating : " + data.atcoder.rating + "\nRank : " + data.atcoder.rank +"\n\n";
-  // }
+
   if(data.hasOwnProperty("codechef"))
   {
     text+= "*Codechef :*\n\n";    
@@ -206,22 +193,12 @@ async function checkRating(sock, numberWa, reply, UID) {
     data.codechef.rank =actualrank;
     text += "User : " + data.codechef.handle + "\nRating : " + data.codechef.rating + "\nRank : " + data.codechef.rank +"\n\n";   
   }
-  // if(data.hasOwnProperty("leetcode"))
-  // {
-  //   text+= "*Leetcode :*\n\n";    
-  //   const url = "https://leetcode.com/u/" + data.leetcode.handle;
-  //   const response = await request(url);
-  //   let $ = cheerio.load(response);
-  //   let rating = $('div[class="text-label-1 dark:text-dark-label-1 flex items-center text-2xl"]').text();
-  //   data.leetcode.rating = usrJSON?.result[usrJSON?.result.length - 1]?.newRating;
-  //   text += "Your handle is " + data.leetcode.handle + "\nYour rating is " + data.leetcode.rating + ".\n\n";
-  // }
+
   send(sock, numberWa, reply, text);
   savedata(data, UID);
 }
 
 // Add new UID.json to contests folder
-
 async function addhandle(UID, id, type) 
 {
   const filePath = "contests/" + UID + ".json";
@@ -268,7 +245,6 @@ async function addhandle(UID, id, type)
 }
 
 // save data from javascript object to json files
-
 const savedata = (obj, UID) => {
   const finish = (error) => {
     if (error) {
@@ -292,6 +268,7 @@ async function send(sock, numberWa, reply, message) {
     },
   );
 }
+
 // quotes to be motivated 
 function getRandomQuoteFromFile() {
   try {
@@ -307,8 +284,8 @@ function getRandomQuoteFromFile() {
     return null;
   }
 }
-//constants
 
+//constants
 let sock;
 let Welcome =
   "\n\nEnter command in form of\nfeebo command_no\n\n\
@@ -322,31 +299,42 @@ let Welcome =
             for eg : feebo 1";
 
 //main source code
-
 async function connectToWhatsApp() {
   const { state, saveCreds } = await useMultiFileAuthState("auth_info_baileys");
 
-  //Establishing connection through QR code
+  // NEW: Fetch the real latest version from servers to avoid Error 405
+  const { version, isLatest } = await fetchLatestBaileysVersion();
+  console.log(`using WA v${version.join('.')}, isLatest: ${isLatest}`);
+
   sock = makeWASocket({
-    printQRInTerminal: true,
+    version, // Use the fetched version here
+    printQRInTerminal: false, 
     auth: state,
-    version: [2, 2413, 1],
   });
 
   sock.ev.on("connection.update", async (update) => {
     const { connection, lastDisconnect, qr } = update;
+    
+    // Manually print QR
     if (qr) {
-      console.log(qr);
+        qrcode.generate(qr, { small: true });
     }
+
     if (connection === "close") {
-      const shouldReconnect = (lastDisconnect.error)?.output?.statusCode !== DisconnectReason.loggedOut;
+      const reason = lastDisconnect.error?.output?.statusCode;
+      const shouldReconnect = reason !== DisconnectReason.loggedOut;
+      
       console.log('Connection closed due to', lastDisconnect.error, ', reconnecting', shouldReconnect);
+      
       if (shouldReconnect) {
-        await sleep(10000);
+        await sleep(5000); 
         connectToWhatsApp();
+      } else {
+        console.log("LOGGED OUT or SESSION INVALID. Please delete 'auth_info_baileys' folder and scan again.");
+        process.exit(0);
       }
     } else if (connection === "open") {
-      await sleep(15000)
+      await sleep(2000)
       console.clear();
       console.log("              ('-.     ('-. .-. .-')                     ")
       console.log("            _(  OO)  _(  OO)\\  ( OO )                    ")
@@ -363,14 +351,21 @@ async function connectToWhatsApp() {
 
   // if message upserted
   sock.ev.on("messages.upsert", async ({ messages, type }) => {
-    // console.log(messages);
+    
+    // Safety Checks
+    if (!messages[0] || !messages[0].message) return;
+    const key = messages[0].key;
+    if (key && key.fromMe && Object.keys(messages[0].message).includes('protocolMessage')) return;
     
     let name = messages[0]?.pushName;
     const Message = messages[0]?.message;
-    // console.log(Message,type);
+
     try {
       if (type === "notify") {
-        let captureMessage; console.log(chalk.blue.bold(name)+" : ");
+        let captureMessage; 
+        if(chalk) console.log(chalk.blue.bold(name)+" : ");
+        else console.log(name + " : ");
+
         if (Message.hasOwnProperty("conversation"))
           captureMessage = Message.conversation;
         else if (Message.hasOwnProperty("extendedTextMessage") && Message.extendedTextMessage.hasOwnProperty("text"))
@@ -480,9 +475,9 @@ async function connectToWhatsApp() {
       }
       else if(type==="append")
       {
-        console.log(chalk.blue.bold("Feebo")+" : ")
+        if(chalk) console.log(chalk.blue.bold("Feebo")+" : ");
+        else console.log("Feebo : ");
         console.log(Message?.extendedTextMessage?.text);
-
       }
     } catch (error) {
       console.log("error ", error);
